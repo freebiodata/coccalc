@@ -1,0 +1,232 @@
+__NOEDITSECTION__
+{{Protection}}
+
+[[File:Unicorn_info.png|center|200px|link=]]
+<center>'''''"Unicorns have severe trust issues, but overcoming them with love and patience is totally worth it. They'll heal up any minor or major scrapes as well as any [[Healer]]!"'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div style="width:120px">[[File:Unicorn field.png|100px|link=]]<div>Level 1-15</div></div>
+</div>
+
+==Summary==
+*The Unicorn is the fourth [[Pets|Pet]] unlocked from the [[Pet House]], when the Pet House is upgraded to level 4. It heals its assigned [[Heroes|Hero]] just like a [[Healer]] does.
+**Unlike Healers, however, the Unicorn can target both ground and air units.
+*{{PreferredTarget|HealingHero|Plural=Yes}}
+*Unlike other forms of healing, the Unicorn heals both Heroes and non-Heroes at the same rate; there is no "increased" healing rate for non-Heroes.
+
+==Strategies==
+===Offensive Strategies===
+*The Unicorn is helpful when paired up with the [[Barbarian King]] (especially at hybrid attacks) so that the Barbarian King can stay alive for longer, cleaning the non-defensive buildings (e.g. {{H|Gold Mine}}s, {{H|Elixir Collector}}s, non-defensive [[Builder's Hut]]s, etc.). The Barbarian King's slow movement speed also allows the Unicorn to have a maximum healing potential.
+**However, if the Barbarian King is not taking much damage from defenses or is equipped with a sufficiently-leveled [[Vampstache]], it could be advisable to pair him with another [[Pets|Pet]]. The Barbarian King's already sizeable amount of health allows him to stay alive for longer in the first place.
+*The Unicorn can substitute for a [[Healer]] in a [[Archer Queen|Queen]] Walk or [[Grand Warden|Warden]] Walk because of its ability to heal its assigned [[Heroes|Hero]]. This allows you to save 14 housing space in your army for other purposes, and when the Unicorn is sufficiently upgraded, it will have better healing output and hitpoints than the Healer.
+**The Unicorn is, however, more costly than a Healer when it comes to recalling a Hero walk, since the [[Recall Spell]] treats the Unicorn as taking up 20 housing space. This is only an issue, however, when using a Recall Spell that is not maxed (the Hero and 4 Healers take up 81 spaces, whereas a Hero, 3 Healers and a Unicorn take up 87), or if additional troops are to be recalled alongside the Hero walk.
+*The Unicorn has the ability to jump over {{H|Walls}}, even if the hero it is paired to cannot.
+*The Unicorn has rather low hitpoints compared to other [[Pets]], and so is very vulnerable to {{H|Defensive Buildings|defenses}}. Generally, the assigned Hero should be able to protect it from single-target defenses, but there are defenses that can hit both the Hero and the Unicorn which should be watched out for. If the Unicorn is used to heal the air-mode Grand Warden, this is an even bigger problem, as the Warden will not be able to protect the Unicorn against ground-only defenses.
+*Its slow movement speed can be an issue when using it with fast-moving Heroes like the Archer Queen or [[Royal Champion]], as they can cause the Unicorn to lag behind over long distances and prevent it from utilizing its full healing potential (although regular Healers have the same problems, they have a longer range to make up for it).
+
+===Defensive Strategies===
+*A [[Scattershot]] is often a good tool to damage Unicorns hiding behind their assigned [[Heroes|Hero]], because of its ability to attack [[Army|units]] behind the main target. However, this does not work when the Unicorn is healing the [[Grand Warden]] in air-mode because Scattershot cannot hit aerial and grounded targets simultaneously.
+*Other multi-targeting defenses like {{H|Inferno Tower}}s, [[Ricochet Cannon]]s, [[Multi-Archer Tower]]s, [[Firespitter]]s, and the [[Town Hall]] can also damage both the Unicorn and the Hero.
+*Traps such as [[Giant Bomb]]s and the [[Giga Bomb]] work quite well against the Unicorn due to their high damage output.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Healing Target {{Res|RES=Target}}
+!Healing Targets {{Res|RES=Target}}
+!Effect Type {{Res|RES=Damage Type}}
+![[Troop Movement Speed|Movement Speed]] {{Res|RES=Speed}}
+!Healing Speed {{Res|RES=Attack Speed}}
+![[Pet House]] Level Required {{Res|RES=Pet House}}
+!Healing Range {{Res|RES=Range}}
+!Special Ability{{Res|RES=Pet Ability}}
+|-
+|Hero
+|Ground and Air
+|Single Target
+|class="ModifierStat Speed"|16
+|class="AttackSpeed"|1s
+|4
+|2.5 tiles
+|<abbr style="cursor: help" title="Unicorn follows and heals the Hero it is paired with.">Personal Healer</abbr>
+|}
+
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" id="minion-table-2" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|RES=Level}}
+!Healing per Second<br/>{{Res|RES=Total Healing}}
+!Healing per Pulse<br/>{{Res|RES=Total Healing}}
+!Hitpoints<br />{{Res|RES=Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|RES=Dark Elixir}}
+!Upgrade Time<br/>{{Res|RES=Time}}
+!Pet House Level Required<br/>{{Res|RES=Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|50
+|class="ModifierStat DPH"|50
+|class="ModifierStat HP"|1,400
+|N/A
+|N/A
+|4
+|-
+|2
+|class="ModifierStat DPS"|53
+|class="ModifierStat DPH"|53
+|class="ModifierStat HP"|1,450
+|class="GoldPass rCost"|50,000
+|class="GoldPass rTime"|1d 12h
+|4
+|-
+|3
+|class="ModifierStat DPS"|56
+|class="ModifierStat DPH"|56
+|class="ModifierStat HP"|1,500
+|class="GoldPass rCost"|65,000
+|class="GoldPass rTime"|2d
+|4
+|-
+|4
+|class="ModifierStat DPS"|58
+|class="ModifierStat DPH"|58
+|class="ModifierStat HP"|1,550
+|class="GoldPass rCost"|80,000
+|class="GoldPass rTime"|3d
+|4
+|-
+|5
+|class="ModifierStat DPS"|60
+|class="ModifierStat DPH"|60
+|class="ModifierStat HP"|1,600
+|class="GoldPass rCost"|95,000
+|class="GoldPass rTime"|4d
+|4
+|-
+|6
+|class="ModifierStat DPS"|62
+|class="ModifierStat DPH"|62
+|class="ModifierStat HP"|1,675
+|class="GoldPass rCost"|110,000
+|class="GoldPass rTime"|4d 12h
+|4
+|-
+|7
+|class="ModifierStat DPS"|64
+|class="ModifierStat DPH"|64
+|class="ModifierStat HP"|1,725
+|class="GoldPass rCost"|125,000
+|class="GoldPass rTime"|5d
+|4
+|-
+|8
+|class="ModifierStat DPS"|66
+|class="ModifierStat DPH"|66
+|class="ModifierStat HP"|1,800
+|class="GoldPass rCost"|140,000
+|class="GoldPass rTime"|5d 12h
+|4
+|-
+|9
+|class="ModifierStat DPS"|68
+|class="ModifierStat DPH"|68
+|class="ModifierStat HP"|1,875
+|class="GoldPass rCost"|155,000
+|class="GoldPass rTime"|6d
+|4
+|-
+|10
+|class="ModifierStat DPS"|70
+|class="ModifierStat DPH"|70
+|class="ModifierStat HP"|1,950
+|class="GoldPass rCost"|170,000
+|class="GoldPass rTime"|6d 12h
+|4
+|-
+|11
+|class="ModifierStat DPS"|71
+|class="ModifierStat DPH"|71
+|class="ModifierStat HP"|2,025
+|class="GoldPass rCost"|200,000
+|class="GoldPass rTime"|7d
+|class="change-highlight"|11
+|-
+|12
+|class="ModifierStat DPS"|72
+|class="ModifierStat DPH"|72
+|class="ModifierStat HP"|2,100
+|class="GoldPass rCost"|230,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|13
+|class="ModifierStat DPS"|73
+|class="ModifierStat DPH"|73
+|class="ModifierStat HP"|2,175
+|class="GoldPass rCost"|260,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|14
+|class="ModifierStat DPS"|74
+|class="ModifierStat DPH"|74
+|class="ModifierStat HP"|2,250
+|class="GoldPass rCost"|290,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|15
+|class="ModifierStat DPS"|75
+|class="ModifierStat DPH"|75
+|class="ModifierStat HP"|2,325
+|class="GoldPass rCost"|320,000
+|class="GoldPass rTime"|8d
+|11
+|}
+</div></center>
+
+==History==
+{|class="wikitable" style="width:100%"
+!Patch
+!Description
+|-
+![https://www.youtube.com/watch?v=upPy_yN8KrE April 10, 2021]
+|Announced the Unicorn, with 10 levels. [[File:Unicorn field.png|56px|link=]]
+|-
+![[Version History#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+|Added the Unicorn.
+|-
+![[Version History#June 2021 Update - Version 14.93.2 - 15th June 2021|June 15, 2021]]
+|
+*Removed the ability for [[Healer]]s to target the Unicorn.
+*Fixed a visual bug where [[Inferno Tower]]s appeared to target the air above the Unicorn when attacking it.
+*Force retarget for Unicorn if its assigned Hero is knocked out and the Unicorn is attacking a Wall.
+*Unicorn's level now shows boosted badge in battle end screen when Hero Potion is active.
+|-
+!March 24, 2025
+|Added the level 11 to 15 Unicorn.
+|}
+
+==Gallery==
+<gallery>
+Avatar Unicorn.png|Unicorn's icon
+Unicorn info 2.png
+Unicorn field.png
+</gallery>
+
+==Trivia==
+===General===
+*The Unicorn is the pet to have the slowest movement speed, being 16.
+*Unlike the [[Healer]], the battle does not end automatically if the Unicorn is the only unit left in the battle, and there are no more non-Healer troops or damaging Spells to deploy.
+*Based on the [https://clashofclans.com/blog/game-updates/meet-the-hero-pets-1.html release notes], the Unicorn may act like a lighthouse by using its glowing horn to help lost travelers.
+
+===Comparisons===
+*The Unicorn and the [[Druid]] are the only Healer-type troops to heal both ground and air units.
+*The Unicorn is the last of the first four original four Pets to gain five levels in an update, with the [[Electro Owl]] being the second, and the [[Mighty Yak]] and [[L.A.S.S.I]] being the first.
+
+{{TroopsMenuHV}}
+[[Category:Pets]]
+[[Category:Home Village]]
+[[de:Einhorn]]
+[[es:Unicornio]]
+[[Category:Troops]]
+[[Category:Ground Troops]]

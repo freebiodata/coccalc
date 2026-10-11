@@ -1,0 +1,50 @@
+{
+ "id": "multi-gear-tower",
+ "name": "Multi-Gear Tower",
+ "category": "defense",
+ "resource": "gold",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 17000000,
+   "time": "8d",
+   "th": 17
+  },
+  {
+   "level": 2,
+   "cost": 18000000,
+   "time": "9d",
+   "th": 17
+  },
+  {
+   "level": 3,
+   "cost": 28000000,
+   "time": "14d",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  1
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Multi-Gear_Tower",
+ "lastEdited": "2026-07-16T10:23:53Z",
+ "ok": true
+}

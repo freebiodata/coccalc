@@ -1,0 +1,321 @@
+{{Protection}}
+{{TemporaryTroopUnavailable|mode=building|crafted=yes|phase=Second}}
+
+[[File:Hero Bell4.png|center|200px|link=]]
+<center>'''''"The tolling bell ignites the fighting spirit of defending [[Heroes]], boosting their strength and health. When destroyed, Heroes go back to their regular awesome selves. Boo!"'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Hero Bell1.png|center|100px|link=]]<div>Level 3-11</div></div>
+<div>[[File:Hero Bell2.png|center|100px|link=]]<div>Level 12-20</div></div>
+<div>[[File:Hero Bell3.png|center|100px|link=]]<div>Level 21-29</div></div>
+<div>[[File:Hero Bell4.png|center|100px|link=]]<div>Level 30</div></div>
+</div>
+
+==Summary==
+*The Hero Bell is a Crafted Defense that can be chosen from the [[Crafting Station]].
+*The Hero Bell boosts defending [[Heroes]] that are in range, increasing their damage and hitpoints.
+*The boost is activated within a few seconds of the battle loading and rings a few times to notify the attacker, and lasts indefinitely until the Hero Bell is destroyed. The Hero Bell's boost is also lost if a Hero leaves the range of the Hero Bell, although this is unlikely due to the extremely large range of the Bell (50 tiles).
+*Boosts from the Hero Bell act as passive buffs. They stack multiplicatively with difficulty modifiers, but not with other defensive buffs such as Rage Spells from the [[Spell Tower]].
+*The Hero Bell does not boost [[Clan Castle]] troops, nor does it boost [[Guardian]]s, as they are not classified as Heroes.
+*Freezing the Hero Bell with a [[Freeze Spell]] or otherwise has no effect on the Hero Bell or the Heroes.
+*The Hero Bell's modules upgrade its hitpoints, its boosts to hero damage, and its boosts to hero hitpoints. Only one module can be upgraded at a time.
+**The more upgraded the Hero Bell is, the stronger the defending Heroes are, via the damage and health boost modules. Upgrading the hitpoint module will also allow it to increase its durability, boosting Heroes for longer.
+
+==Strategies==
+===Defensive Strategies===
+*The Hero Bell is useful for defending Heroes throughout the entire village, as it increases their hitpoints and damage, at the cost of not being able to attack. While the Hero Bell can theoretically cover the entire village, if it is placed in one corner and a Hero Banner on the opposite, the respective Banner's Hero may not be affected because of its limited range. Therefore it is placed at the core of the base to keep it safe against [[Electro Boots|Champion Charges]], [[Fireball]] attacks, and various Blimp strategies, the Hero Bell will allow defending Heroes to deal with the attacking force, separate from other major defenses.
+**The Hero Bell also protects defending Heroes from being taken out by high-leveled Fireballs from the [[Grand Warden]], provided that its hitpoint boost module is at a high enough level.
+*To prevent the Hero Bell from being taken out early on by the Giant Arrow, upgrade its health module to level 5. Even if the Hero Bell was taken out by the Fireball and Earthquake Spells, they will retain some health, at the cost of losing the boost.
+===Offensive Strategies===
+*Before starting an attack, find its location as soon as the Hero Bell rings, indicated by enlarged Heroes (if any) with a purple aura, and the Hero Bell's movement. Then, send a small push to deal with the Hero Bell (usually by the [[Royal Champion]] equipped with the [[Electro Boots]] and create the funnel while dealing with the Hero Bell.
+**If it is at the core, use the main army to deal with it, and if the main army was paired with aerial units and/or the Grand Warden's [[Eternal Tome]], Battle Blimps filled with troops like the [[Super Yeti]] paired with [[Clone Spell]]s will easily deal with main defenses and the Hero Bell at the core, provided if the [[Super Yeti/Electromite|Electromites]] do not get taken out too early or slowed down.
+*Early Town Hall 18 players will have newly unlocked the [[Crafting Station]] and may choose the Hero Bell as their starting defense, but since it is initially not sturdy enough, the attacker can take it down using a Giant Arrow, unless if the Hitpoint module is at level 5, where max-level Giant Arrows will no longer destroy it.
+*Even if [[Overgrowth Spell|trapped]], [[Freeze Spell|frozen]], slowed by the [[Frozen Arrow]] and/or [[Frosty]], or stunned by a [[Lightning Spell]] or [[Diggy]], it will still boost defending Heroes, rendering the status effects useless. The only way for it to disable its ability is to destroy the Hero Bell itself.
+**However, defending Heroes themselves can be affected by most status effects.
+
+==Upgrade Differences==
+*When selected, the Hero Bell appears to be a thick, four-layered altar made of stone, concrete, wood and metal with colors of red, warm gray, dark gray, and metal gray, placed on top of a smooth, nine-padded stone foundation below shared from the Crafting Station. The altar is comprised of layers in increasing height and decreasing in width in this order: dark gray stone, followed by a red layer sandwiched by two layers of warm gray stone. The top layer holds the wooden bell frame, which also holds the other parts via metal supports that have two rivets on each golden plate. The bell frame consists of wood, supported and held together by metal reinforcements with a spike at the ends. The topmost layer of the base has dark gray stone bricks, placed in a running bond, which is layed down. At the left, there is a wooden stair with three steps. The wooden headstock of the bell consists of a wooden counterweight with a metal nail on top and a partially damaged octagonal large metal cup resembling a bell with a clapper inside, which is held by a rope at the bottom, with studs on each side. When tapped or chosen, the large bell sways forward and backward once before stopping, chiming the bell to create a sound clip (see Audio below). When defending however, the bell swings in that same manner, but for as long as it is intact, channelling an echoing power that enhances defending Heroes from an extremely long range. When destroyed, the ringing fades and defending Heroes lose the boost after a short time.
+*At level 12, the square corners of the altar consisting of the same respective layers appears, with each side of the squares facing the edges.
+*At level 21, all the metal parts turn gold, and the rope is replaced by a golden plate, which holds the bell in place.
+*At level 30, the wooden stairs are now reinforced by broken warm gray stone, and the wooden counterweight is replaced by a thick, golden one shaped like a crown.
+
+==Statistics==
+<center>
+<div class="stats-background">{{GoldPassForm|Building}}
+{{NumberAvailable|TH18=1}}
+{{BuildingSize|3x3}}
+
+===Common Statistics===
+{|style="text-align: center; width: 40%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Range {{Res|Range}}
+|-
+|50 tiles
+|}
+
+===Module 1: Hitpoints===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Elixir|Cost]]<br/>{{Res|Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|400
+|N/A
+|N/A
+|N/A
+|-
+|2
+|900
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|-
+|3
+|1,400
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|1d 6h
+|class="GoldPass EXP"|328
+|-
+|4
+|1,900
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|5
+|2,400
+|class="GoldPass bCost"|7,000,000
+|class="GoldPass bTime"|1d 18h
+|class="GoldPass EXP"|388
+|-
+|6
+|2,900
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|7
+|3,400
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime"|2d 6h
+|class="GoldPass EXP"|440
+|-
+|8
+|3,900
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|9
+|4,400
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|2d 18h
+|class="GoldPass EXP"|487
+|-
+|10
+|4,900
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+===Module 2: Hero DPS Boost===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Hero DPS Boost<br/>{{Res|Damage}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+| +4%
+|N/A
+|N/A
+|N/A
+|-
+|2
+| +5%
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|-
+|3
+| +7%
+|class="GoldPass bCost"|6,500,000
+|class="GoldPass bTime"|16h
+|class="GoldPass EXP"|240
+|-
+|4
+| +8%
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|20h
+|class="GoldPass EXP"|268
+|-
+|5
+| +10%
+|class="GoldPass bCost"|9,500,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|-
+|6
+| +11%
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|1d 6h
+|class="GoldPass EXP"|328
+|-
+|7
+| +13%
+|class="GoldPass bCost"|10,500,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|8
+| +14%
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|9
+| +16%
+|class="GoldPass bCost"|11,500,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|10
+| +17%
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+===Module 3: Hero HP Boost===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Hero HP Boost<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+| +8%
+|N/A
+|N/A
+|N/A
+|-
+|2
+| +11%
+|class="GoldPass bCost"|25,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|3
+| +14%
+|class="GoldPass bCost"|30,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|4
+| +17%
+|class="GoldPass bCost"|35,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|5
+| +20%
+|class="GoldPass bCost"|40,000
+|class="GoldPass bTime"|2d 14h
+|class="GoldPass EXP"|472
+|-
+|6
+| +23%
+|class="GoldPass bCost"|55,000
+|class="GoldPass bTime"|2d 16h
+|class="GoldPass EXP"|480
+|-
+|7
+| +26%
+|class="GoldPass bCost"|70,000
+|class="GoldPass bTime"|2d 18h
+|class="GoldPass EXP"|487
+|-
+|8
+| +29%
+|class="GoldPass bCost"|85,000
+|class="GoldPass bTime"|2d 20h
+|class="GoldPass EXP"|494
+|-
+|9
+| +32%
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime"|2d 22h
+|class="GoldPass EXP"|501
+|-
+|10
+| +35%
+|class="GoldPass bCost"|115,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Crafter's Nightmare'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Crafted Defenses in Multiplayer Battles||100||25
+|-
+|Destroy 200 Crafted Defenses in Multiplayer Battles||800||100
+|-
+|Destroy 2,000 Crafted Defenses in Multiplayer Battles||5,000||200
+|-
+!colspan="3" style="text-align: center; width: 650px" |<big>'''Crafting Connoisseur'''</big>
+|-
+|Upgrade Crafted Defenses 5 times||10||10
+|-
+|Upgrade Crafted Defenses 25 times||100||30
+|-
+|Upgrade Crafted Defenses 75 times||1,000||50
+|}
+
+{{IconDescriptions|CraftableDefense=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description
+|-
+!November 16, 2025!!Sneak Peek
+|Announced the Hero Bell, with 30 levels.
+[[File:Hero Bell1.png|70px|link=]][[File:Hero Bell2.png|70px|link=]][[File:Hero Bell3.png|70px|link=]][[File:Hero Bell4.png|70px|link=]]
+|-
+!November 20, 2025!!Update
+|Added the Hero Bell.
+|-
+!March 31, 2026!!Update
+|Removed the Hero Bell.
+|}
+
+==Audio==
+===Unique===
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:HeroBell bell.ogg]]
+|Hero Bell clangs
+|When the Hero Bell is chosen, placed, or activates at the start of the battle
+|}
+<!--==Gallery==
+-->
+
+==Trivia==
+*The Hero Bell might be a reference to the Alarm Bell boss from ''mo.co'', which rings and attract other enemies near it.
+{{BuildingsMenuHV}}
+{{Temporary}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Crafted Buildings]]
+[[ru:Колокол героев]]

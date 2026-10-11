@@ -1,0 +1,475 @@
+{{Protection}}
+
+[[File:Revenge Tower2 Stage3.png|center|200px|link=]]
+<center>'''''"If you destroy its building friends, the Revenge Tower will look for you, it will find you, and it will smite you. As fellow [[buildings]] fall, it grows stronger and angrier!"'''''
+'''''</center>
+----
+{{Toggle|Next/Previous}}
+<div class="animated">
+<!--Not Active-->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Dormant'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Revenge Tower1 Dormant.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Revenge Tower2 Dormant.png|100px|link=]]<div>Level 2</div></div>
+</div>
+</div>
+<!--Stage 1-->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Stage 1'''</p><div class="flexbox-display bold-text">
+<div>[[File:Revenge Tower1 Stage1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Revenge Tower2 Stage1.png|100px|link=]]<div>Level 2</div></div>
+</div></div>
+<!--Stage 2-->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Stage 2'''</p><div class="flexbox-display bold-text">
+<div>[[File:Revenge Tower1 Stage2.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Revenge Tower2 Stage2.png|100px|link=]]<div>Level 2</div></div>
+</div>
+</div>
+<!--Stage 3-->
+<div class="active">
+<p class="hidden" style="font-size:large; font-family:Backbeat; text-align:center;">'''Stage 3'''</p><div class="flexbox-display bold-text">
+<div>[[File:Revenge Tower1 Stage3.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Revenge Tower2 Stage3.png|100px|link=]]<div>Level 2</div></div>
+</div>
+</div></div><!--End-->
+
+==Summary==
+*The Revenge Tower is a powerful multi-target defense, unlocked when the player reaches [[Town Hall]] 18.
+*Rarely among defensive buildings, like the [[Monolith]], it is built and upgraded with [[Dark Elixir]] instead of [[Gold]].
+*It is a defense that becomes stronger the more buildings are destroyed. It starts the match as an inactive defense which does not attack and can be destroyed. As 5 buildings are destroyed, it reaches the first stage; at 25 buildings, it then reaches the second stage; and at 50 buildings, it reaches the third and final stage.
+**In its first stage, the Revenge Tower fires high-damage projectiles at ground and air units at a slow rate.
+**In its second stage, its projectiles will deal half the damage but they are shot at twice the fire rate, and can bounce to another target similar to a [[Ricochet Cannon]], increasing its maximum damage per second. The bounced shots have a chain damage decay of -40%, meaning the secondary shot only deals 60% of the damage, and needs to target a unit within ~2 tiles of the primary target. With this ability, the range of the Revenge Tower can be up to ~13 tiles situationally.
+**In its final stage, its fire rate is further increased without any damage penalty, and each projectile can bounce up to two targets. Because of the chain damage decay, tertiary shots only deal 36% of the damage, it also needs to target a unit within ~2 tiles of the secondary target that is different from the primary target. With this ability, the range of the Revenge Tower can be up to ~15 tiles situationally, which is its maximum possible range.
+*The stage of the Revenge Tower is indicated by its appearance, growing taller and more complex as the destruction progresses, and gaining more barrels.
+*Even if the Revenge Tower is not active yet, it is still treated as a defensive building. This means that defense-targeting units like [[Giant]]s and [[Balloon]]s can attack it as their priority, and it can also soak up [[Seeking Shield]]s and [[Fireball]]s.
+
+==Strategies==
+===Defensive Strategies===
+*The Revenge Tower is one of the most destructive defenses in the game, which is comparable to the combined effects of the Fast Attack [[Multi-Gear Tower]] and the [[Ricochet Cannon]], although less than that of the Monolith. Because of its high burst damage potential, it is one of the most sought-out defenses to destroy using the attacker's own strategy, and the Revenge should be placed in the core of the base to maximize its potential and reduce the chance of it being sniped at a weaker stage, as leaving it alone will give the defender a chance to successfully defend against a three-star or even a two-star, depending on the base layout, especially in [[Ranked Battles]].
+**Pairing this up with the Rage [[Spell Tower]] or [[Smasher|Smasher's]] death rage can increase its damage significantly, destroying high-hitpoint units in a few seconds.
+*The Revenge Tower has the same range as the [[Flame Flinger]], but only if it is active. Therefore, to make it active, at least 5 buildings must be destroyed in order for it to attack the Flame Flinger, in which the attacker will have to force using a Spell to stop it from attacking.
+*Separate the Revenge Tower and other major defenses like the Monolith from each other, as not doing so will leave it vulnerable to Fireball value, especially when defending Heroes and even the [[Clan Castle]] are involved.
+
+===Offensive Strategies===
+*If the Revenge Tower is dealing massive damage to the army, use [[Freeze Spell]]s to disable those defenses, and [[Totem Spell]]s and/or [[Ice Block Spell]]s to tank the damage.
+**Be careful with the [[Overgrowth Spell]], even when the Revenge Tower is disabled it can still go through stages, giving it ample time to power up when it cannot be targeted, and can be devastating when the spell effect is over, unless if it was at stage 3 and attacking units are nearby the Revenge Tower when the effect expires.
+*If the attacker manages to destroy this defense before it activates, the army will have a great advantage, effectively increasing the chances of a successful attack.
+*Revenge Towers, when activated, can outrange the Flame Flinger, so the player may need to avoid attacking on that area, or if they want to take it out, make sure it is tanked by a troop like a [[Golem]] to prevent the Siege Machine from being taken out.
+**However, as more buildings are destroyed, if the Golem is close enough to the Flame Flinger, the shots will bounce onto the Flame Flinger, which will significantly reduce the latter's lifespan if not eventually destroying it outright, so long as the Golem is within range of the Revenge Tower, forcing the attacker to use a spell.
+
+==Upgrade Differences==
+The Revenge Tower undergoes significant visual changes at level 2.
+
+*When initially constructed, the dormant Revenge Tower is a short but large stone tower with a octagonal pyramidal dark stone-tiled roof, and a large spike at the center with an arrow that indicates a where the tower is pointing at. On its battlements, there is a golden spike on each of the tallest parts. A thick metal ring surrounds the bottom part of the castle. There is also a very deep hole where the Revenge Tower grows in height, surrounded by dirt.
+**At stage 1, the entire base grows taller and reveals two layers of metal gears. The roof has been raised to reveal a 3-cannon barrel, with only the middle one sticking out. The entire tower will rotate to target the troop.
+**At stage 2, the entire base grows taller again and reveals the stone base below the gears which is riveted with metal plates one four sides. The ground emits blue light straight up around the base. In between the gears, there is a small square hole, presumably to deliver the meteor stones to the bottom three cannons as it fires in stage 3. The roof begins to glow blue between the gap of the tiles and the two remaining cannon barrels are extended out.
+**At stage 3, the tower grows even taller and reveals the base is built upon meteorite that glows blue between the cracks, which is the source of the blue glow around the base at stage 2. The roof now glows much brighter, which also shines blue light onto the cannons below the roof. A metal band that holds the other three cannons and an ammo cartridge filled with meteor stones moves upwards from the ground, and attached to the exposed gears.
+*At level 2, the plating under the spikes turns gold. The rim of the cannon barrels are covered by gold, because of the gold rim reflecting the blue light under the roof at stage 3, it seems to shine green instead. The metal band and the ammo cartridge at stage 3 is also made of gold.
+
+*The Revenge Tower has a unique idle animation, unlike most Defenses that can aim which would swivel around but generally face away from the Town Hall when defending. While idling, it initially goes to stage 3, looking for any possible intruders for a short time, then quickly returns back to the ground. After a while, it will search again as in its stage 1, then goes to the ground again. Afterwards, it goes to stage 1 again, then quickly goes to stage 3 once more, rotating clockwise 90 degrees and stopping at the bottom right, and then rotates to the top left, top right, and the cycle repeats. All of these idle animations do not emit a blue glow.[[File:RevengeTowerBlur.jpg|75px|thumb|right|Revenge Tower being blurred|link=]]
+**If seen closely frame-by-frame, one specific frame shows the Revenge Tower being blurred, but is too fast to be seen normally, especially when it reverts from stage 3 to its dormant state.
+**However, in a raid, it stays inactive and will only activate once a few buildings have been destroyed and will emit a blue glow as it grows in size as usual, although the transition is slower than the idle animation.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Toggle|Next/Previous}}
+{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH18=1}}
+{{BuildingSize|3x3}}
+<div class="animated">
+<div class="hidden"><!-- Dormant -->
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Dormant'''</p>
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1||5,800||class="GoldPass bCost"|430,000||class="GoldPass bTime" style="white-space:nowrap;"|13d 5s||class="GoldPass EXP"|1,059||18
+|-
+|2||6,200||class="GoldPass bCost"|460,000||class="GoldPass bTime" style="white-space:nowrap;"|14d||class="GoldPass EXP"|1,099||18
+|}
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Special Ability<br/>{{Res|Defense Ability}}
+|-
+|<abbr title="Gets angrier and stronger when 5, 25 and 50 buildings are destroyed">Tower Tantrum</abbr>
+|}
+</div><!-- end Dormant -->
+<div class="hidden"><!-- Stage 1 -->
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Stage 1'''</p>
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Shot<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|375
+|class="ModifierStat DPH Building"|450
+|5,800
+|class="GoldPass bCost"|430,000
+|class="GoldPass bTime" style="white-space:nowrap;"|13d 5s
+|class="GoldPass EXP"|1,059
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|416
+|class="ModifierStat DPH Building"|500
+|6,200
+|class="GoldPass bCost"|460,000
+|class="GoldPass bTime" style="white-space:nowrap;"|14d
+|class="GoldPass EXP"|1,099
+|18
+|}
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Special Ability<br/>{{Res|Defense Ability}}
+|-
+|11||class="AttackSpeed"|1.2s||Single Target||Ground & Air||<abbr title="Gets angrier and stronger when 5, 25 and 50 buildings are destroyed">Tower Tantrum</abbr>
+|}
+</div><!-- end Stage 1 -->
+<div class="hidden"><!-- Stage 2-->
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Stage 2'''</p>
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Maximum Damage per Second<br/>{{Res|Damage}}
+!Damage per Shot (Primary)<br/>{{Res|Damage}}
+!Damage per Shot (Secondary)<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|375
+|class="ModifierStat DPH Building"|225
+|class="ModifierStat DPH Secondary Building"|135
+|5,800
+|class="GoldPass bCost"|430,000
+|class="GoldPass bTime" style="white-space:nowrap;"|13d 5s
+|class="GoldPass EXP"|1,059
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|416
+|class="ModifierStat DPH Building"|250
+|class="ModifierStat DPH Secondary Building"|150
+|6,200
+|class="GoldPass bCost"|460,000
+|class="GoldPass bTime" style="white-space:nowrap;"|14d
+|class="GoldPass EXP"|1,099
+|18
+|}
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Special Ability<br/>{{Res|Defense Ability}}
+|-
+|11||class="AttackSpeed"|0.6s||<span style="cursor: help" title="Hits the first target then ricochets to a second target up to 2 tiles away">Ricochet Shot</span>||Ground & Air||<abbr title="Gets angrier and stronger when 5, 25 and 50 buildings are destroyed">Tower Tantrum</abbr>
+|}
+</div><!-- end Stage 2 -->
+<div class="active"><!-- Stage 3-->
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Stage 3'''</p>
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Maximum Damage per Second<br/>{{Res|Damage}}
+!Damage per Shot (Primary)<br/>{{Res|Damage}}
+!Damage per Shot (Secondary)<br/>{{Res|Damage}}
+!Damage per Shot (Tertiary)<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|642
+|class="ModifierStat DPH Building"|225
+|class="ModifierStat DPH Secondary Building"|135
+|class="ModifierStat DPH Secondary Building"|81
+|5,800
+|class="GoldPass bCost"|430,000
+|class="GoldPass bTime" style="white-space:nowrap;"|13d 5s
+|class="GoldPass EXP"|1,059
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|714
+|class="ModifierStat DPH Building"|250
+|class="ModifierStat DPH Secondary Building"|150
+|class="ModifierStat DPH Secondary Building"|90
+|6,200
+|class="GoldPass bCost"|460,000
+|class="GoldPass bTime" style="white-space:nowrap;"|14d
+|class="GoldPass EXP"|1,099
+|18
+|}
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Special Ability<br/>{{Res|Defense Ability}}
+|-
+|11
+|class="AttackSpeed"|0.35s
+|<span style="cursor: help" title="Hits the first target then ricochets to a second and third target up to 2 tiles away">Ricochet Shot</span>
+|Ground & Air
+|<abbr title="Gets angrier and stronger when 5, 25 and 50 buildings are destroyed">Tower Tantrum</abbr>
+|}
+</div><!-- end Stage 3 -->
+</div>
+===[[Supercharge]]s===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level is added.
+{{Supercharge}}
+<div class="animated">
+<div class="hidden"><!-- Dormant -->
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Charge<br/>{{Res|Charge}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|6,200
+|class="GoldPass bCost"|220,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|18
+|-
+|2
+|class="change-highlight"|6,300
+|class="GoldPass bCost"|200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|18
+|}
+</div>
+<div class="hidden"><!-- stage 1 -->
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Charge<br/>{{Res|Charge}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Shot<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building change-highlight"|425
+|class="ModifierStat DPH Building change-highlight"|510
+|6,200
+|class="GoldPass bCost"|220,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|425
+|class="ModifierStat DPH Building"|510
+|class="change-highlight"|6,300
+|class="GoldPass bCost"|200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|18
+|}
+</div><!-- end stage 1 -->
+<div class="hidden"><!-- Stage 2-->
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Charge<br/>{{Res|Charge}}
+!Maximum Damage per Second<br/>{{Res|Damage}}
+!Damage per Shot (Primary)<br/>{{Res|Damage}}
+!Damage per Shot (Secondary)<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building change-highlight"|433
+|class="ModifierStat DPH Building change-highlight"|260
+|class="ModifierStat DPH Secondary Building change-highlight"|156
+|6,200
+|class="GoldPass bCost"|220,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|433
+|class="ModifierStat DPH Building"|260
+|class="ModifierStat DPH Secondary Building"|156
+|class="change-highlight"|6,300
+|class="GoldPass bCost"|200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|18
+|}
+</div><!-- end stage 2 -->
+<div class="active"><!-- Stage 3-->
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Charge<br/>{{Res|Charge}}
+!Maximum Damage per Second<br/>{{Res|Damage}}
+!Damage per Shot (Primary)<br/>{{Res|Damage}}
+!Damage per Shot (Secondary)<br/>{{Res|Damage}}
+!Damage per Shot (Tertiary)<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building change-highlight"|742
+|class="ModifierStat DPH Building change-highlight"|260
+|class="ModifierStat DPH Secondary Building change-highlight"|156
+|class="ModifierStat DPH Secondary Building change-highlight"|93.6
+|6,200
+|class="GoldPass bCost"|220,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|742
+|class="ModifierStat DPH Building"|260
+|class="ModifierStat DPH Secondary Building"|156
+|class="ModifierStat DPH Secondary Building"|93.6
+|class="change-highlight"|6,300
+|class="GoldPass bCost"|200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|18
+|}
+</div><!-- end stage 3 -->
+</div>
+</div>
+</center><!--
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px"|<big>'''?'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy ? Revenge Towers in Multiplayer battles||?||?
+|-
+|Destroy ? Revenge Towers in Multiplayer battles||?||?
+|-
+|Destroy ? Revenge Towers in Multiplayer battles||?||?
+|}-->
+{{IconDescriptions|Defense=Yes|Upgradable=Yes}}
+
+==History==
+{|class="wikitable floatheader row-highlight" style="width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Date!!Description
+|-
+!November 16, 2025
+|Announced the Revenge Tower, with two levels.
+[[File:Revenge Tower1 Dormant.png|60px]][[File:Revenge Tower1 Stage1.png|60px]][[File:Revenge Tower1 Stage2.png|60px]][[File:Revenge Tower1 Stage3.png|60px]]<br/>[[File:Revenge Tower2 Dormant.png|60px]][[File:Revenge Tower2 Stage1.png|60px]][[File:Revenge Tower2 Stage2.png|60px]][[File:Revenge Tower2 Stage3.png|60px]]
+|-
+!November 17, 2025
+|Added the Revenge Tower.
+|-
+!January 28, 2026
+|
+*Increased the amount of destroyed buildings needed to get stronger:
+**Stage 2: 20 -> 25 {{Res|Ruins}}
+**Stage 3: 40 -> 50 {{Res|Ruins}}
+*Reduced fire rate at stage 3 from 0.3s to 0.35s. {{Res|Attack Speed}}
+|}
+
+==Audio==
+===Generic===
+{|class="wikitable floatheader row-highlight" style="width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Cannon Picked Up.ogg]]
+|Revenge Tower selected¹
+|When the Revenge Tower is picked
+|-
+|[[File:Cannon place.ogg]]
+|Revenge Tower placed¹
+|When the Revenge Tower is placed
+|-
+|[[File:Barbarian attack1.ogg]]
+|Cannonball hits²
+|When the Revenge Tower's cannonball hits something
+|}
+
+===Unique===
+{|class="wikitable floatheader row-highlight" style="width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:RevengeTower transform.ogg]]
+|Revenge Tower builds up
+|Plays each time the Revenge Tower becomes stronger as more buildings are destroyed
+|-
+|[[File:RevengeTower attack.ogg]]
+|Revenge Tower shoots 
+|When the Revenge Tower attacks
+|}
+¹ ''Reuses the sound effects of the Cannon''<br>
+² ''Reuses the attack sound effect of the Barbarian''
+
+==Gallery==
+===Short Animations===
+<gallery>
+File:RevengeTowerBuildup.gif|Revenge Tower building up animation
+File:RevengeTowerFlingerStage1.gif|Revenge Tower attacking a Flame Flinger at stage 1
+File:RevengeTowerFlingerStage2.gif|Attacking a Flame Flinger at stage 2
+File:RevengeTowerFlingerStage3.gif|Attacking a Flame Flinger at stage 3 (prior to the January 28, 2026 update)
+</gallery>
+
+===Videos===
+[[File:RevengeTowerFlingerStage3_(2026).mp4|200px|center|Attacking a Flame Flinger at stage 3 (after the January 28, 2026 update and with sound|link=]]
+
+==Trivia==
+*The Revenge Tower's <!--initial -->build time is 13 days and 5 seconds, this might be a nod to it being a Town Hall 18 defense as 13 plus 5 is equal to 18.
+*The "Maximum Damage per Second" stat only displays the damage per second of the primary shot and does not account for the ricocheted shots. The total maximum damage per second is as follows:
+**Stage 2:
+***Level 1: 600
+***Level 2: 666.66
+**Stage 3:
+***Level 1: 1260
+***Level 2: 1400
+*In the game files before the update, there was text and ID that refers to a "Debris Tower" with the description "The Debris Tower becomes empowered as other buildings fall." It is likely that this is the previous name of the Revenge Tower, as it fits the theme of the meteor destroying the whole Home Village when upgrading the [[Town Hall]] to level 18 and being powered up by buildings being destroyed. The rename might be inspired by the reworked Revenge system that came with the League rework.
+*The Revenge Tower's description is a reference to a quote from the 2008 action-thriller film "[[wikipedia:Taken (film)|Taken]]" starring Liam Neeson. Incidentally, Neeson himself starred in a commercial for ''[[Clash of Clans]]''.
+*When upgrading during a [[Multiplayer Battles|Multiplayer attack]], it will still go through stages, but will not do anything.
+*There is a visual bug where if the Revenge Tower is destroyed while it is stopped between the transition of stages, like with a [[Freeze Spell]], it will continue its animation after the effect expires, making it seem like it came back from being destroyed but it cannot fire at troops or be targeted, but the building before that bug occurs will still count towards the destruction and will not affect the actual gameplay.<ref>[https://www.reddit.com/r/ClashOfClans/comments/1p1w0nz/can_someone_explain_what_happened_to_the_revenge Can someone explain what happened to the revenge tower?] on Reddit</ref>
+**If it also occurred with Walls behind it, they would cover some parts of the Revenge Tower as the sprite of the Revenge Tower is now behind them.
+*Despite the Revenge Tower containing up to six cannon barrels, only one projectile is fired at a time.
+
+===Comparisons===
+*The Revenge Tower shares similar mechanics to the [[Dark Crown]] equipment used by the [[Minion Prince]], which growing stronger as more troops are destroyed, except it does not move and becomes stronger by the amount of buildings in the village destroyed rather than troops being taken out.
+*The Revenge Tower is one of the defenses that is inactive when the raid begins, the other being the {{H|Hidden Tesla}}, [[Eagle Artillery]], and [[Town Hall/Giga Weapons|Giga Weapons]].
+*The Revenge Tower is similar to the [[Ricochet Cannon]], as both have the ability to ricochet their shots which have chain damage decay. However, the Revenge Tower also attacks both ground and air at the same time from a longer range, and its projectiles can bounce up to three units instead of two at its full power but have a shorter ricochet range and steeper damage decay.
+**The Ricochet Cannon used to not have chain damage decay, since the balance patch on January 28, 2026, its ricocheted shots also have it at -30%, compared to -40% of the Revenge Tower.
+*The Revenge Tower projectile is similar to the Glowy Ore Meteorite [[obstacles]].
+
+==References==
+<references/>
+{{BuildingsMenuHV}}
+
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Home Village]]
+[[ru:Башня возмездия]]

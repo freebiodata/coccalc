@@ -1,0 +1,104 @@
+{
+ "id": "hero-hall",
+ "name": "Hero Hall",
+ "category": "other",
+ "resource": "elixir",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 30000,
+   "time": "1h",
+   "th": 4
+  },
+  {
+   "level": 2,
+   "cost": 1600000,
+   "time": "2d",
+   "th": 8
+  },
+  {
+   "level": 3,
+   "cost": 2300000,
+   "time": "3d",
+   "th": 9
+  },
+  {
+   "level": 4,
+   "cost": 2500000,
+   "time": "4d",
+   "th": 10
+  },
+  {
+   "level": 5,
+   "cost": 4500000,
+   "time": "4d 12h",
+   "th": 11
+  },
+  {
+   "level": 6,
+   "cost": 5500000,
+   "time": "5d",
+   "th": 12
+  },
+  {
+   "level": 7,
+   "cost": 8500000,
+   "time": "6d",
+   "th": 13
+  },
+  {
+   "level": 8,
+   "cost": 9500000,
+   "time": "6d 12h",
+   "th": 14
+  },
+  {
+   "level": 9,
+   "cost": 11000000,
+   "time": "7d",
+   "th": 15
+  },
+  {
+   "level": 10,
+   "cost": 13000000,
+   "time": "8d",
+   "th": 16
+  },
+  {
+   "level": 11,
+   "cost": 17000000,
+   "time": "9d",
+   "th": 17
+  },
+  {
+   "level": 12,
+   "cost": 26000000,
+   "time": "13d 12h",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Hero_Hall",
+ "lastEdited": "2026-10-02T07:58:32Z",
+ "ok": true
+}

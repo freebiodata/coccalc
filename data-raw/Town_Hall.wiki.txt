@@ -1,0 +1,1070 @@
+__NOEDITSECTION__
+{{Protection}}<!--
+{{Maintenance}}-->
+{{TownHallNavbox}}
+{{For|the Builder Base version|Builder Hall}}
+{{For|the Goblin Map version|Goblin Hall}}
+{{For|the Clan Capital version|Capital Hall}}
+{{For|the Clan District's version|District Hall}}
+[[File:Town Hall18.png|center|250px|link=]]
+<center>
+'''''"This is the heart of your {{H|Layouts|village}}. Upgrading the Town Hall unlocks new {{H|Defensive Buildings|defenses}}, [[buildings]], {{H|Traps|traps}} and much more.<br><br>Destroying an opponent's Town Hall earns you one star in battle. Protect your Town Hall from attacks by placing it in the middle of your village and surrounding it with walls, traps, and defenses."'''''
+</center>
+----<!--
+In this flexbox display, each child element under the parent flexbox-display has a set width of 120px. This is because not all the TH level images are set at the same size in order to ensure they are in proportion. Due to this, all the child divs have the set width of 120px so the display remains balanced.
+--><div class="flexbox-display bold-text">
+<div style="width:120px">[[File:Town Hall1.png|100px|link=]]<div>Level 1</div></div>
+<div style="width:120px">[[File:Town Hall2.png|100px|link=]]<div>Level 2</div></div>
+<div style="width:120px">[[File:Town Hall3.png|100px|link=]]<div>Level 3</div></div>
+<div style="width:120px">[[File:Town Hall4.png|100px|link=]]<div>Level 4</div></div>
+<div style="width:120px">[[File:Town Hall5.png|100px|link=]]<div>Level 5</div></div>
+<div style="width:120px">[[File:Town Hall6.png|100px|link=]]<div>Level 6</div></div>
+<div style="width:120px">[[File:Town Hall7.png|100px|link=]]<div>Level 7</div></div>
+<div style="width:120px">[[File:Town Hall8.png|100px|link=]]<div>Level 8</div></div>
+<div style="width:120px">[[File:Town Hall9.png|100px|link=]]<div>Level 9</div></div>
+<div style="width:120px">[[File:Town Hall10.png|110px|link=]]<div>Level 10</div></div>
+<div style="width:120px">[[File:Town Hall11.png|105px|link=]]<div>Level 11</div></div>
+<div style="width:120px">[[File:Town Hall12.png|110px|link=Town Hall/Giga Tesla]]<div>[[Town Hall/Giga Tesla|Level 12]]</div></div>
+<div style="width:120px">[[File:Town Hall13.png|110px|link=Town Hall/Giga Inferno (TH13)]]<div>[[Town Hall/Giga Inferno (TH13)|Level 13]]</div></div>
+<div style="width:120px">[[File:Town Hall14.png|110px|link=Town Hall/Giga Inferno (TH14)]]<div>[[Town Hall/Giga Inferno (TH14)|Level 14]]</div></div>
+<div style="width:120px">[[File:Town Hall15.png|110px|link=Town Hall/Giga Inferno (TH15)]]<div>[[Town Hall/Giga Inferno (TH15)|Level 15]]</div></div>
+<div style="width:120px">[[File:Town Hall16.png|105px|link=Town Hall/Giga Inferno (TH16)]]<div>[[Town Hall/Giga Inferno (TH16)|Level 16]]</div>
+</div>
+<div style="width:120px">
+<div class="animated">
+<div class="active">[[File:Town Hall17-1.png|Level 17|115px|link=Town Hall/Inferno Artillery]]</div>
+<div class="hidden">[[File:Town Hall17-2.png|Level 17|115px|link=Town Hall/Inferno Artillery]]</div>
+<div class="hidden">[[File:Town Hall17-3.png|Level 17|115px|link=Town Hall/Inferno Artillery]]</div>
+<div class="hidden">[[File:Town Hall17-4.png|Level 17|115px|link=Town Hall/Inferno Artillery]]</div>
+<div class="hidden">[[File:Town Hall17-5.png|Level 17|115px|link=Town Hall/Inferno Artillery]]</div>
+</div>
+<div>[[Town Hall/Inferno Artillery|Level 17]]</div></div>
+<div style="width:120px">[[File:Town Hall18.png|121px|link=Town Hall/Guardians]]<div>[[Town Hall/Guardians|Level 18]]</div></div>
+</div>
+{{Toggle|Next/Previous}}{{Clr}}
+
+==Summary==
+*The Town Hall is the central building of the Home Village, and one of the most important [[buildings]] in the game.
+*Upgrading the Town Hall lets you unlock new buildings, [[Traps]] and [[Heroes]], and upgrade them to higher levels. However, it carries the trade-off of reducing the loot available from opponents with lower-level Town Halls, as well as allows more loot to be taken by such opponents.
+*In [[Multiplayer Battles]] and all battles involving the Home Village, destruction of the Town Hall automatically awards the enemy one star and entitles the attacker to claim victory, regardless of damage on the rest of the village.
+*The Town Hall also serves as a resource storage of Gold, Elixir, and Dark Elixir (the latter only when the Town Hall is level 7 or above). Unlike other resource storages, the loot stored in the Town Hall can only be looted if it is destroyed.
+**As a resource storage, it is immune to damage from {{H|Lightning Spell}}s, but not from [[Earthquake Spell]]s, unlike other storages.
+*When upgraded to level 12 through 17, the Town Hall becomes weaponized, and gains the ability to defend itself, doubling as a potent defensive building capable of dealing high damage to multiple targets at once and quickly. At Town Hall 18, the Town Hall's weapon is removed in favor of defending them with [[Guardian]]s.
+
+==Strategies and Tips==
+*Protecting the Town Hall is critical for achieving the player's objectives.
+*The Town Hall is the equivalent of the [[Builder Hall]] in the Builder Base or the [[Goblin Hall]] in the [[Single Player Campaign]].
+*Since the change that players no longer gain a shield if the opponent destroyed their Town Hall, placing it outside a farming base serves no purpose anymore, other than to rapidly drop [[trophies]]. Players should aim to protect their Town Hall at all costs, as it contains 20% of all 3 different resources.
+*If one is designing bases to protect their trophies or war bases, they should aim to protect their Town Hall at all costs. If an attacker destroys your Town Hall, they will immediately receive one star. However, if they are unable to destroy it, they will still get a maximum of one star.
+**This concept is, however, thrown away when you are trying to design an anti-3 star base, in which the Town Hall is considered just to be a high-hitpoint building and is used to protect key structures to prevent the attacker from claiming a third star (hence the name). At higher Town Hall levels (especially level 9 and above), players can, instead of protecting their Town Hall, use it as a high-hitpoint damage sponge - similar to Storages - as part of a strategy to prevent 3-star attacks from [[Dragon]]s and other high-level armies, at the cost of making 2-star attacks much easier. Anti-3 star bases are used for war more commonly than they are as normal bases because getting the full 3 stars in war is more important.
+*Town Halls have the highest hitpoints of any relative level building, with the exception of {{H|Walls}}, which means they take a long time to destroy. Placing your Town Hall within the range of your most powerful {{H|Defensive Buildings|defenses}} can give them the most shots to destroy enemy troops.
+*If maximizing [[builder]] time is a priority, as it is inefficient to wait until all of the building upgrades are finished before beginning to upgrade the Town Hall, as all but one of the builders will be idle for the duration of your Town Hall upgrade. In order to keep all builders occupied (but ensure they are all available when the Town Hall upgrade finishes), plan for the Town Hall upgrade to finish just as the remaining builders are finishing their final projects. For example, if you are currently at Town Hall level 9 and have five builders, you should upgrade your Town Hall (which takes 2 days and 12 hours) when the total remaining upgrading time of other buildings approaches 10 days.
+*Of note is that at higher Town Hall levels (8 or more), upgrades in the [[Laboratory]] will take significantly longer than building upgrades. If Laboratory upgrades are the only things remaining, one can consider upgrading the Town Hall early to prevent builder time being wasted (and avoid having to hold excess resources in storages for too long), while selecting only the Laboratory upgrades for units that the player uses most often.
+*Do not place the Town Hall in a corner surrounded by Walls, as troops can still be placed next to the Town Hall in the darker grass.
+*Placing all available buildings at a Town Hall level is required to upgrade the Town Hall. However, there are exceptions to this rule: 
+**The [[Clan Castle]] does not have to be rebuilt before being allowed to upgrade to the next Town Hall level, and the player can rebuild the Clan Castle whenever there are enough resources for it.
+**All five [[Builder's Hut]]s are not required to upgrade to the next Town Hall level (because the Builder's Huts cost [[Gems]] as opposed to other buildings, requiring them would unfairly hinder progression for players who do not buy Gems); this also applies to weaponizing Builder's Huts by leveling them up when reaching Town Hall 14.
+**When the player is upgrading to Town Hall 7 or above, players do not need to rebuild the boat (which can only be rebuilt at Town Hall 6 and above) in order to move on to the next Town Hall level. (Builder Base can be unlocked at Town Hall 6 randomly for each account.)
+**When upgrading to Town Hall 11 or above, players do not need to build the [[B.O.B's Hut]] (which is only available at Town Hall 10 and above due to the requirements of building it) to upgrade the Town Hall.
+*Besides placing all of the buildings, some other restrictions are placed when upgrading to the next Town Hall level:
+**Town Halls 8 and above require the [[Hero Hall]] to be upgraded to the maximum level. Whenever a [[Hero Banner]] is available, it must be placed as well even though they do not count as buildings (as they used to be Hero Altars and let Heroes defend the village).
+**Town Halls 17 and above require all merged defenses to be merged (similar to placing all buildings), which in turn requires the merging defenses to be maxed first. Currently, this applies to {{H|Cannon}}s into [[Ricochet Cannon]]s, {{H|Archer Tower}}s into [[Multi-Archer Tower]]s, the [[Eagle Artillery]] and [[Town Hall/Giga Inferno (TH16)|Giga Inferno]] into the [[Inferno Artillery]], the Geared-Up Cannon and Archer Tower into the [[Multi-Gear Tower]], and [[Wizard Tower]]s into {{H|Super Wizard Tower}}s.
+**Town Hall 18 requires the Inferno Artillery to be upgraded to the maximum level.
+
+==Town Hall Weapons==
+===Giga Weapons (Giga Tesla and Giga Inferno)===
+{{Main|Town Hall/Giga Weapons}}
+*Unlocked at Town Hall 12, the [[Town Hall/Giga Tesla|Giga Tesla]] is an addition to the Town Hall that allows it to defend itself when attacked. It can target multiple enemies and explode with high damage when destroyed.
+*Unlocked at Town Hall 13, the [[Town Hall/Giga Inferno|Giga Inferno]] is a direct upgrade that replaces the Giga Tesla with a continuously-firing Inferno Tower while adding a slowdown effect to the death bomb.
+**The Giga Inferno remains as the weapon of Town Halls 14 through 16 but with a different appearance.
+**At Town Hall 14, the death bomb's slowdown effect is replaced with a poison effect, doing damage over time on top of the slowdown. Town Halls 15 and 16 improve the Giga Inferno's hitpoints, damage per second, and potency of the death bomb.
+*The Giga Weapons will be activated once damaged by a troop or spell, or when the village has reached 51% destruction. It is not deployed by a troop moving into its range.
+*Troops that target defenses ([[Giant]]s, [[Balloon]]s, [[Hog Rider]]s etc.) will not prioritize the Town Hall as a target until the Giga Weapons are activated.
+
+===Inferno Artillery===
+{{Main|Town Hall/Inferno Artillery}}
+*Unlocked at Town Hall 17, the [[Inferno Artillery]] replaces the Giga Inferno as the Town Hall's weapon. It requires the merging of Town Hall 16 with a level 7 [[Eagle Artillery]] to be constructed.
+*Instead of damaging multiple targets continuously, it now deals splash damage by shooting fireballs that create fiery pools on impact with the ground, which damages all enemies that stay within these areas. This allows the Inferno Artillery to affect more than four enemies it directly targets. It automatically triggers at the start of the battle unlike previous Town Hall weapons.
+*Unlike previous levels, the Inferno Artillery does not have a death bomb, which separated from the Town Hall as a [[Giga Bomb]] that knocks back troops.
+
+==Guardians==
+{{Main|Town Hall/Guardians}}
+*Unlocked at Town Hall 18, Guardians are special defensive troops that patrol the area around the Town Hall. They replace the Inferno Artillery.
+*With the removal of the weapon at Town Hall 18, the Town Hall is no longer considered a defensive building at this level.
+
+==Town Hall Boost==
+[[File:THUpgraded.gif|100px|center|link=]]
+*When players upgrade to Town Hall 4 or higher, they receive temporary boosts for a few days when logging in to the game after the upgrade is complete. These boosts are as follows:
+{|class="wikitable hero-statistics-table" id="grandwarden-table-1" style="text-align: center; width: 100%;" border="0" cellpadding="1" cellspacing="1"
+!Boost!!Icon!!Effect
+|-
+|'''Power Boost'''
+|style="width:80px"|[[File:Town Hall Power Boost.png|50px|link=]]
+|Starting from Town Hall 4, the player's troops and spells are temporarily boosted to the maximum level allowed by their Town Hall level (as if under the effect of a {{MagicItem|Power Potion}}).
+|-
+|'''Resource Boost'''
+|style="width:80px"|[[File:Town Hall Resource Boost.png|50px|link=]]
+|Starting from Town Hall 4, the player's resource collectors are temporarily boosted to work at double their normal rate (as if under the effect of a {{MagicItem|Resource Potion}}).
+|-
+|'''Star Bonus Boost'''
+|style="width:80px"|[[File:Town Hall Star Bonus Boost.png|50px|link=]]
+|Starting from Town Hall 4, the player's [[Star Bonus]] is temporarily boosted to 4x the normal amount. This boost does not stack with any existing Star Bonus events; if active during a Star Bonus event, the best boost will override the other (so this boost would override a 2x or 3x Star Bonus event, and would be overridden by a 5x Star Bonus event).
+|-
+|'''Hero Boost'''
+|style="width:80px"|[[File:Town Hall Hero Boost.png|50px|link=]]
+|Starting from Town Hall 8, the player's Heroes and Pets are temporarily boosted to the maximum level allowed by the Town Hall (as if under the effect of a {{MagicItem|Hero Potion}}).
+|}
+*The boosts last for 3 to 5 days, depending on the player's new Town Hall level:
+**Upgrading to Town Hall 4 to 6 will give a boost of 3 days;
+**Upgrading to Town Hall 7 to 9 will give a boost of 4 days; and
+**Upgrading to Town Hall 10 and above will give a boost of 5 days.
+*Because the boosts automatically start when the player logs in to the game, players will not lose time on the boosts if their Town Hall has already been upgraded for some time.
+*If the Town Hall is upgraded again while a boost is active, the boost will be extended by however long the boost would last. For instance, upgrading to Town Hall 5 after 2 days at Town Hall 4 will carry over the remaining day of boost to Town Hall 5 (for 4 days worth of boost at Town Hall 5).
+*The Power and Hero boosts also applies to the player's Builder Base army, so units there will also be temporarily powered up.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable|TH1=1}}
+{{BuildingSize|4x4}}
+
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!TH Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Gold|Build Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+!style="white-space:nowrap;"|Maximum Number of<br/>Buildings Available*
+!style="white-space:nowrap;"|Maximum Number of<br/>Traps Available
+|-
+|1
+|400
+|N/A
+|N/A
+|N/A
+|13<!-- Available at this TH: Town Hall, 1 Cannon, 1 Gold Mine, 1 Gold Storage, 1 Elixir Collector, 1 Elixir Storage, 1 Army Camp, 1 Barracks, 5 Builder's Huts-->
+|N/A
+|-
+|2
+|800
+|class="GoldPass bCost"|1,000
+|class="GoldPass bTime" style="white-space:nowrap;"|10s
+|class="GoldPass EXP"|3
+|17<!-- +4: +1 Cannon, +1 Archer Tower, +1 Gold Mine, +1 Elixir Collector-->
+|N/A
+|-
+|3
+|1,600
+|class="GoldPass bCost"|4,000
+|class="GoldPass bTime" style="white-space:nowrap;"|30m
+|class="GoldPass EXP"|42
+|25<!-- +8: +1 Mortar, +1 Gold Mine, +1 Elixir Collector, +1 Gold Storage, +1 Elixir Storage, +1 Army Camp, +1 Laboratory, +1 Clan Castle -->
+|2<!-- +2: +2 Bombs -->
+|-
+|4
+|2,000
+|class="GoldPass bCost"|25,000
+|class="GoldPass bTime" style="white-space:nowrap;"|3h
+|class="GoldPass EXP"|103
+|29<!-- +4: +1 Archer Tower, +1 Air Defense, +1 Gold Mine, +1 Elixir Collector-->
+|4<!-- +2: +2 Spring Traps-->
+|-
+|5
+|2,400
+|class="GoldPass bCost"|150,000
+|class="GoldPass bTime" style="white-space:nowrap;"|6h
+|class="GoldPass EXP"|146
+|36<!-- +7: +1 Cannon, +1 Archer Tower, +1 Wizard Tower, +1 Gold Mine, +1 Elixir Collector, +1 Army Camp, +1 Spell Factory-->
+|8<!-- +4: +2 Bombs, +2 Air Bombs-->
+|-
+|6
+|2,800
+|class="GoldPass bCost"|500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|12h
+|class="GoldPass EXP"|207
+|42<!-- +6: +1 Mortar, +1 Wizard Tower, +1 Air Defense, +1 Air Sweeper, +1 Gold Mine, +1 Elixir Collector-->
+|11<!-- +3: +2 Spring Traps, +1 Giant Bomb-->
+|-
+|7
+|3,300
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|18h
+|class="GoldPass EXP"|254
+|54<!-- +12: +2 Cannons, +1 Archer Tower, +1 Mortar, +1 Air Defense, +2 Hidden Teslas, +1 Dark Elixir Storage, +1 Dark Elixir Drill, +1 Army Camp, +1 Dark Barracks, +1 Hero Hall-->
+|15<!-- +4: +2 Bombs, +1 Giant Bomb, +1 Seeking Air Mine-->
+|-
+|8
+|3,900
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|1d
+|class="GoldPass EXP"|293
+|64<!-- +10: +1 Archer Tower, +1 Mortar, +1 Wizard Tower, +1 Hidden Tesla, +1 Bomb Tower, +1 Gold Storage, +1 Elixir Storage, +1 Dark Elixir Drill, +1 Dark Spell Factory, +1 Blacksmith -->
+|23<!-- +8: +2 Spring Traps, +1 Giant Bomb, +2 Air Bombs, +1 Seeking Air Mine, +2 Skeleton Traps-->
+|-
+|9
+|4,600
+|class="GoldPass bCost"|2,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|2d
+|class="GoldPass EXP"|415
+|77<!-- +13: +1 Archer Tower, +1 Air Defense, +1 Wizard Tower, +1 Air Sweeper, +1 Hidden Tesla, +2 X-Bows, +1 Gold Storage, +1 Elixir Storage, +1 Gold Mine, +1 Elixir Collector, +1 Dark Elixir Drill, +1 Helper Hut-->
+|26<!-- +3: +1 Giant Bomb, +2 Seeking Air Mines-->
+|-
+|10
+|5,500
+|class="GoldPass bCost"|3,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|3d
+|class="GoldPass EXP"|509
+|84<!-- +7: +1 Cannon, +1 Archer Tower, +1 Bomb Tower, +1 X-Bow, +2 Inferno Towers, +1 B.O.B's Hut-->
+|30<!-- +4: +1 Air Bomb, +1 Giant Bomb, +1 Seeking Air Mine, +1 Skeleton Trap-->
+|-
+|11
+|6,800
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d
+|class="GoldPass EXP"|657
+|89<!-- +5: +1 Cannon, +1 Archer Tower, +1 Wizard Tower, +1 X-Bow, +1 Eagle Artillery-->
+|31<!-- +1 Tornado Trap-->
+|-
+|12
+|7,500
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|6d
+|class="GoldPass EXP"|720
+|92<!-- +3: +1 Hidden Tesla, +1 Inferno Tower, +1 Workshop-->
+|36<!-- +5: +2 Spring Traps, +1 Giant Bomb, +1 Air Bomb, +1 Seeking Air Mine-->
+|-
+|13
+|8,200
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|94<!-- +2 Scattershots-->
+|39<!-- +3: +1 Bomb, +1 Spring Trap, +1 Seeking Air Mine-->
+|-
+|14
+|8,900
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d 12h
+|class="GoldPass EXP"|804
+|95<!-- +1 Pet House-->
+|44<!-- +5: +1 Bomb, +1 Giant Bomb, +1 Air Bomb, +1 Seeking Air Mine, +1 Skeleton Trap-->
+|-
+|15
+|9,600
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|98<!-- +3: +2 Spell Towers, +1 Monolith -->
+|44
+|-
+|16
+|10,000
+|class="GoldPass bCost"|15,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|9d
+|class="GoldPass EXP"|881
+|94<!-- -4: -2 from 2 Multi-Archer Tower merges, -2 from 2 Ricochet Cannon merges-->
+|44
+|-
+|17
+|10,400
+|class="GoldPass bCost"|16,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|10d
+|class="GoldPass EXP"|929
+|93<!-- -1: -1 from Eagle merge into TH, -1 from Multi-Archer Tower merge, -1 from Ricochet Cannon merge, -1 from Multi-Gear Tower merge, +1 Archer Tower, +2 Firespitters-->
+|47<!-- +3: +1 Giant Bomb, +1 Seeking Air Mine, +1 Giga Bomb-->
+|-
+|18
+|10,800
+|class="GoldPass bCost"|25,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|12d
+|class="GoldPass EXP"|1,018
+|94<!-- +1: -2 from Super Wizard Tower merge, +1 Wizard Tower, +1 Revenge Tower, +1 Crafting Station-->
+|47
+|}
+<nowiki>*</nowiki>Notes on the maximum number of buildings available:<br>1. This number includes the Town Hall itself and all five [[Builder's Hut]]s, along with the [[B.O.B's Hut]] at Town Hall 10 and above.<br>2. The [[Clan Castle]] is considered to be unlocked at Town Hall 3, although rare circumstances allow it to be rebuilt earlier.<br>3. This number assumes all buildings available in the Shop have been placed and that all merges have been completed.<br>4. [[Hero Banner]]s are not counted as buildings in this total. <!-- (?) discuss -->
+
+===Storage Capacity of the Town Hall===
+{|class="wikitable mw-collapsible" border="0" cellpadding="1" cellspacing="1" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;"
+|+Town Hall - Available Resources
+|-
+!scope="row" style="width:7.5%;" class="colheader"|TH Level 
+!scope="col" style="width:7.5%;" class="colheader"|Gold Available<br/>{{Res|Gold}}
+!scope="col" style="width:7.5%;" class="colheader"|Elixir Available<br/>{{Res|Elixir}}
+!scope="col" style="width:7.5%;" class="colheader"|Dark Elixir Available<br/>{{Res|Dark Elixir}}
+!Gold/Elixir Available Including Storages
+!Dark Elixir Available Including Storages
+|-
+!scope="row" class="rowheader"|1
+|1,000||1,000||-
+|2,500
+| -
+|-
+!scope="row" class="rowheader"|2
+|2,500||2,500||-
+|8,500
+| -
+|-
+!scope="row" class="rowheader"|3
+|10,000||10,000||-
+|100,000
+| -
+|-
+!scope="row" class="rowheader"|4
+|50,000||50,000||-
+|500,000
+| -
+|-
+!scope="row" class="rowheader"|5
+|100,000||100,000||-
+|1,000,000
+| -
+|-
+!scope="row" class="rowheader"|6
+|300,000||300,000||-
+|2,000,000
+| -
+|-
+!scope="row" class="rowheader"|7
+|500,000||500,000||2,500
+|4,000,000
+|20,000
+|-
+!scope="row" class="rowheader"|8
+|750,000||750,000||5,000
+|6,000,000
+|80,000
+|-
+!scope="row" class="rowheader"|9
+|1,000,000||1,000,000||10,000
+|8,000,000
+|190,000
+|-
+!scope="row" class="rowheader"|10
+|1,500,000||1,500,000||20,000 
+|8,500,000
+|200,000
+|-
+!scope="row" class="rowheader"|11
+|2,000,000||2,000,000||20,000
+|10,000,000
+|200,000
+|-
+!12
+|2,000,000
+|2,000,000
+|20,000
+|14,000,000
+|240,000
+|-
+!13
+|2,000,000
+|2,000,000
+|20,000
+|18,000,000
+|300,000
+|-
+! scope="row" class="rowheader" |14
+|3,000,000||3,000,000||30,000
+|21,000,000
+|360,000
+|-
+!15
+|3,000,000
+|3,000,000
+|30,000
+|23,000,000
+|390,000
+|-
+! scope="row" class="rowheader" |16
+|4,000,000||4,000,000||40,000
+|26,000,000
+|430,000
+|-
+!17
+|4,000,000
+|4,000,000
+|40,000
+|28,000,000
+|460,000
+|-
+! scope="row" class="rowheader" |18
+|5,000,000||5,000,000||50,000
+|31,000,000
+|500,000
+|}
+
+===Resource Buildings===
+<tabber>
+Number Available=
+Upgrading your Town Hall unlocks the following number of {{H|Resource Buildings}}; see the page for each building for details.
+{|class="wikitable mw-collapsible" data-expandtext="+" data-collapsetext="–" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+|+Town Hall - Maximum Number of Buildings
+|-
+!scope="row" style="width:10%;" class="colheader"|TH Level
+!scope="col" style="width:15%;" class="colheader"|{{H|Gold Mine}} & {{H|Elixir Collector}}
+!scope="col" style="width:15%;" class="colheader"|[[Dark Elixir Drill]]
+!scope="col" style="width:15%;" class="colheader"|{{H|Gold Storage|Gold}} & {{H|Elixir Storage}}
+!scope="col" style="width:15%;" class="colheader"|[[Dark Elixir Storage]]
+!scope="col" style="width:15%;" class="colheader"|[[Clan Castle]]
+!scope="col" style="width:15%;" class="colheader"|[[Helper Hut]]
+|-
+!scope="row" class="rowheader"|1
+|1|| -||1|| -|| -|| -
+|-
+!scope="row" class="rowheader"|2
+|2|| -||1|| -||1*|| -
+|-
+!scope="row" class="rowheader"|3
+|3|| -||2|| -||1|| -
+|-
+!scope="row" class="rowheader"|4
+|4|| -||2|| -||1|| -
+|-
+!scope="row" class="rowheader"|5
+|5|| -||2|| -||1|| -
+|-
+!scope="row" class="rowheader"|6
+|6|| -||2|| -||1|| -
+|-
+!scope="row" class="rowheader"|7
+|6||1||2||1||1|| -
+|-
+!scope="row" class="rowheader"|8
+|6||2||3||1||1|| -
+|-
+!scope="row" class="rowheader"|9-17
+|7||3||4||1||1||1
+|}
+<nowiki>*</nowiki>Only obtainable through purchasing the Elixir in a resource pack or during a discount, as the Elixir Storage capacity by itself is insufficient to rebuild the Clan Castle at this Town Hall level.
+
+See also: {{H|Resource Buildings}}
+|-|
+Maximum Levels=
+Upgrading your Town Hall allows the following {{H|Resource Buildings}} to be upgraded to these levels; see the page for each structure to learn what each upgrade brings. The [[Helper Hut]] has no levels, but its residents can be upgraded.
+{|class="wikitable mw-collapsible" data-expandtext="+" data-collapsetext="–" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+|+Town Hall - Building Max Level
+|-
+!scope="row" style="width:10%;" class="colheader"|TH Level
+!scope="col" style="width:18%;" class="colheader"|{{H|Gold Mine}} & {{H|Elixir Collector}}
+!scope="col" style="width:18%;" class="colheader"|[[Dark Elixir Drill]]
+!scope="col" style="width:18%;" class="colheader"|{{H|Gold Storage|Gold}} & {{H|Elixir Storage}}
+!scope="col" style="width:18%;" class="colheader"|[[Dark Elixir Storage]]
+!scope="col" style="width:18%;" class="colheader"|[[Clan Castle]]
+|-
+!scope="row" class="rowheader"|1
+|2|| -||1|| -|| -
+|-
+!scope="row" class="rowheader"|2
+|4|| -||3|| -||1*
+|-
+!scope="row" class="rowheader"|3
+|6|| -||6|| -||1
+|-
+!scope="row" class="rowheader"|4
+|8|| -||8|| -||2
+|-
+!scope="row" class="rowheader"|5
+|10|| -||9|| -||2
+|-
+!scope="row" class="rowheader"|6
+|10|| -||10|| -||3
+|-
+!scope="row" class="rowheader"|7
+|11||3||11||2||3
+|-
+!scope="row" class="rowheader"|8
+|12||3||11||4||4
+|-
+!scope="row" class="rowheader"|9
+|12||6||11||6||5
+|-
+!scope="row" class="rowheader"|10
+|13||7||11||6||6
+|-
+!scope="row" class="rowheader"|11
+|14||8||12||6||7
+|-
+!scope="row" class="rowheader"|12
+|15||9||13||7||8
+|-
+!scope="row" class="rowheader"|13
+|15||9||14||8||9
+|-
+!scope="row" class="rowheader"|14
+|16||10||15||9||10
+|-
+!scope="row" class="rowheader"|15
+|16||10||16||10||11
+|-
+!scope="row" class="rowheader"|16
+|17||11||17||11||12
+|-
+!scope="row" class="rowheader"|17
+|17||11||18||12||13
+|-
+!scope="row" class="rowheader"|18
+|17 + 3{{Res|Supercharge}}||11 + 3{{Res|Supercharge}}||19||13||14
+|}
+<nowiki>*</nowiki>Only obtainable through purchasing the Elixir in a resource pack or during a discount, as the Elixir Storage capacity by itself is insufficient to rebuild the Clan Castle at this Town Hall level.<br>
+{{Res|Supercharge}} [[Supercharge]] provides extra Charge levels to certain buildings. They are temporary and will be removed once a new level is added to that building.
+
+See also: {{H|Resource Buildings}}
+</tabber>
+
+===Army Buildings and Heroes===
+<tabber>
+Number Available=
+Upgrading your Town Hall unlocks the following number of {{H|Army Buildings}}; see the page for each building for details.
+{|class="wikitable mw-collapsible" data-expandtext="+" data-collapsetext="–" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+|+Town Hall - Maximum Number of Buildings
+|-
+!scope="row" style="width:8%;" class="colheader"|<small>TH Level</small>
+!scope="col" style="width:9%;" class="colheader"|<small>{{H|Army Camp}}</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Barracks]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Laboratory]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Spell Factory]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Dark Barracks]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Hero Hall]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Dark Spell Factory]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Blacksmith]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Workshop]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Pet House]]</small>
+|-
+!scope="row" class="rowheader"|1
+|1||1|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|2
+|1||1|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|3
+|2||1||1|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|4
+|2||1||1|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|5
+|3||1||1||1|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|6
+|3||1||1||1|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|7
+|4||1||1||1||1||1|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|8
+|4||1||1||1||1||1||1||1|| -|| -
+|-
+!scope="row" class="rowheader"|9
+|4||1||1||1||1||1||1||1|| -|| -
+|-
+!scope="row" class="rowheader"|10
+|4||1||1||1||1||1||1||1|| -|| -
+|-
+!scope="row" class="rowheader"|11
+|4||1||1||1||1||1||1||1|| -|| -
+|-
+!scope="row" class="rowheader"|12
+|4||1||1||1||1||1||1||1||1|| -
+|-
+!scope="row" class="rowheader"|13
+|4||1||1||1||1||1||1||1||1|| -
+|-
+!scope="row" class="rowheader"|14-18
+|4||1||1||1||1||1||1||1||1||1
+|}
+
+See also: {{H|Army Buildings}}
+|-|
+Building Maximum Levels=
+Upgrading your Town Hall allows the following {{H|Army Buildings}} to be upgraded to these levels; see the page for each structure to learn what each upgrade brings.
+{|class="wikitable mw-collapsible" data-expandtext="+" data-collapsetext="–" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+|+Town Hall - Building Max Level
+|-
+!scope="row" style="width:5%;" class="colheader"|<small>TH Level</small>
+!scope="col" style="width:10%;" class="colheader"|<small>{{H|Army Camp}}</small>
+!scope="col" style="width:10%;" class="colheader"|<small>[[Barracks]]</small>
+!scope="col" style="width:10%;" class="colheader"|<small>[[Laboratory]]</small>
+!scope="col" style="width:10%;" class="colheader"|<small>[[Spell Factory]]</small>
+!scope="col" style="width:10%;" class="colheader"|<small>[[Dark Barracks]]</small>
+!scope="col" style="width:9%;" class="colheader"|<small>[[Hero Hall]]</small>
+!scope="col" style="width:10%;" class="colheader"|<small>[[Dark Spell Factory]]</small>
+!scope="col" style="width:10%;" class="colheader"|<small>[[Blacksmith]]</small>
+!scope="col" style="width:10%;" class="colheader"|<small>[[Workshop]]</small>
+!scope="col" style="width:10%;" class="colheader"|<small>[[Pet House]]</small>
+|-
+!scope="row" class="rowheader"|1
+|1||3|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|2
+|2||4|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|3
+|3||5||1|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|4
+|4||6||2|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|5
+|5||7||3||1|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|6
+|6||8||4||2|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|7
+|6||9||5||3||2||1|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|8
+|6||10||6||3||4||2||2||1|| -|| -
+|-
+!scope="row" class="rowheader"|9
+|7||11||7||4||6||3||4||2|| -|| -
+|-
+!scope="row" class="rowheader"|10
+|8||12||8||5||7||4||5||3|| -|| -
+|-
+!scope="row" class="rowheader"|11
+|9||13||9||6||8||5||5||4|| -|| -
+|-
+!scope="row" class="rowheader"|12
+|10||14||10||6||9||6||6||5||3|| -
+|-
+!scope="row" class="rowheader"|13
+|11||15||11||7||10||7||6||6||5|| -
+|-
+!scope="row" class="rowheader"|14
+|11||16||12||7||11||8||7||7||6||4
+|-
+!scope="row" class="rowheader"|15
+|12||17||13||8||12||9||7||8||7||8
+|-
+!scope="row" class="rowheader"|16
+|12||18||14||8||12||10||7||9||8||10
+|-
+!scope="row" class="rowheader"|17
+|12||18||15||8||12||11||7||9||8||11
+|-
+!scope="row" class="rowheader"|18
+|12||19||16||9||12||12||7||9||8||12
+|}
+
+See also: {{H|Army Buildings}}
+</tabber>
+
+===Defensive Buildings and Traps===
+<tabber>
+Defenses Available=
+Upgrading your Town Hall unlocks the following number of {{H|Defensive Buildings}}; see the page for each building for details.
+{|class="wikitable mw-collapsible" data-expandtext="+" data-collapsetext="–" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+|+Town Hall - Maximum Number of Buildings
+|-
+!scope="row" style="width:10%;" class="colheader"|<small>TH Level</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Cannon}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Archer Tower}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Walls|Wall}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Mortar]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Air Defense}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Wizard Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Air Sweeper]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Hidden Tesla}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Bomb Tower}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|X-Bow}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Inferno Tower}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Eagle Artillery]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Giga Tesla]]</small>
+|-
+!scope="row" class="rowheader"|1
+|1|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|2
+|2||1||25|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|3
+|2||1||50||1|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|4
+|2||2||75||1||1|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|5
+|3||3||100||1||1||1|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|6
+|3||3||125||2||2||2||1|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|7
+|5||4||175||3||3||2||1||2|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|8
+|5||5||225||4||3||3||1||3||1|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|9
+|5||6||250||4||4||4||2||4||1||2|| -|| -|| -
+|-
+!scope="row" class="rowheader"|10
+|6||7||275||4||4||4||2||4||2||3||2|| -|| -
+|-
+!scope="row" class="rowheader"|11
+|7||8||300||4||4||5||2||4||2||4||2||1|| -
+|-
+!scope="row" class="rowheader"|12
+|7||8||300||4||4||5||2||5||2||4||3||1||1
+|-
+!scope="row" class="rowheader"|13-15
+|7||8||325||4||4||5||2||5||2||4||3||1|| -
+|-
+!scope="row" class="rowheader"|16
+|3*||4*||325||4||4||5||2||5||2||4||3||1|| -
+|-
+!scope="row" class="rowheader"|17
+|0*||2*||325||4||4||5||2||5||2||4||3||0*|| -
+|-
+!scope="row" class="rowheader"|18
+| -||2||325||4||4||2*||2||5||2||4||3|| -|| -
+|-
+!scope="row" style="width:17.5%;" class="colheader"|<small>TH Level</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Giga Inferno]] †</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Scattershot]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Builder's Hut]] #</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Spell Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Monolith]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Multi-Archer Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Ricochet Cannon]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Inferno Artillery]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Multi-Gear Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Firespitter]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Revenge Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Crafting Station]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Super Wizard Tower}}</small>
+|-
+!scope="row" class="rowheader"|1-12
+| -|| -||5|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|13
+|1||2||5|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|14
+|1||2||5|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|15
+|1||2||5||2||1|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|16
+|1||2||5||2||1||2||2|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|17
+| -||2||5||2||1||3||3||1||1||2|| -|| -|| -
+|-
+!scope="row" class="rowheader"|18
+| -||2||5||2||1||3||3|| -||1||2||1||1||2
+|}
+<nowiki>*</nowiki>Assumes that all building merges have been completed.<br>
+<nowiki>†</nowiki>It has different variations depending on the Town Hall level.<br>
+<nowiki>#</nowiki>Below Town Hall 14, Builder's Huts can be placed, however they cannot be weaponized.
+
+See also: {{H|Defensive Buildings}}
+|-|
+Defense Maximum Levels=
+Upgrading your Town Hall allows the following {{H|Defensive Buildings}} to be upgraded to these levels; see the page for each structure to learn what each upgrade brings:
+{|class="wikitable mw-collapsible" data-expandtext="+" data-collapsetext="–" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+|+Town Hall - Building Max Level
+|-
+!scope="row" style="width:10%;" class="colheader"|<small>TH Level</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Cannon}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Archer Tower}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Wall}}**</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Mortar]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Air Defense}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Wizard Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Air Sweeper]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Hidden Tesla}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Bomb Tower}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|X-Bow}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Inferno Tower}}</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Eagle Artillery]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Giga Tesla]]</small>
+|-
+!scope="row" class="rowheader"|1
+|2*|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|2
+|3||2||2|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|3
+|4||3||3||1|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|4
+|5||4||4||2||2|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|5
+|6||6||5||3||3||2|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|6
+|7||7||6||4||4||3||2|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|7
+|8||8||7||5||5||4||3||3|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|8
+|10||10||8||6||6||6||4||6||2|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|9
+|11||11||10||7||7||7||5||7||3||3|| -|| -|| -
+|-
+!scope="row" class="rowheader"|10
+|13||13||11||8||8||9||6||8||4||4||3|| -|| -
+|-
+!scope="row" class="rowheader"|11
+|15||15||12||10||9||10||7||9||6||5||5||2|| -
+|-
+!scope="row" class="rowheader"|12
+|17||17||13||12||10||11||7||10||7||6||6||3||1
+|-
+!scope="row" class="rowheader"|13
+|19||19||14||13||11||13||7||12||8||8||7||4|| -
+|-
+!scope="row" class="rowheader"|14
+|20||20||15||14||12||14||7||13||9||9||8||5|| -
+|-
+!scope="row" class="rowheader"|15
+|21||21||16||15||13||15||7||14||10||10||9||6|| -
+|-
+!scope="row" class="rowheader"|16
+|21||21||17||16||14||16||7||15||11||11||10||7|| -
+|-
+!scope="row" class="rowheader"|17
+|21||21||18||17||15||17||7||16||12||style="white-space:nowrap;"|12 + 2{{Res|Supercharge}}||11|| -|| -
+|-
+!scope="row" class="rowheader"|18
+| -||21||19||18||style="white-space:nowrap;"|16 + 2{{Res|Supercharge}}||17||7||17||style="white-space:nowrap;"|13 + 2{{Res|Supercharge}}||style="white-space:nowrap;"|12 + 2{{Res|Supercharge}}||12|| -|| -
+|-
+!scope="row" style="width:17.5%;" class="colheader"|<small>TH Level</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Giga Inferno]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Scattershot]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Builder's Hut]] #</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Spell Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Monolith]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Ricochet Cannon]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Multi-Archer Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Inferno Artillery]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Multi-Gear Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Firespitter]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Revenge Tower]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>[[Crafting Station]]</small>
+!scope="col" style="width:7.5%" class="colheader"|<small>{{H|Super Wizard Tower}}</small>
+|-
+!scope="row" class="rowheader"|1-12
+| -|| -||1|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|13
+|1||2|||1|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|14
+|1||3||4|| -|| -|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|15
+|1||4||5||3||2|| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|16
+|1||5||6||3||3||2||2|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|17
+| -||style="white-space:nowrap;"|6 + 2{{Res|Supercharge}}||style="white-space:nowrap;"|7 + 2{{Res|Supercharge}}||4||style="white-space:nowrap;"|4 + 2{{Res|Supercharge}}||3||3||5||2||2|| -|| -|| -
+|-
+!scope="row" class="rowheader"|18
+| -||style="white-space:nowrap;"|6 + 2{{Res|Supercharge}}||style="white-space:nowrap;"|7 + 2{{Res|Supercharge}}||4||style="white-space:nowrap;"|4 + 2{{Res|Supercharge}}||style="white-space:nowrap;"|4 + 2{{Res|Supercharge}}||style="white-space:nowrap;"|4 + 2{{Res|Supercharge}}|| -||style="white-space:nowrap;"|3 + 2{{Res|Supercharge}}||3||2||1||style="white-space:nowrap;"|2 + 2{{Res|Supercharge}}
+|}
+<nowiki>*</nowiki>Game files reveal that the Cannon can be upgraded to level 2 at Town Hall 1; however, this normally cannot be done before the Town Hall is upgraded to level 2.<br>
+<nowiki>**</nowiki>Only 200 of the 325 walls can be upgraded to level 19.<br><!--
+ Include the above (double-bullet) note whenever an update allows a limited number of walls to be at a certain level. When all walls can be upgraded to that level, comment it out, but this can also work if and when a lower or future Town Hall level gets a similar gimmick.
+<nowiki>†</nowiki>Maximum level is the maximum level of that Town Hall's variation on that weapon.<br>-->
+<nowiki>#</nowiki>Level 1 corresponds to non-weaponized Builder's Huts.<br>
+{{Res|Supercharge}} [[Supercharge]] provides extra Charge levels to certain buildings. They are temporary and will be removed once a new level is added to that building.
+
+See also: {{H|Defensive Buildings}}
+|-|
+Traps Available=
+Upgrading your Town Hall unlocks the following number of {{H|Traps}}; see the page for each trap for details.
+{|class="wikitable mw-collapsible" data-expandtext="+" data-collapsetext="–" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+|+Town Hall - Maximum Number of Traps
+|-
+!scope="row" style="width:10%;" class="colheader"|TH Level
+!scope="col" style="width:11%;" class="colheader"|[[Bomb]]
+!scope="col" style="width:11%;" class="colheader"|{{H|Spring Trap}}
+!scope="col" style="width:11%;" class="colheader"|[[Air Bomb]]
+!scope="col" style="width:11%;" class="colheader"|[[Giant Bomb]]
+!scope="col" style="width:11%;" class="colheader"|[[Seeking Air Mine]]
+!scope="col" style="width:11%;" class="colheader"|[[Skeleton Trap]]
+!scope="col" style="width:11%;" class="colheader"|[[Tornado Trap]]
+!scope="col" style="width:11%;" class="colheader"|[[Giga Bomb]]
+|-
+!scope="row" class="rowheader"|1-2
+| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|3
+|2|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|4
+|2||2|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|5
+|4||2||2|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|6
+|4||4||2||1|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|7
+|6||4||2||2||1|| -|| -|| -
+|-
+!scope="row" class="rowheader"|8
+|6||6||4||3||2||2|| -|| -
+|-
+!scope="row" class="rowheader"|9
+|6||6||4||4||4||2|| -|| -
+|-
+!scope="row" class="rowheader"|10
+|6||6||5||5||5||3|| -|| -
+|-
+!scope="row" class="rowheader"|11
+|6||6||5||5||5||3||1|| -
+|-
+!scope="row" class="rowheader"|12
+|6||8||6||6||6||3||1|| -
+|-
+!scope="row" class="rowheader"|13
+|7||9||6||6||7||3||1|| -
+|-
+!scope="row" class="rowheader"|14-16
+|8||9||7||7||8||4||1|| -
+|-
+!scope="row" class="rowheader"|17
+|8||9||7||8||9||4||1||1
+|-
+!scope="row" class="rowheader"|18
+|8||9||8||8||9||4||1||1
+|}
+
+See also: {{H|Traps}}
+|-|
+Trap Maximum Levels=
+Upgrading your Town Hall allows the following {{H|Traps}} to be upgraded to these levels; see the page for each trap to learn what each upgrade brings:
+{|class="wikitable mw-collapsible" data-expandtext="+" data-collapsetext="–" id="townhall-max-buildings-table1" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+|+Town Hall - Trap Max Level
+|-
+!scope="row" style="width:10%;" class="colheader"|TH Level
+!scope="col" style="width:11%;" class="colheader"|[[Bomb]]
+!scope="col" style="width:11%;" class="colheader"|{{H|Spring Trap}}
+!scope="col" style="width:11%;" class="colheader"|[[Air Bomb]]
+!scope="col" style="width:11%;" class="colheader"|[[Giant Bomb]]
+!scope="col" style="width:11%;" class="colheader"|[[Seeking Air Mine]]
+!scope="col" style="width:11%;" class="colheader"|[[Skeleton Trap]]
+!scope="col" style="width:11%;" class="colheader"|[[Tornado Trap]]
+!scope="col" style="width:11%;" class="colheader"|[[Giga Bomb]]
+|-
+!scope="row" class="rowheader"|1-2
+| -|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|3
+|2|| -|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|4
+|2||1|| -|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|5
+|3||1||2|| -|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|6
+|3||1||2||2|| -|| -|| -|| -
+|-
+!scope="row" class="rowheader"|7
+|4||2||3||2||1|| -|| -|| -
+|-
+!scope="row" class="rowheader"|8
+|5||3||3||3||1||2|| -|| -
+|-
+!scope="row" class="rowheader"|9
+|6||4||4||3||2||3|| -|| -
+|-
+!scope="row" class="rowheader"|10
+|7||5||4||4||3||4|| -|| -
+|-
+!scope="row" class="rowheader"|11
+|8||6||5||5||3||4||2|| -
+|-
+!scope="row" class="rowheader"|12
+|8||7||6||5||3||4||3|| -
+|-
+!scope="row" class="rowheader"|13
+|9||8||8||7||4||4||3|| -
+|-
+!scope="row" class="rowheader"|14
+|10||9||9||8||4||4||3|| -
+|-
+!scope="row" class="rowheader"|15
+|11||10||10||9||5||4||3|| -
+|-
+!scope="row" class="rowheader"|16
+|12||11||11||10||6||4||3|| -
+|-
+!scope="row" class="rowheader"|17
+|13||12||12||11||7||4||3||3
+|-
+!scope="row" class="rowheader"|18
+|14||13||13||11||7||5||3||3
+|}
+
+See also: {{H|Traps}}
+</tabber>
+
+===Loot Modifications===
+In standard [[Multiplayer Battles]], players get reduced loot for attacking Town Halls of a lower level, and increased loot for attacking Town Halls of a higher level. The following table describes these changes:
+
+{{Loot Availability|TownHall=Yes|class=wikitable mw-collapsible}}It is important when upgrading the Town Hall to consider the above table, because it may affect one's looting considerably. Because of this, players should upgrade as much as possible at the current Town Hall level before moving on to the next level.
+
+===Town Hall and Event Loot===
+The amount of loot available from [[Attack Challenges]] and certain events may vary by Town Hall level; at lower Town Hall levels, less loot will be available from them. The following table describes how event loot is modified:
+
+{{Loot Availability|Event=Yes|class=wikitable mw-collapsible}}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px" |<big>'''Bigger & Better'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Upgrade Town Hall to level 3||10||5
+|-
+|Upgrade Town Hall to level 5||100||10
+|-
+|Upgrade Town Hall to level 8||1,000||20
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Not So Easy This Time'''</big>
+|-
+|Destroy 10 weaponized Town Halls in Multiplayer battles||10||20
+|-
+|Destroy 100 weaponized Town Halls in Multiplayer battles||800||100
+|-
+|Destroy 2,000 weaponized Town Halls in Multiplayer battles||5,000||250
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Anti-Artillery'''</big>
+|-
+|Destroy 20 [[Eagle Artillery|Eagle]] and [[Town Hall/Inferno Artillery|Inferno Artilleries]] in Multiplayer battles||150||5
+|-
+|Destroy 200 Eagle and Inferno Artilleries in Multiplayer battles||300||10
+|-
+|Destroy 2,000 Eagle and Inferno Artilleries in Multiplayer battles||1,000||20
+|}
+{{IconDescriptions|Upgradable=Yes}}
+
+
+{{BuildingsMenuHV}}
+
+{{DEFAULTSORT:Base Layouts}}
+
+[[Category:Buildings]]
+[[Category:Resources]]
+[[Category:Defenses]]
+[[Category:Home Village]]
+[[de:Rathaus]]
+[[ru:Ратуша]]

@@ -1,0 +1,287 @@
+__NOEDITSECTION__
+{{Protection}}
+{{For|the troop|Headhunter}}
+{{For|the spell|Poison Spell}}
+{{For|the defensive building|Spell Tower{{!}}Poison Spell Tower}}
+[[File:Poison Lizard info.png|center|280px|link=]]
+
+<center>'''''"Always the fastest never the lastest, Poison Lizard spits slowing toxins at its [[Army|foes]]. Is it actually a venom lizard? Possibly, but who's brave enough to correct it?"'''''</center>
+
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Poison Lizard field.png|100px|link=]]<div>Level 1-15</div></div>
+</div>
+
+==Summary==
+*The Poison Lizard is the seventh [[Pets|pet]] unlocked when the [[Pet House]] is upgraded to level 7 which requires [[Town Hall]] 15.
+*The Poison Lizard attacks quickly at range with poisoned spit, which slows down affected [[Heroes]] and [[Troops]], in addition to causing them additional damage over time (as if they were hit by a [[Poison Spell]]). It can also spit at buildings, but this currently causes neither not any slowdown nor no poison damage over time.
+*{{PreferredTarget|PoisonLizard|Plural=Yes}}
+
+==Strategies==
+===Offensive Strategies===
+*The Poison Lizard excels at taking down enemy Heroes, so it can be paired with Heroes that intend to attack other enemy Heroes. It can fare reasonably against enemy [[Clan Castle]] troops and [[Skeleton Trap]]s, though it can only attack one target at a time and is thus prone to being overwhelmed. Pairing it with the [[Barbarian King]] or [[Archer Queen]] can be useful to back it up against swarms of troops (or against multiple Heroes at a time) since their abilities can spawn additional troops to attack.
+*The Poison Lizard boasts the highest damage per second of any Pet (when comparing Pets on an equal-level basis) even without its poisoning effect, so it can significantly increase the damage output of its Hero. However, its survivability is among the lowest of the Pets due to its low hitpoints.
+**To boost its survivability, one can pair it with the Barbarian King, which it will generally be able to stay behind and thus get shielded from most sources of damage. The [[Grand Warden]] as an alternative pick is also viable, provided he is himself backing up other troops or Heroes, since he and the Poison Lizard can stay behind other troops to be sufficiently protected. However, the Poison Lizard has lower range than the Warden so it will be exposed to enemy fire when the Warden is alone.
+*[[Headhunter|Headhunters]] can perform the same job as the Poison Lizard would for only 6 housing space, therefore, they are much more convenient to carry around, and they can be deployed anywhere.
+**However, Headhunters are vulnerable to [[Traps/Home Village|Traps]], so in this situation, the Poison Lizard would fare better.
+*The Poison Lizard has a slow first attacking speed, and cannot deal with large swarms such as the Skeletons from Skeleton Traps, so it is advised to use secondary sources of damage to protect the Poison Lizard.
+
+===Defensive Strategies===
+*Against a Poison Lizard that is protected by a Grand Warden's ability, they can be countered by stalling their movement. This can be achieved by the use of a [[Tornado Trap]], though one should consider whether protecting Heroes is worth using their only Tornado Trap for. An alternative for Town Hall 15 and above players would be to use a [[Poison Spell Tower]], which while less effective, is more versatile and potentially reusable.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target<br/>{{Res|Target}}
+!Targets<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+![[Pet House]] Level Required<br/>{{Res|Pet House}}
+!Range<br/>{{Res|Range}}
+!Special Ability<br />{{Res|Pet Ability}}
+|-
+|<abbr title="Only if such units are in range of its Hero, or if its Hero is not active; otherwise, defaults to Hero's Target">Heroes and Troops</abbr>
+|Ground & Air
+|Single Target
+|class="ModifierStat Speed"|36
+|class="AttackSpeed"|0.35s
+|7
+|4.5 tiles
+|<abbr title="Blobs of Poison slow down enemy heroes and troops">Bad Breath</abbr>
+|}
+
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br />{{Res|Level}}
+!Damage per Second<br />{{Res|Damage}}
+!Damage per Hit<br />{{Res|Damage}}
+!Poison Max Damage per Second<br />{{Res|Poison}}
+!Poison Speed Decrease<br />{{Res|Speed}}
+!Poison Attack Rate Decrease<br />{{Res|Attack Speed}}
+!Hitpoints<br />{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br />{{Res|Dark Elixir}}
+!Upgrade Time<br />{{Res|Time}}
+!Pet House Level Required<br />{{Res|Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|181
+|class="ModifierStat DPH"|63.35
+|80
+|26%
+|35%
+|class="ModifierStat HP"|1,400
+|N/A
+|N/A
+|7
+|-
+|2
+|class="ModifierStat DPS"|192
+|class="ModifierStat DPH"|67.2
+|80
+|26%
+|35%
+|class="ModifierStat HP"|1,450
+|class="GoldPass rCost"|60,000
+|class="GoldPass rTime"|1d
+|7
+|-
+|3
+|class="ModifierStat DPS"|203
+|class="ModifierStat DPH"|71.05
+|80
+|26%
+|35%
+|class="ModifierStat HP"|1,500
+|class="GoldPass rCost"|75,000
+|class="GoldPass rTime"|1d 12h
+|7
+|-
+|4
+|class="ModifierStat DPS"|214
+|class="ModifierStat DPH"|74.9
+|80
+|26%
+|35%
+|class="ModifierStat HP"|1,550
+|class="GoldPass rCost"|90,000
+|class="GoldPass rTime"|2d
+|7
+|-
+|5
+|class="ModifierStat DPS"|225
+|class="ModifierStat DPH"|78.75
+|100
+|34%
+|45%
+|class="ModifierStat HP"|1,600
+|class="GoldPass rCost"|100,000
+|class="GoldPass rTime"|2d 12h
+|7
+|-
+|6
+|class="ModifierStat DPS"|236
+|class="ModifierStat DPH"|82.6
+|100
+|34%
+|45%
+|class="ModifierStat HP"|1,650
+|class="GoldPass rCost"|110,000
+|class="GoldPass rTime"|3d
+|7
+|-
+|7
+|class="ModifierStat DPS"|247
+|class="ModifierStat DPH"|86.45
+|100
+|34%
+|45%
+|class="ModifierStat HP"|1,700
+|class="GoldPass rCost"|120,000
+|class="GoldPass rTime"|3d 12h
+|7
+|-
+|8
+|class="ModifierStat DPS"|258
+|class="ModifierStat DPH"|90.3
+|100
+|34%
+|45%
+|class="ModifierStat HP"|1,800
+|class="GoldPass rCost"|130,000
+|class="GoldPass rTime"|4d
+|7
+|-
+|9
+|class="ModifierStat DPS"|269
+|class="ModifierStat DPH"|94.15
+|100
+|34%
+|45%
+|class="ModifierStat HP"|1,900
+|class="GoldPass rCost"|140,000
+|class="GoldPass rTime"|4d 12h
+|7
+|-
+|10
+|class="ModifierStat DPS"|280
+|class="ModifierStat DPH"|98
+|120
+|38%
+|50%
+|class="ModifierStat HP"|2,050
+|class="GoldPass rCost"|150,000
+|class="GoldPass rTime"|5d
+|7
+|-
+|11
+|class="ModifierStat DPS"|291
+|class="ModifierStat DPH"|101.85
+|120
+|38%
+|50%
+|class="ModifierStat HP"|2,100
+|class="GoldPass rCost"|180,000
+|class="GoldPass rTime"|6d
+|11
+|-
+|12
+|class="ModifierStat DPS"|302
+|class="ModifierStat DPH"|105.7
+|120
+|38%
+|50%
+|class="ModifierStat HP"|2,150
+|class="GoldPass rCost"|200,000
+|class="GoldPass rTime"|7d
+|11
+|-
+|13
+|class="ModifierStat DPS"|313
+|class="ModifierStat DPH"|109.55
+|120
+|38%
+|50%
+|class="ModifierStat HP"|2,200
+|class="GoldPass rCost"|220,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|14
+|class="ModifierStat DPS"|324
+|class="ModifierStat DPH"|113.4
+|120
+|38%
+|50%
+|class="ModifierStat HP"|2,250
+|class="GoldPass rCost"|240,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|15
+|class="ModifierStat DPS"|335
+|class="ModifierStat DPH"|117.25
+|140
+|42%
+|55%
+|class="ModifierStat HP"|2,300
+|class="GoldPass rCost"|260,000
+|class="GoldPass rTime"|8d
+|11
+|}
+</div></center>
+
+==History==
+{|class="wikitable" style="width:100%"
+!Patch!!Description
+|-
+!October 8, 2022
+|Announced the Poison Lizard, with 10 levels. [[File:Poison_Lizard_field.png|75x75px]]
+|-
+!October 10, 2022
+|Added the Poison Lizard.
+|-
+!December 12, 2022
+|Its target search radius has been increased by 0.5 tiles, making it less likely to ignore nearby units and Heroes.
+|-
+!November 17, 2025
+|Added levels 11 to 15 Poison Lizard.
+|-
+!January 28, 2026
+|
+*Increased attack range from 3.5 tiles to 4.5 tiles. {{Res|Range}}
+*Increased hitpoints at all levels:
+**Level 1: 1,250 -> 1,400 {{Res|Hitpoint}}
+**Level 2: 1,300 -> 1,450 {{Res|Hitpoint}}
+**Level 3: 1,350 -> 1,500 {{Res|Hitpoint}}
+**Level 4: 1,400 -> 1,550 {{Res|Hitpoint}}
+**Level 5: 1,450 -> 1,600 {{Res|Hitpoint}}
+**Level 6: 1,500 -> 1,650 {{Res|Hitpoint}}
+**Level 7: 1,550 -> 1,700 {{Res|Hitpoint}}
+**Level 8: 1,600 -> 1,800 {{Res|Hitpoint}}
+**Level 9: 1,650 -> 1,900 {{Res|Hitpoint}}
+**Level 10: 1,700 -> 2,050 {{Res|Hitpoint}}
+**Level 11: 1,750 -> 2,100 {{Res|Hitpoint}}
+**Level 12: 1,800 -> 2,150 {{Res|Hitpoint}}
+**Level 13: 1,850 -> 2,200 {{Res|Hitpoint}}
+**Level 14: 1,900 -> 2,250 {{Res|Hitpoint}}
+**Level 15: 1,950 -> 2,300 {{Res|Hitpoint}}
+|}
+
+==Gallery==
+<gallery>
+Poison Lizard info 2.png
+</gallery>
+
+==Trivia==
+*The Poison Lizard resembles the in-life lizard species called "''Chlamydosaurus kingii"'' ([https://en.wikipedia.org/wiki/Frilled_lizard frilled lizard]). The frilled lizard is a lizard species native to northern Australia and southern New Guinea and possesses a large frill around its neck, which usually stays folded against the lizard's body The lizard uses its frill to scare off predators and display to other individuals. Unlike frilled lizards, the Poison Lizard appears to be poisonous.
+*The Poison Lizard is one of the Pet to be based on a real life animal alongside the [[Electro Owl]], [[Mighty Yak]], [[Frosty]], [[Diggy]], [[Spirit Fox]], [[Angry Jelly]], [[Sneezy]], and [[Greedy Raven]]. It is the first Pet to be based on a reptile.
+
+{{TroopsMenuHV}}
+[[Category:Pets]]
+[[Category:Home Village]]
+[[Category:Troops]]
+[[Category:Ground Troops]]
+
+[[de:Giftechse]]

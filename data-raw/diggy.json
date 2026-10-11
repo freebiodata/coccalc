@@ -1,0 +1,12 @@
+{
+ "id": "diggy",
+ "name": "Diggy",
+ "category": "pet",
+ "resource": "dark",
+ "resourceFromHeader": false,
+ "levels": null,
+ "countsByTH": null,
+ "source": "https://clashofclans.fandom.com/wiki/Diggy",
+ "lastEdited": "2026-08-30T20:10:47Z",
+ "ok": false
+}

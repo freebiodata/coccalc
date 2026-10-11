@@ -1,0 +1,44 @@
+{
+ "id": "super-wizard-tower",
+ "name": "Super Wizard Tower",
+ "category": "defense",
+ "resource": "gold",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 29000000,
+   "time": "13d",
+   "th": 18
+  },
+  {
+   "level": 2,
+   "cost": 30000000,
+   "time": "14d",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  2
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Super_Wizard_Tower/Home_Village",
+ "lastEdited": "2026-07-21T21:25:44Z",
+ "ok": true
+}

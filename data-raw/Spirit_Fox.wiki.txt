@@ -1,0 +1,200 @@
+{{Protection}}
+
+[[File:Spirit Fox info.png|center|280x280px|link=]]
+
+<center>'''''"An extremely shy creature, who’s happiest alone in the woods outside the {{H|Layouts|Village}}. When called to [[Multiplayer Battles|battle]], Spirit Fox fights fiercely alongside their [[Heroes|hero]] and helps them with a little invisibility."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div style="width:120px">[[File:Spirit Fox field.png|100px|link=]]<div>Level 1-10</div></div>
+</div>
+
+==Summary==
+*The Spirit Fox is the ninth [[Pets|pet]] unlocked when the [[Pet House]] is upgraded to level 9 (this requires [[Town Hall]] level 16).
+*The Spirit Fox resembles a cyan fox with varying degrees of cyan, has three tails and a long fur coat. Its feet, the tips of its tails, and the eyebrows are deep sea blue in color, with the color growing lighter in height, except for its body, on which it is aquamarine.
+*When deployed, the Spirit Fox turns both itself and its assigned [[Heroes|Hero]] invisible. The duration of invisibility depends on the level of the Spirit Fox. Once the prescribed duration expires, the invisibility will be reapplied after a 6-second cooldown.
+**The invisibility is only applied whenever the Spirit Fox is on the field. If it is removed from battle by a [[Recall Spell]], the Hero will not be able to turn invisible until the Spirit Fox is brought back onto the field. The Spirit Fox can apply invisibility solely to itself if its Hero is knocked out or recalled by a Recall Spell.
+**Effects that affect attack speed will not affect the cooldown of the invisibility ability.
+*{{PreferredTarget|HeroRadius|Target Radius=4.5|Plural=Yes}}
+
+==Strategies==
+===Offensive Strategies===
+*The Spirit Fox pairs incredibly well with the [[Royal Champion]] thanks to its ability which prevents the Royal Champion from being targeted at times, which increases the odds of the Royal Champion surviving. The Spirit Fox is able to jump over {{H|Walls}}, so will not lag behind the Royal Champion.
+*The Spirit Fox's Spirit Walk ability can be used to push the Hero into compartments with single target {{H|Inferno Tower}}s. The ability resets the Inferno Tower's beam every time it activates; giving the Hero or other troops time to destroy it. It should be noted that the 6 second cooldown enables the Inferno Tower to reach its highest damage stage for a split second, which allows it to cause serious damage to your Hero if it was locked on for the entire duration of visibility.
+*It should not be paired with the [[Archer Queen]] or the [[Grand Warden]] as the Spirit Fox will run ahead of the two heroes in a lot of cases, and will result in a premature death of the pet, which is a waste of its valuable ability.
+*While the [[Barbarian King]] moves slower, the Spirit Fox will stay behind him because of the King's melee range. Its invisibility increases the tanking potential of the King, thus allowing him to survive longer. If the Barbarian King has the [[Vampstache]] equipped, he can use the invisibility periods to safely heal himself, further increasing his survivability.
+**However, this will remove a tank from the battle, potentially exposing troops at the back susceptible to damage, which by the time when the king becomes visible again, could destroy some, if unlucky, most of your backline, which could ruin the attack.
+
+===Defensive Strategies===
+*A good way to defend against this is with {{H|Inferno Tower}}s and [[Monolith]] to take out the Hero directly while it is visible to prevent value.
+**However, the Inferno Tower takes a while to charge up, and if it is not in range when it is visible, it might deal minimal damage. so it is not the most reliable strategy.
+*[[Ricochet Cannon]]s and [[Multi-Archer Tower]]s can target both the Spirit Fox and its paired Hero, due to the ability to bounce its shots to another target and the ability to target three units at a time respectively, unless if there are other units close to its range.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target {{Res|RES=Target}}
+!Targets {{Res|RES=Target}}
+!Attack Type {{Res|RES=Damage Type}}
+![[Troop Movement Speed|Movement Speed]] {{Res|RES=Speed}}
+!Attack Speed {{Res|RES=Attack Speed}}
+![[Pet House]] Level Required {{Res|RES=Pet House}}
+!Range {{Res|RES=Range}}
+!Special Ability{{Res|RES=Pet Ability}}
+|-
+|Within 4.5 tiles of Hero
+|Ground
+|Single Target
+|class="ModifierStat Speed"|24
+|class="AttackSpeed"|1.6s
+|9
+|2.5 tiles
+|<abbr title="Periodically turns itself and its hero invisible">Spirit Walk</abbr>
+|}
+
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br />{{Res|RES=Level}}
+!Damage per Second<br />{{Res|RES=Damage}}
+!Damage per Hit<br />{{Res|RES=Damage}}
+!Invisibility Duration<br />{{Res|RES=Time}}
+!Hitpoints<br />{{Res|RES=Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br />{{Res|RES=Dark Elixir}}
+!Upgrade Time<br />{{Res|RES=Time}}
+!Pet House Level Required<br />{{Res|RES=Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|108
+|class="ModifierStat DPH"|172.8
+|3s
+|class="ModifierStat HP"|1,900
+|N/A
+|N/A
+|9
+|-
+|2
+|class="ModifierStat DPS"|116
+|class="ModifierStat DPH"|185.6
+|3s
+|class="ModifierStat HP"|2,000
+|class="GoldPass rCost"|150,000
+|class="GoldPass rTime"|3d
+|9
+|-
+|3
+|class="ModifierStat DPS"|124
+|class="ModifierStat DPH"|198.4
+|3s
+|class="ModifierStat HP"|2,100
+|class="GoldPass rCost"|160,000
+|class="GoldPass rTime"|4d
+|9
+|-
+|4
+|class="ModifierStat DPS"|132
+|class="ModifierStat DPH"|211.2
+|3s
+|class="ModifierStat HP"|2,200
+|class="GoldPass rCost"|170,000
+|class="GoldPass rTime"|5d
+|9
+|-
+|5
+|class="ModifierStat DPS"|140
+|class="ModifierStat DPH"|224
+|3.5s
+|class="ModifierStat HP"|2,300
+|class="GoldPass rCost"|180,000
+|class="GoldPass rTime"|5d 12h
+|9
+|-
+|6
+|class="ModifierStat DPS"|148
+|class="ModifierStat DPH"|236.8
+|3.5s
+|class="ModifierStat HP"|2,400
+|class="GoldPass rCost"|190,000
+|class="GoldPass rTime"|6d
+|9
+|-
+|7
+|class="ModifierStat DPS"|156
+|class="ModifierStat DPH"|249.6
+|3.5s
+|class="ModifierStat HP"|2,500
+|class="GoldPass rCost"|200,000
+|class="GoldPass rTime"|6d 12h
+|9
+|-
+|8
+|class="ModifierStat DPS"|164
+|class="ModifierStat DPH"|262.4
+|3.5s
+|class="ModifierStat HP"|2,600
+|class="GoldPass rCost"|210,000
+|class="GoldPass rTime"|7d
+|9
+|-
+|9
+|class="ModifierStat DPS"|172
+|class="ModifierStat DPH"|275.6
+|3.5s
+|class="ModifierStat HP"|2,700
+|class="GoldPass rCost"|220,000
+|class="GoldPass rTime"|7d 12h
+|9
+|-
+|10
+|class="ModifierStat DPS"|180
+|class="ModifierStat DPH"|288
+|4s
+|class="ModifierStat HP"|2,800
+|class="GoldPass rCost"|230,000
+|class="GoldPass rTime"|8d 
+|9
+|}
+</div></center>
+
+==History==
+{|class="wikitable" style="width:100%"
+!Patch
+!Type
+!Description
+|-
+!November 20, 2023
+!Sneak Peek
+|The Spirit Fox started appearing in the Home Village [[Scenery|Classic Scenery]].
+|-
+!December 9, 2023
+!Sneak Peek
+|Announced Spirit Fox.
+|-
+!December 12, 2023
+!Update
+|Added the Spirit Fox, with 10 levels.
+[[File:Spirit Fox field.png|80px|link=]]{{Clr}}
+|-
+!February 27, 2024
+!Update
+|Removed the Spirit Fox's frost effect from its attacks.
+|-
+!March 27, 2024
+!Balance Changes
+|Increased the cooldown of the Spirit Fox's ability to 6 seconds (from 5).
+|}
+
+==Gallery==
+<gallery>
+SpiritFox Concept Art.jpg|Spirit Fox concept art
+Spirit Fox info 2.png
+</gallery>
+
+==Trivia==
+*The Spirit Fox resembles the in-life fox species called "''Vulpes zerda"'' ([https://en.wikipedia.org/wiki/Fennec_fox fennec fox]). The fennec fox is a fox species that endemic to desert areas in North Africa and West Asia. Its most distinctive feature is its unusually large ears, which serve to dissipate heat and listen for underground prey. In Clash of Clans, the Spirit Fox has similar ears and facial expressions.
+*The Spirit Fox is the sixth Pet to be based on a real life animal alongside the [[Electro Owl]], [[Mighty Yak]], [[Frosty]], [[Diggy]], [[Poison Lizard]], [[Angry Jelly]], and [[Sneezy]].
+
+{{TroopsMenuHV}}
+[[Category:Pets]]
+[[Category:Home Village]]
+[[Category:Troops]]
+[[Category:Ground Troops]]

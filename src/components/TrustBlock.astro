@@ -1,0 +1,39 @@
+---
+import Icon from './Icon.astro';
+import { DATA_SNAPSHOT_DATE } from '@data/game';
+
+interface Props {
+  /** Tool name for the feedback sentence. */
+  toolName: string;
+}
+const { toolName } = Astro.props;
+
+const items = [
+  {
+    icon: 'database' as const,
+    html: `Every cost, build time and Town Hall requirement is compiled from the <a href="https://clashofclans.fandom.com/wiki/Clash_of_Clans_Wiki" rel="noopener">Clash of Clans Wiki</a>, snapshot taken ${DATA_SNAPSHOT_DATE}. Per-table sources are listed on the <a href="/methodology/">data and methods page</a>.`,
+  },
+  {
+    icon: 'lock' as const,
+    html: `The math runs entirely in your browser. Nothing you pick or type is uploaded, stored or tracked. See the <a href="/privacy/">privacy policy</a>.`,
+  },
+  {
+    icon: 'mail' as const,
+    html: `Assumptions (builder count, no boost potions, sequential Town Hall order) are shown next to every result so you can judge them yourself. Spotted a wrong value? <a href="/contact/">Tell us</a> and we will recheck it against the wiki.`,
+  },
+];
+---
+<div class="section card">
+  <h2>How you can trust these numbers</h2>
+  <ul class="trust-list">
+    {items.map((item) => (
+      <li>
+        <span class="trust-item-icon"><Icon name={item.icon} size={16} /></span>
+        <span set:html={item.html} />
+      </li>
+    ))}
+  </ul>
+  <p class="small muted" style="margin:12px 0 0">
+    <Icon name="info" size={13} /> Page contents last reviewed {DATA_SNAPSHOT_DATE}. CoCPlanner is an unofficial fan tool.
+  </p>
+</div>

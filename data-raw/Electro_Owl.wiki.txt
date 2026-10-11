@@ -1,0 +1,224 @@
+{{MagicWords}}
+{{Protection}}
+
+[[File:Electro_Owl_info.png|center|250px|link=]]
+<center>'''''"Electro Owl zaps enemy {{H|Defensive Buildings|defenses}} into dust from great distance. He's mostly made of feathers though, so better keep him well protected!"'''''</center>
+----
+{|style="text-align:center; margin:auto"
+|[[File:Electro Owl field.png|100px|link=]]
+|-
+|'''Level 1-15'''
+|}
+
+==Summary==
+*The Electro Owl is the second [[Pets|Pet]] unlocked from the [[Pet House]], available when the Pet House is upgraded to level 2. He is an air unit that attacks with chain lightning, similar to the [[Electro Dragon]] and [[Electrofire Wizard]] (if he is on Electro Mode). This chain lightning is only able to hit two targets just like the [[Mega Tesla]], doing 80% of the primary target damage to the second target.
+*The {{PreferredTarget|HeroTarget|Plural=Yes|ProperNoun=true}}
+*The Electro Owl is unable to trigger [[Traps/Home Village|traps]], but can be affected by them if a nearby unit triggers them.
+
+==Strategy==
+===Offensive Strategies===
+*The Electro Owl's hitpoints are comparable to the {{H|Baby Dragon}}'s hitpoints. Because of his relatively low hitpoints (as compared to other [[Pets]]), make sure he is well clear of any [[Air Defense]]s (or destroy these first), or he will be taken down rather quickly.
+*You can pair him with the [[Grand Warden]] to help destroy buildings, complementing the Warden's relatively low DPS. Although the Owl's DPS does not look impressive when compared to other pets, it is effectively 80% higher if he can consistently land chained lightning to hit two targets.
+*Generally, shorter-range Heroes will be able to keep the Electro Owl behind them, protecting him from most defenses (bar the aforementioned Air Defense). The air mode Grand Warden is not recommended if you want to keep the Owl alive for as long as possible, as he has a longer range, so will stay behind the owl, and can trigger air traps that can easily knock down the Owl.
+
+===Defensive Strategies===
+*Air Defenses are the easiest method to defeating an Electro Owl quickly, particularly when paired with a ground Hero and/or if the attacker is using a ground-based attack, because it can easily single out the Owl from the ground units.
+*Like when defending against [[Electro Dragon]]s or [[Super Wizard]]s, it can be helpful to space out buildings, if possible, to minimize chain damage. Buildings spaced 2 tiles apart will stop the Electro Owl from using his chain attack.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target<br/>{{Res|RES=Target}}
+!Attack Type<br/>{{Res|RES=Damage Type}}
+!Number of Targets<br/>{{Res|RES=Target}}
+!<abbr title="Amount of damage reduction between successive targets struck by chain lightning (multiplicative effect)">Chain Damage Decay</abbr>
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|RES=Speed}}
+!Attack Speed<br/>{{Res|RES=Attack Speed}}
+![[Pet House]] Level Required<br/>{{Res|RES=Pet House}}
+!Range<br/>{{Res|RES=Range}}
+!Special Ability<br />{{Res|RES=Pet Ability}}
+|-
+|[[Heroes|Hero's]] Target
+|Ranged (Ground and Air)<br/>Chain Lightning
+|2
+| -20%
+|class="ModifierStat Speed"| 20
+|class="AttackSpeed"| 1.4s
+|2
+|6 tiles
+|High Voltage
+|}
+
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" id="minion-table-2" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|RES=Level}}
+!Damage per Second<br/>(Primary Target)<br/>{{Res|RES=Damage}}
+!Damage per Hit<br/>(Primary Target)<br/>{{Res|RES=Damage}}
+!Hitpoints<br/>{{Res|RES=Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|RES=Dark Elixir}}
+!Upgrade Time<br/>{{Res|RES=Time}}
+!Pet House Level Required<br/>{{Res|RES=Pet House}}
+|-
+|1
+|class="ModifierStat DPS"| 100
+|class="ModifierStat DPH"|140
+|class="ModifierStat HP"|1,600
+|N/A
+|N/A
+|2
+|-
+| 2
+|class="ModifierStat DPS"|105
+|class="ModifierStat DPH"|147
+|class="ModifierStat HP"|1,700
+|class="GoldPass rCost"|30,000
+|class="GoldPass rTime"|1d 12h
+|2
+|-
+|3
+|class="ModifierStat DPS"|110
+|class="ModifierStat DPH"|154
+|class="ModifierStat HP"|1,800
+|class="GoldPass rCost"|45,000
+|class="GoldPass rTime"|2d
+|2
+|-
+|4
+|class="ModifierStat DPS"|115
+|class="ModifierStat DPH"|161
+|class="ModifierStat HP"|1,900
+|class="GoldPass rCost"|60,000
+|class="GoldPass rTime"|3d
+|2
+|-
+|5
+|class="ModifierStat DPS"|120
+|class="ModifierStat DPH"|168
+|class="ModifierStat HP"|2,000
+|class="GoldPass rCost"|75,000
+|class="GoldPass rTime"|4d
+|2
+|-
+|6
+|class="ModifierStat DPS"|125
+|class="ModifierStat DPH"|175
+|class="ModifierStat HP"|2,100
+|class="GoldPass rCost"|90,000
+|class="GoldPass rTime"|4d 12h
+|2
+|-
+|7
+|class="ModifierStat DPS"| 130
+|class="ModifierStat DPH"| 182
+|class="ModifierStat HP" | 2,200
+|class="GoldPass rCost"  | 105,000
+|class="GoldPass rTime"  | 5d
+|2
+|-
+|8
+|class="ModifierStat DPS"|135
+|class="ModifierStat DPH"|189
+|class="ModifierStat HP"|2,300
+|class="GoldPass rCost"|120,000
+|class="GoldPass rTime"|5d 12h
+|2
+|-
+|9
+|class="ModifierStat DPS"|140
+|class="ModifierStat DPH"|196
+|class="ModifierStat HP"|2,400
+|class="GoldPass rCost"|135,000
+|class="GoldPass rTime"|6d
+|2
+|-
+|10
+|class="ModifierStat DPS"|145
+|class="ModifierStat DPH"|203
+|class="ModifierStat HP"|2,500
+|class="GoldPass rCost"|150,000
+|class="GoldPass rTime"|6d 12h
+|2
+|-
+|11
+|class="ModifierStat DPS"|150
+|class="ModifierStat DPH"|210
+|class="ModifierStat HP"|2,600
+|class="GoldPass rCost"|165,000
+|class="GoldPass rTime"|7d
+|9
+|-
+|12
+|class="ModifierStat DPS"| 155
+|class="ModifierStat DPH"| 217
+|class="ModifierStat HP" | 2,700
+|class="GoldPass rCost"  | 180,000
+|class="GoldPass rTime"  | 8d
+|9
+|-
+|13
+|class="ModifierStat DPS"|160
+|class="ModifierStat DPH"|224
+|class="ModifierStat HP"|2,800
+|class="GoldPass rCost"|195,000
+|class="GoldPass rTime"|8d
+|9
+|-
+|14
+|class="ModifierStat DPS"|165
+|class="ModifierStat DPH"|231
+|class="ModifierStat HP"|2,900
+|class="GoldPass rCost"|210,000
+|class="GoldPass rTime"|8d
+|9
+|-
+|15
+|class="ModifierStat DPS"|170
+|class="ModifierStat DPH"|238
+|class="ModifierStat HP"|3,000
+|class="GoldPass rCost"|225,000
+|class="GoldPass rTime"|8d
+|9
+|}
+</div></center>
+
+==History==
+{|class="wikitable" style="width:100%"
+!Patch
+!Description
+|-
+![https://www.youtube.com/watch?v=uKPUiVuunAg March 31, 2021]
+|The Electro Owl appeared in the 2021 Hammer Jam event video.
+|-
+![https://www.youtube.com/watch?v=upPy_yN8KrE April 10, 2021]
+|Announced the Electro Owl, with 10 levels.[[File:Electro Owl field.png|56px|link=]]
+|-
+![[Version History/2021#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+|Added the Electro Owl.
+|-
+![[Version History/2021#June 2021 Update - Version 14.93.2 - 15th June 2021|June 15, 2021]]
+|
+*Force retarget for Electro Owl if his assigned Hero is knocked out and the Electro Owl is attacking a {{H|Walls|Wall}}.
+*Electro Owl's level now shows boosted badge in battle end screen when Hero Potion is active.
+|}
+
+==Gallery==
+<gallery>
+Avatar Electro Owl.png|Electro Owl icon
+Electro Owl info 2.png
+File:Electro Owl field.png|In-game sprite 
+File:Pet-electro.jpg.webp|With [[Grand Warden]]
+</gallery>
+
+==Trivia==
+*The Electro Owl is the first Pet to be based on a real life animal alongside the [[Mighty Yak]], [[Frosty]], [[Diggy]], [[Poison Lizard]], [[Spirit Fox]], [[Angry Jelly]], and [[Sneezy]], and the first Pet to be based on a bird.
+*The Electro Owl is one of the eight troops to be associated with electricity, the others being the [[Electro Dragon]], [[Super Wizard]], [[Electro Titan]], [[Power P.E.K.K.A]], the [[Battle Machine]] (when activating his ability), [[Electrofire Wizard]] and the [[Mega Sparky]].
+**Out of these, the Electro Owl and the Electro Dragon are also the only flying units that attack using electricity.
+
+{{TroopsMenuHV}}
+[[Category:Pets]]
+[[Category:Home Village]]
+[[de:Elektroeule]]
+[[es:Búho_eléctrico]]
+[[Category:Troops]]
+[[Category:Air Troops]]

@@ -1,0 +1,841 @@
+__NOEDITSECTION__
+{{ClashRoyaleLink}}
+{{Protection}}
+{{For|the troops with an identical attack type|Inferno Dragon|Electrofire Wizard}}
+{{For|the Clan Capital counterpart|Inferno Tower/Clan Capital}}
+{{For|the defense with a similar name|Town Hall/Inferno Artillery}}
+
+<div class="toggle">
+<div class="active">[[File:Inferno Tower12 Single.png|150px|center|link=]]</div>
+<div class="hidden">[[File:Inferno Tower12 Multi.png|150px|center|link=]]</div>
+</div>
+
+<center>'''''"Set the Inferno Tower's [[Dark Elixir]] fueled flame to build up unbelievable damage to single targets, or to constantly roast multiple targets at once."'''''</center>
+----
+{{Toggle|Toggle}}
+<div class="toggle">
+<!--Single-->
+<div class="active">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Single-Target Mode'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Inferno Tower1 Single.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Inferno Tower2 Single.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Inferno Tower3 Single.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Inferno Tower4 Single.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Inferno Tower5 Single.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Inferno Tower6 Single.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Inferno Tower7 Single.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Inferno Tower8 Single.png|100px|link=]]<div>Level 8</div></div>
+<div>[[File:Inferno Tower9 Single.png|100px|link=]]<div>Level 9</div></div>
+<div>[[File:Inferno Tower10 Single.png|100px|link=]]<div>Level 10</div></div>
+<div>[[File:Inferno Tower11 Single.png|100px|link=]]<div>Level 11</div></div>
+<div>[[File:Inferno Tower12 Single.png|100px|link=]]<div>Level 12</div></div>
+</div>
+</div><!--End of Single, Multi-->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Multi-Target Mode'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Inferno Tower1 Multi.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Inferno Tower2 Multi.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Inferno Tower3 Multi.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Inferno Tower4 Multi.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Inferno Tower5 Multi.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Inferno Tower6 Multi.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Inferno Tower7 Multi.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Inferno Tower8 Multi.png|100px|link=]]<div>Level 8</div></div>
+<div>[[File:Inferno Tower9 Multi.png|100px|link=]]<div>Level 9</div></div>
+<div>[[File:Inferno Tower10 Multi.png|100px|link=]]<div>Level 10</div></div>
+<div>[[File:Inferno Tower11 Multi.png|100px|link=]]<div>Level 11</div></div>
+<div>[[File:Inferno Tower12 Multi.png|100px|link=]]<div>Level 12</div></div>
+</div>
+</div><!--End of Multi-->
+</div>
+
+==Summary==
+*The Inferno Tower is a {{H|Defensive Buildings|defensive building}} unlocked at [[Town Hall]] level 10 that shoots a stream of flame that burns through even the thickest armor, or can be set to multiple targets at once. It can be set to Single-Target or Multi-Target.
+**In Single-Target mode, the Inferno Tower causes progressive damage to a Single-Target. The longer the tower stays focused on the same target, the bigger the beam grows and therefore, the more damage it deals. Its damage is low when it has newly locked on to a troop, but its flame starts overheating after the first 1.5 seconds, increasing its damage over time. The next 3.75 seconds triggers its maximum overheating state, siphoning health quickly thereby making it most effective against very high-health troops. However, in this mode, the Inferno Tower can be overwhelmed by large groups of weaker [[Troops|units]], such as [[Archer]]s.
+**In Multi-Target mode, the Inferno Tower's overheat is compromised for hitting multiple targets. It projects multiple beams that cause constant damage over time to several targets simultaneously, without any overheating. This makes it ideal against swarms of low-health troops but is much less effective on higher-health troops such as [[Giant]]s.
+*Similar to the {{H|X-Bow}}, [[Eagle Artillery]], and [[Scattershot]], the Inferno Tower must be reloaded periodically. This is done for free automatically whenever the player logs in. However, if the Inferno Tower continues firing its ammunition without reloading, it will eventually run out of ammo and not attack.
+**It takes 2 minutes and 8 seconds for one Inferno Tower to unload all of its ammunition.
+*The Inferno Tower does not have a favorite target, nor does it deal more damage to any particular troop. However, in Single-Target mode, it deals more damage ''on average'' to troops with higher hitpoints, due to its progressive DPS.
+
+==Strategies==
+===Defensive Strategies===
+*The Inferno Tower in Single-Target mode is weak against large numbers of low-health troops. Make sure the Inferno Tower is within range of a [[Mortar]], Wizard Tower, and/or {{H|Bomb Tower}} so that it is adequately defended.
+*When set to Single-Target mode, it is tailor-made to destroy high-hitpoint troops, such as [[Dragon]]s, [[P.E.K.K.A]]s, and [[Golem]]s. As such, it is a perfect complement to a [[Wizard Tower]], which is very effective against large numbers of weaker troops but struggles against those with high health pools. Positioning these two structures close to each other can substantially improve the survivability of both structures (and the rest of your [[Layouts|base]]).
+*You can put a [[Scattershot]] near the Single-Target Inferno Tower so that the Inferno Tower can pick off a tank or a [[Heroes|Hero]] while the Scattershot will just destroy swarms of low health units at once.
+*The multiple-target mode can be used to easily overwhelm groups of lower-health troops.
+**You can place it near storages to help stop [[Goblin]]s from severely damaging them.
+**If you choose to place it outside the core of your base, placing it in a range of the outer layer {{H|Wall}}s can stop [[Wall Breaker]]s from breaking them.
+**It can also prove effective against [[Balloon]]s, since [[Lava Hound]]s cannot fully tank for a Multi-Targeting Inferno Tower unless five (or six at level 8 and above) of them are used at once.
+*Keep Inferno Towers separated from other important defenses, such as each other and the [[Eagle Artillery]]. If they are placed too close, a single [[Freeze Spell]] or [[Overgrowth Spell]] could freeze them all, or both will get destroyed by the ZapQuake.
+*As each mode possesses a different advantage, it is advisable to place them in range of each other.
+*Use the fact that they are 2x2 to hide them in pockets or smaller islands. Try your best to make them harder to reach.
+*If you have a large clan name on your [[Clan Castle]], you can put it near the Inferno Tower so it will block the Inferno Tower's mode.
+**Some names may not fully cover the Inferno Tower mode though, so this means that if a smart player looks very closely at the bottom portion, it is most likely set to either a Single-Target or Multi-Target.
+**Also, since the June 18, 2024 update, the Tactical Overview allowed the players to check the Inferno Tower modes, even if it is covered by the Clan Castle.
+*Putting a [[Tornado Trap]] inside the range of a Single-Targeting Inferno Tower can suck high-health troops such as P.E.K.K.As or Dragons can let the Inferno Tower destroy them as the troops cannot move.
+
+===Offensive Strategies===
+*This structure (especially in Single-Target mode) wreaks havoc with the most common offensive strategies where heavy units go in first to distract {{H|Defensive Buildings|defenses}} with light units following behind them. Letting your heavy troops get in range of it when it is set to Single-Target Spells certain doom for them, even high-level Heroes.
+*You can use Freeze Spells or Lightning Spells to stop a Single-Target Inferno Tower from piling up massive damage to a high-health troop. Doing so will not only stop the flames of the tower, but also reset its damage progression so it will have to build up damage again. If the [[Archer Queen]] is being targeted by a Single-Target Inferno Tower, using her [[Invisibility Vial]] works equally well, as the tower will no longer be able to target the Queen when she is invisible. 
+**If the Archer Queen has [[Frozen Arrow]] equipped, this can be used to slow down the tower to a certain extent, but once its damage output is maximized, there is little than can be done to save her from being defeated unless her Invisibility Vial has been activated or if the tower has just begun targeting her.
+*[[Pets]] like [[Diggy]] or [[Frosty]], combined with the [[Barbarian King]], Archer Queen or [[Royal Champion]], are an effective counter to Single-Target towers, and can make quick work of them, provided that both the Hero and their paired Pet(s) are present. Diggy can temporarily stun a tower, while Frosty can slow them down with its [[Frosty/Frostmite|Frostmites]]. This way, the tower can be easily taken care of as long as there are not any other Single-Target towers or other powerful defenses in the area.
+*Small troops are stronger against the Inferno Tower in Single-Target mode, as its sluggish retargeting time makes it very weak to swarms. Even Skeletons, especially in large groups, can pose a threat to it. Golems and Lava Hounds get destroyed in seconds in this mode, but if you surround it with small [[Army|troops]] such as Archers and [[Barbarian]]s, it can be defeated very quickly. In Single-Target mode, it can only target one unit at a time, so spreading out the attacking units is not an issue (unless a Wizard Tower, Bomb Tower, Mortar, or any other splash-damage defense is nearby).
+*You can tell if an Inferno Tower is in single or multiple target mode by looking at its top. If it has flames coming out of a flat ring, it is in Single-Target mode; if it has multiple small pentagonal holes from a hollow dodecahedron frame, it is in multiple-target mode.
+**Players can deliberately join a clan with a long name and put one Inferno Tower to the left of the [[Clan Castle]] to use the clan name to mask the mode of the Inferno Tower.
+***However, the most long names may not fully cover the Inferno Tower's mode, as a smart player can easily identify the mode by looking closely at the bottom.
+***Since the Tactical Overview feature was added in June 18. 2024, masking the Inferno Towers' modes behind the clan name will be useless, since the player will be able to view the modes of the Inferno Tower.
+*The visual difference between a loaded and empty Inferno Tower is very obvious. A loaded-tower glows brightly with lava and flame, while an empty one is unlit.
+*It takes three level 9 [[Lightning Spell]]s to take down an initial level Inferno Tower. Bringing a pair of this combination can take out both Inferno Towers against Town Hall 10s.
+*The [[Grand Warden]]'s Eternal Tome can protect a tank troop from being severely damaged by a Single-Target Inferno Tower. However, the ability does not reset the Inferno Tower's damage unless the troop leaves the Inferno Tower's range or if the player drops Lightning Spells or Freeze Spells at the Inferno Towers.
+*Using a [[Healing Spell]] can effectively negate damage done by a Multi-Targeting Inferno Tower, however, a Single-Targeting one will quickly outpace the spell's pulse rate and healing capability.
+*Like the {{H|X-Bow}}, [[Eagle Artillery]], and [[Scattershot]], defense targeting troops will still attack an empty Inferno Tower. If it is empty, it will be dark and will have no fire lighting it up.
+
+==Upgrade Differences==
+The Inferno Tower undergoes significant visula changes at levels 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12.
+
+*When initially constructed, it is a tall, narrow tower of jagged obsidian straddling a circular pool of lava separated by three legs connecting the side of the tower to the rim of the pool. At the top is a circular platform with three spokes corresponding with the location of each leg, and a lens glowing orange and red in the middle, the shape of the lens is a flat ring in Single-Target mode and is a hollow dodecahedron in Multi-Target mode. A rectangular-shaped [[Resources#Dark Elixir|Dark Elixir]] reservoir is mounted on the leg to the right. It attacks by shooting inferno beams at attacking units, which happens almost immediately when they enter its range.
+**At level 2, the lens themselves become red and emits fire. The legs become gilded at the bottom, they and the spokes are covered by a continuous red strip at the middle. All other obsidian parts become gilded.
+**At level 3, each spoke and leg gain a black metal plate with two golden spikes placed vertically, with the metal plates for the spoke has two steps.
+**At level 4, the gilded platform holding the lens becomes bigger and gains thin layer, the gilded rocks at the base turns into a cylinder and covered with a layer of rough gray stone. The spokes merged with the plate, with its inner layer of the spoke plate becoming red like the strip. The legs are also merged, becoming bigger and curve in. Each spoke gets a golden chain connecting to the leg below. The spikes on all of the plates move to the side to make space for the chain.
+**At level 5, around the lens, the rock platform glows orange. The spoke plates change to white stone, and the inner layer become gray. A circle of smooth stone blocks are inserted into the ground near each leg acting as a foundation.
+**At level 6, the heated area of the rock now becomes another lava pool and flows down the spoke plates, which replaces the chains. The gilded pillar holding the lens is narrower in the lava pool and is surrounded by two halves of a gold ring. The circular platform is made of dark gray metal. The spoke plates are divided vertically, with the top layer being a lighter gray metal and the bottom one being darker and extends outward more, both having a groove in the middle to guide the lava flow. On the side of the platform between each plate has a crown-shaped plates. The last bit of gilded rocks at the bottom is now covered by an electric coil that has a forked wire connects to the top, presumably powering the pump for the lava, and the pillar behind glows a dull red. The layer of rough stone around the cylindrical base and its gilded layer on the base is removed, with a protruding light gray metal bit under the coil and a piece of dark gray metal in the lava. The smooth stone block foundations near the legs are removed, the legs are replaced with dark gray metal and left a groove in the middle for catching the flowing lava. The bottom of the legs have curved piece of metal with a pentagonal bolt in the middle.
+**At level 7, the dark gray metal platform is now icy blue metal with two deep green plates covering the side at the bottom except for the corners, replacing the golden crown plates. The spoke plates are made of purplish gray metal, two purple metal piece on top of it, and two deep green spikes on the side of the spoke plate, one on either side of the lava. The pillar replaces the wire and coil with trapezoidal lava tubes that have rings to hold them in place, with a ring of icy blue metal then purple metal at the bottom. The light gray metal protrusion is replaced with icy blue metal. The legs have a deep green spike on the slanted side. The bottom metal piece is flattened, and its middle is layered with a piece of deep green metal plate, replacing the bolt.
+**At level 8, the platform has become more triangular, the icy blue metal platform is now a thin layer of spring green metal, then a thin layer of purplish black stone, and mainly purplish gray metal. The spoke plates are now bigger and get wider further away from the center instead of parallel. It is a solid piece of purplish black stone without layers, the spikes are replaced with gold lining starting from the side and turns downward at the front, and the lava flowing down is wider. The pillar lava tubes and the rings of icy blue and purple metal are replaced by layers upon layers of gold bands, separated by the connections between the spokes and the legs. The ice blue metal protrusion on base is replaced with gold linings, and the dark gray metal in the lava turns into gold and becomes bigger. The legs are made of purplish black stone, with the part behind the lava flow being taller with an inner layer of green metal on top of the gold around the base. The slanted side has a steeper slope and the spikes are removed. The bottom plates are merged with the leg, made of the same material with the gold lining pattern.
+**At level 9, the spring green metal platform is now indigo, with a layer of gold then indigo metal again. The spoke plates get smaller the further away from the center which make the platform's triangular silhouette even stronger, the gold lining is removed, and the plate is divided vertically again with the upper part being purplish black metal and lower being purplish gray stone. The pillar is red, with the segmented silver triangular prism replacing the gold bands, separated by purple supports. The gold and black stone with gold lining of the base is replaced with a wider indigoish black metal cylinder with a layer of gold in between. The inner part of the legs have a indigo metal triangular prism on top of light indigo gray stone leg, being much shorter and the slanted side has a gradual slope, the bottom plates are a two-step indigoish black metal.
+**At level 10, the fire coming out from the lens is much larger. The lens now has a inner metal layer and the pillar holding it up is golden with a full ring made of gray stone surrounding it. The indigo metal platform is now white stone with its corners dulled, the lava pool is slightly covered by gray stone forming another triangular silhouette. The upper part of the spoke plate is made of red wood surrounded by brass strips on the side, both connecting to the stone ring; the lower part is made of rough greenish-gray stone. The brass strips and lower layer are split to allow the lava to flow down. The pillar is now made of a large, salmon wood trunk, with square shaped ones that have brass bands at the bottom above the legs; roots and branches spread from it, covering the spoke plates and legs. The base is replaced with two layers of gray stone, and the upper one has a hold to allow another avenue for lava to flow out to the pool. The leg and the slanted side are tighter as tree roots surround it, they are made of greenish-gray stone. The bottom plate has two layers, the top layer is made of salmon wood and bottom is jade stone. Two brass spikes are placed on the side between the layers; a thick brass piece is embedded on top of the red wood around the flowing lava to protect it.
+**At level 11, all the salmon parts are now steel blue in color, with the exception of the main pillar which holds the lens in place. The foundation where the corner pieces receive the lava now have dark metal and grow taller. The spokes of the platform now gain steel blue eagle wings, the salmon parts are now made of dark metal, and the brass reinforcements are now golden. In Single Target mode, the lens turns white and gains wings of its respective color on each side, with a smaller, golden one inside. In Multi-Target mode however, the layers of the dodecahedron frame are swapped, with white as the inner one and gold as the outer one, but without the feathers.
+**At level 12, the lens loses its wings and turns into glowing blue stone. The eagle wings on the spokes are replaced with square metal spikes. The pillar is made of stacked tan cylindrical slabs made of stone. The foundation becomes a lighter tan and the metal plating turns silver, gaining three bolts on the outer corners of each piece that receives the lava. The lava pool is blocked off by glowing blue stone, and behind it is an X-shaped grate held by a single bolt. 
+
+*The appearances and behavior of the beams change in certain conditions and at certain levels.
+**At level 1, the inferno beams are colored orange which curves and have a shadow of smoke surrounding them. The Single-Target beam gets bigger as it charges up while three light beams are emitted from the lens with a sound effect, with the final charge having a higher pitch.
+**At level 3, the inferno beams of both modes are now bigger and brighter.
+**At level 8, Multi-Target mode gains an additional beam.
+
+==Statistics==
+<center><div class="stats-background">
+{{Toggle|Toggle}}
+{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH10=2|TH12=3}}
+{{BuildingSize|2x2}}
+<div class="toggle">
+<div class="active"><!-- single-->
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Single-Target Mode'''</p>
+{|class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!rowspan="2"|Level<br/>{{Res|Level}}
+!colspan="3"|Damage per Second<br/>{{Res|Damage}}
+!colspan="3"|Damage per Hit<br/>{{Res|Damage}}
+!rowspan="2"|Hitpoints<br/>{{Res|Hitpoint}}
+!rowspan="2"|[[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!rowspan="2"|Build Time<br/>{{Res|Time}}
+!rowspan="2"|[[Experience]] Gained<br/>{{Res|XP}}
+!rowspan="2"|[[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+!Initial!!After 1.5s!!After 5.25s!!Initial!!After 1.5s!!After 5.25s
+|-
+|1
+|class="ModifierStat AltDPS Building"|30
+|class="ModifierStat AltDPS Building"|80
+|class="ModifierStat AltDPS Building"|800
+|class="ModifierStat DPH Secondary Building"|3.84
+|class="ModifierStat DPH Secondary Building"|10.24
+|class="ModifierStat DPH Secondary Building"|102.4
+|1,500
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|12h
+|class="GoldPass EXP"|207
+|10
+|-
+|2
+|class="ModifierStat AltDPS Building"|35
+|class="ModifierStat AltDPS Building"|100
+|class="ModifierStat AltDPS Building"|1,000
+|class="ModifierStat DPH Secondary Building"|4.48
+|class="ModifierStat DPH Secondary Building"|12.8
+|class="ModifierStat DPH Secondary Building"|128
+|1,800
+|class="GoldPass bCost"|1,200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|1d
+|class="GoldPass EXP"|293
+|10
+|-
+|3
+|class="ModifierStat AltDPS Building"|40
+|class="ModifierStat AltDPS Building"|120
+|class="ModifierStat AltDPS Building"|1,200
+|class="ModifierStat DPH Secondary Building"|5.12
+|class="ModifierStat DPH Secondary Building"|15.36
+|class="ModifierStat DPH Secondary Building"|153.6
+|2,100
+|class="GoldPass bCost"|2,400,000
+|class="GoldPass bTime" style="white-space:nowrap;"|2d
+|class="GoldPass EXP"|415
+|10
+|-
+|4
+|class="ModifierStat AltDPS Building"|45
+|class="ModifierStat AltDPS Building"|140
+|class="ModifierStat AltDPS Building"|1,400
+|class="ModifierStat DPH Secondary Building"|5.76
+|class="ModifierStat DPH Secondary Building"|17.92
+|class="ModifierStat DPH Secondary Building"|179.2
+|2,400
+|class="GoldPass bCost"|3,400,000
+|class="GoldPass bTime" style="white-space:nowrap;"|2d 12h
+|class="GoldPass EXP"|464
+|class="change-highlight"|11
+|-
+|5
+|class="ModifierStat AltDPS Building"|50
+|class="ModifierStat AltDPS Building"|150
+|class="ModifierStat AltDPS Building"|1,500
+|class="ModifierStat DPH Secondary Building"|6.4
+|class="ModifierStat DPH Secondary Building"|19.2
+|class="ModifierStat DPH Secondary Building"|192
+|2,700
+|class="GoldPass bCost"|4,200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|3d
+|class="GoldPass EXP"|509
+|11
+|-
+|6
+|class="ModifierStat AltDPS Building"|55
+|class="ModifierStat AltDPS Building"|160
+|class="ModifierStat AltDPS Building"|1,600
+|class="ModifierStat DPH Secondary Building"|7.04
+|class="ModifierStat DPH Secondary Building"|20.48
+|class="ModifierStat DPH Secondary Building"|204.8
+|3,000
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|4d
+|class="GoldPass EXP"|587
+|class="change-highlight"|12
+|-
+|7
+|class="ModifierStat AltDPS Building"|65
+|class="ModifierStat AltDPS Building"|180
+|class="ModifierStat AltDPS Building"|1,800
+|class="ModifierStat DPH Secondary Building"|8.32
+|class="ModifierStat DPH Secondary Building"|23.04
+|class="ModifierStat DPH Secondary Building"|230.4
+|3,300
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d
+|class="GoldPass EXP"|657
+|13
+|-
+|8
+|class="ModifierStat AltDPS Building"|80
+|class="ModifierStat AltDPS Building"|210
+|class="ModifierStat AltDPS Building"|2,100
+|class="ModifierStat DPH Secondary Building"|10.24
+|class="ModifierStat DPH Secondary Building"|26.88
+|class="ModifierStat DPH Secondary Building"|268.8
+|3,700
+|class="GoldPass bCost"|9,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|6d
+|class="GoldPass EXP"|720
+|14
+|-
+|9
+|class="ModifierStat AltDPS Building"|100
+|class="ModifierStat AltDPS Building"|230
+|class="ModifierStat AltDPS Building"|2,300
+|class="ModifierStat DPH Secondary Building"|12.8
+|class="ModifierStat DPH Secondary Building"|29.44
+|class="ModifierStat DPH Secondary Building"|294.4
+|4,000
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|6d 12h
+|class="GoldPass EXP"|749
+|15
+|-
+|10
+|class="ModifierStat AltDPS Building"|120
+|class="ModifierStat AltDPS Building"|260
+|class="ModifierStat AltDPS Building"|2,600
+|class="ModifierStat DPH Secondary Building"|15.36
+|class="ModifierStat DPH Secondary Building"|33.28
+|class="ModifierStat DPH Secondary Building"|332.8
+|4,400
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|16
+|-
+|11
+|class="ModifierStat AltDPS Building"|140
+|class="ModifierStat AltDPS Building"|290
+|class="ModifierStat AltDPS Building"|2,900
+|class="ModifierStat DPH Secondary Building"|17.92
+|class="ModifierStat DPH Secondary Building"|37.12
+|class="ModifierStat DPH Secondary Building"|371.2
+|4,800
+|class="GoldPass bCost"|16,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|17
+|-
+|12
+|class="ModifierStat AltDPS Building"|155
+|class="ModifierStat AltDPS Building"|330
+|class="ModifierStat AltDPS Building"|3,300
+|class="ModifierStat DPH Secondary Building"|19.84
+|class="ModifierStat DPH Secondary Building"|42.24
+|class="ModifierStat DPH Secondary Building"|422.4
+|5,100
+|class="GoldPass bCost"|26,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|13d 12h
+|class="GoldPass EXP"|1,080
+|18
+|}
+
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Number of Rounds<br/>{{Res|Number}}
+|-
+|9||class="AttackSpeed"|0.128s||Single Target||Ground & Air||1,000
+|}
+</div><!--end single-->
+<div><!--multi-->
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Multi-Target Mode'''</p>
+{|class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second per Target<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Number of Targets<br/>{{Res|Target}}
+!HP<br />{{Res|Hitpoint}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|30
+|class="ModifierStat DPH Building"|3.84
+|5
+|1,500
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|12h
+|class="GoldPass EXP"|207
+|10
+|-
+|2
+|class="ModifierStat DPS Building"|35
+|class="ModifierStat DPH Building"|4.48
+|5
+|1,800
+|class="GoldPass bCost"|1,200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|1d
+|class="GoldPass EXP"|293
+|10
+|-
+|3
+|class="ModifierStat DPS Building"|40
+|class="ModifierStat DPH Building"|5.12
+|5
+|2,100
+|class="GoldPass bCost"|2,400,000
+|class="GoldPass bTime" style="white-space:nowrap;"|2d
+|class="GoldPass EXP"|415
+|10
+|-
+|4
+|class="ModifierStat DPS Building"|45
+|class="ModifierStat DPH Building"|5.76
+|5
+|2,400
+|class="GoldPass bCost"|3,400,000
+|class="GoldPass bTime" style="white-space:nowrap;"|2d 12h
+|class="GoldPass EXP"|464
+|class="change-highlight"|11
+|-
+|5
+|class="ModifierStat DPS Building"|50
+|class="ModifierStat DPH Building"|6.4
+|5
+|2,700
+|class="GoldPass bCost"|4,200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|3d
+|class="GoldPass EXP"|509
+|11
+|-
+|6
+|class="ModifierStat DPS Building"|55
+|class="ModifierStat DPH Building"|7.04
+|5
+|3,000
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|4d
+|class="GoldPass EXP"|587
+|class="change-highlight"|12
+|-
+|7
+|class="ModifierStat DPS Building"|65
+|class="ModifierStat DPH Building"|8.32
+|5
+|3,300
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d
+|class="GoldPass EXP"|657
+|13
+|-
+|8
+|class="ModifierStat DPS Building"|80
+|class="ModifierStat DPH Building"|10.24
+|class="change-highlight"|6
+|3,700
+|class="GoldPass bCost"|9,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|6d
+|class="GoldPass EXP"|720
+|14
+|-
+|9
+|class="ModifierStat DPS Building"|100
+|class="ModifierStat DPH Building"|12.8
+|6
+|4,000
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|6d 12h
+|class="GoldPass EXP"|749
+|15
+|-
+|10
+|class="ModifierStat DPS Building"|120
+|class="ModifierStat DPH Building"|15.36
+|6
+|4,400
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|16
+|-
+|11
+|class="ModifierStat DPS Building"|140
+|class="ModifierStat DPH Building"|17.92
+|6
+|4,800
+|class="GoldPass bCost"|16,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|17
+|-
+|12
+|class="ModifierStat DPS Building"|155
+|class="ModifierStat DPH Building"|19.84
+|6
+|5,100
+|class="GoldPass bCost"|26,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|13d 12h
+|class="GoldPass EXP"|1,080
+|18
+|}
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Number of Rounds<br/>{{Res|Number}}
+|-
+|10||class="AttackSpeed"|0.128s||Multiple Targets||Ground & Air||1,000
+|}
+</div><!--end multi-->
+</div>
+
+===[[Supercharge]]s===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level of this building is added.
+{{Supercharge}}
+<div class="toggle">
+<div class="active"><!-- single -->
+{|class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!rowspan="2"|Charge<br/>{{Res|Supercharge}}
+!colspan="3"|Damage per Second<br/>{{Res|Damage}}
+!colspan="3"|Damage per Hit<br/>{{Res|Damage}}
+!rowspan="2"|Hitpoints<br/>{{Res|Hitpoint}}
+!rowspan="2"|[[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!rowspan="2"|Build Time<br />{{Res|Time}}
+!rowspan="2"|[[Experience]] Gained<br/>{{Res|XP}}
+!rowspan="2"|[[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+!Initial!!After 1.5s!!After 5.25s!!Initial!!After 1.5s!!After 5.25s
+|-
+|1
+|class="ModifierStat AltDPS Building change-highlight"|165
+|class="ModifierStat AltDPS Building change-highlight"|350
+|class="ModifierStat AltDPS Building change-highlight"|3,500
+|class="ModifierStat DPH Secondary Building change-highlight"|21.12
+|class="ModifierStat DPH Secondary Building change-highlight"|44.8
+|class="ModifierStat DPH Secondary Building change-highlight"|448
+|5,100
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d
+|class="GoldPass EXP"|657
+|18
+|-
+|2
+|class="ModifierStat AltDPS Building"|165
+|class="ModifierStat AltDPS Building"|350
+|class="ModifierStat AltDPS Building"|3,500
+|class="ModifierStat DPH Secondary Building"|21.12
+|class="ModifierStat DPH Secondary Building"|44.8
+|class="ModifierStat DPH Secondary Building"|448
+|class="change-highlight"|5,300
+|class="GoldPass bCost"|8,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|18
+|}
+</div><!--end single -->
+<div><!--multi -->
+{|class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Charge Level<br/>{{Res|Supercharge}}
+!Damage per Second per Target<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Number of Targets<br/>{{Res|Target}}
+!HP<br/>{{Res|Hitpoint}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building change-highlight"|165
+|class="ModifierStat DPH Building change-highlight"|21.12
+|6
+|5,100
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d
+|class="GoldPass EXP"|657
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|165
+|class="ModifierStat DPH Building"|21.12
+|6
+|class="change-highlight"|5,300
+|class="GoldPass bCost"|8,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|18
+|}
+</div>
+</div>
+<div class="toggle">
+<!--Single-->
+<div class="active">
+<div style="font-size:18px">'''Depleted Single Target Inferno Towers'''</div>
+<div class="flexbox-display bold-text">
+<div>[[File:Inferno Tower1 Single Depleted.png|75px|link=]]<div>Level 1</div></div>
+<div>[[File:Inferno Tower2 Single Depleted.png|75px|link=]]<div>Level 2</div></div>
+<div>[[File:Inferno Tower3 Single Depleted.png|75px|link=]]<div>Level 3</div></div>
+<div>[[File:Inferno Tower4 Single Depleted.png|75px|link=]]<div>Level 4</div></div>
+<div>[[File:Inferno Tower5 Single Depleted.png|75px|link=]]<div>Level 5</div></div>
+<div>[[File:Inferno Tower6 Single Depleted.png|75px|link=]]<div>Level 6</div></div>
+<div>[[File:Inferno Tower7 Single Depleted.png|75px|link=]]<div>Level 7</div></div>
+<div>[[File:Inferno Tower8 Single Depleted.png|75px|link=]]<div>Level 8</div></div>
+<div>[[File:Inferno Tower9 Single Depleted.png|75px|link=]]<div>Level 9</div></div>
+<div>[[File:Inferno Tower10 Single Depleted.png|75px|link=]]<div>Level 10</div></div>
+<div>[[File:Inferno Tower11 Single Depleted.png|75px|link=]]<div>Level 11</div></div>
+<div>[[File:Inferno Tower12 Single Depleted.png|75px|link=]]<div>Level 12</div></div>
+</div>
+</div>
+<!-- end Single, Multi-->
+<div class="hidden">
+<div style="font-size:18px">Depleted Multi Target Inferno Towers</div>
+<div class="flexbox-display bold-text">
+<div>[[File:Inferno Tower1 Multi Depleted.png|75px|link=]]<div>Level 1</div></div>
+<div>[[File:Inferno Tower2 Multi Depleted.png|75px|link=]]<div>Level 2</div></div>
+<div>[[File:Inferno Tower3 Multi Depleted.png|75px|link=]]<div>Level 3</div></div>
+<div>[[File:Inferno Tower4 Multi Depleted.png|75px|link=]]<div>Level 4</div></div>
+<div>[[File:Inferno Tower5 Multi Depleted.png|75px|link=]]<div>Level 5</div></div>
+<div>[[File:Inferno Tower6 Multi Depleted.png|75px|link=]]<div>Level 6</div></div>
+<div>[[File:Inferno Tower7 Multi Depleted.png|75px|link=]]<div>Level 7</div></div>
+<div>[[File:Inferno Tower8 Multi Depleted.png|75px|link=]]<div>Level 8</div></div>
+<div>[[File:Inferno Tower9 Multi Depleted.png|75px|link=]]<div>Level 9</div></div>
+<div>[[File:Inferno Tower10 Multi Depleted.png|75px|link=]]<div>Level 10</div></div>
+<div>[[File:Inferno Tower11 Multi Depleted.png|75px|link=]]<div>Level 11</div></div>
+<div>[[File:Inferno Tower12 Multi Depleted.png|75px|link=]]<div>Level 12</div></div>
+</div>
+</div>
+<!-- end Multi-->
+</div>
+</div>
+</center>
+
+==Achievements==
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Firefighter'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 10 Inferno Towers in Multiplayer battles||50||100
+|-
+|Destroy 250 Inferno Towers in Multiplayer battles||500||200
+|-
+|Destroy 5,000 Inferno Towers in Multiplayer battles||5,000||1,000
+|}
+{{IconDescriptions|Defense=Yes|Upgradable=Yes|UnitName=Inferno Tower|Supercharge=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%"
+!Date!!Description
+|-
+!May 23rd, 2013
+|Added the Inferno Tower, with two levels and one of its kind available. [[File:Inferno Tower1 Single.png|60px|link=]][[File:Inferno Tower2 Single.png|60px|link=]]
+|-
+!June 17th, 2013
+|Added the second Inferno Tower available at Town Hall level 10.
+|-
+!August 27th, 2013
+|Added the achievement associated with the Inferno Tower, "Firefighter".
+|-
+!December 5th, 2013
+|
+*Added level 3 Inferno Tower. [[File:Inferno Tower3 Single.png|60px|link=]][[File:Inferno Tower3 Multi.png|60px|link=]]
+*Added Multi-Target mode, which previously had a radius of 9 tiles. [[File:Inferno Tower1 Multi.png|60px|link=]][[File:Inferno Tower2 Multi.png|60px|link=]]
+*Troops targeted by the Inferno Tower are no longer able to be healed.
+*Decreased attack range from 10 to 9 in Single-Target mode. {{Res|Range}}
+*Decreased the upgrade cost at the level 2. {{Res|Gold}}
+*Changed the description of the Inferno Tower.
+**Prior to the update, the description was ''"The Inferno Tower fires a mystical flame that gets more powerful the longer it stays on a target. It can target [[:Category:Ground Troops|ground troops]] and [[:Category:Air Troops|flying units]] alike. Load the Tower with [[Resources#Dark Elixir|Dark Elixir]] to keep it operational."''
+|-
+!May 16th, 2014
+|
+*Inferno Towers can now be toggled between different modes in War Base even if they are being upgraded in the Home Village.
+*Fixed a bug where the Inferno Tower would be seen in Single-Target mode when scouting a base in Clan Wars, even if set to Multi-Target mode.
+|-
+!July 3rd, 2014
+|The Multi-Target Inferno Tower is now slower at burning through big hordes of attacking troops. {{Res|Attack Speed}}
+|-
+!December 11th, 2014
+|Inferno Towers now shoot for a longer time before getting depleted (loading cost remains the same). {{Res|Number}}
+|-
+!July 1st, 2015
+|The Single-Target Inferno Tower now charges to full power slightly faster. {{Res|Time}}
+|-
+!March 21st, 2016
+|
+*Added the level 4 Inferno Tower. [[File:Inferno Tower4 Single.png|60px|link=]][[File:Inferno Tower4 Multi.png|60px|link=]]
+*The Multi-Target Inferno Tower acquires new targets faster. {{Res|Attack Speed}}
+|-
+!October 12, 2016
+|Made the upgraded Inferno Tower look like unloaded.
+|-
+!June 27th, 2017
+|
+*Added the level 5 Inferno Tower. [[File:Inferno Tower5 Single.png|60px|link=]][[File:Inferno Tower5 Multi.png|60px|link=]]
+*Reduced upgrade time and costs at levels 2 to 4. {{Res|Time}}{{Res|Gold}}
+*Increased damage per second of Multi-Target at level 4. {{Res|Damage}}
+*Single-Target first stage damage changed to match Multi-Target damage. {{Res|Damage}}
+|-
+!December 2017
+|Removed the Inferno Tower's ability to block healing effects on targeted troops.
+|-
+!March 5th, 2018
+|
+*Increased damage per second of Multi-Target at levels 3 to 5:
+**Level 3: 41 to 45 {{Res|Damage}}
+**Level 4: 50 to 53 {{Res|Damage}}
+**Level 5: 57 to 63 {{Res|Damage}}
+*Balanced the damage per second of Single-Target to increase the time it takes to reach max damage, from 4.25 seconds to 5.25 seconds. {{Res|Damage}} {{Res|Time}}
+|-
+!June 11th, 2018
+|
+*Added the level 6 Inferno Tower. [[File:Inferno Tower6 Single pre October-23-2018.png|60px|link=]][[File:Inferno Tower6 Multi pre June-18-2019.png|60px|link=]]
+*Increased damage per second at levels 4 and 5. {{Res|Damage}}
+|-
+!June 26th, 2018
+|Reduced build times at levels 1 to 5. {{Res|Time}}
+|-
+!June 29th, 2018
+|Increased the range of Multi-Target from 9 to 10. {{Res|Range}}
+|-
+!October 23rd, 2018
+|
+*Added the third Inferno Tower available at Town Hall 12.
+*Gave a small cosmetic change to the level 6 Single-Target Inferno Tower, changing its lens into a diamond shape.{{Clr}}[[File:Inferno Tower6 Single pre June-18-2019.png|60px|link=]]
+|-
+!April 2nd, 2019
+|
+*Reduced upgrade cost at level 4. {{Res|Gold}}
+*Removed the Dark Elixir cost to reload the Inferno Tower, instead reloading for free when you log back into the game. {{Res|Dark Elixir}}
+|-
+!June 2019
+|Gave the level 6 Inferno Tower a major cosmetic change. Prior to this, the level 6 Inferno Tower spoke plates reverts back to the level 4 palette with protruding gold on each side connecting to the platform, spikes replaced by pentagonal bolts, the pillar is glowing dull red, the chains and the smooth rock foundation are removed, with a new black metal plate and a shorter gray metal plate with a spike on each leg.<br/>
+
+The new appearance gave the tower a slightly lighter color scheme, lava flows to replace the chains, and an electric coil. It also reverted the diamond-shaped lens from the previous minor visual change.{{Clr}}[[File:Inferno Tower6 Single.png|60px|link=]][[File:Inferno Tower6 Multi.png|60px|link=]]
+
+This was most likely done after much community discussion that it looked like a "downgrade".
+|-
+!September 11th, 2019
+|Decreased damage at levels 2 and 3. {{Res|Damage}}
+|-
+!December 9th, 2019
+|Added the level 7 Inferno Tower. [[File:Inferno Tower7 Single.png|60px|link=]][[File:Inferno Tower7 Multi.png|60px|link=]]
+|-
+!May 20th, 2020
+|Decreased damage of Single-Target at level 7 by 100. {{Res|Damage}}
+|-
+!April 12th, 2021
+|
+*Added the level 8 Inferno Tower. [[File:Inferno Tower8 Single.png|60px|link=]][[File:Inferno Tower8 Multi.png|60px|link=]]
+*Reduced upgrade costs and times at levels 1 to 5. {{Res|Gold}}
+|-
+!June 15th, 2021
+|Made it so that Inferno Towers visually target [[Unicorn]] instead of targeting the air above the Unicorn.
+|-
+!December 9th, 2021
+|Reduced upgrade costs at levels 1 to 7. {{Res|Gold}}
+|-
+!June 27th, 2022
+|Decreased damage at level 6. {{Res|Damage}}
+|-
+!October 10th, 2022
+|Added the level 9 Inferno Tower. [[File:Inferno Tower9 Single.png|60px|link=]][[File:Inferno Tower9 Multi.png|60px|link=]]
+|-
+!September 28th, 2023
+|Decreased damage of Single-Target at levels 1 to 8:
+*Level 1: 30-1000 -> 30-800 {{Res|Damage}}
+*Level 2: 36-1150 -> 35-1000 {{Res|Damage}}
+*Level 3: 42-1300 -> 40-1200 {{Res|Damage}}
+*Level 4: 58-1550 -> 50-1400 {{Res|Damage}}
+*Level 5: 70-1750 -> 60-1600 {{Res|Damage}}
+*Level 6: 80-1950 -> 70-1800 {{Res|Damage}}
+*Level 7: 94-2100 -> 85-2000 {{Res|Damage}}
+*Level 8: 106-2300 -> 100-2200 {{Res|Damage}}
+|-
+![https://supercell.com/en/games/clashofclans/blog/release-notes/february-2024-update-patch-notes/ February 27th, 2024]
+|Added the level 10 Inferno Tower. [[File:Inferno Tower10 Single pre June-16-2025.png|60px|link=]][[File:Inferno Tower10 Multi pre June-16-2025.png|60px|link=]]
+|-
+!June 3rd, 2024
+|Decreased damage of Single-Target at levels 4 to 9:
+*Level 4: 50-140-1,400 -> 45-140-1,400 {{Res|Damage}}
+*Level 5: 60-160-1,600 -> 50-150-1,500 {{Res|Damage}}
+*Level 6: 70-180-1,800 -> 55-160-1,600 {{Res|Damage}}
+*Level 7: 85-200-2,000 -> 65-180-1,800 {{Res|Damage}}
+*Level 8: 100-220-2,200 -> 80-210-2,100 {{Res|Damage}}
+*Level 9: 110-240-2,400 -> 100-230-2,300 {{Res|Damage}}
+|-
+!September 9, 2024
+|Added 2 Supercharge levels for the Inferno Tower. {{Res|Supercharge}}
+|-
+!February 10, 2025
+|
+*Reduced upgrade times at all charges: {{Res|Supercharge}}
+**Charge 1: 4d 12h -> 2d 18h {{Res|Time}}
+**Charge 2: 6d 12h -> 4d 6h {{Res|Time}}
+*Reduced upgrade costs at all charges: {{Res|Supercharge}}
+**Charge 2: 11,000,000 -> 6,500,000 {{Res|Gold}}
+**Charge 2: 6,500,000 -> 3,300,000 {{Res|Gold}}
+|-
+!March 24, 2025
+|
+*Added the level 11 Inferno Tower. [[File:Inferno Tower11 Single pre June-16-2025.png|60px|link=]] [[File:Inferno Tower11 Multi pre June-16-2025.png|60px|link=]]
+*Removed the Supercharges at level 10 and replaced them at level 11: {{Res|Supercharge}}
+*Charge 1: {{Res|Supercharge}}{{Res|Supercharge}}
+**Damage:
+***Single-Target mode: 130-280-2,800 -> 150-310-3,100 {{Res|Damage}}
+***Multi-Target mode: 130 -> 150 {{Res|Damage}}
+**Cost: 6,500,000 -> 11,000,000 {{Res|Gold}}
+**Time: 2d 18h -> 4d 12h {{Res|Time}}
+*Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}
+**Hitpoints: 4,600 -> 5,000 {{Res|Hitpoint}}
+**Cost: 3,300,000 -> 6,500,000 {{Res|Gold}}
+**Time: 4d 6h -> 6d 12h {{Res|Time}}
+|-
+!June 16, 2025
+|Gave a small cosmetic change to the level 10 and 11 Inferno Tower, adding the [[Dark Elixir]] vial.<br>[[File:Inferno Tower10 Single.png|60px|link=]][[File:Inferno Tower10 Multi.png|60px|link=]][[File:Inferno Tower11 Single.png|60px|link=]][[File:Inferno Tower11 Multi.png|60px|link=]]
+|-
+!November 17, 2025
+|
+*Reduced upgrade times at level 11 and all charges:
+**Level 11: 22,000,000 -> 16,000,000 {{Res|Gold}}
+**Charge 1: 11,000,000 -> 7,000,000 {{Res|Gold}}
+**Charge 2: 6,500,000 -> 4,500,000 {{Res|Gold}}
+*Reduced upgrade costs at level 11 and all charges:
+**Level 11: 15d 12h -> 12d {{Res|Time}}
+**Charge 1: 4d 12h -> 2d 18h {{Res|Time}}
+**Charge 2: 6d 12h -> 4d 6h {{Res|Time}}
+|-
+!February 23, 2026
+|
+*Added the level 12 Inferno Tower. [[File:Inferno Tower12 Single.png|60px|link=]][[File:Inferno Tower12 Multi.png|60px|link=]]
+*Removed the Supercharges at level 11. {{Res|Supercharge}}
+|}
+
+==Audio==
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Inferno Laser.ogg]]
+|Inferno Tower fires a beam (Single-Target mode) or Inferno Tower fires beams (Multi-Target mode)
+|When the Inferno Tower attacks targets within its range; sound is looped until they are destroyed or leave the range
+|-
+|[[File:Inferno Beam Grow1.ogg]][[File:Inferno Beam Grow2.ogg]]
+|Inferno Tower's beam intensifies
+|When a Single-Target Inferno Tower locks onto a unit, especially a tank
+|-
+|[[File:Inferno No Ammo.ogg]]
+|Inferno Tower extinguishes
+|When an Inferno Tower runs out of ammunition in a battle
+|-
+|[[File:Inferno Reload.ogg]]
+|Inferno Tower fires up
+|When the Inferno Tower is reloaded (sound went unused after the April 2, 2019 update)
+|-
+|[[File:Inferno Picked.ogg]]
+|Inferno Tower selected
+|When the Inferno is selected by a player
+|-
+|[[File:Inferno Placed.ogg]]
+|Inferno Tower placed<br/>Inferno Tower switches modes
+|When the Inferno Tower is placed, or when toggling between modes
+|}
+
+==Gallery==
+<gallery>
+Multi Inferno run out of fuel.gif|Multi-Target Inferno Tower runs out of fuel during a battle
+</gallery>
+
+==Trivia==
+*The Inferno Tower greatly resembles Barad-dûr from ''Lord of the Rings'', especially the Single-Target mode.
+**It also shares some similarities with the Burning lens, a weapon supposedly used by Archimedes that was able to concentrate beams of light onto a selected target and start a fire after a few seconds.
+*The Inferno Tower's ammunition consumption rate is constant, which means it does not deplete its ammo faster by charging up in Single-Target mode or hitting more targets in Multi-Target mode.
+*According to [https://www.reddit.com/r/ClashOfClans/comments/e59ji2/idea_change_the_new_inferno_towers_fire_to_blue/f9jc7bk/?context=1000 Darian in Reddit], there are three reasons why the level 7 Inferno Tower's fire is not blue.
+**Because the Town Hall 13 uses colder colors, the blue or even a bluish white beam tends to get muddied a bit against the color palette of the Town Hall. Having a reddish beam or a beam using warmer colors makes it stand out a bit more visually.
+**The artists designed the Town Hall concept and color palette long before they decided what the Town Hall's weapon would be. They did not want to redesign the Town Hall or the color palette for the sake of a beam weapon. Plus, they wanted to keep the weapon's effects consistent with other Inferno Tower functions as well.
+**Finally, and while this one is a marginal concern, some early feedback they got when they looked at blue beams was that people were expecting to have a slowing effect or freezing effect on troops it hit. They did not want to add too many slowing or freeze effects because psychologically it is incredibly frustrating to players. That is one of the reasons they have not added more Tornado Traps.
+*A level 8 Inferno Tower deals an equal amount of damage in its initial stage (Single-Target mode) or normally in Multi-Target mode as a level 1 Single-Target Inferno Tower in its second stage.
+*Even when depleted, the lava flow of level 6 and higher Inferno Towers continue normally.
+*In Clash Royale, the Inferno Tower resembles a level 1 Inferno Tower from Clash of Clans.
+**However, Inferno Towers in Clash Royale can only be set to Single-Target mode, and as such, only the Single-Target design is used in Clash Royale.
+**When Star Leveled, the Inferno Tower gains spiked prongs, resembling a level 3 Inferno Tower from Clash of Clans.
+*The Inferno Tower is one of the defenses to appear in Clash Quest.
+*The level 11 Single-Target Inferno Tower is the first to modify the shape around the lens, giving it a pair of wings on each side.
+**The level 6 Single-Target Inferno Tower used to be the first when given a minor visual change of a diamond-shape lens when players were disappointed by the visual, until it got replaced completely by the current look and the diamond is removed again.
+
+===Comparisons=== 
+*Among all defensive buildings with limited ammunition, the Inferno Tower is the only one that can run out of ammunition in a battle if fully loaded at the beginning of the battle.
+**The Inferno Tower takes 2 minutes 8 seconds, while the {{H|X-Bow}} takes 3 minutes 12 seconds, a [[Scattershot]] takes 4 minutes 33 seconds, and the [[Eagle Artillery]] takes 5 minutes.
+*The Inferno Tower, along with the [[Cannon]], Mortar, {{H|Hidden Tesla}}, {{H|Bomb Tower}}, and X-Bow are the only buildings that appear in Clash Royale.
+*The Inferno Tower (in Multi-Target mode), [[Giga Tesla]], [[Giga Inferno]], [[Multi-Archer Tower]] and the [[Firespitter]] are the only non-splash defenses that can target both ground and air units at the same time.
+*The Inferno Tower, along with the {{H|Elixir Collector}}, {{H|Archer Tower}}, and the [[Crusher]] are the only buildings to appear in a scenery. In its case, the Inferno Tower appears in the Snow Day Scenery and the Inferno Town scenery (the Inferno Tower on the top right has a significantly larger flat ring hole), hence the name.
+*The Inferno Tower and the weaponized [[Builder's Hut]] are the second set of defenses to be removed from all its charges and are reapplied to their new level after an update.
+
+{{BuildingsMenuHV}}
+[[ru:Адская башня/Родная деревня]]
+[[de:Inferno-Turm]]
+[[es:Torre_Inferno]]
+[[fr:Tour_de_l'enfer]]
+[[nl:Infernotoren]]
+[[hu:Inferno Tower]]
+[[pl:Ognista Wieża]]
+[[zh:地獄之塔]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Home Village]]
+[[de:Infernoturm]]

@@ -1,0 +1,368 @@
+{{Protection}}
+{{For|the small obstacle that can be placed where a [[Heroes|Hero]] can defend|Hero Banner}}
+
+<div class="toggle">
+<div class="active">[[File:Hero Hall12.png|center|213x213px]]</div>
+<div class="hidden">[[File:Hero Hall11 Active.png|200px|center|link=]]</div>
+</div>
+<center>'''''"This fancy Hall honors your {{H|Layouts|Village's}} mightiest warriors! Visit the Hero Hall for all your heroic essentials, and to upgrade [[Heroes]]. Upgrade the Hero Hall to unlock more Heroes!"'''''</center>
+----
+{{Toggle|Toggle}}
+<div class="toggle">
+<!-- idle -->
+<div class="active">
+<p class="hidden" style="font-size:large; font-family:Backbeat; text-align:center;">'''Idle'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Hero Hall0.png|107px|link=]]<div>Level 1<br>(Town Hall 4-6)</div></div>
+<div>[[File:Hero Hall1.png|120px|link=]]<div>Level 1</div></div>
+<div>[[File:Hero Hall2.png|120px|link=]]<div>Level 2</div></div>
+<div>[[File:Hero Hall3.png|120px|link=]]<div>Level 3</div></div>
+<div>[[File:Hero Hall4.png|120px|link=]]<div>Level 4</div></div>
+<div>[[File:Hero Hall5.png|120px|link=]]<div>Level 5</div></div>
+<div>[[File:Hero Hall6.png|120px|link=]]<div>Level 6</div></div>
+<div>[[File:Hero Hall7.png|120px|link=]]<div>Level 7</div></div>
+<div>[[File:Hero Hall8.png|120px|link=]]<div>Level 8</div></div>
+<div>[[File:Hero Hall9.png|120px|link=]]<div>Level 9</div></div>
+<div>[[File:Hero Hall10.png|120px|link=]]<div>Level 10</div></div>
+<div>[[File:Hero Hall11.png|120px|link=]]<div>Level 11</div></div>
+<div>[[File:Hero Hall12.png|120px|link=]]<div>Level 12</div></div>
+</div>
+</div>
+<!-- End of idle, Active -->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Active'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Hero Hall0 Active.png|113px|link=]]<div>Level 1<br>(Town Hall 4-6)</div></div>
+<div>[[File:Hero Hall1 Active.png|120px|link=]]<div>Level 1</div></div>
+<div>[[File:Hero Hall2 Active.png|120px|link=]]<div>Level 2</div></div>
+<div>[[File:Hero Hall3 Active.png|120px|link=]]<div>Level 3</div></div>
+<div>[[File:Hero Hall4 Active.png|120px|link=]]<div>Level 4</div></div>
+<div>[[File:Hero Hall5 Active.png|120px|link=]]<div>Level 5</div></div>
+<div>[[File:Hero Hall6 Active.png|120px|link=]]<div>Level 6</div></div>
+<div>[[File:Hero Hall7 Active.png|120px|link=]]<div>Level 7</div></div>
+<div>[[File:Hero Hall8 Active.png|120px|link=]]<div>Level 8</div></div>
+<div>[[File:Hero Hall9 Active.png|120px|link=]]<div>Level 9</div></div>
+<div>[[File:Hero Hall10 Active.png|120px|link=]]<div>Level 10</div></div>
+<div>[[File:Hero Hall11 Active.png|120px|link=]]<div>Level 11</div></div>
+<div>[[File:Hero Hall12 Active.png|120px|link=]]<div>Level 12</div></div>
+</div>
+</div>
+<!-- End of Active -->
+</div>
+==Summary==
+*The Hero Hall is an army building unlocked at [[Town Hall]] level 4. It serves as a central hub for [[Heroes]], where their assignments and upgrades can be managed.
+*Upgrading the Hero Hall increases the level caps of existing Heroes, and may unlock new Heroes as well as increase the number of Heroes that can be used in battles and in defense.
+*Upgrading the Hero Hall to certain levels allowed by the player's Town Hall level and placing down [[Hero Banner]]s are requirements to upgrading the Town Hall to the next level. This is because some levels unlock new Heroes and placing their Altars used to be part of the "placing all of the buildings" requirement.
+**For example, if the Royal Champion can be unlocked at Town Hall 13, the Hero Hall must be upgraded to level 7 before upgrading to Town Hall 14.
+
+==Hero Management==
+[[File:Hero Hall UI.png|350px|thumb|The main interface of the Hero Hall (note the Barbarian King upgrading at the left)]]
+*The Hero Hall interface allows players to manage numerous aspects of Heroes.
+*Heroes can be upgraded in the Hero Hall, with each requiring a free [[Builder]] to do so. When an upgrade is ongoing, the upgrade can be immediately finished with [[Gems]], {{MagicItem|Book of Heroes}} or {{MagicItem|Book of Everything}} where applicable. There is also a button that opens the menu for the [[Builder's Apprentice]] to be used, only when he is active.
+**Additionally, there is also an option to cancel the upgrade, which refunds 50% of the spent resources from upgrading them.
+*A Hero's [[Hero Skins|skin]] can also be directly changed by selecting the coat hanger icon {{Res|Coathanger}} next to their panel.
+*The Hero Hall interface also contains shortcuts to [[Hero Equipment]] and [[Pets|Hero Pet]] assignments, which will take the player to the [[Blacksmith]] and [[Pet House]] interfaces, respectively.
+*While Heroes are being upgraded, they cannot be used for attacks or for [[Multiplayer Battles|Multiplayer]] defenses. However, they can still defend in [[Ranked Battles]], [[Legend League Tournaments|Legend League]], [[Clan Wars]], and [[Clans#Friendly Challenges|Friendly Challenges]].
+
+==Hero Slots==
+*Players will be given a number of Hero Slots depending on the level of the Hero Hall. One Hero Slot is available when the Hero Hall is initially built at Town Hall 4, and an additional slot is added at levels 3, 5, and 7, requiring Town Hall levels 9, 11, and 13 respectively.
+*Hero Slots are used differently in the contexts of both attacking and defending:
+**When attacking, a Hero Slot represents a Hero (and when possible, a corresponding [[Pets|Pet]]) that can be brought into battle, analogous to troop or spell housing space.
+**When defending, a Hero Slot takes the form of a [[Hero Banner]] that can be placed in the player's village, assigning one Hero to defend the vicinity of the banner.
+*Changing the Hero assignments on attack is done through the army preparation menu, whereas changing Hero assignments on defense is done by switching them from the Hero Banners.
+*The Heroes assigned to attack and defense does not need to be the same. For instance, at Town Hall 8 where players have the [[Barbarian King]] and [[Archer Queen]] but only one Hero Slot, players can use the Barbarian King for attacks and use the Archer Queen for defense.
+*Icons of a sword and shield are present in the Hero's panel when that Hero is selected for defense and attack respectively.
+*At Town Halls 4 through 6, the Hero Slot can only be utilised on attack. There is no corresponding Hero Banner to allow the Hero to defend at these Town Hall levels.
+
+==Hero's Journey==
+{{Main|Hero's Journey}}
+*At Town Hall 7, a second tab known as "Journey" is unlocked. This contains a rewards track that is progressed by upgrading Heroes in the Hero Hall. Rewards available include resources, [[Ores]], [[Hero Equipment]] and [[Hero Skins]].
+==Strategies==
+===Defensive Strategies===
+*The Hero Hall processes a high amount of health points, which can be used as distraction for enemy troops, and takes a long time to destroy, unless there are high-damage units like Dragons.
+**Because of this, a well-designed base can force the opponent to time-fail, especially in [[Ranked Battles]].
+===Offensive Strategies===
+*While the Hero Hall is not a valuable target, it being susceptible to spell damage unlike resource storages make the [[Earthquake Spell]] able to do respectable amount of damage to it, and by extension, the [[Earthquake Boots]] as well. Try to include it in the radius of the spell or Earthquake Boots ability if other valuable and/or high hitpoints defenses are nearby. To get more value, you can also damage any major defenses that are close enough to the spell's radius.
+
+==Upgrade Differences==
+*When initially constructed, the Hero Hall is a very large house with white stone brick walls, dull red wooden doors, dull red wooden roof with a crown made of four pieces of wood and a piece of patch work at center left side, with folded dull red ceramic tiles cover the gap in the middle, and a wooden structural beam. The house is situated on a gray stone foundation. Beside the house is a wooden barrel. At the front corner near the entrance, there is a sword leaning against the building, indicating the [[Barbarian King]] is residing. 
+*When the player reaches Town Hall Level 7, the house is now elevated and placed on top of a white stone platform with three steps of stair where the door is. The door is now reinforced with iron knots and edges. The wooden barrel is now larger and attached to the bottom center of the left side of the house. At the rightmost side, there is a hanging sign with a Dark Elixir symbol held by a hanger from a wooden pole, the wooden pole supported by the gray stone foundation, the Dark Elixir symbol indicating that Dark Elixir can now be used to upgrade Heroes. When a Hero is upgrading, the doors open, revealing a bright light which persists until the Hero upgrade is complete or when an upgrading Hero is switched.
+*At level 2, a target with an arrow is placed on the side of the wooden structural beam below the roof above the door, indicating the [[Archer Queen]] is residing.
+*At level 3, a black crystal bubbling with black energy orbs is placed on the left corner of the building, indicating the [[Minion Prince]] is residing.
+*At level 4, a chimney is added in the back.
+*At level 5, the knots and edges of the door has turned golden. The [[Eternal Tome]] is placed to the left of the sword, indicating the [[Grand Warden]] is residing.
+*At level 6, a dull red carpet is placed over the stair.
+*At level 7, the crown on the roof has turned golden and the top three pieces has merged into one. A spear is place to the right of the sword, indicating the [[Royal Champion]] is residing.
+*At level 8, the ceramic tiles have been replaced with golden beams bolted at two ends and have a crown-shaped pattern on top.
+*At level 9, the edges of the roof are also lined with gold, with square plates added periodically to mimic the crown pattern.
+*At level 10, the dull red wood of the roof and door, and the carpet are replaced by royal purple, the piece of patchwork on the roof is removed.
+*At level 11, each protrusion of the crown-shaped beam on the roof gains arrow-shaped golden spikes pointing upwards.
+*At level 12, the front and back spikes on the roof grows bigger. Some crushed rocks are added next to the stair to the right.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable||TH7=1}}
+{{BuildingSize|4x4}}
+{|class="wikitable building-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" id="barracks-table-1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Unlocked [[Heroes|Hero]]<br/>{{Res|Ability}}
+!Hero Slots<br/>{{Res|Ability}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Elixir|Build Cost]] {{Res|Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained {{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|[[Barbarian King]]
+|1*
+|800
+|class="GoldPass bCost"|30,000
+|class="GoldPass bTime"|1h
+|class="GoldPass EXP"|60
+|4
+|-
+|2
+|[[Archer Queen]]
+|1
+|1,600
+|class="GoldPass bCost"|1,600,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|8
+|-
+|3
+|[[Minion Prince]]
+|class="change-highlight"|2
+|2,400
+|class="GoldPass bCost"|2,300,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|9
+|-
+|4
+| -
+|2
+|3,200
+|class="GoldPass bCost"|2,500,000
+|class="GoldPass bTime"|4d
+|class="GoldPass EXP"|587
+|10
+|-
+|5
+|[[Grand Warden]]
+|class="change-highlight"|3
+|3,600
+|class="GoldPass bCost"|4,500,000
+|class="GoldPass bTime"|4d 12h
+|class="GoldPass EXP"|623
+|11
+|-
+|6
+| -
+|3
+|3,800
+|class="GoldPass bCost"|5,500,000
+|class="GoldPass bTime"|5d
+|class="GoldPass EXP"|720
+|12
+|-
+|7
+|[[Royal Champion]]
+|class="change-highlight"|4
+|4,200
+|class="GoldPass bCost"|8,500,000
+|class="GoldPass bTime"|6d
+|class="GoldPass EXP"|777
+|13
+|-
+|8
+| -
+|4
+|4,600
+|class="GoldPass bCost"|9,500,000
+|class="GoldPass bTime"|6d 12h
+|class="GoldPass EXP"|749
+|14
+|-
+|9
+|[[Dragon Duke]]
+|4
+|5,000
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|7d
+|class="GoldPass EXP"|777
+|15
+|-
+|10
+| -
+|4
+|5,400
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime"|8d
+|class="GoldPass EXP"|831
+|16
+|-
+|11
+| -
+|4
+|5,800
+|class="GoldPass bCost"|17,000,000
+|class="GoldPass bTime"|9d
+|class="GoldPass EXP"|881
+|17
+|-
+|12
+| -
+|4
+|6,000
+|class="GoldPass bCost"|26,000,000
+|class="GoldPass bTime"|13d 12h
+|class="GoldPass EXP"|1,080
+|18
+|}
+<nowiki>*</nowiki>At Town Halls 4 through 6, the Hero Slot can only be used for attacking and not for defending.
+===Hero Hall Level Caps===
+Upgrading the Hero Hall allows the following Heroes to be upgraded to these levels; see the page for each Hero to learn what each upgrade brings.
+{|class="wikitable" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+!scope="row" style="width:20%;" class="colheader"|Hero Hall Level
+!scope="col" style="width:10%;" class="colheader"|[[Barbarian King]]
+!scope="col" style="width:10%;" class="colheader"|[[Archer Queen]]
+!scope="col" style="width:10%;" class="colheader"|[[Minion Prince]]
+!scope="col" style="width:10%;" class="colheader"|[[Grand Warden]]
+!scope="col" style="width:10%;" class="colheader"|[[Royal Champion]]
+!scope="col" style="width:10%;" class="colheader"|[[Dragon Duke]]
+!scope="col" style="width:10%;" class="colheader"|Total Levels
+|-
+!scope="row" class="rowheader"|1
+|10||-||-||-||-||-
+!10
+|-
+!scope="row" class="rowheader"|2
+|20||10||-||-||-||-
+!30
+|-
+!scope="row" class="rowheader"|3
+|30||30||10||-||-||-
+!70
+|-
+!scope="row" class="rowheader"|4
+|40||40||20||-||-||-
+!100
+|-
+!scope="row" class="rowheader"|5
+|50||50||30||20||-||-
+!150
+|-
+!scope="row" class="rowheader"|6
+|65||65||40||40||-||-
+!210
+|-
+!scope="row" class="rowheader"|7
+|75||75||50||50||25||-
+!275
+|-
+!scope="row" class="rowheader"|8
+|85||85||60||60||30||-
+!320
+|-
+!scope="row" class="rowheader"|9
+|90||90||70||65||40||10
+!365
+|-
+!scope="row" class="rowheader"|10
+|95||95||80||70||45||15
+!400
+|-
+!scope="row" class="rowheader"|11
+|100||100||90||75||50||20
+!435
+|-
+!scope="row" class="rowheader"|12
+|110||110||95||85||55||25
+!480
+|}
+</div>
+</center>
+
+==Hero Hall Migration==
+*When the Town Hall 17 update had launched, players may not need to build the Hero Hall from scratch. If players already had Heroes by the time of the update, then as soon as they load into the game following the update, a tutorial will play where the [[Barbarian King]] is dissatisfied with living on his [[Barbarian King Altar|altar]]. During this tutorial, players will place down their Hero Hall.
+*The level of the Hero Hall given by this tutorial is the lowest-level Hero Hall required to unlock and upgrade the player's Heroes to the levels they are currently at. For example, if the player has a level 55 [[Archer Queen]], their Hero Hall will be at least level 6.
+**If the player is upgrading Heroes at the time of the update, any such upgrades will be immediately completed and the Heroes' higher level will be used to calculate the Hero Hall level.
+*The assigned Hero Hall level will also be used to determine the starting level of the [[Minion Prince]], where applicable. The Minion Prince's starting level will be equal to the level cap of the previous Hero Hall level (or 1, if the Hero Hall given is level 3). For instance, if players received a level 10 Hero Hall, their Minion Prince will start at level 70 (the level cap of the level 9 Hero Hall).
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+!November 24, 2024
+|Announced the Hero Hall, with 11 levels.{{Clr}}[[File:Hero Hall1.png|65px|link=]][[File:Hero Hall2.png|65px|link=]][[File:Hero Hall3.png|65px|link=]][[File:Hero Hall4.png|65px|link=]][[File:Hero Hall5.png|65px|link=]][[File:Hero Hall6.png|65px|link=]][[File:Hero Hall7.png|65px|link=]][[File:Hero Hall8.png|65px|link=]][[File:Hero Hall9.png|65px|link=]][[File:Hero Hall10.png|65px|link=]][[File:Hero Hall11.png|65px|link=]]
+|-
+!November 25, 2024
+|Added the Hero Hall.
+|-
+!November 17, 2025
+|
+*Added the level 12 Hero Hall. [[File:Hero Hall12.png|65px|link=]]
+*Reduced upgrade cost at level 11 from 21,000,000 to 17,000,000. {{Res|Elixir}}
+*Reduced upgrade time at level 11 from 15d 12h to 9d 12h. {{Res|Time}}
+|-
+!May 26, 2026
+|
+*Moved Hero Hall unlock requirement from Town Hall 7 to Town Hall 4. [[File:Hero Hall0.png|60px|link=]]
+*Reduced build cost from 800,000 to 30,000. {{Res|Elixir}}
+*Reduced build time from 1d to 1h. {{Res|Time}}
+*Reduced hitpoints at levels 1 to 3:
+**Level 1: 2,000 -> 800 {{Res|Hitpoint}}
+**Level 2: 2,400 -> 1,600 {{Res|Hitpoint}}
+**Level 3: 2,800 -> 2,400 {{Res|Hitpoint}}
+|}
+
+==Audio==
+{|class="wikitable" style="margin: 0px auto; width: 100%; text-align: center;" border="0" cellpadding="1" cellspacing="1"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:GenericHeroAltar Select.ogg]]
+|Hero Hall selected
+|When the Hero Hall is selected
+|-
+|[[File:GenericHeroAltar Placed.ogg]]
+|Hero Hall placed
+|When the Hero Hall is placed or swapped
+|-
+|[[File:UpgradeHero.mp3]]
+|Hero begins upgrading
+|When the player confirms to upgrade a Hero
+|-
+|[[File:UpgradeHero_finished.ogg]]
+|Hero levels up
+|When a Hero upgrade is complete (note that it uses two sounds at the same time, building and lab upgrade completed)
+|}
+
+==Gallery==
+<gallery>
+Hero Hall Inside.webp|Interior of the Hero Hall
+ThreeBuildersWorking HeroHall.jpg|Two [[Builder]]s and an [[Builder's Apprentice|Apprentice Builder]] working together in an upgrade
+</gallery>
+
+==Trivia==
+*Since building and upgrading the Hero Hall uses Elixir, it causes the first level of the Barbarian King, Archer Queen, Minion Prince, and the Royal Champion to no longer require Dark Elixir.
+**This is especially useful for the Barbarian King as he used to be unlocked at Town Hall 7 along with the Dark Elixir infrastructures. Before the Hero Hall was added, unlocking him required building the [[Dark Elixir Storage]] at least, and likely [[Dark Elixir Drill]] while raiding for more Dark Elixir when the resource is very scarce.
+**This also enabled the Barbarian King to be moved to being unlocked at Town Hall 4 in May 2026, where Dark Elixir is not available to store.
+*It is possible to have up to six Builders to work at the same building, in this case, the Hero Hall.
+*If a player has any Heroes after the Town Hall 17 update was released, and if the Hero Hall is not placed, when attempting to attack in Multiplayer, there is a button above the "Attack!" button with a text that says: "{{Res|Ability}} <span style="color:#EE6A70; font-family:Backbeat">Unplaced Hero Hall!</span>".
+**Additionally, tapping the warning message will give you a pop-up, which reads: "<span style="font-family:Backbeat>You have an unplaced Hero Hall! You will not be able to use your Heroes in your attacks until you have placed it! Do you want to place it now?</span>".
+**If the player does attack, whether in Multiplayer, Legend League Tournaments, Clan Wars or Clan War Leagues, they will have no Heroes to support their attack, unless if they place their Hero Hall beforehand.
+**However, since the March 27, 2025 update, the player's Heroes can be visible in the Training menu, but they cannot access them if they have not placed their Hero Hall yet, with the text: "<span style="font-family:Backbeat">Place Hero Hall to access Heroes</span>".
+
+===Comparisons===
+*Out of all the army buildings in the game, the Hero Hall has the highest health, with up to 6,000 hitpoints at its maximum level.
+
+{{BuildingsMenuHV}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Army Buildings]]
+[[Category:Heroes]]
+[[ru:Зал героев]]

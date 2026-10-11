@@ -1,0 +1,285 @@
+__NOEDITSECTION__
+{{Protection}}
+[[File:Monolith5.png|link=|center|252x252px]]
+<center>'''''"The [[Builder]]'s first experiment in using [[Resource Buildings|Dark Elixir]] for a [[Buildings|building]] resulted in something truly frightful. The stronger the Monolith's [[Army|target]], the more damage it does. Great to have defending your {{H|Layouts|Village}}, but a little scary to attack against."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Monolith1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Monolith2.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Monolith3.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Monolith4.png|104px|link=]]<div>Level 4</div></div>
+<div>[[File:Monolith5.png|110px|link=]]<div>Level 5</div></div>
+</div>
+
+==Summary==
+*The Monolith is a {{H|Defensive Buildings|defensive building}} unlocked at [[Town Hall]] level 15. it is a single target, slow-firing defense that deals additional damage equivalent to the target's maximum health in addition to the base damage of the defense.
+*Rarely among defensive buildings, like the [[Revenge Tower]], it is built and upgraded with [[Dark Elixir]] instead of [[Gold]].
+*The projectile changes color depending on the maximum hitpoint of the [[Troops|Troop]] it targets. The exact ranges vary based on the Monolith's level, the colors are dark teal if the target has low hitpoints, indigo for middle, or dark purple for high hitpoints.
+
+==Strategies==
+===Defensive Strategies===
+*The Monolith can be treated like a slower single-target {{H|Inferno Tower}}; it makes short work of high-health enemies due to its percentage damage. Unlike the Inferno Tower, it reaches its maximum potential immediately, making it a threat that enemies must address promptly.
+**It also has more range than the Inferno Tower, with a range of 11, which could allow it to target enemies from a much further reach, meaning that it can match the range of the [[Flame Flinger]], the [[Rocket Spear]] from the [[Royal Champion]], and the [[Super Minion]].
+*The Monolith's main weakness is its rather slow rate of fire, which combined with its single target attacks makes it vulnerable to swarms of smaller units. Complement the Monolith with splash-damage defenses or multi-target Inferno Towers to address this weakness.
+**Put splash and/or multi-targeting defenses beside it to help take out swarms quickly, thus making the Monolith target onto the troops with higher hitpoints, thus giving them a great synergy with each other.
+*Unlike what one may expect, the [[Spell Tower|Rage Spell Tower]] has no effect on its percentage-based damage bonus. If you wish to take advantage of the Tower, it may be more intuitive to place it near other defenses, or to isolate it and keep it in its own compartment. This is because the Monolith's percent based damage is considered secondary damage, and the Rage Spell Tower only buffs its primary (ie its base) damage.
+
+===Offensive Strategies===
+*As the most devastating aspect of the Monolith is how incredibly fast this defense can take out [[Heroes]] and high-hitpoint troops such as [[Golem]]s or [[Super Witch]]es, you want to avoid it from locking onto them. You can use [[Freeze Spell]]s or [[Overgrowth Spell]]s to stop the Monolith from attacking, and [[Lightning Spell]]s to force it to retarget. [[Diggy]] and the [[Battle Drill]] can also stun the Monolith to similar effects.
+*With similar hitpoints to a [[Clan Castle]], you may be able to take this out with an Skelly Donut (The combination of [[Invisibility Spell]], [[Skeleton Spell]] and [[Rage Spell]]).
+*You can use Skeleton Spells, [[Bat Spell]]s or [[Totem Spell]]s to distract the Monolith, since it has a slow fire rate, allowing other troops to destroy it before the Monolith destroys them. However, be wary of multi-targeting and splash damage defenses, as the Monolith might target an important unit or Hero.
+
+==Upgrade Differences==
+The Monolith undergoes significant visual changes at levels 2, 3, 4 and 5.
+
+*When initially constructed, the Monolith appears to be four large pieces of indigo stone floating over a bottomless pit, attached by four iron chains to keep it from floating away, they widen the most below the midsection and the inner edges have iron linings and the middle has some reinforcements connecting to an indent on the stone pieces. The top is a floating piece of triangular indigo stone that is hollow and split into three pieces at the middle of each edge with iron lining at the edge, a floating orb of dark purple energy floats inside. The foundation is made of indigo stone and have a grind pattern on the inner wall, the edges are made of purplish gray stones, and the corner is just some gray stone. Every once in a while, electricity is emitted from the hole from the bottom to the top of the stones.
+**At level 2, all the iron linings are changed to gold, the middle bits of reinforcements are now kite-shaped that narrows to the indent, the ones on the floating triangle has ones that face each corner. At each corner of the foundation an indigo stone plate with flat diamond-shaped spike on top layers over it, the gray stone below extends to the inner side of the wall.
+**At level 3, the Monolith's shape changes completely, and its floating stones except the dark gray triangular stone now appear to have a quarter of a circle each and gains more reinforcements. All the indigo parts are now dark gray-colored. Its foundation also turns into a color of dark gray, and its slabs are now heather blue, with the spikes turning into brass, and the sides now having gold lines and gains some dark gray spikes. The chains below become much darker, resembling wires. The bottom pit glows an ebony color.
+**At level 4, the gray parts all become cadet blue, and all the golden parts of the Monolith are now brass-colored. Its triangular stones gain more reinforcements, the kite-shaped reinforcements are removed, and the golden linings gain a thin, stone layer on each. The four floating stones now gain a golden, shield-like reinforcement each. At the foundation, the corner pieces now have two layers, with dark gray stone at the bottom, and blue at the top. Additionally, the gray stone plates are now colored cadet blue, and gains metal reinforcements which connect the corner pieces.
+**At level 5, TBA.
+
+*When attacking, the triangular stone faces toward the unit it targets as the pieces separate equally and fires the energy projectile at the target, with the color being dark teal, indigo, or dark purple base of the target's maximum hitpoints, leaving a trail of a matching lighter color. Once this attack is done, the Monolith creates another energy ball of that color and the pieces return to their normal position. This attack animation repeats until the target is defeated or moves out of range. When no units are in range after the target is taken out, the orb defaults to dark purple.
+
+==Statistics==
+<center><!--
+{{Supercharge|mode=discharged}}-->
+<div class="stats-background">
+{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH15=1}}
+{{BuildingSize|3x3}}
+{|class="wikitable mode-toggle-mode-1"border="0"cellpadding="1" cellspacing="1"style="text-align:center;width:100%;"
+!Level<br/>{{Res|Level|SIZE=17}}
+!Base Damage per Second<br/>{{Res|Damage}}
+!Base Damage per Shot<br/>{{Res|Damage}}
+!Bonus Damage per Shot<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Build Cost<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|150
+|class="ModifierStat DPH Building"|225
+|class="ModifierPercent"|11%
+|4,747
+|class="GoldPass bCost"|200,000
+|class="GoldPass bTime" style="white-space:nowrap"|7d
+|class="GoldPass EXP"|777
+|15
+|-
+|2
+|class="ModifierStat DPS Building"|175
+|class="ModifierStat DPH Building"|262.5
+|class="ModifierPercent"|12%
+|5,050
+|class="GoldPass bCost"|250,000
+|class="GoldPass bTime" style="white-space:nowrap"|8d
+|class="GoldPass EXP"|831
+|15
+|-
+|3
+|class="ModifierStat DPS Building"|193
+|class="ModifierStat DPH Building"|289.5
+|class="ModifierPercent"|13%
+|5,353
+|class="GoldPass bCost"|260,000
+|class="GoldPass bTime" style="white-space:nowrap"|9d
+|class="GoldPass EXP"|881
+|class="change-highlight"|16
+|-
+|4
+|class="ModifierStat DPS Building"|209
+|class="ModifierStat DPH Building"|313.5
+|class="ModifierPercent"|14%
+|5,656
+|class="GoldPass bCost"|300,000
+|class="GoldPass bTime" style="white-space:nowrap"|11d
+|class="GoldPass EXP"|974
+|17
+|-
+|5
+|class="ModifierStat DPS Building"|225
+|class="ModifierStat DPH Building"|337.5
+|class="ModifierPercent"|15%
+|5,959
+|class="GoldPass bCost"|470,000
+|class="GoldPass bTime" style="white-space:nowrap"|15d
+|class="GoldPass EXP"|1,138
+|18
+|}
+
+===[[Supercharge]]s===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level of this building is added.
+{{Supercharge}}
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level|SIZE=17}}
+!Base Damage per Second<br/>{{Res|Damage}}
+!Base Damage per Shot<br/>{{Res|Damage}}
+!Bonus Damage per Shot<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Build Cost<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building change-highlight"|235
+|class="ModifierStat DPH Building change-highlight"|352.5
+|class="ModifierPercent"|15%
+|5,959
+|class="GoldPass bCost"|220,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d
+|class="GoldPass EXP"|657
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|235
+|class="ModifierStat DPH Building"|352.5
+|class="ModifierPercent"|15%
+|class="change-highlight"|6,161
+|class="GoldPass bCost"|200,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|18
+|}
+
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+|-
+|11||class="AttackSpeed"|1.5s||Single Target||Ground & Air
+|}
+</div>
+</center>
+
+==Achievements==
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Monolith Masher'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Monoliths in Multiplayer Battles||100||100
+|-
+|Destroy 200 Monoliths in Multiplayer Battles||800||250
+|-
+|Destroy 2,000 Monoliths in Multiplayer Battles||5,000||500
+|}
+{{IconDescriptions|Defense=Yes|Upgradable=Yes|Supercharge=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+!October 10, 2022 
+|The Monolith was added with two levels. [[File:Monolith1.png|60px]][[File:Monolith2.png|60px]]
+|-
+!December 12, 2022
+|
+*Reduced percentage-based damage at all levels:
+**Level 1: 14% -> 12% {{Res|Damage}}
+**Level 2: 15% -> 13% {{Res|Damage}}
+|-
+!December 12, 2023
+|
+*Reduced percentage-based damage at all levels:
+**Level 1: 12% -> 11% {{Res|Damage}}
+**Level 2: 13% -> 12% {{Res|Damage}}
+*Reduced base damage at level 2 from 200 to 175. {{Res|Damage}}
+*Reduced upgrade times at all levels:
+**Level 1: 18d -> 13d 12h {{Res|Time}}
+**Level 2: 19d -> 14d {{Res|Time}}
+|-
+!April 16, 2024
+|Added the level 3 Monolith. [[File:Monolith3.png|60px]]
+|-
+!March 25, 2025
+|
+*Added the level 4 Monolith. [[File:Monolith4.png|60px]]
+*Added 2 Supercharge levels for the Monolith. {{Res|Supercharge}}
+*Reduced upgrade costs at levels 1 to 3:
+**Level 1: 255,000 -> 200,000 {{Res|Dark Elixir}}
+**Level 2: 270,000 -> 250,000 {{Res|Dark Elixir}}
+**Level 3: 280,000 -> 260,000 {{Res|Dark Elixir}}
+*Reduced upgrade times at levels 1 to 3:
+**Level 1: 11d -> 7d {{Res|Time}}
+**Level 2: 12d -> 8d {{Res|Time}}
+**Level 3: 12d 12h -> 9d {{Res|Time}}
+|-
+!November 17, 2025
+|
+*Reduced upgrade time at level 4 from 15d 18h to 12d. {{Res|Time}}
+|-
+!June 16, 2026
+|
+*Added the level 5 Monolith. [[File:Monolith5.png|64px]]
+*Removed the supercharges at level 4 {{Res|Supercharge}}
+|-
+!August 31, 2026
+|Added 2 Supercharge levels for the Monolith. {{Res|Supercharge}}
+|}
+
+==Sounds==
+===Generic===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:ArrowExplode.ogg]]
+|Arcane blast hits a unit<ref>Reuses the Archer Tower arrow explosion sound</ref>
+|When the Monolith's projectile hits a target
+|-
+|[[File:Inferno Laser.ogg]]
+|Monolith locks on<ref>Reuses the looping attack sound of the Inferno Tower</ref>
+|Plays while the Monolith targets a unit; ends when the target dies
+|}
+
+===Unique===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Monolith_Attack1.ogg]][[File:Monolith_Attack2.ogg]][[File:Monolith_Attack3.ogg]]
+|Monolith shoots
+|When the Monolith attacks
+|-
+|[[File:Monolith select.ogg]]
+|Monolith selected
+|When the Monolith is tapped
+|-
+|[[File:Monolith place.ogg]]
+|Monolith placed
+|When the Monolith is placed or swapped with another building
+|}
+
+==Gallery==
+===Short Animations===
+<center>
+<div>[[File:Monolith-FlameFlinger_interaction.mp4|150px|link=]]<div>Monolith attacking a Flame Flinger</div></div>
+</center>
+
+===Images===
+<gallery>
+Monolith level1 info.png|Level 1
+Monolith level2 info.png|Level 2
+</gallery>
+
+==Trivia==
+*The Monolith is nicknamed the "Hero Killer" by Supercell due to it being able to take out [[Heroes]], especially the [[Barbarian King]], with just a few shots.
+*The name "Monolith" refers to "a large single upright block of stone, especially one shaped into or serving as a pillar or monument."
+**An example of this would be the [[wikipedia:Moai|Moai statues of Easter Island]], or [[wikipedia:Stonehenge|Stonehenge]].
+*Sometimes, the color of the orb may not always match depending on the type of unit it was attacking, most likely if it retargets too quickly. For example, if an Archer was defeated by the Monolith and then targets a Hero, like the [[Archer Queen]], the orb it creates will be green, but the projectile it fires will be dark purple, and will return back to the normal color once she is defeated. This also applies to units that split into sub-units when defeated, such as the [[Golem]] and the [[Lava Hound]].
+
+===Comparisons===
+*This is the only building to increase its hitpoints by 303 at every level, except charge 2 increasing it by 202.
+**It is also the only building whose hitpoints are always in the multiples of 101.
+*The Monolith is the first building that can be built and upgraded using Dark Elixir, the second being the Revenge Tower.
+**It is also the first building that can be [[Supercharge]]d using Dark Elixir, with the second being also the Revenge Tower.
+*The Monolith is theoretically capable of dealing the highest damage per hit out of all defenses in the game. To get the theoretical maximum damage of the Monolith we would have to put it against [[Single Player Campaign|M.O.M.M.A]] from the [[Single Player Campaign]], on Hard Mode and under the influence of a Rage Spell Tower, the level 5 Monolith would deal 8925 damage per hit, or 5950 damage per second.
+
+{{BuildingsMenuHV}}
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Home Village]]
+[[ru:Монолит]]
+[[de:Monolith]]

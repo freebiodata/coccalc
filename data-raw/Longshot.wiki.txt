@@ -1,0 +1,188 @@
+{{Protection}}
+[[File:Guardians Longshot info1.png|250px|center|link=]]
+<center>'''''"Use your head! Longshot fires explosive bolts from her cranium at long range, peppering [[Army|attackers]] with delightful dollops of splash damage."'''''</center>
+
+<div style="position: relative; top: -50px; text-align: right; margin-bottom: -50px; width: 100%; ">[[File:More Info Button.png|link=Town Hall/Guardians]]</div>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Longshot1.png|170px|link=]]<div>Level 1-5</div></div>
+</div>
+
+==Summary==
+*The Longshot is one of the Guardians who is unlocked and is selected by default when players upgrade to [[Town Hall]] 18.
+*The Longshot appears to be a female royal blue anthropomorphic entity with glowing blue eyes, four pastel blue patches on each of her arms, and has a golden wristband on each of her wrists. She wears stone armor reaching from her body to her legs, with a golden belt that has a spike at the center, which it resembles a castle, and at the left side, she has a dark stone plate with golden lines. On her head, she wears a helmet with a similar layout as her armor, except it has a metal band with golden rims and hexagonal stubs, and at the top, she has an antenna attached to her head, and has a crossbow without arms that resembles a cannon with an open slit at the top, with thick golden outlines and spikes. She uses her head to fire an explosive bolt from a very long range, by either stepping herself back or bobbing her head back. This allows her to snipe enemies from afar and can even outrange [[Flame Flinger]]s.
+*When tapping her, she faces the player and punches her fists together three times, with the first two releasing some blue energy, and the last one generating a small blue shockwave. If she was on the Town Hall, she will then jump down to the bottom right side of the Town Hall.
+*When defeated, she collapses to the front and then to the ground, then explodes, creating a large blue shockwave that deals heavy damage to all nearby enemy units, ground and air alike, but does not knock them back unlike the [[Giga Bomb]].
+*When the Town Hall is destroyed while she is still standing, the Longshot will forcefully jump down immediately if no attacking troops enter her trigger range beforehand. This is common on attacks where maxed-level [[Fireball]]s with triple [[Earthquake Spell]]s are used to destroy the Town Hall, paired with the [[Giant Arrow]].
+
+==Strategies==
+===Defensive Strategies===
+*The Longshot has a very long range, allowing her to outrange every attacking unit in the game. One of the strategies used is to place the Town Hall at the core, especially paired with [[Spell Tower|Invisibility and Rage Spell Towers]], so that when the main army enters the base, she will be in action.
+*Since the Longshot deals splash damage, she can take out swarms easily, but her attack speed is too slow, which she would be overwhelmed by them. Protect her with splash defenses to keep them at bay.
+**However, her death damage can also take them out, and damage higher-hitpoint units, including Heroes like the [[Grand Warden]].
+**In addition, the Longshot can even snipe the [[Royal Champion]] in a Champion Charge, as her arrow deals damage to both her and the [[Spirit Fox]], dealing heavy damage to if not defeat either or both of them.
+===Offensive Strategies===
+*The Longshot has a slow attack speed, but she can defeat swarms with ease because of her high splash damage. Overwhelming her with medium to high-hitpoint units can defeat her, but the damage when destroyed may take them out, especially when there are traps like the [[Giga Bomb]] and {{H|Spring Trap}}s, unless if the attacker uses the [[Grand Warden]]'s ability beforehand.
+*To prevent her from wreaking havoc from afar, the attacker can either use a [[Totem Spell]] to redirect her attacks away from the army, a [[Freeze Spell]] to stop her from attacking, an [[Invisibility Spell]] to protect units from being damaged. Avoid using [[Headhunter]]s however, as they will not target her, unless if there are no more [[Heroes]] remaining in the base. [[Poison Spell]] can be used, albeit less effective as it will decrease her attack speed and movement speed by 30% of their usual effects. 
+*Avoid using Flame Flingers to target an area of the base where the Longshot can attack from her attack radius, else they will be severely damaged, or even get destroyed prematurely, unless if it is tanked by a high-hitpoint unit like a Totem from the Totem Spell.
+*Do not use the Totem Spell while she is jumping over a wall, otherwise she will still lock onto her current target if it had not taken out already, especially important units like the [[Grand Warden]] in Warden Charges.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Guardian}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Targets<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Range<br/>{{Res|Range}}
+!Patrol Radius<br/>{{Res|Range}}
+!Trigger Radius<br/>{{Res|Range}}
+!Damage Radius<br/>{{Res|Radius}}
+!Death Damage Radius<br/>{{Res|Radius}}
+!Special Ability{{Res|Special Ability}}
+|-
+|Ground & Air
+|Splash Damage
+|class="ModifierStat Speed Guardian"|12
+|class="AttackSpeed Guardian"|1.8s
+|11 tiles
+|17 tiles
+|19 tiles
+|1 tiles
+|3.5 tiles
+|<abbr title="Leaves an explosive surprise for enemies when defeated">Final Blow</abbr>
+|}
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Damage Upon Death<br/>{{Res|Death Damage}}
+![[Resources#Elixir|Upgrade Cost]]<br/>{{Res|Elixir}}
+!Upgrade Time<br/>{{Res|Time}}
+|-
+|1
+|class="ModifierStat DPS Guardian"|330
+|class="ModifierStat DPH Guardian"|594
+|class="ModifierStat HP Guardian"|7,000
+|1,000
+|N/A
+|N/A
+|-
+|2
+|class="ModifierStat DPS Guardian"|360
+|class="ModifierStat DPH Guardian"|648
+|class="ModifierStat HP Guardian"|8,000
+|1,000
+|class="GoldPass bCost"|18,000,000
+|class="GoldPass bTime"|7d
+|-
+|3
+|class="ModifierStat DPS Guardian"|390
+|class="ModifierStat DPH Guardian"|702
+|class="ModifierStat HP Guardian"|9,000
+|1,000
+|class="GoldPass bCost"|22,000,000
+|class="GoldPass bTime"|9d
+|-
+|4
+|class="ModifierStat DPS Guardian"|420
+|class="ModifierStat DPH Guardian"|756
+|class="ModifierStat HP Guardian"|10,000
+|1,000
+|class="GoldPass bCost"|26,000,000
+|class="GoldPass bTime"|11d
+|-
+|5
+|class="ModifierStat DPS Guardian"|450
+|class="ModifierStat DPH Guardian"|810
+|class="ModifierStat HP Guardian"|11,000
+|1,000
+|class="GoldPass bCost"|28,000,000
+|class="GoldPass bTime"|13d
+|}
+</div></center>
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+!November 16, 2025
+|Announced the Longshot, with five levels.
+|-
+!November 17, 2025
+|Added the Longshot.
+|-
+!January 12, 2026
+|
+*Reduced attack range from 12 tiles to 11 tiles. {{Res|Range}}
+*Reduced search range from 18 tiles to 17 tiles. {{Res|Range}}
+*Reduced alert range from 20 tiles to 19 tiles. {{Res|Range}}
+*Reduced splash radius from 1.5 tiles to 1 tile. {{Res|Radius}}
+|-
+!February 23, 2026
+|Removed the splash damage's ability to hit both ground and air troops at the same time, with the splash damage only targeting the troop type it initially hits.
+|-
+!April 27, 2026
+|Made the Longshot affected by the Poison Spell, but its effects only apply by 30%. {{Res|Poison}}
+|}
+
+
+==Gallery==
+<gallery>
+Guardians Longshot info1.png|Info image
+Guardians Longshot info2.png|Longshot render 2
+Guardians Longshot info3.png|Longshot render 3
+Guardians Longshot info4.png|Longshot render 4
+</gallery>
+
+
+
+==Audio==
+===Generic===
+{|class="wikitable mw-collapsible" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Sound Effects!!Captions!!Description
+|-
+|[[File:Golem death.ogg]]
+|Golem crumbles*
+|When the Longshot is defeated
+|}
+<nowiki>*</nowiki> ''Reuses the Golem death sound effect''
+
+===Unique===
+{|class="wikitable mw-collapsible" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Sound Effects!!Captions!!Description
+|-
+|[[File:Longshot interact.mp3]]
+|Longshot punches her fists
+|When the Longshot is tapped by the player
+|-
+|[[File:Longshot attack1.ogg]][[File:Longshot attack2.ogg]][[File:Longshot attack3.ogg]][[File:Longshot attack4.ogg]][[File:Longshot attack5.ogg]][[File:Longshot attack6.ogg]]
+|Longshot snipes
+|When the Longshot attacks (note the latter 3 sounds are left unused but are still in the game files)
+|-
+|[[File:Longshot hit1.ogg]][[File:Longshot hit2.ogg]][[File:Longshot hit3.ogg]]
+|Large arrow explodes
+|When the Longshot's projectile hits something
+|-
+|[[File:Longshot die.ogg]]
+|Longshot collapses
+|When the Longshot releases a shockwave when defeated
+|}
+
+==Trivia==
+*Prior to April 2026 update, if the Longshot dies while she is still on top of the Town Hall, she will stay in her idle state for a few seconds before despawning, while still causing an explosion beforehand. This video can be viewed [https://imgur.com/a/NW5wUON here].
+*When the Poison Spell was able to affect Guardians, if the Longshot was on top of the Town Hall, she would easily get taken out. This was removed as it made attacking easier, but in a way that only when the Longshot will take damage if she already jumped down.
+
+===Comparisons===
+*The Longshot and the [[Flame Flinger]] have the longest range out of any troop in the game, both having a range of 11 tiles, exceeding the [[Super Minion]]'s long range attacks, not counting Hero Equipment.
+**Before the January 12, 2026 update however, she had an attack range of 12 tiles, 1 tile more than the Flame Flinger's, which made her the unit with the longest range in the game.
+*The Longshot and the [[Smasher]] are the first [[Town Hall/Guardians|Guardians]] to be released in the game.
+*The Longshot is the first and currently the only Guardian in the game that is a female.
+
+{{BuildingsMenuHV}}
+[[Category:Home Village]]
+[[Category:Defenses]]
+[[ru:Снайперша]]

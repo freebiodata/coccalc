@@ -1,0 +1,228 @@
+__NOEDITSECTION__
+{{Protection}}{{ClashRoyaleLink}}
+
+[[File:Phoenix info.png|center|280px|link=]]
+
+<center>'''''"A true friend will egg you on when things get rough. Phoenix starts the [[Multiplayer Battles|battle]]'''''
+'''''as a helpless egg, but at the moment her [[Heroes|Hero]] might go down, she hatches. The furious fiery fowl then gives temporary invulnerability to its Hero and engages nearby [[:Category:Troops|enemies]]."'''''</center>
+
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Phoenix field.png|100px|link=]]<div>Level 1-10</div></div>
+<div>[[File:Phoenix egg.png|40px|link=]]<div>Egg</div></div>
+</div>
+
+==Summary==
+*The Phoenix is the eighth [[Pets|pet]] unlocked, unlocked when the [[Pet House]] is upgraded to level 8, which requires [[Town Hall]] 15.
+*When initially deployed, the Phoenix will start the battle as an egg, which does nothing but is invulnerable and cannot be targeted in this form, however she can trigger aerial traps. Once her [[Heroes|Hero]] is initially knocked out however, she will hatch and revive the Hero, giving them both temporary invincibility for a short period, and then begin attacking as an air unit.
+*{{PreferredTarget|Plural=Yes|ProperNoun=true|HeroTarget}}
+*The revived Hero will be immediately knocked out once the invincibility period ends, even if they do not take any damage during this period. They also cannot be healed during this period of invincibility. 
+*If the Hero did not use their ability before being initially knocked out, they can use it while being revived. However, they do not gain any health regeneration if activated during this period, and may be knocked out mid-ability if the invincibility period expires. Similarly, if the Hero was midway through their ability when knocked out, their ability will continue through the revival period.
+**If "Activate Hero Abilities on KO" is turned on in the settings, the Hero ability will be activated first before the Phoenix can attempt to revive them.
+
+==Strategies==
+===Offensive Strategies===
+*The Phoenix can be used to extend the lifetime of the Hero that she is paired to, allowing them to wreak more havoc. Heroes with a low survivability rate like the [[Royal Champion]], or any hero used for Sui strategies, can prove a useful match. Pairing her with the [[Grand Warden]] is also a good idea, since it can extend the duration of his Life Aura ability; however, his survivability is generally quite high because of his staying behind other units and as such usually only revives when most other units are already dead.
+**The Phoenix can also be useful for the [[Minion Prince]], since she will revive him in the case if he gets knocked out. His high damage can be used to finish off the Town Hall.
+*The Phoenix's revive ability can be used as a safety net for Heroes like the [[Archer Queen]], keeping them alive for a brief period should they be knocked out unexpectedly. This can be useful for Hero walks/charges that may fail if the hero is defeated prematurely by defenses and enemy [[Clan Castle]] troops.
+*Pairing the Phoenix with the [[Barbarian King]] allows it to extend your funnel to help with your main army and allows it to destroy more buildings. Additionally, during King Walks around the base, it will give it that extra hitpoints it needs, and in the middle of a base, it can give a extra few seconds of being a tank before the paired hero is knocked out.
+*You can use a [[Revive Spell]] to give her paired Hero a third life after they are knocked out once the invincibility expires.
+**You can use multiple Revive Spells to revive your Hero up to 6 times, though this strategy is inadvisable.
+
+=== Defensive Strategies ===
+*It requires 2-3 [[Seeking Air Mine]]s (at higher levels, only requires 2) to destroy the Phoenix quickly before she can get much value, but only after her invincibility duration expires.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target<br/>{{Res|Target}}
+!Targets<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+![[Pet House]] Level Required<br/>{{Res|Pet House}}
+!Range<br/>{{Res|Range}}
+!Special Ability<br/>{{Res|Pet Ability}}
+|-
+|Hero's Target
+|Ground & Air
+|Area Splash
+|class="ModifierStat Speed"|16
+|class="AttackSpeed"|1s
+|8
+|2.5 tiles
+|<abbr title="Revives the Hero upon KO, giving them temporary invulnerability before they are knocked out">Fiery Finale</abbr>
+|}
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Revive Duration<br/>{{Res|Time}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|Dark Elixir}}
+!Upgrade Time<br/>{{Res|Time}}
+!Pet House Level Required<br/>{{Res|Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|178
+|class="ModifierStat DPH"|178
+|6.5s
+|class="ModifierStat HP"|3,120
+|N/A
+|N/A
+|8
+|-
+|2
+|class="ModifierStat DPS"|186
+|class="ModifierStat DPH"|186
+|6.5s
+|class="ModifierStat HP"|3,240
+|class="GoldPass rCost"|80,000
+|class="GoldPass rTime"|1d 12h
+|8
+|-
+|3
+|class="ModifierStat DPS" | 194
+|class="ModifierStat DPH" | 194
+|6.5s
+|class="ModifierStat HP"|3,360
+|class="GoldPass rCost"|95,000
+|class="GoldPass rTime"|2d
+|8
+|-
+|4
+|class="ModifierStat DPS"|202
+|class="ModifierStat DPH"|202
+|6.5s
+|class="ModifierStat HP"|3,480
+|class="GoldPass rCost"|110,000
+|class="GoldPass rTime"|3d
+|8
+|-
+|5
+|class="ModifierStat DPS"|210
+|class="ModifierStat DPH"|210
+|7.5s
+|class="ModifierStat HP"|3,600
+|class="GoldPass rCost"|125,000
+|class="GoldPass rTime"|4d
+|8
+|-
+|6
+|class="ModifierStat DPS"|218
+|class="ModifierStat DPH"|218
+|7.5s
+|class="ModifierStat HP"|3,720
+|class="GoldPass rCost"|140,000
+|class="GoldPass rTime"|4d 12h
+| 8
+|-
+|7
+|class="ModifierStat DPS"|226
+|class="ModifierStat DPH"|226
+|7.5s
+|class="ModifierStat HP"|3,840
+|class="GoldPass rCost"|155,000
+|class="GoldPass rTime"|5d
+|8
+|-
+|8
+|class="ModifierStat DPS"|234
+|class="ModifierStat DPH"|234
+|7.5s
+|class="ModifierStat HP"|3,960
+|class="GoldPass rCost"|170,000
+|class="GoldPass rTime"|5d 12h
+|8
+|-
+|9
+|class="ModifierStat DPS"|242
+|class="ModifierStat DPH"|242
+|7.5s
+|class="ModifierStat HP"|4,080
+|class="GoldPass rCost"|180,000
+|class="GoldPass rTime"|6d
+|8
+|-
+|10
+|class="ModifierStat DPS"|250
+|class="ModifierStat DPH"|250
+|8.5s
+|class="ModifierStat HP"|4,200
+|class="GoldPass rCost"|190,000
+|class="GoldPass rTime"|6d 12h
+|8
+|}
+</div></center>
+
+==History==
+{|class="wikitable" style="width:100%"
+!Date!!Type!!Description
+|-
+!October 8, 2022!!Sneak Peek
+|Announced the Phoenix.
+|-
+!October 10, 2022!!Update
+|Added the Phoenix, with ten levels. [[File:Phoenix field.png|thumb|80px]]
+|-
+!October 14, 2022!!Bug Fix
+|Fixed an issue with the API to filter out the Phoenix egg.
+|-
+!December 12, 2022!!Update
+|Added sleep and cheer animations to the Phoenix.
+|-
+![https://clashofclans.com/blog/release-notes/january-balance-changes.html January 23, 2023]!!Bug Fix
+|Fixed a bug where ground Clan Castle units would be triggered by Phoenix egg when following the Air Warden.
+|}
+
+==Audio==
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Phoenix hatch.ogg]]
+|Phoenix hatches
+Hero revived (temporarily)
+|When the Phoenix's paired hero dies
+|-
+|rowspan="2"|[[File:Phoenix attack.ogg]]
+|Phoenix calls out<br/>Phoenix does a barrel roll
+|When the Phoenix is selected from the [[Pet House]] or being tapped
+|-
+|Phoenix attacks
+|When the Phoenix attacks using fireballs
+|-
+|[[File:Phoenix death.ogg]]
+|Phoenix retreats dizzily
+|When the Phoenix is defeated
+|}
+
+==Gallery==
+<gallery>
+Phoenix info 2.png
+Phoenix1.webp|Clash Royale Phoenix
+Phoenix2.webp|Clash Royale Phoenix 2
+Phoenix3.png|Clash Royale Phoenix 3
+Phoenix4.png|Clash Royale Phoenix 4
+Phoenix slight variations.jpg|Clash Royale Phoenix (LEFT) and Clash of Clans Phoenix (RIGHT)
+</gallery>
+
+==Trivia==
+*The Phoenix was later released in ''Clash Royale'' as a Legendary Card the same month it came to ''Clash of Clans''. Therefore, it has very similar mechanics; it is deployed alive and when destroyed, becomes an egg which hatches into another Phoenix. Despite what many believe, the two Phoenixes are in fact different, as they have slightly different designs.
+**However, unlike the Phoenix in ''Clash of Clans'', the ''[[w:c:clashroyale:Phoenix|Clash Royale's Phoenix]]'' is confirmed to be a male according to TV Royale.
+*At the end of the animated info screen, the Phoenix fails to destroy all the buildings when she is paired with the Barbarian King.
+**That is why since the Town Hall 16 update, the paired Barbarian King does not have Hero Equipment equipped in the Phoenix info screen.
+***Before the update, the Barbarian King's Barbarians were able to take down the Multi-Target {{H|Inferno Tower}} with the help of the Phoenix.
+***After the March 24, 2025 update however, the single-target Inferno was removed, allowing the Phoenix to destroy the multi-targeting Inferno Tower.
+
+===Comparisons===
+*She is one of the three Pets that are a female, the other being [[L.A.S.S.I]] and [[Sneezy]].
+
+{{TroopsMenuHV}}
+[[Category:Pets]]
+[[Category:Home Village]]
+[[Category:Troops]]
+[[Category:Air Troops]]
+
+[[de:Phönix]]

@@ -1,0 +1,15 @@
+<div class="Tabview hidden">
+<tabber>
+Home Village={{:Inferno Tower/Home Village}}
+|-|
+Clan Capital={{:Inferno Tower/Clan Capital}}
+</tabber>
+</div>
+<div style="display:none;">
+The '''Inferno Tower''' is a defensive building that appears in the Home Village and Clan Capital.
+
+For their appearances in each village see the following pages:
+*[[Inferno Tower/Home Village]]
+*[[Inferno Tower/Clan Capital]]
+</div>
+[[Category:Disambiguation Pages]]

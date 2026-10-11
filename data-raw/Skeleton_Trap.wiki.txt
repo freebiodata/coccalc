@@ -1,0 +1,281 @@
+__NOTOC__ __NOEDITSECTION__
+
+{{ClashRoyaleLink|Tombstone}}
+{{Clr}}
+{{Protection}}
+
+[[File:Skeleton Trap info.png|250px|link=|center]]
+
+<center>'''''"Ambush and distract unsuspecting foes with a surprise skirmish of short-lived, but sneaky skeleton [[troops]]! Skeleton Traps can be configured to pursue ground or air troops."'''''</center>
+----
+{{Toggle|Toggle}}
+<div class="toggle">
+<div class="active"><!-- Ground only -->
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Ground Mode'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:SkeletonTrap1 Ground.png|link=]]<div>Level 1-2</div></div>
+<div>[[File:SkeletonTrap3 Ground.png|link=]]<div>Level 3-4</div></div>
+<div>[[File:SkeletonTrap5.png|80px|link=]]<div>Level 5</div></div>
+</div>
+</div>
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Air Mode'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:SkeletonTrap1 Air.png|link=]]<div>Level 1-2</div></div>
+<div>[[File:SkeletonTrap3 Air.png|link=]]<div>Level 3-4</div></div>
+<div>[[File:SkeletonTrap5 Air.png|80px|link=]]<div>Level 5</div></div>
+</div>
+</div>
+</div>
+
+==Summary==
+*The Skeleton Trap is a {{H|Traps|trap}}, which is unlocked at [[Town Hall]] 8, that remains hidden until they are activated by an attacking [[Troops|troop]] moving into their trigger radius. Once triggered, the coffin rises from the ground and multiple [[Witch/Skeleton|Skeletons]] appear in the area around the coffin to attack nearby troops depending on whether it is set for ground or air troops.
+*Once activated, the Skeleton Trap must be re-armed in order to be a part of the next defense. Doing so is free and occurs automatically once the player logs into the game.
+*They can be configured to attack either ground troops or air troops, but not both at once. They will remain invisible if set to ground and an air troop passes over (or vice versa).
+*The Skeletons released have a small skull icon next to them to signify they came from a Skeleton Trap (as opposed to being summoned by a [[Witch]]), similar to the icon displayed next to [[Clan Castle]] troops. The reason behind this is that they play an equal role to the Skeletons summoned by a defending Witch in the Clan Castle.
+*The Skeleton Traps set to defend against air troops have wings instead of a skull on the face of the coffin. Skeletons that arise from being triggered while set to defend against air troops float through the air with the aid of two small red balloons, the same balloons as those on the [[Air Bomb]]. If they do not notice any more air troops, they will become idle, but they can still be taken down by any troop that attacks air.
+
+==Strategies==
+===Defensive Strategies===
+*The Skeleton Traps make valuable distractions. Upgrading them would be a good idea, as single-target units would have a hard time taking them down. You can place them near buildings you wish to protect to distract most troops that wish to attack that building, allowing your defenses time to destroy the attacking troops.
+*They are useful in distracting [[Heroes]] and [[P.E.K.K.A]]s, especially when either are near the [[Town Hall]]. They are even better against troops who target defenses, such as [[Giant]]s and [[Hog Rider]]s, because they do not stop to attack the Skeletons, in which they slowly get taken out while destroying the defenses. This is the same with any other troop who target a certain [[Buildings|building]].
+**However, they do not work against [[Golem]]s, because of their death damage, and the [[Electro Titan]], since her aura will instantly take them out.
+*The Skeleton Trap is also particularly effective against [[Miner]]s, because they will have to burrow and resurface every time they kill a Skeleton (which significantly slows them down compared to other troops).
+*You can place Skeleton Traps near a [[Bomb Tower]] to stall troops there when it explodes. However, this generally does not work for troops that target defensive buildings, such as the Giant or Hog Rider, since they will ignore the Skeletons unless the Bomb Tower is the last defense standing.
+*In air mode, place the Skeleton Trap near [[Air Defense]]s to distract [[Dragon]]s from targeting them.
+*The Skeleton Trap's Skeletons can attack defense-targeting troops without retaliation, so when you make a base, try to separate the support unit from the tanks in order to prevent such support units from destroying the Skeletons.
+*Another way to prevent your opponents from defeating your base with [[Balloon]]s is to set your Skeleton Traps to air mode and place them near your defenses. Since the Balloons will not attack your Skeletons, they can dish out a good amount of damage to them.
+*These Skeletons are also quite a nuisance to spaced out [[Lava Pup]]s or [[Minion]]s that are focused on a building rather than the Skeletons themselves, however they may be quickly taken out once the Lava Pups or Minions focus onto the Skeletons (especially if they are being covered by other air troops so as to not be taken down by defenses).
+
+===Offensive Strategies===
+*Single Skeleton Traps should only pose a threat if they are distracting slow-attacking troops such as [[P.E.K.K.A]]s, [[Miner]]s and [[Electro Dragon]]s, if your troops have no means of fighting back (such as when using [[Giant]]s or [[Hog Rider]]s in groups), or if they prevent troops from attacking a particularly valuable target (such as the [[Town Hall]]). They can be largely ignored otherwise, though [[Spells]] may need to be used to keep your troops alive from defensive fire during this time of distraction (e.g., a [[Freeze Spell]] against a single-target [[Inferno Tower]]).
+*Area splash is effective against Skeleton Traps, especially when multiple are placed in close proximity. [[Valkyrie]]s, their [[Super Valkyrie|Super Form]], and [[Electro Titan]]s are particularly effective at killing the spawned Skeletons, as they are able to take out Skeletons coming from all directions. Other sources of splash damage, such as [[Wizard]]s, {{H|Baby Dragon}}s, [[Witch]]es, and [[Bowler]]s can work best if the Skeletons are first clumped up together.
+*Some Spells may be used as a substitute for the aforementioned splash damage. [[Poison Spell]]s, as the most effective against typical [[Clan Castle]] troops, can be used to create a kill zone for enemy Skeletons in which they are unable to survive for long; however, [[Lightning Spell]]s are more effective as they can kill the Skeletons instantly.
+**In the case of Lightning Spells, they must be placed in the correct location so that all the Skeletons will be wiped out, otherwise some of them will survive, which could otherwise mess up your attack.
+**The [[Electro Boots]] can easily counter Skeletons spawned from Skeleton Traps, since the aura will instantly destroy them, even if they have newly spawned.
+
+==Upgrade Differences==
+*When initially constructed, Skeleton Traps are small coffins that are a light shade of brown and have a skull (ground mode) or a bat-like figure (air mode) and two wooden slabs on the front of the coffin. It is boarded up, indicating that the Skeletons were possibly once people.
+*At level 3, the Skeleton Trap and the slabs turn into a darker shade of brown and has five brass studs on the face of the coffin. It gains some short, dark brown boards which connect the coffin altogether.
+*At level 5, the Skeleton Trap becomes even darker, the skull/bat and wooden slabs on the front along with the studs, all become gold. The mud at the bottom is darker, and the base of the coffin emits a light blue glow.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Builder}}
+{{NumberAvailable|TH8=2|TH10=3|TH14=4}}
+{{BuildingSize|1x1}}
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Spawned Units<br/>{{Res|Skeleton}}
+!Skeleton Level<br/>{{Res|Level}}
+![[Resource Buildings#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|2
+|1
+|class="GoldPass bCost"|6,000
+|N/A
+|N/A
+|8
+|-
+|2
+|3
+|1
+|class="GoldPass bCost"|250,000
+|class="GoldPass bTime"|5h
+|class="GoldPass EXP"|134
+|8
+|-
+|3
+|4
+|1
+|class="GoldPass bCost"|400,000
+|class="GoldPass bTime"|8h
+|class="GoldPass EXP"|169
+|class="change-highlight"|9
+|-
+|4
+|5
+|1
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|10
+|-
+|5
+|5
+|class="change-highlight"|2
+|class="GoldPass bCost"|18,000,000
+|class="GoldPass bTime"|7d
+|class="GoldPass EXP"|777
+|18
+|}
+{{Toggle|Toggle}}
+<div class="toggle">
+<div class="active">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Ground Mode'''</p>
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Trigger Radius<br />{{Res|Range}}!!Unit Type Targeted<br />{{Res|Target}}!!Favorite Target<br />{{Res|Target}}
+|-
+|5 tiles||Ground||None
+|}
+<p style="font-size:medium; font-family:Backbeat; text-align:center;">'''Skeleton Stats'''</p>
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Favorite Target<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Range<br/>{{Res|Range}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+|-
+|None||Melee (Ground Only)||class="AttackSpeed"|0.7s||0.4||class="ModifierStat Speed"|24
+|}
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+|-
+|1||class="ModifierStat DPS"|25||class="ModifierStat DPH"|17.5||class="ModifierStat HP"|30
+|-
+|2||class="ModifierStat DPS"|30||class="ModifierStat DPH"|21||class="ModifierStat HP"|45
+|}
+</div>
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Air Mode'''</p>
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Trigger Radius<br />{{Res|Range}}!!Unit Type Targeted<br />{{Res|Target}}!!Favorite Target<br />{{Res|Target}}
+|-
+|5 tiles||Air||None
+|}
+<p style="font-size:medium; font-family:Backbeat; text-align:center;">'''Skeleton Stats'''</p>
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Favorite Target<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Range<br/>{{Res|Range}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+|-
+|None||Melee (Air Only)||class="AttackSpeed"|0.7s||0.4||class="ModifierStat Speed"|17.6
+|}
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+|-
+|1||class="ModifierStat DPS"|25||class="ModifierStat DPH"|17.5||class="ModifierStat HP"|30
+|-
+|2||class="ModifierStat DPS"|30||class="ModifierStat DPH"|21||class="ModifierStat HP"|45
+|}
+</div>
+</div>
+<big>'''Unarmed Skeleton Traps'''</big>
+{|cellpadding="1" cellspacing="1" style="width: 100%;text-align:center;"
+|-
+|[[File:SkeletonTrap1_unarmed.png|75px|link=]]
+|[[File:SkeletonTrap3_unarmed.png|75px|link=]]
+|[[File:SkeletonTrap5_unarmed.png|75px|link=]]
+|-
+|style="text-align: center;"|Levels 1-2
+|style="text-align: center;"|Levels 3-4
+|style="text-align: center;"|Level 5
+|}
+</div>
+</center>
+{{IconDescriptions|Trap=Yes|Upgradable=Yes|Toggle=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+![[Version History/2014#Version 6.322 - 22nd October 2014 "Halloween"|October 22, 2014]]
+|Added the Skeleton Trap, with three levels and two are available at Town Hall 8 and one at Town Hall 10.{{Clr}}[[File:SkeletonTrap1 Ground.png|50px|link=]][[File:SkeletonTrap1 Air.png|50px|link=]][[File:SkeletonTrap3 Ground.png|50px|link=]][[File:SkeletonTrap3 Air.png|50px|link=]]
+|-
+![[Version History/2015#Version 8.67.3 - 10th December 2015 - "Town Hall 11"|December 10, 2015]]
+|Reduced re-arm cost at all levels:
+*Level 1: 6,000 -> 3,000 {{Res|Gold}}
+*Level 2: 8,000 -> 4,000 {{Res|Gold}}
+*Level 3: 10,000 -> 5,000 {{Res|Gold}}
+|-
+![[Version History/2018#Version 10.??? - 5th March 2018 "Builder Hall 8"|March 5, 2018]]
+|Added the level 4 Skeleton Trap.
+|-
+![[Version History/2019#Version 11.??? - 2nd April 2019|April 2, 2019]]
+|Removed re-arm costs for the Skeleton Trap entirely (as with all traps and reloadable defenses), instead automatically re-arming after logging into the game. {{Res|Gold}}
+|-
+![[Version History/2021#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+|
+*Added the fourth Skeleton Trap available at Town Hall 14.
+*Reduced upgrade costs at levels 2 and 3:
+**Level 2: 600,000 -> 450,000 {{Res|Gold}}
+**Level 3: 1,300,000 -> 1,200,000 {{Res|Gold}}
+*Reduced upgrade times at levels 2 to 4:
+**Level 2: 6h -> 5h {{Res|Time}}
+**Level 3: 1d -> 20h {{Res|Time}}
+**Level 4: 2d -> 1d 16h {{Res|Time}}
+|-
+![[Version History/2021#December 9th 2021 Update|December 9, 2021]]
+|
+*Reduced upgrade costs at levels 2 and 3:
+**Level 3: 1,200,000 -> 900,000 {{Res|Gold}}
+**Level 4: 2,000,000 -> 1,500,000 {{Res|Gold}}
+|-
+![[Version History/2023#TH16 Update - December 12, 2023 Full Patch Notes|December 12, 2023]]
+|
+*Reduced upgrade costs at levels 2 to 4:
+**Level 2: 450,000 -> 300,000 {{Res|Gold}}
+**Level 3: 900,000 -> 800,000 {{Res|Gold}}
+**Level 4: 1,500,000 -> 1,100,000 {{Res|Gold}}
+*Reduced upgrade times at levels 3 and 4:
+**Level 3: 20h -> 10h {{Res|Time}}
+**Level 4: 1d 16h -> 20h {{Res|Time}}
+|-
+![[Version History/2025#Welcome to Clash Anytime Update! - Mar 24, 2025|March 24, 2025]]
+|
+*Reduced Air Skeletons housing space from 2 to 1. {{Res|Troop Capacity}}
+*Reduced upgrade costs at levels 2 to 4:
+**Level 2: 300,000 -> 250,000 {{Res|Gold}}
+**Level 3: 800,000 -> 400,000 {{Res|Gold}}
+**Level 4: 1,100,000 -> 1,000,000 {{Res|Gold}}
+*Reduced upgrade times at levels 3 and 4:
+**Level 3: 10h -> 8h {{Res|Time}}
+**Level 4: 20h -> 12h {{Res|Time}}
+|-
+![[Version History/2025#TOWN HALL 18 Crash Lands! - Update - Nov 17, 2025|November 17, 2025]]
+|Added the level 5 Skeleton Trap. [[File:SkeletonTrap5 Ground.png|50px|link=]][[File:SkeletonTrap5 Air.png|50px|link=]]
+|}
+
+==Gallery==
+===Short Animations===
+<div class="flexbox-display normal-text">
+<div>[[File:Skeleton Trap InAction.mp4|230px|link=]]</div>
+</div>
+
+==Trivia==
+*After deploying, the coffin quickly disappears. Scorch marks on the ground where the [[Skeleton]]s clawed up through the ground disappear a short time later.
+*You can tell if they are the Skeleton Trap's Skeletons because they have a skull next to their health bar, and unlike the Skeletons summoned by the [[Witch]], their health bar is permanent.
+*There was a [https://i.redd.it/jjq7d52cgdq71.jpg bug in the September 2021 update] where the shop displays another Skeleton Trap with level 3 or 4 appearance that says "Level 1001 Town Hall Required".
+
+===Comparisons===
+*Skeleton Traps were added in the October 22, 2014, Halloween update, but were a permanent addition that remained available after the holiday had passed, unlike other temporary traps, [[Pumpkin Bomb]] and [[Santa Strike]], in previous years.
+*The Skeleton Trap is currently the only {{H|traps|trap}} in the Home Village that can be set to target either ground or air [[troops]], much like the [[Mine]]s and [[Mega Mine]]s in the Builder Base.
+*The Skeleton Trap is the only trap in the game to spawn troops, not counting the "Royal Ghost traps" from certain events and levels from the Single Player Campaign.
+*Before the October 6, 2025 update which made it gain an additional 7 levels, the Spring Trap and Skeleton Trap were the only Home Village traps to be maxed out early in [[Town Hall]] 10. Later on, the Skeleton Trap also gets a new level at Town Hall 18 on November 17, 2025.
+*The Skeleton Trap and Spring Trap are the only traps to appear in a loading screen.
+*It has a distinct sound from all other Home Village traps when selected, making it the only trap to have unique sounds.
+*The Skeleton Trap and [[Seeking Air Mine]] are the only traps that do not do splash damage.
+*The Skeletons from the Skeleton Trap have very similar stats to the Skeletons summoned by the Witch. While Skeletons from Skeleton Trap have the same damage and hitpoints, they attack slightly faster, and air Skeletons move slightly slower.
+**This is no longer true after leveling the Skeleton Trap to level 5 as it increases the level of the Skeletons instead of spawning more, making them do more damage and have more hitpoints.
+
+{{BuildingsMenuHV}}
+[[ru:Скелет в шкафу]]
+[[de:Skelettfalle]]
+[[es:Trampa de esqueletos]]
+[[fr:Piège squelettique]]
+[[nl:Skeletval]]
+[[Category:Traps]]
+[[Category:Home Village]]

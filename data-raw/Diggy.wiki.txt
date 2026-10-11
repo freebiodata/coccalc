@@ -1,0 +1,253 @@
+__NOEDITSECTION__
+{{Protection}}
+
+[[File:Diggy info.png|center|350px|link=]]
+
+<center>'''''“Diggy is an introvert and spends a lot of time hiding underground. Still when it comes to [[Multiplayer Battles|battle]], he'll do his part, coming up to attack [[buildings]] and aid his [[Heroes|Hero]]. If his Hero's taken out, he'll seek out a new one for support and scritches.”'''''</center>
+
+----
+{|style="text-align:center; margin:auto"
+|[[File:Diggy field.png|100px|link=]]
+|-
+|'''Levels 1-10'''
+|}
+
+==Summary==
+*Diggy is the sixth [[Pets|pet]] unlocked, which is done when the [[Pet House]] is upgraded to level 6 (this requires [[Town Hall]] level 15).
+*Diggy burrows underground to attack buildings and troops, just like the [[Miner]] and his [[Super Miner|super counterpart]], allowing him to bypass {{H|Walls}} (despite this, he will target Walls if his Hero attacks them). If he surfaces against a defensive building (which includes the Town Hall, if its weapon is activated), he stuns it for a short period of time. He will not stun defending [[Heroes]] and troops in the same way if he attacks them.
+*{{PreferredTarget|Plural=Yes|ProperNoun=true|HeroTarget}}
+
+==Strategies==
+===Offensive Strategies===
+*Diggy obviously works best against defenses, since his stun will prevent them attacking for a period of time. Thus, pairing him with the [[Royal Champion]], the Hero who largely prioritizes defenses, is ideal. Pairing him with the [[Grand Warden]] can be a viable option should the Champion be unavailable (or opts to use another Pet), due to the Warden's ability to bypass walls meaning Diggy will not get stuck on a Wall.
+**He could even work for the [[Archer Queen]], assuming you funnel the Archer Queen correctly and Diggy does not move too far.
+*Compared to the [[L.A.S.S.I]] (a popular pairing with the Royal Champion), Diggy has more utility owing to his stun ability, but his burrowing underground exposes the Champion to fire whereas the L.A.S.S.I, who moves in front of the Champion, would take hits for the Champion instead. Thus, to extend the Royal Champion's survivability, L.A.S.S.I may be more useful against large groups of defenses, while Diggy works better against smaller groups.
+*Diggy's stun effect can be very beneficial in a Hero Dive to get more value out of your Heroes, and to stun important defenses attacking your Heroes.
+*Diggy is also useful as a small tank, as he has the second-most health of all the pets, behind only the [[Mighty Yak]]. However, because he burrows underground to move, he will not be able to tank all the time.
+*If the Royal Champion activates the [[Rocket Spear]] ability, Diggy will go for the nearest defense she targets while she is out of range of other defenses.
+**This can be very helpful if you want to stun a major defense from dealing too much damage in your army, which increases the survivability of your units in an attack. Be careful of longer ranged defenses like {{H|X-Bow}}s, Monoliths, and [[Firespitter]]s, though, as they will outrange her, and possibly cause her to get severely damaged, if not defeat her.
+
+===Defensive Strategies===
+*Diggy is very effective at reducing the threat of high damage dealing defenses like the {{H|Inferno Tower}} and the [[Monolith]] as he can stun buildings when resurfacing. Consider placing these sorts of defenses in range of one another to help take out Diggy and other attacking units.
+*Since Diggy can burrow underground and bypass Walls like Miners, he can often get to the outside/inside buildings to clean up if the opponent's army will take more time to get there. Therefore, spreading out your base and occupying the most space possible may be the difference between a high 2 star or a 3 star.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target {{Res|RES=Target}}
+!Targets {{Res|RES=Target}}
+!Attack Type {{Res|RES=Damage Type}}
+![[Troop Movement Speed|Movement Speed]] {{Res|RES=Speed}}
+!Attack Speed {{Res|RES=Attack Speed}}
+![[Pet House]] Level Required {{Res|RES=Pet House}}
+!Range {{Res|RES=Range}}
+!Special Ability{{Res|RES=Pet Ability}}
+|-
+|Hero's Target
+|Ground
+|Single Target
+|class="ModifierStat Speed"|32
+|class="AttackSpeed"| 1.1s
+|6
+|0.8 tiles
+|<abbr title="Stuns defenses for a period upon surfacing">Stunning Surprise</abbr>
+|}
+
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|RES=Level}}
+!Damage per Second<br/>{{Res|RES=Damage}}
+!Damage per Hit<br/>{{Res|RES=Damage}}
+!Stun Duration<br/>{{Res|RES=Stun}}
+!Hitpoints<br/>{{Res|RES=Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|RES=Dark Elixir}}
+!Upgrade Time<br/>{{Res|RES=Time}}
+!Pet House Level Required<br/>{{Res|RES=Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|105
+|class="ModifierStat DPH"|115.5
+|2s
+|class="ModifierStat HP"|3,650
+|N/A
+|N/A
+|6
+|-
+|2
+|class="ModifierStat DPS"|110
+|class="ModifierStat DPH"|121
+|2s
+|class="ModifierStat HP"|3,800
+|class="GoldPass rCost"|90,000
+|class="GoldPass rTime"|1d 12h
+|6
+|-
+|3
+|class="ModifierStat DPS"|115
+|class="ModifierStat DPH"|126.5
+|2s
+|class="ModifierStat HP"|3,950
+|class="GoldPass rCost"|105,000
+|class="GoldPass rTime"|2d
+|6
+|-
+|4
+|class="ModifierStat DPS"|120
+|class="ModifierStat DPH"|132
+|2s
+|class="ModifierStat HP"|4,100
+|class="GoldPass rCost"|120,000
+|class="GoldPass rTime"|3d
+|6
+|-
+|5
+|class="ModifierStat DPS" | 125
+|class="ModifierStat DPH" | 137.5
+|class="change-highlight"|2.5s
+|class="ModifierStat HP" | 4,250
+|class="GoldPass rCost" | 130,000
+|class="GoldPass rTime" | 4d
+|6
+|-
+|6
+|class="ModifierStat DPS"|130
+|class="ModifierStat DPH"|143
+|2.5s
+|class="ModifierStat HP"|4,400
+|class="GoldPass rCost"|140,000
+|class="GoldPass rTime"|4d 12h
+|6
+|-
+| 7
+|class="ModifierStat DPS"|135
+|class="ModifierStat DPH"|148.5
+|2.5s
+|class="ModifierStat HP"|4,550
+|class="GoldPass rCost"|150,000
+|class="GoldPass rTime"|5d
+|6
+|-
+|8
+|class="ModifierStat DPS"|140
+|class="ModifierStat DPH"|154
+|2.5s
+|class="ModifierStat HP"|4,700
+|class="GoldPass rCost"|160,000
+|class="GoldPass rTime"|5d 12h
+|6
+|-
+|9
+|class="ModifierStat DPS" | 145
+|class="ModifierStat DPH" | 159.5
+|2.5s
+|class="ModifierStat HP" | 4,850
+|class="GoldPass rCost" | 170,000
+|class="GoldPass rTime" | 6d
+|6
+|-
+|10
+|class="ModifierStat DPS"|150
+|class="ModifierStat DPH"|165
+|class="change-highlight"|3s
+|class="ModifierStat HP"|5,000
+|class="GoldPass rCost"|180,000
+|class="GoldPass rTime"|6d 12h
+|6
+|-
+|11
+|class="ModifierStat DPS"|155
+|class="ModifierStat DPH"|170.5
+|3s
+|class="ModifierStat HP"|5,150
+|class="GoldPass rCost"|220,000
+|class="GoldPass rTime"|7d
+|12
+|-
+|12
+|class="ModifierStat DPS"|160
+|class="ModifierStat DPH"|176
+|3s
+|class="ModifierStat HP"|5,300
+|class="GoldPass rCost"|250,000
+|class="GoldPass rTime"|7d 12h
+|12
+|-
+|13
+|class="ModifierStat DPS"|165
+|class="ModifierStat DPH"|181.5
+|3s
+|class="ModifierStat HP"|5,450
+|class="GoldPass rCost"|280,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|14
+|class="ModifierStat DPS"|170
+|class="ModifierStat DPH"|187
+|3s
+|class="ModifierStat HP"|5,600
+|class="GoldPass rCost"|310,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|15
+|class="ModifierStat DPS"|175
+|class="ModifierStat DPH"|192.5
+|class="change-highlight"|3.5s
+|class="ModifierStat HP"|5,750
+|class="GoldPass rCost"|350,000
+|class="GoldPass rTime"|8d
+|12
+|}
+</div></center>
+
+==History==
+{|class="wikitable" style="width:100%"
+!'''Patch'''
+!'''Type'''
+!'''Description'''
+|-
+!'''October 8, 2022'''
+!'''Sneak Peek'''
+|Announced Diggy.
+|-
+!'''October 10, 2022'''
+!'''Town Hall 15 Update'''
+|Added Diggy, with 10 levels. [[File:Diggy_field.png|56x56px]]
+|-
+!'''October 31, 2022'''
+!'''Maintenance Break'''
+|Fixed a bug with Diggy's targeting
+|-
+!'''December 12, 2022'''
+!'''Update'''
+|Added new hit sound effect for Diggy.
+|-
+!'''October 6, 2025'''
+!'''Ranked Battle Update'''
+|Made Diggy stuns all targets, including Heroes and Clan Castle Troops.
+|-
+!'''August 31, 2026'''
+!'''Update'''
+|Added levels 11 to 15 Diggy.
+|}
+
+==Gallery==
+<gallery>
+Diggy info 2.png
+</gallery>
+
+==Trivia==
+===General===
+*Diggy resembles the in-life lizard species called "''Ouroborus cataphractus"'' ([https://en.wikipedia.org/wiki/Armadillo_girdled_lizard armadillo girdled lizard]). The armadillo lizard is a lizard species that  endemic to desert areas along the western coast of South Africa and possesses an uncommon anti-predator adaptation in which it rolls into a ball and takes its tail in its mouth when frightened. In Clash of Clans, Diggy takes a similar shape when it is going to burrow.
+*In the French version of the game, Diggy is called "Pablo".
+===Comparisons===
+*Diggy is the fourth Pet to be based on a real life animal alongside the [[Electro Owl]], [[Mighty Yak]], [[Frosty]], [[Poison Lizard]], [[Spirit Fox]], [[Angry Jelly]], and [[Sneezy]], as well as the second Pet to be based on a lizard and reptile.
+{{TroopsMenuHV}}
+[[Category:Pets]]
+[[Category:Home Village]]
+[[Category:Troops]]
+[[Category:Ground Troops]]
+
+[[de:Diggy]]

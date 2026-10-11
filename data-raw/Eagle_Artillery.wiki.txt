@@ -1,0 +1,461 @@
+__NOEDITSECTION__
+{{Protection}}
+{{For|its merged version|Inferno Artillery}}
+{{For|the building required to merge|Town Hall/Giga Inferno (TH16)}}
+
+<div class="toggle">
+<div class="active">[[File:Eagle Artillery7.png|center|220px|link=]]</div>
+<div class="hidden">[[File:Eagle Artillery7 Head Down.png|center|220px|link=]]</div>
+</div>
+
+<center>
+'''''"The Eagle Artillery has nearly unlimited range and targets tough enemies with exploding shells. However, it won't activate until a large amount of [[troops]] have been deployed."'''''
+</center>
+----
+
+{{Toggle|Toggle}}
+<div class="toggle">
+<!-- Dormant -->
+<div class="active">
+<p class="hidden" style="font-size:large; font-family:Backbeat; text-align:center;">'''Dormant'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Eagle Artillery1.png|140px|link=]]<div>Level 1</div></div>
+<div>[[File:Eagle Artillery2.png|140px|link=]]<div>Level 2</div></div>
+<div>[[File:Eagle Artillery3.png|140px|link=]]<div>Level 3</div></div>
+<div>[[File:Eagle Artillery4.png|140px|link=]]<div>Level 4</div></div>
+<div>[[File:Eagle Artillery5.png|140px|link=]]<div>Level 5</div></div>
+<div>[[File:Eagle Artillery6.png|140px|link=]]<div>Level 6</div></div>
+<div>[[File:Eagle Artillery7.png|140px|link=]]<div>Level 7</div></div>
+</div>
+</div>
+<!-- End of Dormant, Active -->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Active'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Eagle Artillery1 Head Down.png|140px|link=]]<div>Level 1</div></div>
+<div>[[File:Eagle Artillery2 Head Down.png|140px|link=]]<div>Level 2</div></div>
+<div>[[File:Eagle Artillery3 Head Down.png|140px|link=]]<div>Level 3</div></div>
+<div>[[File:Eagle Artillery4 Head Down.png|140px|link=]]<div>Level 4</div></div>
+<div>[[File:Eagle Artillery5 Head Down.png|140px|link=]]<div>Level 5</div></div>
+<div>[[File:Eagle Artillery6 Head Down.png|140px|link=]]<div>Level 6</div></div>
+<div>[[File:Eagle Artillery7 Head Down.png|140px|link=]]<div>Level 7</div></div>
+</div>
+</div>
+<!-- End of Active -->
+</div>
+
+==Summary==
+*The Eagle Artillery is a high-damaging and durable {{H|Defensive Buildings|defense}} that has a range that covers almost the entire map but has a blind spot similar to the [[Mortar]]. It is unlocked at [[Town Hall]] 11.
+*Like the {{H|X-Bow}}, {{H|Inferno Tower}}, and [[Scattershot]], it needs to be loaded to work. Loading is free and takes place automatically after the player logs in; the Eagle Artillery will eventually be depleted of ammo and become unloaded if it is not loaded by the player.
+**It takes 5 minutes for one Eagle Artillery to unload all of its 90<!--(+1 if it is about to run out of ammunition)--> artillery shells, usually done in about 2 to 4 subsequent defenses from being raided in a [[Raids|Multiplayer Battle]].
+[[File:EagleArtillery Impact.png|thumb|70px|Ground impact from Eagle Artillery shell]]
+*During a defense, the Eagle Artillery remains dormant at the start and activates only after 200 housing spaces worth of [[troops]] have been deployed, with a warning every 50 housing space.
+**[[Heroes]] and Spells that have been deployed regardless of level, will count towards the housing space needed to activate the Eagle Artillery. Each Hero is worth 25 troop housing spaces, and each spell housing space is worth 5 troop housing spaces.
+**Each [[Siege Machine]] counts as 1 troop housing space towards this number. [[Clan Castle]] troops do not count towards this number, but any reinforcement spells count towards the normal amount.
+**[[Pets]], regardless of level, do not add any housing spaces towards the activation.
+**Troops spawned from any troop-summoning [[Hero Equipment]] (i.e. [[Barbarian Puppet]], [[Archer Puppet]], etc.) will not add more troop spaces.
+**Units that spawn sub-troops, whether upon death such as the [[Golem]], or periodically such as the [[Witch]] when spawning [[Skeleton]]s, do not add more spaces when these subtroops are spawned.
+**Dropping a [[Skeleton Spell]], [[Bat Spell]], or [[Totem Spell]] only adds the spell's equivalent worth of 5 troop housing spaces; the summoned units do not add more spaces.
+**Dropping a [[Clone Spell]] only adds the spell's equivalent worth of 15 troop housing spaces, the cloned troops do not add more spaces. Also, the Archer Queen's clones from the [[Magic Mirror]] do not add more spaces.
+**A [[Recall Spell]] adds its equivalent worth of 10 housing space when the initial recall portion of the spell is deployed; the redeployment portion of the spell and any redeployed units do not add any housing space.
+**A [[Revive Spell]] only adds its equivalent worth of 10 housing space when deployed; the revived Hero, if any, does not add more housing spaces.
+*When activated, Eagle Artillery attacks by firing a volley of three successive shots of artillery shells, with each shot having a delay of 0.75 seconds and a 10-second cooldown between each volley, totaling 11.5 seconds every volley. Each shell is able to deal devastating splash damage in a 0.75 tile radius to the unit it targeted and extremely small splash damage from 0.75 to 3 tile radius that knocks back smaller troops.
+*The Eagle Artillery targets according to a "heat map" or "hitpoint map". In other words, it targets the area with the largest density of hitpoints.
+**The Eagle Artillery places a bright yellow hexagonal target that closes in on the unit it is targeting, three meteor-shaped markers also closes in quicker and quicker when the shells get closer to hitting them. This target locks onto units and will follow them as they move, unless they move into the Eagle Artillery's blind spot or out of range, in which case the target and shots land at the edge of the Artillery's range.
+**Unlike other defenses, the Eagle Artillery recalculates its targets each volley, which means it can change targets if necessary.
+*In order to upgrade the Town Hall to level 17, the level 7 Eagle Artillery needs to be merged into the Town Hall to form the new Town Hall weapon, the [[Town Hall/Inferno Artillery|Inferno Artillery]].
+
+==Strategies==
+===Defensive Strategies===
+*Place this defense in a place where its blind spot is covered, like a [[Mortar]]. Remember that it will only activate and begin to attack when a certain amount of [[troops]] are deployed, so keep it near the middle. This is so that by the time enemy troops start to enter your base, it will be in action.
+*Try to centralize the Eagle Artillery so troops cannot get to it easily as it does more damage. In an anti-three-star base, centralizing the Eagle Artillery is more important than protecting the [[Town Hall]].
+*Keep it away from other very important defenses such as the enemy [[Archer Queen|Queen]] and [[Clan Castle]], as this can allow for easy value as by Town Hall 11 and above players have ways to send parts of their army inside the base.
+*The Eagle Artillery is best supported by an {{H|Air Defense}}, as the Air Defense destroys air troops while the Eagle Artillery picks off the ground troops. For extra support, you can place a [[Wizard Tower]] to cover the blind spot.
+*While centralizing it is important to offset the Eagle Artillery so it can keep firing while the troops are in the core. This is even more effective because large amounts of troops tend to be clumped in the core.
+*When paired with the Rage Spell Tower, the Eagle Artillery will be boosted for up to two volleys, provided that the latter and/or the former are still intact. Using this strategy can easily damage high-hitpoint troops, causing them to get taken out quickly with the help of other defenses.
+*Keep your Eagle Artillery separated from other main defenses such as [[Scattershot]]s, {{H|X-Bow}}s, and {{H|Inferno Tower}}s, otherwise the attacker will get a lot of value by using the ZapQuake to destroy main defenses alongside the Eagle Artillery, or disable them all using the [[Overgrowth Spell]].
+
+===Offensive Strategies===
+*Use [[Freeze Spell]]s or Overgrowth Spells to stop the Eagle Artillery from shooting your units. You should freeze it when it is about to shoot, not during its 10-second intervals, nor after the artillery shells are already in the sky. If done correctly, it can minimize the damage, and forces the Eagle Artillery to use more time to fire.
+*Do not use the {{H|Lightning Spell}} to stun the Eagle Artillery while it is firing a volley of shells at your army, otherwise the Eagle Artillery will deal more damage than usual.
+**However, you can stun the Eagle Artillery before it fires, thereby forcing the Eagle Artillery more time to fire.
+*For Heroes, if the Eagle Artillery has been activated, it will most likely lock onto the [[Barbarian King]], as he has much more health than other Heroes. If the Barbarian King is either low-leveled, undeployed, [[Recall Spell|recalled]] or has been defeated, it will then lock onto the [[Dragon Duke]] or [[Minion Prince]], since they have the second and third highest health respectively. It will lock on the [[Archer Queen]] or [[Grand Warden]] if the Dragon Duke, [[Royal Champion]], Minion Prince or the Barbarian King is not in the action. If there is a [[Golem]] or a lot of troops are close together, then it will attack the Golem or the troops. Sometimes it might attack your Grand Warden or Archer Queen even if the other three Heroes are still on the battlefield, however this is unlikely to happen.
+*The Grand Warden's [[Eternal Tome]] ability can be used to tank one volley of shots from the Eagle Artillery for any units inside his proximity. Use this when units are going into the core of the base.
+**Alongside the Healing Tome, if at a high enough level, it can heal the damage done from the Eagle Artillery while they are immune to damage for a short period, but only if it targets units with high hitpoints such as Root Riders.
+***However, when paired with a Rage Spell Tower, the Eagle Artillery will prove to be too powerful for them, so it is advised to destroy it as soon as possible to prevent further damage to the army, unless if the Grand Warden's Eternal Tome is still active beforehand.
+*You can use the {{H|Jump Spell}} to have melee troops destroy the Eagle Artillery quickly, especially if it is protected by a layer of Walls.
+*A level 2 Eagle Artillery can be destroyed by 6 level 8 Lightning Spells and 1 level 5 [[Earthquake Spell]], and this is commonly used in Zap Lalo or Hybrid armies at Town Hall 11 and if there are other main defenses close to each other.
+*Do not place all your troops in one area. Eagle Artillery still do have splash damage and will take out any hordes of [[Balloon]]s or [[Minion]]s.
+*[[Bat Spell]]s are effective against the Eagle Artillery. They will target the Eagle Artillery and fly over any {{H|Wall}}s blocking its way. A swarm of them will enter the blind spot and wreak havoc against it. Be wary of multi-targeting or splash damage defenses such as [[Wizard Tower]]s and multi-target {{H|Inferno Tower}}s placed near the Eagle Artillery, else the bats will die off quickly and possibly leave it undamaged.
+*When the Eagle Artillery is in the process of locking onto the Archer Queen, you can use her ability to prevent it from locking on and force it to spend time to retarget. However, if the Eagle has already started to fire, using the ability will not prevent the shots from hitting your Queen for massive damage.
+**However, in order to do that, your Archer Queen must be equipped with either the [[Magic Mirror]], [[Action Figure]], or [[Invisibility Vial]] in order to do so, otherwise the Queen will take lots of damage, if not defeat her.
+*Placing three Golems close together will very likely cause the Eagle Artillery to lock onto the Golems, allowing other troops to attack.
+**However, they must be at a high enough level, otherwise it might target a much more tanky unit, such as a high-leveled Barbarian King.
+
+==Upgrade Differences==
+The Eagle Artillery undergoes significant visual changes at levels 2, 3, 4, 5, 6 and 7.
+
+*When initially constructed, the Eagle Artillery appears to be a white stone eagle head, with a gold beak and hard iron over its head and end of the three "feathers". The eagle head hides the artillery, which is a hexagonal barrel with two iron rims around the muzzle with an iron protrusion and a gold spike on top for each side, the barrel base is reinforced with iron and the front is an iron pillar that slants down, likely supporting the eagle head as it slides down. The shoulders consist of a big octagonal white stone plate surrounded by a thinner iron ring, a slanted octagonal iron plate on top of it helps secure the white stone "wing" on the back and a brass spike is placed in the middle of it, and both spikes are connected with iron chains hanging at the front of the base. The base is made of white stone, reinforced by two layers of progressively darker and shorter metal plates, the top of the base has red carpet on a thin layer of white stone. On each corner, a support connects to the bottom layer of metal plate with a spike protruding, and the side has iron plates starts at the thin layer of white stone connecting to the floor, becoming thinker and wider as it covers the base reinforcements and are bolted down with brass pentagonal bolts. When activated, the eagle head slides forward with its eyes blinking briefly before lighting up, the feathers spread out, and the hexagonal barrel extends upward, which makes another one of the spikes on the artillery visible. When attacking, the hexagonal barrel first emits a purple beam and creates a spiral dome of yellow and purple energy at the top before firing an artillery shell three times as the barrel recoils. After the third shot, the purple beam and energy dome disappear as the barrel slowly moves upwards, and once it is high enough, it stops and locks in place, ready for the next volley.
+**At level 2, the rims around the muzzle is mostly cover by a golden strip. The barrel base reinforcement except the slanted pillar, ring and plate on the shoulders, the chains, white stone around the red carpet, the spike from the corner support, and the side plates of the base change from iron to gold. The slanted pillar extends forward and touches the front side plate. The side plates now have spikes instead of pentagonal bolts, and the corner supports become taller up to half way of the top layer of metal reinforcement.
+**At level 3, the octagonal white stone plate is replaced with black metal, the wings gain a golden tip, the spike on the slanted plate becomes a huge hexagonal rivet, and the chains are replaced with a black wire connecting to the front with another rivet, between those is now an electric coil. The base is now made of metal instead of white stone, the top of the base now have dark blue carpet, the side plates on the base over the metal reinforcements are removed, and the carpet covers the middle of the side plates. The base metal reinforcements have a slightly bluish hue, the corner support has been replaced by an extra wide and thick plating with a pentagonal bolt, all made with the same metal as the bottom layer, while the top layer is noticeable and is thicker at the corner as well.
+**At level 4, the arrow-shaped blue metal is added at the top of the eagle head, and the "feathers" of the eagle head become longer and are angled to the middle. The gold barrel base reinforcement becomes smaller, and the carpet underneath is now icy blue metal. The slanted plate on the shoulder is icy blue metal as well, with the hexagonal rivets made of deep green metal, and grooved icy blue tubes replacing the wire. The bottom layer of reinforcement is made of dark purple metal. The corner platings become even taller and made of dark green metal, the pentagonal bolt on its corner is removed, two grey metal supports with dark green metal spike near the top is place on each side of the plating, connecting to the top layer. The side plates is made of dark green metal, fully stretch from the "carpet" to the ground again and no longer follows the shape of the base reinforcements, it covers the coil at the front, the gold lining around the side plate still stops the top layer but is wider.
+**At level 5, most of the iron protrusions around the barrel are removed beside the front one. The octagonal black metal plate is replaced with green metal, the slanted plate and the whole wing becomes gold. The rivets on top is made with purplish-black stone while the bottom ones are golden, the tube is no longer grooved, pumping green water, and surrounded by twisting green metal wire. The base is now made of grey stone, with the top reinforcement made of light purplish metal, and the bottom with more grey stone. The corner platings are made of purplish-black stone and has gold trims on each side, following the top and the corner edge into the bottom reinforcement and the ground respectively. The icy blue metal "carpet" is replaced with a green water pool and green metal side plates are made into a waterfall flowing green into the ground.
+**At level 6, a hexagonal gold plate replaces the arrow on the eagle head. The octagonal green metal plate is replaced with purple metal. The top rivets are now triangular and made of purple metal, with a golden hollow equilateral triangles (symbol of Town Hall 15) on top, the bottom ones do not have purple metal, the tube now pumps light blue magic, and is covered by purple metal rim on both side, leaving the middle visible. The corner platings gold trims are wider, and the ones near the corner edge merge and form the hollow equilateral triangle and protrudes more. The pool and flowing green waterfall is replaced with purple metal and the side plates, similar to level 4.
+**At level 7, the gold plate covers the full iron plate on the Eagle Artillery's head, which splits into four pieces and forms a leaf pattern, the iron plate under it is replaced with orange metal, and the exposed end of the feathers is replaced with deep green metal. The barrel base reinforcement is made with white stone again, with a few gold protrusions at the bottom. A tail is added to the back of the artillery, made with three feathers of deep green metal and gold tip, which shifts down when the Eagle Artillery is activated. The octagonal purple metal plate, under the hollow triangles, and the purple metal "carpet" are replaced with deep green metal and the gold edge connects to the top reinforcement at the corner with a spike on it instead of the side, except for the front where the side plate is now flush with the gold linings, where the linings are riveted where they bend and also connect to the ground. An extra pair of smaller wings with four feathers are added to the slanted plate, and the tubes are removed. The top reinforcement is made of gold and the bottom made of orange metal, being cut off by the front side plate. The corner hollow triangles are filled in and becomes a shallow pyramid, have a spike at the vertex and two fittings, an extra gold trim pass under the pyramid and goes diagonally down at the side. On the side, the trim pass under a leaf symbol made with gold and deep green metal (symbol of Town Hall 16) is added to the left side. The corners and the front side plate have black metal edges on the ground.
+
+*The Eagle Artillery briefly blinks when 50 housing space worth of army are deployed, blinks for a slightly longer time at 100 housing space , lights up its eyes at 150 housing space, and activates at 200 housing space worth of troops.
+**When the Eagle Artillery is ready to fire, the eagle head slides down to the front of the structure to reveal a hexagon-shaped barrel with bright light pulsing around it, its wings spread out a bit. At level 7, the tail behind the barrel also shifts down and its second pair of wings spreads out as well.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH11=1|TH17=0}}
+{{BuildingSize|4x4}}
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Damage per Second<br/>{{Res|Damage}}
+!Shockwave Damage<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPH Building"|225
+|class="ModifierStat AltDPS Building"|67.5
+|class="ModifierStat DPH Building"|20
+|4,000
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|4d
+|class="GoldPass EXP"|587
+|11
+|-
+|2
+|class="ModifierStat DPH Building"|250
+|class="ModifierStat AltDPS Building"|75
+|class="ModifierStat DPH Building"|25
+|4,400
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d
+|class="GoldPass EXP"|657
+|11
+|-
+|3
+|class="ModifierStat DPH Building"|275
+|class="ModifierStat AltDPS Building"|82.5
+|class="ModifierStat DPH Building"|30
+|4,800
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|12
+|-
+|4
+|class="ModifierStat DPH Building"|350
+|class="ModifierStat AltDPS Building"|105
+|class="ModifierStat DPH Building"|35
+|5,200
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d 12h
+|class="GoldPass EXP"|804
+|13
+|-
+|5
+|class="ModifierStat DPH Building"|425
+|class="ModifierStat AltDPS Building"|127.5
+|class="ModifierStat DPH Building"|40
+|5,600
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|14
+|-
+|6
+|class="ModifierStat DPH Building"|475
+|class="ModifierStat AltDPS Building"|142.5
+|class="ModifierStat DPH Building"|45
+|5,900
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|9d
+|class="GoldPass EXP"|881
+|15
+|-
+|7
+|class="ModifierStat DPH Building"|525
+|class="ModifierStat AltDPS Building"|157.5
+|class="ModifierStat DPH Building"|50
+|6,200
+|class="GoldPass bCost"|14,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|9d 12h
+|class="GoldPass EXP"|905
+|16
+|}
+
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Range<br/>{{Res|Range}}
+!Activation Housing Space<br/>{{Res|Troop Capacity}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Time Between Bursts<br/>{{Res|Attack Speed}}
+!Shots Per Burst<br/>{{Res|Damage}}
+!style="width:35%"|Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Favorite Target<br/>{{Res|Target}}
+!Number of Rounds<br/>{{Res|Number}}
+|-
+|7-50
+|200
+|class="AttackSpeed"|0.75s
+|class="AttackSpeed"|10s
+|3 shots
+|Splash - 0.75 tiles for main shot;<br/>0.75 to 3 tiles for shockwave
+|Ground & Air 
+|Any
+|90*
+|}
+{{Supercharge|mode=disabled|reason=Since it can be merged into the [[Town Hall/Inferno Artillery|Inferno Artillery]], the Eagle Artillery no longer gains any new levels.}}
+<nowiki>*</nowiki>90 individual shots. Each volley comes in three shots, but it is possible to fire only the first one or two shots in a volley.
+<div style="font-size:18px">'''Depleted Eagle Artillery'''</div>
+<div class="flexbox-display bold-text">
+<div>[[File:Eagle Artillery1 Unloaded.png|85px|link=]]<div>Level 1</div></div>
+<div>[[File:Eagle Artillery2 Unloaded.png|85px|link=]]<div>Level 2</div></div>
+<div>[[File:Eagle Artillery3 Unloaded.png|85px|link=]]<div>Level 3</div></div>
+<div>[[File:Eagle Artillery4 Unloaded.png|85px|link=]]<div>Level 4</div></div>
+<div>[[File:Eagle Artillery5 Unloaded.png|85px|link=]]<div>Level 5</div></div>
+<div>[[File:Eagle Artillery6 Unloaded.png|85px|link=]]<div>Level 6</div></div>
+<div>[[File:Eagle Artillery7 Unloaded.png|85px|link=]]<div>Level 7</div></div>
+</div>
+</div></center>
+
+===Achievement===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Anti-Artillery'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Eagle and [[Town Hall/Inferno Artillery|Inferno Artilleries]] in Multiplayer battles||100||150
+|-
+|Destroy 200 Eagle and Inferno Artilleries in Multiplayer battles||800||300
+|-
+|Destroy 2,000 Eagle and Inferno Artilleries in Multiplayer battles||5,000||1,000
+|}
+{{IconDescriptions|Defense=Yes|Upgradable=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description
+|-
+!December 10, 2015 
+!Update
+|The Eagle Artillery was added with 2 levels. [[File:Eagle Artillery1.png|169x169px]][[File:Eagle Artillery2.png|169x169px]]
+|-
+!January 26, 2016
+!Update
+|The Eagle Artillery now dealt 3x damage to [[Golem]]s and [[Golemite]]s.
+|-
+!August 25, 2016
+![https://clashofclans.com/blog/release-notes/august-2016-balancing-changes-coming Balance Changes] 
+|Increased the activation housing spaces of the Eagle Artillery. {{Res|Troop Capacity}}
+|-
+!October 12, 2016
+!Update
+|Made the Eagle Artillery look like its unloaded state when under upgrade.
+|-
+!June 11, 2018
+!Update
+|
+*Added the level 3 Eagle Artillery. [[File:Eagle Artillery3.png|169x169px]]
+*The Eagle Artillery no longer does 3x damage to Golems.
+|-
+!June 26, 2018
+!Update 
+|Reduced upgrade times of levels 1 and 2 Eagle Artillery. {{Res|Time}}
+|-
+!July 30, 2018
+![https://forum.supercell.com/showthread.php/1750523-Maintenance-%2830-07%29-Eagle-Artillery-Fixes-Server-Upkeep Maintenance break]
+|
+*Fixed a few bugs with the Eagle Artillery.
+**The Eagle Artillery would no longer do 3x damage to Golems and Golemites.
+***This was announced in the June 11, 2018 update but never made it into the game due to a bug, which is fixed later.
+**The damage of the level 3 Eagle Artillery was increased. Prior to this, the damage was the same as a level 2 Eagle Artillery.
+|-
+!October 23, 2018 
+!Update
+|Increased the Eagle Artillery's damage and shockwave damage. {{Res|Damage}}
+|-
+!February 22, 2019 
+!Balance Changes 
+|Fixed a bug where ranged troops needed to move closer to target the Eagle Artillery.
+|-
+!April 2, 2019
+!Update 
+|Removed the Elixir cost to reload the Eagle Artillery, instead reloading for free when you log back into the game. As a result, the sound effect that was used when the Eagle Artillery was reloaded became unused.
+|-
+!December 9, 2019
+!Update 
+|Added the level 4 Eagle Artillery. [[File:Eagle Artillery4.png|169x169px]]
+|-
+!March 30, 2020
+!Update
+|The Eagle Artillery would be less likely to target [[Yeti/Yetimite|Yetimites]] and the update also shows the correct frame of Eagle Artillery instead of showing the last frame which would show that the Eagle is out of ammo.
+|-
+!April 12, 2021
+!Update
+|Added the level 5 Eagle Artillery. [[File:Eagle Artillery5.png|169x169px]]
+|-
+!April 29, 2021
+!Balance Changes
+|The Eagle Artillery would be less likely to target Hero [[Pets]]. 
+|-
+!June 15, 2021
+!Update
+|Fixed a visual bug with level 5 when shooting.
+|-
+!June 27, 2022
+!Update
+|The Eagle Artillery now have 200 as its fixed activation troop spaces on level 1 to 5. 
+|-
+!June 12, 2023
+!Update
+|
+*Added the level 6 Eagle Artillery. [[File:Eagle Artillery6.png|169x169px]]
+*Eagle Artillery is now less likely to attack [[Healer]]s.
+|-
+!September 28, 2023
+!Balance Changes
+|Reduced damage per hit at levels 1 to 5 by 25. {{Res|Damage}}
+|-
+!April 17, 2024
+!Update
+|Added the level 7 Eagle Artillery. [[File:Eagle Artillery7.png|169x169px]]
+|-
+!June 3, 2024
+!Balance Changes
+|
+*Reduced damage per hit at levels 1 to 6 (shockwave damage is unchanged):
+**Level 1: 275 -> 225 {{Res|Damage}}
+**Level 2: 325 -> 250 {{Res|Damage}}
+**Level 3: 375 -> 275 {{Res|Damage}}
+**Level 4: 425 -> 350 {{Res|Damage}}
+**Level 5: 475 -> 425 {{Res|Damage}}
+**Level 6: 500 -> 475 {{Res|Damage}}
+|-
+!November 25, 2024
+!Town Hall 17 Update
+|
+*The level 7 Eagle Artillery will now be required to upgrade the Town Hall to level 17 as the Town Hall 16 also needs to be merged, creating the [[Town Hall/Inferno Artillery|Inferno Artillery]]. Once the merging is done, the Eagle Artillery will be removed permanently.
+*Reduced upgrade cost at levels 1 and 4 to 7:
+**Level 1: 6,000,000 -> 5,500,000 {{Res|Gold}}
+**Level 4: 13,000,000 -> 11,000,000 {{Res|Gold}}
+**Level 5: 15,000,000 -> 13,000,000 {{Res|Gold}}
+**Level 6: 19,500,000 -> 14,000,000 {{Res|Gold}}
+**Level 7: 22,000,000 -> 17,500,000 {{Res|Gold}}
+*Reduced upgrade times at levels 1 and 3 to 7:
+**Level 1: 5d -> 4d {{Res|Time}}
+**Level 3: 9d -> 8d {{Res|Time}}
+**Level 4: 10d -> 9d {{Res|Time}}
+**Level 5: 13d -> 12d {{Res|Time}}
+**Level 6: 14d -> 12d 12h {{Res|Time}}
+**Level 7: 15d 12h -> 13d {{Res|Time}}
+|-
+!January 28, 2026
+!Balance Changes
+|The Eagle Artillery would be less likely to target [[Giant Giant]].
+|}
+
+==Audio==
+===Generic===
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Cannon Picked Up.ogg]]
+|Eagle Artillery selected
+|When the Eagle Artillery is picked
+|}
+
+===Unique===
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:EagleArtillery_PreActivate1.ogg]]
+|Eagle Artillery blinks
+|When the Eagle Artillery detects when at least 50-99 housing space is deployed
+|-
+|[[File:EagleArtillery_PreActivate2.ogg]]
+|Eagle Artillery takes notice
+|When at least 100-149 housing space is deployed
+|-
+|[[File:EagleArtillery_PreActivate3.ogg]]
+|Eagle Artillery lights up
+|When at least 150-199 housing space is deployed
+|-
+|[[File:EagleArtillery Activate.ogg]]
+|Eagle Artillery activates
+|When 200 or more housing space is deployed
+|-
+|[[File:EagleArtillery_Charge.ogg]]
+|Eagle Artillery charges
+|When the Eagle Artillery targets a unit
+|-
+|[[File:EagleArtillery Charge Unused.ogg]]
+|Eagle Artillery charges (unused)
+|When the Eagle Artillery targets a unit (unused)
+|-
+|[[File:EagleArtillery_Fire.ogg]]
+|Eagle Artillery fires
+|When the Eagle Artillery fires Artillery shells
+|-
+|[[File:EagleArtillery Impact.ogg]]
+|Artillery shell impacts ground
+|When the artillery shells land to the ground
+|-
+|[[File:EagleArtillery_Reload.ogg]]
+|Eagle Artillery reloaded
+|When the Eagle Artillery is reloaded (became unused since the April 2, 2019 update)
+|-
+|[[File:EagleArtillery_OutofAmmo.ogg]]
+|Eagle Artillery deactivates
+|When the Eagle Artillery runs out of ammunition during a battle
+|-
+|[[File:EagleArtillery_Place.ogg]]
+|Eagle Artillery placed
+|When the Eagle Artillery is placed
+|}
+
+==Gallery==
+===Short Animations===
+[[File:EagleArtillery7_InAction.mp4|center|200px]]
+
+===Images===
+[[File:Eagle Artillery Level1 info.png|center|340px]]
+[[File:Sneak Peek Eagle Artillery.jpg|center|480px]]
+
+==Trivia==
+*At Clash-Con 2015, the sneak peek of the Eagle Artillery was shown to fire a yellow beam into the sky that drops onto enemy targets. However, that has since been changed into a volley of three consecutive shots of orange artillery shells.
+*If the Eagle Artillery is destroyed before targeting, it will still make a "target" sound.
+*When activated, it makes a sound which resembles an eagle's cry, more specifically, a [[wikipedia:Red-tailed hawk|red-tailed hawk]].
+*When depleted, the Eagle Artillery will also make some short of Eagle cry with modified pitches, this will indicate to the attacker that the Eagle Artillery has ran out of ammo.
+
+===Comparisons===
+*The Eagle Artillery is one of four {{H|Defensive Buildings|defenses}} (the others being the {{H|X-Bow}}, {{H|Inferno Tower}}, and [[Scattershot]]) that need to be reloaded.
+**Out of these defenses, the Eagle Artillery takes the longest to deplete all of its ammunition, taking 5 minutes.
+**However, once merged, the Eagle Artillery within the Inferno Artillery will never run out of ammunition and would remain active throughout the whole battle.
+*The Eagle Artillery is the only defense in the Home Village whose in-game statistics use "damage per hit" rather than "damage per second" (several defenses in the Builder Base, such as the [[Double Cannon]], as well as the geared-up {{H|Cannon}} and [[Mortar]], show both "damage per hit" and "damage per second"). This may be due to the fact that the Eagle Artillery fires in volleys.
+*The Eagle Artillery is the first signature defense to be permanently gone when merging into a building when it merges with the [[Town Hall]] 16 [[Giga Inferno (TH16)|Giga Inferno]] in order to make the [[Town Hall/Inferno Artillery|Inferno Artillery]] at Town Hall 17.
+*The Eagle Artillery is the defense with the largest range in the game and the biggest blind spot in Home Village.
+**It also used to have the biggest blind spot in the game, before the addition of the pre-Builder Base 2.0 {{B|Lava Launcher}}. However, after the update, the latter's blind spot has since been reduced, making the Eagle Artillery have the biggest blind spot again.
+*If the Eagle Artillery were to be stunned by a Lightning Spell after it has shot two shells before the third one, the Eagle Artillery's firing rate will be much faster, allowing the Eagle Artillery to deal much more damage than usual.
+*When being upgraded, the Eagle Artillery resembles its depleted state, except without the smoke.
+*The Clash of Dragons Scenery is the first scenery so large that the player can see the Eagle Artillery's shells reach their height limit before falling down.
+
+{{BuildingsMenuHV}}
+
+[[de:Adlerartillerie]]
+[[es:Águila de artillería]]
+[[fr:Aigle artilleur]]
+[[ru:Орлиная артиллерия]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Home Village]]

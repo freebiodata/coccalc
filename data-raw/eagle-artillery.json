@@ -1,0 +1,74 @@
+{
+ "id": "eagle-artillery",
+ "name": "Eagle Artillery",
+ "category": "defense",
+ "resource": "gold",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 5000000,
+   "time": "4d",
+   "th": 11
+  },
+  {
+   "level": 2,
+   "cost": 6000000,
+   "time": "5d",
+   "th": 11
+  },
+  {
+   "level": 3,
+   "cost": 9000000,
+   "time": "7d",
+   "th": 12
+  },
+  {
+   "level": 4,
+   "cost": 10000000,
+   "time": "7d 12h",
+   "th": 13
+  },
+  {
+   "level": 5,
+   "cost": 12000000,
+   "time": "8d",
+   "th": 14
+  },
+  {
+   "level": 6,
+   "cost": 13000000,
+   "time": "9d",
+   "th": 15
+  },
+  {
+   "level": 7,
+   "cost": 14000000,
+   "time": "9d 12h",
+   "th": 16
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  0,
+  0
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Eagle_Artillery",
+ "lastEdited": "2026-08-19T03:06:50Z",
+ "ok": true
+}

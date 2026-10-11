@@ -1,0 +1,16 @@
+# Cloudflare Pages headers for CoCPlanner (coccalc.top)
+
+# Long-cache immutable build assets
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Basic security headers on every document
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Never cache HTML so deploys are picked up instantly
+/*.html
+  Cache-Control: public, max-age=0, must-revalidate

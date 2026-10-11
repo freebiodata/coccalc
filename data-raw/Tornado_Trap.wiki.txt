@@ -1,0 +1,189 @@
+__NOEDITSECTION__
+{{ClashRoyaleLink|Tornado}}
+{{Protection}}
+
+[[File:Tornado_Trap2.png|200px|center|link=]]
+
+<center>'''''"Wind and stones may break some bones, but this [[Traps/Home Village|trap]] will definitely confound you. Just place one of these traps down and the released vortex will draw the enemy [[Army|troops]] in, hindering their progress."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Tornado_Trap1.png|center|90px|link=]]<div>Level 1</div></div>
+<div>[[File:Tornado_Trap2.png|center|90px|link=]]<div>Level 2-3</div></div>
+</div>
+
+==Summary==
+*The Tornado Trap is a trap unlocked at [[Town Hall]] level 11. When triggered, it pulls in attacking troops, forcibly moving them, and does small damage to them.
+*Its effect depends on the housing space of the troops affected; smaller troops will be more heavily affected than larger ones. All attacking units except [[Miner]]s, {{H|Super Miner}}s, [[Diggy]] and the [[Battle Drill]] will be impacted if it enters the radius of the trap.
+**The effect is rated on a numbered scale of 1 to 5; each troop and Hero is assigned a value of anywhere between 1 and 5. This assigned value is calculated by dividing the unit's housing space by 3 and rounding up (this assigned value is capped at 5). The higher the assigned value, the less spinning effect the Tornado Trap will have on that unit. For the purpose of this calculation, [[Heroes]] and [[Pets]] have an assigned value of 5, and Siege Machines have an assigned value of one.
+***Between ground and air units with the same value, the Tornado Trap has an increased spinning effect on air units.
+*The Tornado Trap also deals a small amount of damage per second to all units within its radius (including the aforementioned units unaffected by the Tornado Trap's displacement effect). As the trap lasts longer at higher levels, it deals more damage overall at higher levels.
+*The Tornado Trap will not prevent units from attacking if they can attack targets still in range.
+
+==Strategies==
+===Defensive Strategies===
+*You can use the Tornado Trap to pull in ranged units and make them lose their range advantage. While they may still be able to attack while trapped in the tornado, you can take advantage of this by placing high-damage buildings to quickly destroy them, you can also place other traps near the Tornado Trap to trigger them on grouped up enemies.
+*Placing the Tornado Trap in front of {{H|Wall}}s that [[Wall Breaker]]s would target can prevent them from attacking said Walls, which can disrupt plans of the attacker.
+*The Tornado Trap is very effective against mobile [[Siege Machines]], and is capable of stalling them considerably.
+*You can put an [[Inferno Tower]] near the Tornado Trap to finish off any tank (if set to single) or to take down hordes of units (if set to multiple).
+*You can place an [[Air Bomb]], [[Seeking Air Mine]], [[Giant Bomb]] or a [[Giga Bomb]] near the Tornado Trap to get a lot of damage done.
+*Placing a Tornado Trap near the [[Giga Tesla]] or [[Giga Inferno]] can stall attacking reinforcements deployed near them by a [[Wall Wrecker]] or [[Battle Blimp]]. The strategy is particularly useful if the reinforcement consists of [[Balloon]]s, who need to be on top of the [[Town Hall]] to do damage to it.
+**However, in some cases, this does not work, as for example, if the Balloons get cloned by a [[Clone Spell]] or two to get out of the radius of the Tornado Trap.
+*Certain sub-troops like Skeletons from Skeleton Spells and Witches, and Bats from Bat Spells will not trigger Tornado Traps, while others can.
+**Skeletons and Bats are weak to Tornado Traps, but will not trigger them. Tornado Traps will only activate if a troop walks into its radius, and any Bats or Skeletons  that enter the radius will be severely damaged if not destroy them.
+*If ground troops are pulled into a Wall by a Tornado Trap, they will get stuck on the Wall and be unable to move until the trap's effect ends, even if they are able to bypass Walls innately. This can be used in many different ways, such as trapping units to be hit by splash defenses, or stalling [[Heroes]] from attacking.
+*Put a Tornado Trap right next to the blind spot of the [[Mortar]], [[Eagle Artillery]], or the [[Scattershot]] to pull them away from the blind spot and also let the Mortar, Eagle Artillery and the Scattershot to wipe out the [[army]] especially when a lot of Balloons are attacking them.
+*Tornado Traps can waste most of the Hero ability duration, for example the [[Royal Champion]] under the effects of her activated [[Haste Vial]] can be stuck on a wall, preventing her from getting the full value.
+
+===Offensive Strategies===
+*[[Miner]]s (including their {{H|Super Miner|Super version}}), [[Diggy]], and the [[Battle Drill]] cannot be pulled in by this trap, even when above ground. This makes them viable options for dealing against a Tornado Trap.
+*Use some low health troops like [[Barbarian]], [[Archer]], [[Goblin]], [[Minion]], or [[Wall Breaker]] to trigger the Tornado Trap so that the [[Army]] at the back can push without the Tornado Trap interrupting and wiping them out. 
+
+==Upgrade Differences==
+*When initially constructed, the Tornado Trap appears as a metallic spiral tube rotated clockwise that is covered by a wooden hatch on the ground. When activated, the hatch opens, the trap reveals itself and pulls units in its radius in a counter-clockwise motion.
+*At level 2, the Tornado Trap gains a large, darker metal piece at the end of the tube.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable|TH11=1}}
+{{BuildingSize|1x1}}<!-- Note: Total damage values do not match up with the intuitive "multiply DPS by duration" value. This is because in game files, the damage is already set internally as a fixed number of 1-damage ticks, occurring at 0.128s intervals-->
+{|class="wikitable row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Duration<br/>{{Res|Time}}
+!Total Damage<br/>{{Res|Damage}}
+![[Resource Buildings#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|5 seconds
+|39
+|class="GoldPass bCost"|1,800,000
+|N/A
+|N/A
+|11
+|-
+|2
+|6 seconds
+|47
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|11
+|-
+|3
+|style="white-space:nowrap;"|7 seconds
+|55
+|class="GoldPass bCost"|2,500,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|class="change-highlight"|12
+|}
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Damage per Second<br/>{{Res|Damage}}
+!Trigger Radius<br/>{{Res|Radius}}
+!Damage Radius<br/>{{Res|Radius}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Favorite Target<br/>{{Res|Target}}
+|-
+|8
+|3 tiles
+|3 tiles
+|Area Splash
+|Ground & Air
+|None
+|}
+
+{|cellpadding="1" cellspacing="1" style="width: 100%;text-align:center;"
+|-
+|<big>'''Unarmed Tornado Trap'''</big>
+|-
+|[[File:Tornado Trap Unarmed.png|link=]]
+|}
+</div>
+</center>
+{{IconDescriptions|Trap=Yes|Upgradable=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!colspan="2"|[https://forum.supercell.com/showthread.php/19837-New-defenses February 21, 2013]
+|DarkMetronaJ suggested adding a defensive tornado that attacks both ground and air units.
+|-
+!Patch!!Type!!Description
+|-
+![https://www.youtube.com/watch?v=YJ1CFuBt92A October 20, 2018]
+!Sneak Peek
+|Announced the Tornado Trap, with 3 levels.[[File:Tornado_Trap1.png|50px|link=]][[File:Tornado_Trap2.png|50px|link=]]
+|-
+![[Version History#Version 11.49.4 - 23rd October 2018 "Clan War Leagues"|October 23, 2018]]
+!Update
+|Added the Tornado Trap.
+|-
+![[Version History#Version 11.??? - 2nd April 2019|April 2, 2019]]
+!Update
+|
+*Removed re-arm costs for the Tornado Trap entirely (as with all traps and reloadable defenses), instead automatically re-arming after logging into the game. {{Res|Gold}}
+*Reduced duration at all levels:
+**Level 1: 6s -> 5s {{Res|Time}}
+**Level 2: 8s -> 6s {{Res|Time}}
+**Level 3: 10s -> 7s {{Res|Time}}
+|-
+!December 9, 2021
+!Update
+|Reduced build cost from 3,000,000 to 2,500,000. {{Res|Gold}}
+|-
+!June 16, 2025
+!Update
+|Updated the visual effects of the Tornado Trap effect.
+|}
+
+==Sounds==
+===Generic===
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:ShrinkSpell activate.ogg]]
+|Spell trap opens
+|When the Tornado Trap is active
+|}
+
+===Unique===
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Tornado activate.ogg]]
+|Vortex pulls inward
+|When the Tornado Trap pulls units towards itself
+|}
+
+==Gallery==
+===Short Animations===
+{|style="text-align:center; margin:auto; width: 300px;"
+|-
+|[[File:TornadoTrap_In_Action.mp4|150px]]
+|-
+|Tornado Trap pulling an Ice Golem (prior to the June 16, 2025 update)
+|}
+
+==Trivia==
+*Like the [[Freeze Trap]] and [[Shrink Trap]], which are temporary traps, the Tornado Trap takes the form of a spell placed in a trap door.
+**Unlike them, the Tornado Trap is a permanent trap.
+*The info image of the Tornado Trap, in a similar fashion to temporary traps, uses the in-game sprite rather than a custom art.
+*Unlike the [[Air Sweeper]], the Tornado Trap can somehow damage [[Army|troops]].
+*Unlike the {{H|Spring Trap}}, the Tornado Trap can affect [[P.E.K.K.A]]s, despite their armor being "heavy". It can also affect [[Golem]]s, [[Heroes]], and [[Pets]].
+
+===Comparisons===
+*The Tornado Trap is currently the only trap to originate from Clash Royale as a spell, which is the [[w:c:clashroyale:Tornado|Tornado]].
+*Out of all the [[traps]], the Tornado Trap deals the least damage.
+*The Tornado Trap, along with the Freeze Trap and Shrink Trap, are the only traps to affect both ground troops and air troops.
+*Excluding the temporary traps, the Tornado Trap and the [[Giga Bomb]] are the only traps to only have one of its kind available.
+*The Tornado Trap is one of two traps that have the fewest levels, with the other being the [[Giga Bomb]], as they each have 3 levels.
+{{BuildingsMenuHV}}
+[[ru:Ловушка с торнадо]]
+[[de:Tornadofalle]]
+[[eS:Trampa tornado]]
+[[Category:Traps]]
+[[Category:Home Village]]

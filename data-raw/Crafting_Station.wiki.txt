@@ -1,0 +1,206 @@
+{{Protection}}
+[[File:CraftedDefense interface.png|center|675px|link=]]
+[[File:Crafting Station.png|center|205px|link=]]
+<center>'''''"Build Crafted {{H|Defensive Buildings|Defenses}} and upgrade their stats however you like! Crafted Defenses last until a Crafting Phase ends. New Defenses will take their place with the next phase! Experiment with new Defenses and you might just find a new favorite!"'''''</center>
+----<!--
+<center><h3>Available Soon {{Res|Time}}</h3></center>
+<div class="flexbox-display bold-text hovernav">
+<div>[[File:Hot Candle4-1.png|120px|link=Hot Candle]]<div>[[Hot Candle]]</div></div>
+<div>[[File:Hero Hunter4.png|120px|link=Hero Hunter]]<div>[[Hero Hunter]]</div></div>
+<div>[[File:Cake-A-Pult4.png|120px|link=Cake-A-Pult]]<div>[[Cake-A-Pult]]</div></div>
+</div>-->
+<center><h3>Currently Available</h3></center>
+<div class="flexbox-display bold-text hovernav">
+<div>[[File:Hot Candle4-1.png|120px|link=Hot Candle]]<div>[[Hot Candle]]</div></div>
+<div>[[File:Hero Hunter4.png|120px|link=Hero Hunter]]<div>[[Hero Hunter]]</div></div>
+<div>[[File:Cake-A-Pult4.png|120px|link=Cake-A-Pult]]<div>[[Cake-A-Pult]]</div></div>
+</div>
+<center><h3>Formerly Available</h3></center>
+<div class="flexbox-display bold-text hovernav">
+<div>[[File:Hook Tower4.png|120px|link=Hook Tower]]<div>[[Hook Tower]]</div></div>
+<div>[[File:Flame Spinner4.png|120px|link=Flame Spinner]]<div>[[Flame Spinner]]</div></div>
+<div>[[File:Crusher Mortar4.png|120px|link=Crusher Mortar]]<div>[[Crusher Mortar]]</div></div>
+<div>[[File:Hero Bell4.png|120px|link=Hero Bell]]<div>[[Hero Bell]]</div></div>
+<div>[[File:Bomb Hive4.png|120px|link=Bomb Hive]]<div>[[Bomb Hive]]</div></div>
+<div>[[File:Light Beam4.png|120px|link=Light Beam]]<div>[[Light Beam]]</div></div>
+<div>[[File:Roaster10 Crafted.png|120px|link=Roaster/Home Village]]<div>{{H|Roaster}}</div></div>
+<div>[[File:Air Bombs10 Crafted.png|120px|link=Air Bombs/Home Village]]<div>{{H|Air Bombs}}</div></div>
+<div>[[File:Lava Launcher7 Crafted.png|120px|link=Lava Launcher/Home Village]]<div>{{H|Lava Launcher}}</div></div>
+</div>
+__TOC__
+
+==Summary==
+*The Crafting Station is a {{H|Defensive Buildings|defensive building}} unlocked at the highest [[Town Hall]] level (currently level 18), which can be toggled between three different modes, each with their advantages and disadvantages. It is free and covers a 3x3 area of the base.
+**Even if the Crafting Station has not chosen its defense yet, it is still treated as a "defensive building". This means that defense-targeting units like [[Giant]]s, [[Balloon]]s, and [[Golem]]s can attack it as their priority, and it can also soak up [[Seeking Shield]]s and [[Fireball]]s.
+**Once the Crafting Station's crafted defense has been selected, it can no longer be switched back to its non-damaging building form.
+*The Crafting Station can be toggled between one of three defenses. It costs no resources to choose a defense, and they may be freely swapped between at any time.
+*Each defense has three different modules, which can have upgrade time and costs resources to upgrade each level.
+**Modules are improvements of defenses that can be upgraded, up to level 10 each. Each module controls a certain aspect of the defense, such as hitpoints, damage, attack frequency or unique effects.
+*Upgrading modules requires a free Builder. Only one module can be upgraded on a given Crafted Defense at a time, but multiple Crafted Defenses may have modules upgraded at the same time.
+*Module upgrades behave identically to building upgrades in terms of how they are conducted; they award [[Experience]] upon completion, can be immediately finished with [[Gems]], applicable [[Magic Items]] can be used on them, and they will be discounted by Builder Boosts in [[Gold Pass]].
+*Crafted Defenses will always defend the village, even while upgrading. They will also start at level 3 (level 1 for each of the three modules), and can be upgraded up to level 30 (with all modules at level 10).
+*Crafted Defenses from the Crafting Station last until a crafting phase ends, and another set is released with each following phase. Each Crafting Phase lasts for four months, which means there will be three each year, which will contain different crafted defenses for each set.
+*Once a new Town Hall level comes out, the Crafting Station will remain available to players at the previously highest Town Hall level until the end of the Crafting Phase, upon which the Crafting Station will be removed if players do not upgrade their Town Hall by then.
+*Upgrading Crafted Defenses gives 8 {{Res|Sparky Stone}} per module level. This can be spent at the [[Fancy Shop]]. This was also retroactively awarded for previous module levels done prior to the November 2025 update.
+**Leveling one Crafted Defense to the maximum gives a total of 216 {{Res|Sparky Stone}}.
+**Leveling all current available three Crafted Defenses to the maximum gives a total of 648 {{Res|Sparky Stone}}.
+*Any Crafted Defense takes 54 days to fully upgrade, given uninterrupted building and excluding any builder boosts or perks. The 3 modules of each Crafted Defense require 13 days and 6 hours, 18 days, and 22 days and 18 hours to complete, each duration is assigned once.
+**In season 3, the module upgrade time is changed to 16 days and 16 hours, 18 days and 2 hours, and 19 days and 6 hours, balancing the duration of each module more evenly, but still totaling 54 days for each Crafted Defense. The earlier upgrades is made to be much shorter, allowing players to access the higher stats faster and makes pivoting to a different Crafted Defense less punishing, it also makes Sparky Stones earlier to earn if it is at the end of a season.
+***In Season 4, the module upgrade times are changed to 20 days and 20 hours, 22 days and 15 hours, and 24 days and 2 hours, totaling 67 days and 13 hours for each Crafted Defense. The upgrade durations per module have been balanced to adjust for each Town Hall levels.
+
+==Crafted Defenses==<!--
+===Upcoming Defenses===
+*The following defenses are the upcoming Crafted Defenses:
+**The [[Hot Candle]] flings fire spurts at surrounding units and splits its attacks among nearby units similiar to [[Multi-Archer Tower]], however its number of targets drops as it melts over time.
+**The [[Hero Hunter]] targets all ground and air units with a range of 9.5 tiles while effecting them down with a [[Poison Spell]] effect, it deals extra damage against Heroes.
+**The [[Cake-A-Pult]] launches destructive cakes at ground and air units within a range of 3-12 tiles, it leaves a explosive surprise behind after dropping.-->
+===Current Defenses===
+*The following defenses are the currently available Crafted Defenses:
+**The [[Hot Candle]] flings flame spurts at surrounding units and splits its attacks among nearby units similiar to [[Multi-Archer Tower]], however its number of targets drops as it melts over time.
+**The [[Hero Hunter]] targets all ground and air units with a range of 9.5 tiles while effecting them down with a [[Poison Spell]] effect, it deals extra damage against Heroes.
+**The [[Cake-A-Pult]] launches destructive cakes at ground and air units within a range of 3-12 tiles, it leaves a explosive surprise behind after dropping.
+===Former Defenses===
+*The following defenses are the previously available Crafted Defenses:
+**The [[Hook Tower]] grabs a unit into its blind spot with a range of 4-15 tiles, ground or air, but does not deal any damage and stuns them temporarily.
+**The [[Flame Spinner]] is always active and deals area damage, with a range of 8 tiles. When attacking, it attacks in a spiral motion, releasing a large number of fireballs.
+**The [[Crusher Mortar]] can deal heavy damage to ground units with splash damage with a range of 2.5-9 tiles. When attacking, it launches spiky, heavy stones rapidly at the opponent, and each bounces up to two times before disintegrating, similar to a [[Super Bowler]].
+**The [[Hero Bell]] boosts defending Heroes while active, but does not deal any damage.
+**The [[Bomb Hive]] is always active and launches bombs in set directions that can travel long distances and deal significant area damage.
+**The [[Light Beam]] is a single-target defense with very long range, however its shots diminish in power the further away its target is.
+**The {{H|Roaster}} fires bursts of plasma, dealing rapid splash damage against ground and air troops at medium range.
+**The {{H|Air Bombs}} launches aerial bomb balloons, dealing high splash damage against air units.
+**The {{H|Lava Launcher}} launches fiery projectiles at long range, dealing high splash damage against ground units. The projectiles leave lava pools on impact, further damaging ground units that enter them.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{NumberAvailable|TH11=1}}{{BuildingSize|3x3}}
+{|class="wikitable" style="text-align: center; width: 45%; margin: 0px auto;" cellspacing="1" cellpadding="1" border="0"
+!Hitpoints {{Res|Hitpoint}}
+!Build Cost {{Res|Elixir}}
+!Build Time {{Res|Time}}
+|-
+|1,000*
+|None
+|None
+|}
+<nowiki>*</nowiki>This value is used for the Crafting Station only when a Crafted Defense has not yet been selected. Once a defense is selected, the hitpoints is determined by the chosen defense.
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Crafter's Nightmare'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Crafted Defenses in Multiplayer Battles||100||25
+|-
+|Destroy 200 Crafted Defenses in Multiplayer Battles||800||100
+|-
+|Destroy 2,000 Crafted Defenses in Multiplayer Battles||5,000||200
+|-
+!colspan="3" style="text-align: center; width: 650px" |<big>'''Crafting Connoisseur'''</big>
+|-
+|Upgrade Crafted Defenses 5 times||10||10
+|-
+|Upgrade Crafted Defenses 25 times||100||30
+|-
+|Upgrade Crafted Defenses 75 times||1,000||50
+|}
+
+{{IconDescriptions|CraftableDefense=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description
+|-
+!June 15, 2025!!Sneak Peek
+|Announced the Crafting Station, which can be switched to any of the three crafted defenses available, being the [[Hook Tower]], [[Flame Spinner]], and [[Crusher Mortar]], which is only available for [[Town Hall]] 17.
+[[File:Hook Tower1.png|60px|link=]][[File:Hook Tower2.png|60px|link=]][[File:Hook Tower3.png|60px|link=]][[File:Hook Tower4.png|60px|link=]]<br/>
+[[File:Flame Spinner1.png|60px|link=]][[File:Flame Spinner2.png|60px|link=]][[File:Flame Spinner3.png|60px|link=]][[File:Flame Spinner4.png|60px|link=]]<br/>
+[[File:Crusher Mortar1.png|60px|link=]][[File:Crusher Mortar2.png|60px|link=]][[File:Crusher Mortar3.png|60px|link=]][[File:Crusher Mortar4.png|60px|link=]]
+|-
+!June 16, 2025!!Update
+|Added the Crafting Station and all the Phase 1 defenses.
+|-
+!November 16, 2025!!Crafting Phase 1 ends
+|Removed all the defenses from the Crafting Station.
+|-
+!November 16, 2025!!Sneak Peek
+|Announced the [[Hero Bell]], [[Bomb Hive]], and [[Light Beam]].
+[[File:Hero Bell1.png|60px|link=]][[File:Hero Bell2.png|60px|link=]][[File:Hero Bell3.png|60px|link=]][[File:Hero Bell4.png|60px|link=]]<br/>
+[[File:Bomb Hive1.png|60px|link=]][[File:Bomb Hive2.png|60px|link=]][[File:Bomb Hive3.png|60px|link=]][[File:Bomb Hive4.png|60px|link=]]<br/>
+[[File:Light Beam1.png|60px|link=]][[File:Light Beam2.png|60px|link=]][[File:Light Beam3.png|60px|link=]][[File:Light Beam4.png|60px|link=]]
+|-
+!November 17, 2025!!Town Hall 18 Update
+|Removed the Crafting Station from Town Hall 17 and replaced it in Town Hall 18.
+|-
+!November 20, 2025!!Crafting Phase 2 begins
+|
+*Added the Phase 2 Crafted Defenses.
+*Changed each successive Crafting Phases to last for 4 months instead of 3.
+|-
+!March 30, 2026!!Sneak Peek
+|Announced the {{H|Roaster}}, {{H|Air Bombs}}, and {{H|Lava Launcher}}.
+[[File:Roaster1 Crafted.png|60px|link=]][[File:Roaster2 Crafted.png|60px|link=]][[File:Roaster3 Crafted.png|60px|link=]][[File:Roaster4 Crafted.png|60px|link=]][[File:Roaster5 Crafted.png|60px|link=]][[File:Roaster6 Crafted.png|60px|link=]][[File:Roaster7 Crafted.png|60px|link=]][[File:Roaster8 Crafted.png|60px|link=]][[File:Roaster9 Crafted.png|60px|link=]][[File:Roaster10 Crafted.png|60px|link=]]<br/>
+[[File:Air Bombs1 Crafted.png|60px|link=]][[File:Air Bombs2 Crafted.png|60px|link=]][[File:Air Bombs3 Crafted.png|60px|link=]][[File:Air Bombs4 Crafted.png|60px|link=]][[File:Air Bombs5 Crafted.png|60px|link=]][[File:Air Bombs6 Crafted.png|60px|link=]][[File:Air Bombs7 Crafted.png|60px|link=]][[File:Air Bombs8 Crafted.png|60px|link=]][[File:Air Bombs9 Crafted.png|60px|link=]][[File:Air Bombs10 Crafted.png|60px|link=]]<br/>
+[[File:Lava Launcher1 Crafted.png|60px|link=]][[File:Lava Launcher2 Crafted.png|60px|link=]][[File:Lava Launcher3 Crafted.png|60px|link=]][[File:Lava Launcher4 Crafted.png|60px|link=]][[File:Lava Launcher5 Crafted.png|60px|link=]][[File:Lava Launcher6 Crafted.png|60px|link=]][[File:Lava Launcher7 Crafted.png|60px|link=]]
+|-
+!March 31, 2026!!Crafting Phase 2 ends
+|Removed all the defenses from the Crafting Station.
+|-
+!April 1, 2026
+!Crafting Phase 3 begins
+|Added the Phase 3 Crafted Defenses.
+|-
+!July 30, 2026!!Sneak Peek
+|Announced the [[Hot Candle]], [[Hero Hunter]], and [[Cake-A-Pult]].
+[[File:Hot Candle1-1.png|60px|link=]][[File:Hot Candle2-1.png|60px|link=]][[File:Hot Candle3-1.png|60px|link=]][[File:Hot Candle4-1.png|60px|link=]]<br/>
+[[File:Hero Hunter1.png|60px|link=]][[File:Hero Hunter2.png|60px|link=]][[File:Hero Hunter3.png|60px|link=]][[File:Hero Hunter4.png|60px|link=]]<br/>
+[[File:Cake-A-Pult1.png|60px|link=]][[File:Cake-A-Pult2.png|60px|link=]][[File:Cake-A-Pult3.png|60px|link=]][[File:Cake-A-Pult4.png|60px|link=]]
+|-
+!July 31, 2026
+!Crafting Phase 3 ends
+|Removed all the defenses from the Crafting Station.
+|-
+!August 1, 2026
+!Crafting Phase 4 begins
+|
+*Added the Phase 4 Crafted Defenses.
+*Made Crafting Station available for Town Hall 11.
+|-
+!December 31, 2026
+!Crafting Phase 4 ends
+|Removed all defenses from the Crafting Station.
+|}
+
+==Audio==
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:CraftingStation Select.ogg]]
+|Crafting Station selected<br/><br/>Crafted Defense selected
+|When the Crafting Station is tapped<br/><br/>When the Crafted Defense is chosen or switched
+|-
+|[[File:CraftingStation Place.ogg]]
+|Crafting Station placed
+|When the Crafting Station is placed or swapped with another building
+|}
+
+==Gallery==
+<div class="flexbox-display normal-text">
+<div>[[File:FireballCraftStation.gif|65px|link=]]<div>Fireball targeting the Crafting Station</div></div>
+</div>
+
+==Trivia==
+*Each Crafting Phase was announced to be every three months, due to player backlash with the amount of upgrade and time required, Supercell extended the first Phase to last until Town Hall 18 released which lasted for around five months, and extended each Phase to last for four months each instead.
+*Given it is treated as an defensive building, it can be placed outside the base to surprise the attacker and prevent significant value of the [[Fireball]] in a [[Grand Warden|Warden]] Charge.
+
+{{BuildingsMenuHV}}
+{{Temporary}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[ru:Ремесленный станок]]

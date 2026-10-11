@@ -1,0 +1,195 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FAQ from '../components/FAQ.astro';
+import Icon from '../components/Icon.astro';
+import RelatedTools from '../components/RelatedTools.astro';
+import TrustBlock from '../components/TrustBlock.astro';
+import { SITE, TOOLS } from '@data/meta';
+import { BUILDINGS, HEROES, DATA_SNAPSHOT_DATE } from '@data/game';
+import { costToMaxFrom, upgradePath } from '@lib/calc';
+import { fmtDuration, fmtNum } from '@lib/format';
+
+const title = 'Clash of Clans Upgrade Cost Calculator | CoCPlanner';
+const description =
+  'Find the total gold, elixir or dark elixir for any building, hero or troop upgrade, plus the full cost to max from your town hall level.';
+
+// Build-time worked example: Archer Tower 10 to 14 (values from our data).
+const archerTower = BUILDINGS.find((b) => b.id === 'archer-tower');
+const example = archerTower ? upgradePath(archerTower, 10, 14) : null;
+const exampleLabel = 'Archer Tower level 10 to 14';
+
+// Most expensive single upgrade in the dataset.
+let priciest: { name: string; level: number; cost: number; resource: string } | null = null;
+for (const b of BUILDINGS) {
+  for (const row of b.levels) {
+    if (!priciest || row.cost > priciest.cost) {
+      priciest = { name: b.name, level: row.level, cost: row.cost, resource: b.resource };
+    }
+  }
+}
+for (const hero of HEROES) {
+  for (const row of hero.levels) {
+    if (!priciest || row.cost > priciest.cost) {
+      priciest = { name: hero.name, level: row.level, cost: row.cost, resource: hero.resource };
+    }
+  }
+}
+
+const th10 = costToMaxFrom(10);
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    '@id': `${SITE.url}/upgrade-cost-calculator/#app`,
+    name: 'Clash of Clans Upgrade Cost Calculator',
+    url: `${SITE.url}/upgrade-cost-calculator/`,
+    description: 'Calculate the total gold, elixir or dark elixir cost of any Clash of Clans upgrade path.',
+    applicationCategory: 'GameApplication',
+    operatingSystem: 'Any',
+    browserRequirements: 'Requires JavaScript',
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    publisher: { '@id': `${SITE.url}/#organization` },
+  },
+];
+
+const faqItems = [
+  {
+    q: 'How much gold does it cost to max from TH10?',
+    a: `Going from a fully maxed TH9 base to a fully maxed base costs about ${fmtNum(th10.gold)} gold, ${fmtNum(th10.elixir)} elixir and ${fmtNum(th10.dark)} dark elixir, including walls at gold prices, heroes, pets and lab research. The <a href="/cost-to-max/">cost to max tables</a> break this down for every Town Hall level.`,
+  },
+  {
+    q: 'What is the most expensive single upgrade in the game?',
+    a: priciest
+      ? `In our wiki snapshot (${DATA_SNAPSHOT_DATE}) the most expensive single upgrade is ${priciest.name} to level ${priciest.level} at ${fmtNum(priciest.cost)} ${priciest.resource === 'dark' ? 'dark elixir' : priciest.resource}.`
+      : 'The calculator lists every single-level cost in its breakdown table, so you can sort out the heavy hits for yourself.',
+  },
+  {
+    q: 'Does the cost calculator include Builder Base?',
+    a: 'No. CoCPlanner covers the home village only: defenses, army buildings, resource buildings, traps, walls, heroes, pets and laboratory research. Builder Base costs may be added later.',
+  },
+  {
+    q: 'Are wall costs included in the cost to max?',
+    a: 'Yes, walls are included at their gold price for the full wall count available at each Town Hall level. If you pay with elixir for the levels where that is allowed, your gold bill drops. Use the <a href="/wall-calculator/">wall cost calculator</a> for exact wall math.',
+  },
+  {
+    q: 'Why does a cost in the game differ from the calculator?',
+    a: `Supercell rebalances upgrade costs in some updates. Our data is a snapshot of the Clash of Clans Wiki from ${DATA_SNAPSHOT_DATE}. If you spot a mismatch, <a href="/contact/">send us a note</a> and we will recheck the table against the wiki.`,
+  },
+  {
+    q: 'Do Gold Pass discounts or events change these numbers?',
+    a: 'No. All costs are the full, undiscounted values from the wiki. A Gold Pass builder boost reduces build time, and seasonal events can reduce costs, so your real bill can be lower.',
+  },
+];
+---
+<BaseLayout title={title} description={description} canonical="/upgrade-cost-calculator/" activeNav="/upgrade-cost-calculator/" jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Upgrade Cost Calculator' }]} />
+
+  <div class="page-hero">
+    <h1>Clash of Clans Upgrade Cost Calculator</h1>
+    <p class="value-line">
+      Pick any building, hero, pet, troop or spell, choose your current and target level, and see the
+      total cost and time instantly. Free, no sign up.
+    </p>
+    <div class="trust-line">
+      <span class="pill"><Icon name="check-circle" size={14} /> Free, no sign up</span>
+      <span class="pill blue"><Icon name="database" size={14} /> Wiki data, snapshot {DATA_SNAPSHOT_DATE}</span>
+      <span class="pill gold"><Icon name="zap" size={14} /> Runs in your browser</span>
+    </div>
+  </div>
+
+  <section class="card card-pop" aria-label="Upgrade cost calculator">
+    <div data-cost-calculator>
+      <div class="two-col">
+        <div class="field">
+          <label for="cc-item">What are you upgrading?</label>
+          <select id="cc-item" data-cc-item></select>
+          <p class="hint">Buildings, heroes, pets, troops and spells, grouped by type.</p>
+        </div>
+        <div class="two-col">
+          <div class="field">
+            <label for="cc-from">Current level</label>
+            <select id="cc-from" data-cc-from></select>
+          </div>
+          <div class="field">
+            <label for="cc-to">Target level</label>
+            <select id="cc-to" data-cc-to></select>
+          </div>
+        </div>
+      </div>
+      <div data-cc-result aria-live="polite"></div>
+
+      <hr class="divider-gold" />
+
+      <h2 style="font-size:1.2rem">Cost to max everything from your Town Hall</h2>
+      <div data-ccm>
+        <div class="field">
+          <label for="ccm-th">Your Town Hall level</label>
+          <select id="ccm-th" data-ccm-th></select>
+          <p class="hint">Sums every remaining upgrade from this TH to a fully maxed base.</p>
+        </div>
+        <div data-ccm-result aria-live="polite"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>How to use the upgrade cost calculator</h2>
+    <ol class="step-list">
+      <li><strong>Pick what you are upgrading.</strong> The first dropdown lists every defense, army building, resource building, trap, hero, pet, troop and spell in our dataset.</li>
+      <li><strong>Set your current level.</strong> Choose the level you have right now, or "Not built yet" for a brand new building.</li>
+      <li><strong>Set your target level.</strong> The result shows the total resource cost, the total time and a per-level breakdown with the Town Hall each level needs.</li>
+      <li><strong>Check the big picture.</strong> The second block sums everything remaining from your Town Hall level so you can plan the grind.</li>
+    </ol>
+  </section>
+
+  <section class="section">
+    <h2>Example: {exampleLabel}</h2>
+    {example && (
+      <div class="card">
+        <p>
+          An Archer Tower pushed from level 10 to 14 costs <strong>{fmtNum(example.cost)} gold</strong> and takes
+          <strong> {fmtDuration(example.timeSec)}</strong> of builder time across {example.count} upgrades. The per-level
+          table in the calculator shows each step, so you can budget one level at a time instead of saving the full amount.
+        </p>
+        <p class="small muted" style="margin:0">
+          Values from the wiki snapshot ({DATA_SNAPSHOT_DATE}). Load "Archer Tower" in the tool above to reproduce this.
+        </p>
+      </div>
+    )}
+  </section>
+
+  <section class="section">
+    <h2>How the calculator works</h2>
+    <div class="card">
+      <p>
+        Every cost, build time and Town Hall requirement comes from the
+        <a href="https://clashofclans.fandom.com/wiki/Clash_of_Clans_Wiki" rel="noopener">Clash of Clans Wiki</a>
+        (snapshot {DATA_SNAPSHOT_DATE}; per-table sources on the <a href="/methodology/">methods page</a>). The
+        calculator sums the levels between your current and target level: nothing is estimated, interpolated or made up.
+      </p>
+      <h3>Assumptions and limits</h3>
+      <ul>
+        <li>Costs are full, undiscounted values. Gold Pass perks, event discounts and special offers are not applied.</li>
+        <li>Heroes use dark elixir costs per level; the Grand Warden follows the resource the wiki lists for him.</li>
+        <li>Troop and spell costs are laboratory research costs; unlocking the unit in the barracks is separate.</li>
+        <li>The cost to max assumes you keep every building at the maximum level of your Town Hall before moving up, and counts the full wall set at gold prices.</li>
+        <li>Home village only: Builder Base and Clan Capital are not included.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Frequently asked questions</h2>
+    <FAQ items={faqItems} />
+  </section>
+
+  <RelatedTools slugs={['/upgrade-time-planner/', '/time-to-max-calculator/', '/wall-calculator/']} tools={TOOLS} />
+
+  <TrustBlock toolName="Upgrade Cost Calculator" />
+</BaseLayout>
+
+<script>
+  import '../scripts/cost-calculator';
+</script>

@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import RelatedTools from '../components/RelatedTools.astro';
+import { TOOLS } from '@data/meta';
+import { DATA_SNAPSHOT_DATE, MAX_TH } from '@data/game';
+
+const title = 'About CoCPlanner';
+const description = 'Who builds CoCPlanner, why it exists, and how the Clash of Clans calculators are made and kept accurate.';
+---
+<BaseLayout title={title} description={description} canonical="/about/" activeNav="">
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'About' }]} />
+
+  <div class="page-hero">
+    <h1>About CoCPlanner</h1>
+    <p class="value-line">
+      CoCPlanner is a small, independent collection of Clash of Clans upgrade calculators. No accounts,
+      no ads over the tools, no dark patterns: pick your Town Hall, get your numbers.
+    </p>
+  </div>
+
+  <section class="section card">
+    <h2><Icon name="sparkles" size={20} /> Why we built it</h2>
+    <p>
+      Every "how long to max" answer on the forums is a shrug, and most calculator sites divide a total by five
+      builders and call it a day. We kept hitting the same questions in our own clans: what does TH13 actually cost,
+      when will my builders realistically finish, and is the lab or my king the real bottleneck? So we built the
+      tool we wanted: real scheduling, all tracks counted, every value traceable to the wiki.
+    </p>
+    <h2><Icon name="users" size={20} /> Who makes it</h2>
+    <p>
+      CoCPlanner is made by a two person team of long time Clash players (Town Hall {MAX_TH} and proud of it). We are
+      fans, not a company: no investor, no growth team, just people who like spreadsheets more than rushing.
+      The site is a fan project and is not affiliated with Supercell.
+    </p>
+    <h2><Icon name="coin" size={20} /> How it makes money</h2>
+    <p>
+      Right now, it does not. If that ever changes (for example unobtrusive ads), we will say so here and in the
+      privacy policy before anything goes live, and ads will never cover or push down a calculator.
+    </p>
+    <h2><Icon name="wrench" size={20} /> How it is built</h2>
+    <p>
+      Static pages, all math running in your browser, data compiled from the Clash of Clans Wiki
+      (snapshot {DATA_SNAPSHOT_DATE}). The build process, data sources and known gaps are documented on the
+      <a href="/methodology/">data and methods page</a>, and every change to the site is logged in the
+      <a href="/changelog/">changelog</a>.
+    </p>
+    <p>
+      Found a wrong number or a broken tool? <a href="/contact/">Tell us</a>; corrections usually ship within days.
+    </p>
+  </section>
+
+  <RelatedTools slugs={['/upgrade-cost-calculator/', '/time-to-max-calculator/']} tools={TOOLS} heading="Try the calculators" />
+</BaseLayout>

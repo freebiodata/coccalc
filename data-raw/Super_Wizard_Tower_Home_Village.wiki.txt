@@ -1,0 +1,190 @@
+{{Protection}}
+{{For|the unmerged version|Wizard Tower}}
+{{For|its [[Clan Capital]] counterpart|Super Wizard Tower/Clan Capital}}
+
+[[File:Super Wizard Tower2.png|200px|center|link=]]
+<center>'''''"{{H|Super Wizard}}'s first strike can shock up to fifteen nearby enemies. Chained [[Army|targets]] take less damage."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Super Wizard Tower Ruin.png|100px|link=]]<div>Construction</div></div>
+<div>[[File:Super Wizard Tower1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Super Wizard Tower2.png|100px|link=]]<div>Level 2</div></div>
+</div>
+
+==Summary==
+*The Super Wizard Tower is a defense that unlocks at [[Town Hall]] 18 and is constructed by merging two level 17 [[Wizard Tower]]s together.
+**The merging process cannot be undone once the construction is started. The Super Wizard Tower cannot be split back into two Wizard Towers.
+**Merging all of the Wizard Towers into Super Wizard Towers to the Town Hall limit is required to upgrade the Town Hall to the next level, similar to the "placing all of the buildings" requirement.
+*Compared to two normal Wizard Towers, the Super Wizard Tower starts off with 9.1% less health but each bolt deals 31.8% more damage than the two combined, and getting extra range.
+**The Wizard Tower received [[Supercharge]]s at level 17, which would have made the difference smaller, but the bonus stats are dissipated when the Super Wizard Tower is introduced, so they cannot be directly compared as only normal Wizard Tower can merged. When compared to two Supercharged Wizard Towers, the Super Wizard Tower starts off with 11.1% less health but each bolt deals 27.2% more damage than the two combined.
+**These metrics will keep improving as it levels up while the normal Wizard Towers stop getting new levels, extending the usefulness of merging.
+*The Super Wizard Tower fires a bolt of lightning from up to 8 tiles (compared to the normal Wizard Tower at 7) at an initial target that chains to multiple targets at once within 4 tiles of the initial target. This chain lightning can hit up to 15 other targets with a chain damage decay of -60%, meaning the chain only deals 40% of the damage, they can even be outside of the normal range of the Super Wizard Tower.
+**With this ability, the range of the Super Wizard Tower can be up to 12 tiles situationally. Despite the cap on the chain lightning targets, its radius is much larger than the 1 tile splash radius of the Wizard Tower and likely can hit more troops, while each chain lightning deals 5.5% more damage than an arcane bolt from a Wizard Tower (or 1.75% more from a Supercharged Wizard Tower).
+
+==Strategies==
+===Defensive Strategies===
+*The Super Wizard Tower is a formidable defense when it comes to swarm-based attacks, but since it has lost the splash damage from its unmerged version, theoretically the Super Wizard Tower is vulnerable by overswarming. In reality, it is unlikely that there are more than 16 troops stacking within the 1 tile splash radius of the Wizard Tower; with the 4 tile chain radius, it can likely damage more enemies at once and be more effective at clearing swarms, while still being more effective at high hitpoint target because of the extra range and damage.
+*At Town Hall 18, there may be an argument that the base Wizard Towers help counter [[Royal Champion]] Charge with the [[Electro Boots]] by redirecting her movement into traps more effectively as sacrificial low value defenses, but against every other strategies, the Super Wizard Towers provide more value by being actually impactful.
+*The Super Wizard Tower can easily damage high-hitpoint units like [[Dragon]]s and [[Electro Dragon]]s and can chain to supporting enemy units, eventually leading to being taken out by other defenses, combined with its attack speed that allows it to handle groups of units effectively.
+
+===Offensive Strategies===
+*Super Wizard Towers are powerful merged defenses with high damage that can heavily damage swarms in mere seconds, chaining up to 15 targets and eventually taking them out by itself or supported by other defenses. To prevent it from wreaking havoc, use [[Freeze Spell]]s and [[Overgrowth Spell]]s to disable this defense, [[Invisibility Spell]]s to turn attacking units invisible, or [[Totem Spell]]s to redirect the attacks to the summoned Totem.
+*If the attacker is not careful, any unit in front of the [[Flame Flinger]] within its range can damage the [[Siege Machines|Siege Machine]] in certain cases.
+
+==Upgrade Differences==
+The Super Wizard Tower undergoes significant visual changes at level 2.
+
+*When both Wizard Towers are merged, only the base appears and the tower itself is not completed yet, the base is made of meteor that glows blue and formed into a short pyramid. It is surrounded by crushed stones and dirt.
+**When constructed, the meteor pyramid is much taller. An inverted pyramid blue crystal with some cracks on the top face appears, similar to the purple crystal of the Wizard Tower, which floats over the meteor base, becoming the platform the Super Wizard stands on. A windy effect can be seen blowing around the floating blue crystal.
+**At level 2, the floating crystal becomes darker and has a proper floor with a small platform in the middle and walls on the edge, connected at the corners. It also gains beige stone battlements all around the crystal walls, with golden plates at the corners that has a gold spike on top.
+
+==Statistics==
+<center><div class="stats-background">
+{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH18=2}}
+{{BuildingSize|3x3}}
+{|class="wikitable mode-toggle-mode-1"border="0"cellpadding="1"cellspacing="1"style="text-align:center;width:100%;"
+!Level<br>{{Res|Level}}
+!Damage per Second <br>{{Res|Damage}}
+!Damage per Hit (Primary)<br>{{Res|Damage}}
+!Damage per Hit (Secondary)<br>{{Res|Damage}}
+!Hitpoints<br>{{Res|Hitpoint}}
+!Build Cost<br>{{Res|Gold}}
+!Build Time<br>{{Res|Time}}
+![[Experience]] Gained<br>{{Res|XP}}
+![[Town Hall]] Level Required<br>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|290
+|class="ModifierStat DPH Building"|377
+|class="ModifierStat DPH Building Secondary"|150.8
+|6,000
+|class="GoldPass bCost"|29,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|13d
+|class="GoldPass EXP"|1,059
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|320
+|class="ModifierStat DPH Building"|416
+|class="ModifierStat DPH Building Secondary"|166.4
+|6,300
+|class="GoldPass bCost"|30,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|14d
+|class="GoldPass EXP"|1,099
+|18
+|}
+
+===Supercharges===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level is added.
+{{Supercharge}}
+{|class="wikitable mode-toggle-mode-1" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Charge Level<br/>{{Res|Supercharge}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit (Primary)<br/>{{Res|Damage}}
+!Damage per Hit (Secondary)<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Build Cost<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building change-highlight"|327
+|class="ModifierStat DPH Building change-highlight"|425.1
+|class="ModifierStat DPH Building Secondary change-highlight"|170.04
+|6,300
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|6d
+|class="GoldPass EXP"|720
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|327
+|class="ModifierStat DPH Building"|425.1
+|class="ModifierStat DPH Building Secondary"|170.04
+|class=" change-highlight"|6,450
+|class="GoldPass bCost"|14,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|7d
+|class="GoldPass EXP"|777
+|18
+|}
+{|class="wikitable"style="text-align:center;width:100%;"cellspacing="1"cellpadding="1"border="0"
+!Range {{Res|Range}}
+!Attack Speed {{Res|Attack Speed}}
+!Damage Type {{Res|Damage Type}}
+!Chain Damage Decay
+!Chain Distance {{Res|Range}}
+!Unit Type Targeted {{Res|Target}}
+|-
+|8 tiles
+|class="AttackSpeed"|1.3s
+|Single Target (Chain Lightning; up to 15 other targets)
+|60%
+|4 tiles
+|Ground & Air
+|}
+</div></center><!--
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px"|<big>'''?'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy ? Super Wizard Towers in Multiplayer battles||?||?
+|-
+|Destroy ? Super Wizard Towers in Multiplayer battles||?||?
+|-
+|Destroy ? Super Wizard Towers in Multiplayer battles||?||?
+|}-->
+{{IconDescriptions|Defense=Yes|Upgradable=Yes|Supercharge=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+!November 15, 2025
+|Announced the Super Wizard Tower, with two levels and two Supercharge levels. {{Res|Supercharge}}{{Clr}}[[File:Super Wizard Tower1.png|65px]][[File:Super Wizard Tower2.png|65px]]
+|-
+!November 17, 2025
+|Added the Super Wizard Tower, with two of them are available at Town Hall 18.
+|}
+
+==Gallery==
+<gallery>
+HV Super Wizard Tower2 Beta.png|Level 2 beta design
+</gallery>
+
+==Sounds==
+===Generic===
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Sound Effects!!Captions!!Description
+|-
+|[[File:Super Wizard attack1.ogg]][[File:Super Wizard attack2.ogg]]
+|Super Wizard expels electricity
+|When the defending Super Wizard on his respective tower attacks 
+|-
+|[[File:Electro Dragon charge.ogg]]
+|Super Wizard charges
+|When the defending Super Wizard charges his attack 
+|}
+
+==Trivia==
+===Comparisons===
+*Compared to {{C|Super Wizard Tower}}s from the [[Clan Capital]], the one from the Home Village has:
+**A different appearance.
+**A size of 3x3 instead of 2x2.
+**A massive increase in damage per hit.
+**A fire rate of 1.3 seconds instead of 2, which matches with the base [[Wizard Tower]].
+**A range of 8 tiles instead of 5.5.
+**A chain radius of 4 tiles instead of 2.25.
+**Can chain up to 15 other targets at once instead of 9.
+**The Clan Capital one is mostly based on [[Super Wizard]]s, with the same attack rate, max number of chained targets, and chain radius; the Home Village one massively increased all these values (including damage and range) to match the expectations of a merged defenses being more powerful than the sum of the two base version.
+
+{{BuildingsMenuHV}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Merged Buildings]]
+[[Category:Defenses]]
+[[ru:Башня суперколдунов/Родная деревня]]

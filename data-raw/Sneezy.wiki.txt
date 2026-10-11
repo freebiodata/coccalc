@@ -1,0 +1,212 @@
+{{Protection}}
+[[File:Sneezy info.png|center|250px|link=]]
+<div style="position: relative; top: -30px; text-align: right; margin-bottom: -50px; width: 100%;">[[File:More Info Button.png|link=Sneezy/Booger]]</div><br>
+
+<center>'''''"Her nose is blocked and loaded! Sneezy hangs behind her [[Heroes|Hero]] due to allergies and sneezes tanky air [[Sneezy/Booger|Boogers]] that target [[Buildings]]. She goes on attack when her Hero falls!"'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Sneezy1.png|100x100px|link=]]<div>Level 1-10</div></div>
+</div>
+
+==Summary==
+*Sneezy is the eleventh [[Pets|Pet]] unlocked when the [[Pet House]] is upgraded to level 11, which requires [[Town Hall]] 17.
+*Sneezy appears to be an amethyst-colored bat with eyes that are aqua in color, plum irises, and wings that purple on top and pink on the bottom. She appears to be wearing a black scarf.
+*When deployed, Sneezy flies in the air and maintains distance from the paired Hero. She periodically sneezes to spawn [[Sneezy/Booger|Boogers]] which damage buildings, usually within 5.5 tiles from them.
+*Each Booger is spawned from Sneezy every 10 seconds, and there can be a maximum of two at a time. Boogers have moderate damage and hitpoints, and cannot trigger air {{H|Traps}}.
+*When her paired Hero is knocked out in battle and Sneezy is still active, Sneezy will become enraged, becoming a short-range pet which that targets defenses and attacks by screeching, dealing high damage per second. She will continue to spawn Boogers while in this state but will temporarily stop attacking for a brief period when she does so.
+**Her enraged status grants Sneezy a minuscule 1% damage increase for 30s. This damage increase is barely noticeable, and the effect will be replaced by other damage-increasing effects like {{H|Rage Spell}}s, but she will still retain the rage effect until it ends.
+*The [[Recall Spell]] will recall Sneezy alongside her Hero without consuming housing space if the Hero is still able to fight. Once the Hero is defeated, this interaction no longer applies and Sneezy will be recalled normally like most other Pets.
+
+==Strategies==
+===Offensive Strategies===
+*Sneezy can be a powerful Pet if used correctly, especially in [[Grand Warden|Warden]] Charges, as the summoned Boogers will be able to distract defenses or even allow them to create a funnel for your main attack.
+*Since Sneezy stays well behind her paired Hero, she will not be able to protect [[Healer]]s from Seeking Air Mines since her range is slightly more than that of the Healer's, so you may need to use [[Balloon]]s or {{H|Baby Dragon}}s to search for Seeking Air Mines.
+*Make sure to protect Sneezy, otherwise it will not be able to use its enraged ability before her Hero is knocked out.
+*Sneezy is a poor choice for the [[Dragon Duke]]. While Sneezy herself won't deactivate his Royal Rampage ability, her Boogers will, meaning the Dragon Duke will not be able to utilize his passive ability well unless Sneezy and her Boogers gets taken out first. 
+
+===Defensive Strategies===
+*Since the Boogers will not trigger Seeking Air Mines, it is a good idea to spread them away from each other so that armies like [[Dragon]]s, [[Electro Dragon]]s and [[Dragon Rider]]s will be more likely to be targeted by them.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet|NAbility=true}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target<br/>{{Res|Target}}
+!Targets<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Maximum [[Sneezy/Booger|Boogers]] Summoned<br/>{{Res|Skeleton}}
+!Rage Duration<br/>{{Res|Pet Ability}}
+!Rage Damage Increase<br/>{{Res|Pet Ability}}
+![[Pet House]] Level Required<br/>{{Res|Pet House}}
+!Range<br/>{{Res|Range}}
+!Special Ability<br/>{{Res|Pet Ability}}
+|-
+|Defenses
+|Ground & Air
+|Single Target
+|class="ModifierStat Speed"|24
+|class="AttackSpeed"|0.8s
+|2
+|30s
+|class="AbilityDI"|1%
+|11
+|<abbr title="Distance from her paired Hero; does not attack">5.5</abbr> or <abbr title="If her Hero is defeated">1.5 tiles</abbr>
+|<abbr title="Sneezes out supporting air Troops and attacks when her Hero Falls">ACHOO!</abbr>
+|}
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|Dark Elixir}}
+!Upgrade Time<br/>{{Res|Time}}
+!Pet House Level Required<br/>{{Res|Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|270
+|class="ModifierStat DPH"|216
+|class="ModifierStat HP"|3,300
+|N/A
+|N/A
+|11
+|-
+|2
+|class="ModifierStat DPS"|290
+|class="ModifierStat DPH"|232
+|class="ModifierStat HP"|3,450
+|class="GoldPass rCost"|200,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|3
+|class="ModifierStat DPS"|310
+|class="ModifierStat DPH"|248
+|class="ModifierStat HP"|3,600
+|class="GoldPass rCost"|220,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|4
+|class="ModifierStat DPS"|330
+|class="ModifierStat DPH"|264
+|class="ModifierStat HP"|3,750
+|class="GoldPass rCost"|240,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|5
+|class="ModifierStat DPS"|350
+|class="ModifierStat DPH"|280
+|class="ModifierStat HP"|3,900
+|class="GoldPass rCost"|260,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|6
+|class="ModifierStat DPS"|370
+|class="ModifierStat DPH"|296
+|class="ModifierStat HP"|4,050
+|class="GoldPass rCost"|280,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|7
+|class="ModifierStat DPS"|390
+|class="ModifierStat DPH"|312
+|class="ModifierStat HP"|4,200
+|class="GoldPass rCost"|300,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|8
+|class="ModifierStat DPS"|410
+|class="ModifierStat DPH"|328
+|class="ModifierStat HP"|4,350
+|class="GoldPass rCost"|320,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|9
+|class="ModifierStat DPS"|430
+|class="ModifierStat DPH"|344
+|class="ModifierStat HP"|4,500
+|class="GoldPass rCost"|340,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|10
+|class="ModifierStat DPS"|450
+|class="ModifierStat DPH"|360
+|class="ModifierStat HP"|4,650
+|class="GoldPass rCost"|360,000
+|class="GoldPass rTime"|8d
+|11
+|}
+</div></center>
+
+==Gallery==
+<gallery>
+Sneezy Concept3.jpg|Sneezy original concept art
+Sneezy Concept2.jpg|Sneezy second concept art
+Sneezy Concept1.jpg|Sneezy final concept art
+Sneezy 3D Model.jpg|3D model of Sneezy.
+Avatar Sneezy.png|Sneezy's icon
+Sneezy info 2.png|Info image without [[Sneezy/Booger|Booger]].
+</gallery>
+
+==Audio==
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Sneezy select.ogg]]
+|Sneezy giggles
+|When Sneezy is selected from the Pet House or is tapped
+|-
+|[[File:Sneezy deploy.ogg]]
+|Sneezy sneezes
+|When Sneezy is deployed
+|-
+|[[File:Booger deploy.ogg]]
+|Sneezy summons a [[Booger]]
+|When Sneezy summons a Booger
+|-
+|[[File:Sneezy echo.ogg]]
+|Sneezy screeches
+|When Sneezy attacks using soundwaves
+|-
+|[[File:Sneezy death.ogg]]
+|Sneezy falls in battle
+|When Sneezy is defeated
+|}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+!March 22, 2025
+|Announced Sneezy, with 10 levels. [[File:Sneezy1.png|50px|link=]]
+|-
+!March 24, 2025
+|Added Sneezy.
+|-
+!?, 2025
+|Fixed a typo on its rage ability duration, which it was reduced from 300s to 30s.
+|}
+
+==Trivia==
+*It was possible to time out Sneezy's enraged status in the [[Single Player Campaign]] because attacks in [[Single Player Campaign|Single Player maps]] lack a time limit. An easy way to achieve this is to use a [[Recall Spell]] on Sneezy after her Hero is defeated and wait out the 5 minute timer, as it ticks down while Sneezy is recalled.
+**It was later changed to 30s, meaning that the effect is not too long as before (see History above).
+
+===Comparisons===
+*Sneezy is the eighth Pet to be based on a real life animal alongside the [[Electro Owl]], [[Mighty Yak]], [[Frosty]], [[Diggy]], [[Poison Lizard]], [[Spirit Fox]], and the [[Angry Jelly]], as well as the third Pet to be based on a mammal.
+*She is one of the three pets that are a female, the other two being [[L.A.S.S.I]] and [[Phoenix]].
+*Excluding [[Greedy Raven]]'s increased damage against Resource Buildings, Sneezy has the highest DPS among all pets. 
+
+{{TroopsMenuHV}}
+[[Category:Home Village]]
+[[Category:Pets]]
+[[Category:Troops]]
+[[Category:Air Troops]]

@@ -1,0 +1,311 @@
+__NOEDITSECTION__
+
+{{Protection}}
+
+[[File:Pet House12.png|200px|center|link=]]
+
+<center>'''''"Every [[Heroes|hero]] deserves a loyal companion. The Pet House allows you to unlock powerful [[Pets]] with various abilities to fight alongside your heroes."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Pet House1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Pet House2.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Pet House3.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Pet House4.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Pet House5.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Pet House6.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Pet House7.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Pet House8.png|100px|link=]]<div>Level 8</div></div>
+<div>[[File:Pet House9.png|100px|link=]]<div>Level 9</div></div>
+<div>[[File:Pet House10.png|100px|link=]]<div>Level 10</div></div>
+<div>[[File:Pet House11.png|95px|link=]]<div>Level 11</div></div>
+<div>[[File:Pet House12.png|100px|link=]]<div>Level 12</div></div>
+</div>
+
+==Summary==
+*The Pet House is an [[Army Buildings|army building]] that houses and upgrades [[Pets]], a class of units that can be paired with [[Heroes]]. The Pet House is unlocked at [[Town Hall]] level 14.
+
+==About Pets==
+*[[Pets]] are a special class of troops that can be assigned to [[Heroes]]; each pet boasts their own abilities.
+*Each Pet may be assigned to one Hero; this assignment can be changed in the Pet House and in the [[Army]] preparation menu. Each Hero may only have one Pet assigned to them.
+*In battle, pets are deployed alongside their assigned Hero, and their targeting is such that they generally stay close to their assigned Hero. If their assigned Hero is knocked out, they can still continue to fight (though their behavior will change accordingly).
+**Pets cannot be deployed on their own; they require a Hero to be deployed. If a Hero is unavailable, the Pet paired to them cannot be deployed unless they are paired with another available Hero (possibly at the expense of another Pet).
+*Unlike Heroes, Pets do not defend the village when being raided.
+*Pets are upgraded with Dark Elixir. While being upgraded, a Pet cannot be used in battle (they will be seen sleeping outside the Pet House).
+**Only one Pet can be upgraded at a time in the Pet House. A {{MagicItem|Book of Heroes}} or {{MagicItem|Book of Everything}} can be used to skip their upgrade timers, while a {{MagicItem|Hammer of Heroes}} instantly upgrades a Pet without incurring any further costs.
+
+==Upgrade Differences==
+The Pet House undergoes significant visual changes at levels 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 and 12.
+
+*When initially constructed, the Pet House is a shack with a vivid emerald, slanted roof with nails. There are studs visible on the wooden supports for the main building. An open doorway is visible, and the interior has a red floor. There is a red food bowl of tools by the Pet House. There is a wooden birdhouse with dark jade roof on a stand with a bolt at the bottom. Paw prints are visible on the ground outside the house. These footprints represent [[L.A.S.S.I]].
+**At level 2, an antenna is added to the top of the birdhouse. The studs are extruded, and metal plates are added around them. The two smaller paw-prints are replaced with bird claw marks; this represents the [[Electro Owl]].
+**At level 3, the birdhouse gets a thicker support beam and the owl claw marks are replaced with yak hoof prints. This represents the [[Mighty Yak]].
+**At level 4, the nails on the roof turn gold, nailing down a metal plate. A rainbow is lying on the ground next to the food bowl. The yak hoof prints are replaced with horseshoe-shaped marks. This represents the [[Unicorn]].
+**At level 5, the food bowl changes color and becomes purple, and the rainbow and tools are gone. The mat inside the house also changes to purple. Inside the food bowl are small chunks of ice. The horseshoe-shaped marks are replaced with dinosaur-like footprints. These changes represent [[Frosty]]. 
+**At level 6, metal plates are added on all four corners of the birdhouse. The food bowl is filled with dirt, and footprints similar to that found on Pet House 5 can be seen. These changes represent [[Diggy]].
+**At level 7, a metal floor is added to the entrance to the birdhouse. The food bowl is filled with an empty [[Poison Spell]] vial lying next to it. The dinosaur-like footprints are replaced by lizard-shaped footprints. This represents the [[Poison Lizard]].
+**At level 8, wooden fencing is added to the house on the right. The food bowl is filled with nesting material with a bird egg on top. The bird claw marks return, but are now bigger in size. This represents the [[Phoenix]].
+**At level 9, small stones are added to the top of the fence posts. The color of the interior changes to orange. The food bowl becomes orange and is filled with blue fruits that resemble blueberries. On the roof, the metal plating has been reinforced with gold bolts or screws. The bird claw marks are replaced with fox-like footprints. This represents the [[Spirit Fox]].
+**At level 10, the birdhouse is replaced with a wooden platform on top of two support beams. A ladder has been added next to the platform. On the platform is a small pool filled with water and features an orange parasol. The pool itself is made of green wood with a thin metal frame surrounding the rim. There is a pink gooey substance dripping from the edge of the pool. On the roof, the metal sheet has been removed and replaced with a single steel plate that has been bolted down. The color of the interior has now changed to vermilion, and the food bowl is now green and has been filled with food that resembles seaweed. The footprints are replaced with blobs of pink slime. These changes represent the [[Angry Jelly]].
+**At level 11, the wooden pool is replaced by an open metal cage which appears to be a metallic fence, the platform that holds the cage is now colored purple, and its triangular corner pieces turn gold. Near the ladder, the metal rivets turn gold. At the roof, the metal plating near the end of the roof becomes brighter in color. The interior part becomes claret while the metallic corner parts of the shack turn mahogany, and at the side, the metalic parts of the fence becomes brighter. The slime is gone, so are the footprints in previous levels. The food bowl now turns amethyst and is filled with food that resembles oranges, and one of them falls to the ground. The food bowl also has a bat symbol on it. These changes represent [[Sneezy]].
+**At level 12, the ladder and cage have been removed. A nest takes place where the cage was previously, filled with two golden eggs, [[Gems]], [[Gold]], and a [[Life Gem]]. Beneath the nest is a purple banner or carpet surrounded with a gold frame. The metal plate on the roof also turns gold, along with the sign posts and the bolts at the foundation of the building. The wood is now a lighter shade than it was before. The food bowl has also changed, with it having bolts sticking out and being made of gold. In the bowl are gold rings, Gems and a pink jewel. Next to the food bowl are two Gold coins. The footprints seen in the previous levels return, this time taking the shape of bird claw marks. These changes represent the [[Greedy Raven]].
+
+==Statistics==
+<center>
+<div class="stats-background">{{GoldPassForm|BuildingHV}}
+{{NumberAvailable|TH14=1}}
+{{BuildingSize|3x3}}
+{|class="wikitable row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Unlocked [[Pets|Pet]]
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Elixir|Build Cost]]<br/>{{Res|Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|[[L.A.S.S.I]]
+|700
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|1d
+|class="GoldPass EXP"|293
+|14
+|-
+|2
+|[[Electro Owl]]
+|800
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|2d
+|class="GoldPass EXP"|415
+|14
+|-
+|3
+|[[Mighty Yak]]
+|900
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|3d
+|class="GoldPass EXP"|509
+|14
+|-
+|4
+|[[Unicorn]]
+|1,000
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|3d 12h
+|class="GoldPass EXP"|549
+|14
+|-
+|5
+|[[Frosty]]
+|1,050
+|class="GoldPass bCost"|7,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|4d
+|class="GoldPass EXP"|587
+|class="change-highlight"|15
+|-
+|6
+|[[Diggy]]
+|1,100
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|4d 12h
+|class="GoldPass EXP"|623
+|15
+|-
+|7
+|[[Poison Lizard]]
+|1,150
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d
+|class="GoldPass EXP"|657
+|15
+|-
+|8
+|[[Phoenix]]
+|1,200
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|5d 12h
+|class="GoldPass EXP"|689
+|15
+|-
+|9
+|[[Spirit Fox]]
+|1,250
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|6d
+|class="GoldPass EXP"|720
+|class="change-highlight"|16
+|-
+|10
+|[[Angry Jelly]]
+|1,300
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|7d
+|class="GoldPass EXP"|777
+|16
+|-
+|11
+|[[Sneezy]]
+|1,350
+|class="GoldPass bCost"|16,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d
+|class="GoldPass EXP"|831
+|class="change-highlight"|17
+|-
+|12
+|[[Greedy Raven]]
+|1,400
+|class="GoldPass bCost"|25,500,000
+|class="GoldPass bTime" style="white-space:nowrap;"|13d 12h
+|class="GoldPass EXP"|1,080
+|class="change-highlight"|18
+|}
+
+===Max Level Chart===
+{|class="wikitable row-highlight" border="0" cellpadding="1" cellspacing="1" style="margin: 0px auto; width: 100%; text-align: center;"
+!rowspan="2"|Pet House Level
+!colspan="12"|Max level
+|-
+![[L.A.S.S.I]]
+![[Electro Owl]]
+![[Mighty Yak]]
+![[Unicorn]]
+![[Frosty]]
+![[Diggy]]
+![[Poison Lizard]]
+![[Phoenix]]
+![[Spirit Fox]]
+![[Angry Jelly]]
+![[Sneezy]]
+![[Greedy Raven]]
+|-
+|1
+|rowspan="4"|10
+| -
+|rowspan="2"|-
+|rowspan="3"|-
+|rowspan="4"|-
+|rowspan="5"|-
+|rowspan="6"|-
+|rowspan="7"|-
+|rowspan="8"|-
+|rowspan="9"|-
+|rowspan="10"|-
+|rowspan="11"|-
+|-
+|2
+|rowspan="7"|10
+|-
+|3
+|rowspan="4"|10
+|-
+|4
+|rowspan="7"|10
+|-
+|5
+|rowspan="8"|15
+|rowspan="6"|10
+|-
+|6
+|rowspan="6"|10
+|-
+|7
+|rowspan="6"|15
+|rowspan="4"|10
+|-
+|8
+|rowspan="5"|10
+|-
+|9
+|rowspan="4"|15
+|rowspan="4"|10
+|-
+|10
+|rowspan="3"|10
+|-
+|11
+|rowspan="2"|15
+|rowspan="2"|15
+|rowspan="2"|15
+|rowspan="2"|10
+|-
+|12
+|15
+|10
+|}
+</div>
+</center>
+{{IconDescriptions|Upgradable=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+!April 12, 2021
+|Added the Pet house, with 4 levels that unlocks four pets: [[L.A.S.S.I]], [[Electro Owl]], [[Mighty Yak]], and [[Unicorn]].{{Clr}}[[File:Pet House1.png|80px]][[File:Pet House2.png|80px]][[File:Pet House3.png|80px]][[File:Pet House4.png|80px]]
+|-
+!April 14, 2021
+|Fixed [[Pets|Pet]] sorting to match Pet House in [[Player Profile|player profile]] and fixed Pet sorting to match Pet House in army screen.
+|-
+!October 10, 2022
+|Added the Pet House levels 5 to 8 that unlocks four pets: [[Frosty]], [[Diggy]], [[Poison Lizard]], and [[Phoenix]].{{Clr}}[[File:Pet House5.png|80px]][[File:Pet House6.png|80px]][[File:Pet House7.png|80px]][[File:Pet House8.png|80px]]
+|-
+!December 12, 2022
+|Upgrades in the Pet House can be started even while the Building is being upgraded.
+|-
+!December 12, 2023
+|
+*Added level 9 Pet House with the introduction of the [[Spirit Fox]]. [[File:Pet House9.png|80px]]
+*Reduced build costs and times at levels 1 to 8. {{Res|Elixir}}{{Res|Time}}
+|-
+!April 17, 2024
+|Added level 10 Pet House with the introduction of the [[Angry Jelly]]. [[File:Pet House10.png|80px]]
+|-
+!March 24, 2025
+|
+*Added level 11 Pet House with the introduction of [[Sneezy]]. [[File:Pet House11.png|75px]]
+*Reduced build costs at levels 1 to 10:
+**Level 1: 8,000,000 -> 3,000,000 {{Res|Elixir}}
+**Level 2: 10,000,000 -> 4,000,000 {{Res|Elixir}}
+**Level 3: 12,000,000 -> 5,000,000 {{Res|Elixir}}
+**Level 4: 14,000,000 -> 6,000,000 {{Res|Elixir}}
+**Level 5: 15,000,000 -> 7,000,000 {{Res|Elixir}}
+**Level 6: 15,500,000 -> 8,000,000 {{Res|Elixir}}
+**Level 7: 16,000,000 -> 9,000,000 {{Res|Elixir}}
+**Level 8: 17,000,000 -> 10,000,000 {{Res|Elixir}}
+**Level 9: 17,500,000 -> 11,000,000 {{Res|Elixir}}
+**Level 10: 18,000,000 -> 12,000,000 {{Res|Elixir}}
+*Reduced build times at levels 1 to 10:
+**Level 1: 3d 12h -> 2d {{Res|Time}}
+**Level 2: 4d -> 3d {{Res|Time}}
+**Level 3: 5d -> 3d 12h {{Res|Time}}
+**Level 4: 6d -> 4d {{Res|Time}}
+**Level 5: 7d -> 5d {{Res|Time}}
+**Level 6: 8d -> 5d 12h {{Res|Time}}
+**Level 7: 9d -> 6d {{Res|Time}}
+**Level 8: 10d -> 7d {{Res|Time}}
+**Level 9: 11d 12h -> 7d 12h {{Res|Time}}
+**Level 10: 12d 12h -> 8d {{Res|Time}}
+|-
+!November 17, 2025
+|
+*Reduced upgrade time at level 11 from 15d 12h to 9d. {{Res|Time}}
+*Reduced upgrade cost at level 11 from 22,000,000 to 16,500,000. {{Res|Elixir}}
+|-
+!February 23, 2026
+|Added level 12 Pet House with the introduction of [[Greedy Raven]]. [[File:Pet House12.png|75px]]
+|}
+
+==Trivia==
+*Although the Electro Owl is not unlocked until level 2, the birdhouse is present at level 1.
+*When attempting to start a new Pet upgrade when one is already in progress, the game will give you the "Your Laboratory is busy!" message instead of unique text.
+*Based on the food bowl for the pets, L.A.S.S.I seems to eat nuts and bolt, and an iron double-ended spanner, which resemble dog food and a bone, Frosty seems to eat chunks of ice, Diggy eats dirt (which may contain earthworms), the Poison Lizard drinks the [[Poison Spell]], with the empty vial it was contained in lying next to the bowl, the Spirit Fox eats small blueberries, the Angry Jelly eats seaweed, and Sneezy eats oranges. The Unicorn's food source is suggested to be rainbow-related.
+**However, at level 8, the bowl contains a Phoenix egg, which hatches the Phoenix instead of being her food.
+*A [https://twitter.com/ClashofClans/status/1377591689557258244 2021 April fools' joke] by Supercell said that photorealistic "ClashPetZ" were going to be added before the official announcement of [[Pets]].
+
+{{BuildingsMenuHV}}
+[[Category:Buildings]]
+[[Category:Army]]
+[[Category:Home Village]]
+[[ru:Дом для животных]]
+[[de:Begleiterhaus]]
+[[es:Caseta de animales]]

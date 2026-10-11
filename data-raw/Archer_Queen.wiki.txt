@@ -1,0 +1,1433 @@
+__NOEDITSECTION__
+{{Protection}}{{ClashRoyaleLink}}
+{{LargePage}}
+
+{{For|the troop|Archer}}
+{{For|the [[Super Troops|Super]], [[Builder Base Troops|Builder Base]] and [[Clan Capital]] troop with a similar ability which are only active upon being deployed|Sneaky Goblin|Sneaky Archer}}
+[[File:Queen Badge.png|65px|center|link=]]
+[[File:Archer Queen info.png|500x250px|center|link=]]
+
+<center>'''''"Towering above all other [[Archer]]s, this graceful huntress is a master of destructive force. Although her health is modest, she snipes [[Buildings|targets]] from afar with her powerful {{H|X-Bow|X-bow}}. As a defender she guards the {{H|Layouts|village}} with a vengeance."'''''</center>
+
+==Summary==
+*The Archer Queen is the second [[Heroes|Hero]] unlocked at [[Hero Hall]] Level 2, which requires [[Town Hall]] Level 8. She is essentially a bigger and much more powerful version of the [[Archer]]. In addition to possessing much higher damage and hitpoints, the Archer Queen also shoots 1.5 tiles farther than a normal Archer (5 tiles instead of 3.5 tiles).
+*In her default skin, the Archer Queen otherwise appears similar to a level 3-4 or 6-7 Archer, but much larger, wields a modified {{H|X-Bow}} instead of a regular bow, and wears a golden crown on her head, a hunter green tunic and cloak, and a purple loincloth tied around her waist. She does not wear any footwear.
+*The Archer Queen shoots three rapid arrows per shot. However, that is more of a visual feature, because these arrows deal damage to a single target.
+*As a Hero, the Archer Queen can participate in both attack and defense, but will not be available to use while under upgrade.
+*The Archer Queen will defend the village when assigned to a [[Hero Banner]]. The Archer Queen only defends her territory around her banner and will retreat if lured too far out. She does not need to be defeated for an attack to end in a 3-star.
+**Unlike the Barbarian King, the Archer Queen can attack air units like [[Balloon]]s, [[Dragon]]s, or [[Minion]]s, making her effective in guarding a village against players who conduct air raids.
+*As a Hero, the Archer Queen has an ability that can be used once per battle which allows her to recover some of her health, and the amount increases at every fifth level. The [[Hero Equipment]] that she wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase.
+**When unlocked, she starts with the Archer Puppet and Invisibility Vial.
+***The [[Archer Puppet]] allows the Archer Queen to summon a large number of invisible [[Archer]]s and an increase health recovery. The level of the Archers matches the level researched by the player. It gives a passive increase to damage.
+***The [[Invisibility Vial]] turns the Archer Queen invisible and gives her significantly increased damage for the duration. It gives a passive increase to maximum health.
+**Upgrading the [[Blacksmith]] to level 2 and 5 unlocks the Giant Arrow and Healer Puppet respectively.
+***The [[Giant Arrow]] launches a large arrow that travels the whole village, dealing damage on the way. It gives a passive increase to damage and max health.
+***The [[Healer Puppet]] summons Healers, with the number of Healers is dependent on the level of this Equipment. It gives a passive increase to her maximum health and grants her self healing.
+**Additionally, there are Epic rarity Hero Equipment which can be purchased with event medals during certain events or gems with the [[Trader]].
+***The [[Frozen Arrow]] passively makes her attacks slow down defenses, defending Heroes and troops. It gives a passive increase to damage.
+***The [[Magic Mirror]] summons clone(s) of herself, provides a brief invisibility, and grants an increased health recovery with her ability. It gives a passive increase to max health.
+***The [[Action Figure]] summons a [[Giant Giant]] to fight by the Archer Queen's side. It gives a passive increase to damage and max health and grants her self healing.
+***The [[Monolith Arrow]] passively makes her attacks deal bonus damage based off the target's maximum health. This bonus damage decreases the more troops are deployed. it also gives a passive hitpoint increase and grants damage reduction.
+
+==Strategies==
+===Offensive Strategies===
+*The five Home Village Heroes serve different roles in raids. The [[Barbarian King]] is the strength specialist, the [[Minion Prince]] is the air specialist, the Archer Queen is the speed specialist, the [[Grand Warden]] is the support specialist and the [[Royal Champion]] is the offense specialist. Deploy her behind the Barbarian King as he tanks and deals the damage while the Archer Queen does necessary damage in order to destroy certain defenses by her speed.
+*She has a better range than an [[Archer]] (5 tiles instead of 3.5), so a good strategy is to place a group of [[Giant]]s, [[P.E.K.K.A]]s, [[Golem]]s, or the Barbarian King as a meat shield, then a group of Archers, and finally the Archer Queen. This minimizes the chance of her being defeated or even hit and may allow you to use her many times in a row without waiting for her to regenerate.
+*The Archer Queen and [[Healer]] combination, better known as Queen Walk, is a very viable strategy when you are targeting for loot. She can clear large areas of the base, creating an effective funnel. This, however, requires a high-level Queen due to the fact that the Queen alone cannot deal enough damage and will eventually run out of time. [[Air Defense]]s bombing the Healers can easily destroy this, but this does not happen very often since the Archer Queen's range and the Healer's range allow the Healers to stay out of most Air Defenses' range.
+**A related version of the Queen Walk is the Queen Charge, where instead of being used for funneling, the Queen and Healers target the core of the base, destroying key defenses. This usually involves the use of [[Wall Breaker]]s, their [[Super Wall Breaker|super form]], or [[Jump Spell]]s in addition to other funneling troops (such as {{H|Baby Dragon}}s) to ensure she enters the base, and then using her abilities to wipe defenses.
+**An alternate version of the Queen Walk that can be utilized is with [[Druid]]s instead of Healers. Unlike Healers, Druids do not have a reduced healing rate when healing Heroes, making them slightly more effective. In addition, their healing bounces from one troop or Hero to another, thereby giving you the ability to add supporting troops in a Queen Walk. The downside to using Druids instead of Healers is that they will only remain in their base form for 30 seconds before transforming into their [[Druid/Bear|Bear]] form. Once they have turned into a Bear, they can no longer heal the Queen and/or troops and instead target defenses, which can sometimes be useful to tank the Queen from incoming defenses.
+**For Queen Walks and Charges, [[Rage Spell]]s can be used to boost both the Archer Queen and the Healers/Druids if needed. When boosted by Rage Spells, the Healers/Druids will heal faster, allowing them to heal the Queen quickly if she should take lots of damage. [[Freeze Spell]]s are also handy to have to stop high-damage defenses like the single-target [[Inferno Tower]], while the [[Overgrowth Spell]] can divert the Queen and prevent her from taking damage.
+***Seeking Air Mines can also counter this. Periodically place some [[Balloon]]s near the Healers to try and soak them up. These Balloons are often called "coco loons". Try to bring about 3 or 4. Any extra ones may also be used like normal Balloons.
+****However, the Seeking Air Mine strategy does not work on Druids, since they are ground units and will not trigger these aerial traps in any way, at the cost of being vulnerable to defenses and traps that target ground units.
+**The [[Unicorn]] can be used in place of a Healer or Druid. However, in a lot of strategies, you see them both used at the same time for maximum healing to the Archer Queen, which increases her sustainability.
+*The [[Invisibility Vial]], when equipped, prevents {{H|Defensive Buildings|defenses}} from targeting the Archer Queen, but she can be affected by splash damage; for instance, if nearby troops are targeted by a [[Mortar]] or a [[Scattershot]], the splash projectile of the Mortar and the Scattershot will damage the Archer Queen if she is in range, regardless of whether her ability is active or not. The Invisibility Vial does not prevent the Archer Queen from triggering [[Bomb]]s and [[Giant Bomb]]s and she will still be damaged by them if she is in range when they explode.
+**The activated Invisibility Vial's ability is excellent against single-target Inferno Towers. When used, the Inferno Tower's damage will not only reset, but is often redirected onto a summoned Archer if the Archer Puppet is equipped. The Queen can quickly finish off the Inferno with her damage under the cloak, while the Archers can provide great cover and overwhelm the Inferno if it is not defended well by splash defenses (or other multi-targeting Infernos). Without the Archer Puppet, her sustainability will increased significantly, especially if the Invisibility Vial is paired with either the Giant Arrow or Frozen Arrow.
+**The Invisibility Vial ability will also not prevent any projectiles (such as {{H|Cannon}} shots) that are targeting the Archer Queen at the time of the ability's activation from hitting her. If the [[Eagle Artillery]] has already locked on and fired on the Queen, activating the Invisibility Vial will not prevent the shots from hitting, which will result in great damage against your Queen. Activating the ability just before it fires will stop the Eagle Artillery from firing on your Archer Queen, however, and render the Queen temporarily untargetable by the Eagle Artillery as normal.
+*A good idea is to put the Archer Queen with the other heroes. The Barbarian King soaks up hits, the Archer Queen attacks from behind, the Grand Warden supports them with his [[Life Gem]] or the [[Rage Gem]], and the Royal Champion destroys defenses. If there are troops in the [[Clan Castle]], they also get benefits from the Grand Warden and they can assist the other heroes in terms of defending and stalling. This is also called a hero dive, where you push a certain amount of your heroes into the base a little. This can help with funneling, take out major defenses or just getting percentage in general.
+**Sending the Archer Queen and any other heroes like this with little support (up to about 25 housing space of troops) is known as a Sui Queen. This is best used to destroy outer portions of the base and a few key targets farther in.
+*Beware of the Barbarian King, as he can knock out the Archer Queen in a 1v1 if they are at the same level or if the Archer Queen is only 5 levels or lower than the King. If you are going to 1v1 the Barbarian King, place Healers/Druids to support the Queen or place [[Wizard]]s or any other high-damaging troop to quickly defeat the King. Headhunters, if you have access, is also good when going against the King.
+*The Invisibility Vial ability's mechanism will cause her to be considered as a new target different from the original Archer Queen. Against a defending [[Electro Dragon]], this ability may backfire, as it may cause her to take two hits from the Electro Dragon's Chain Lightning ability.
+*If you do not need to use her ability during battle, you do not always need to. If the battle ends and she does not use her ability, after battle she will recover health equal to the ability recovery.
+*By far and away the most common [[Pets|Pet]] to pair with the Archer Queen is [[Frosty]] can also be used for Queen Walks and smash-style attacks, slowing down defenses and distracting them with his [[Frostmite]]s. Alternatively, the Unicorn can be used as it enables her to be healed over time, greatly increasing her sustainability. The [[Phoenix]], when unlocked, can substitute for the Unicorn if the latter is being upgraded, being able to extend the lifetime of the Queen and allowing her to do extra damage before she goes down. [[Diggy]] can stun defenses and units to allow the Archer Queen more time to deal with them, but only works on a single target.
+**The Phoenix can also revive the Archer Queen if she happens to be defeated while under her ability. The subsequent revival allows the Queen to use most of, if not the full duration of her extremely damaging ability if the Invisibility Vial is active.
+*The Archer Queen benefits from having higher-level equipment, so leveling up your equipment will greatly improve the Archer Queen.
+*A good Hero Equipment combination for the Archer Queen includes the Frozen Arrow and Invisibility Vial, as this reduces her incoming damage by slowing down defenses, and making her invisible allows her to deal more damage. However, if you are using a pet, the Pet will not turn invisible, forcing the pet to get taken down early, which can leave the Queen without support.
+**Other good combos include the Frozen Arrow and Healer Puppet, which allows her more healers for extra health recovery, and also self-heals over time. The Invisibility Vial and Healer Puppet for guaranteed healing, and the Giant Arrow and Invisibility Vial or the Magic Mirror for ZapQuake attacks are all good combinations to a certain extent.
+*Some good Hero Equipment pairings include:
+**The Frozen Arrow and Invisibility Vial, which allows the Queen to provides some support on slowing the defenses and survive and do more damage when necessary.
+***The Magic Mirror is usually an upgrade to the Invisibility Vial in most situations. The Magic Mirror summons clones and turns the Queen invisible briefly so defenses will target them instead, they do more extra damage overall and have some tanking capability, it also provides more maximum health passively and have extra health recovery to make up for not being invisible for longer.
+****Pairing this with the [[Action Figure]] allows the Giant Giant to tank for all the cloned Queens, allowing the Queens to deal significant amounts of damage when both abilities are activated.
+**The Healer Puppet and Giant Arrow/Frozen Arrow/Archer Puppet, as both abilities can be used immediately with little to no conflicts, unlike Invisibility Vial or Magic Mirror.
+**The Healer Puppet and Invisibility Vial/Magic Mirror are still a valid pairing, as the passive healing already helps the Queen's sustainability in the core, having invisibility time and retargeting available with extra Healers being spawned can be an insurance.
+===Defensive Strategies===
+*The Archer Queen is more suitable for defense than the [[Barbarian King]] because of her higher damage per second, and she is able to attack from a longer range (as well as being able to strike [[:Category:Air Troops|air units]]), but she has dramatically lower health than the Barbarian King. The Hero Banner must be placed 3-4 spaces from the nearest {{H|Walls|wall}} to prevent the Queen from jumping out and getting targeted by melee troops.
+*Protect your key defenses by keeping them more than 5 tiles away from the nearest open space, so the Queen cannot snipe them. 
+*Keep your [[Eagle Artillery]] away from the Queen's banner so that the opponent cannot destroy both with Electrone or Blizzard.
+*The best strategy against an Archer Queen is often another Archer Queen. A Queen Walk or an Archer Queen behind a tank troop can take down an enemy Queen quickly, especially if her Equipment abilities are activated.
+*Tanking troops can be of some use, but they will not last long against an Archer Queen. For example, a maxed [[Golem]] will last only 10-11 seconds against a max-level Archer Queen, not accounting for any other {{H|Defensive Buildings|defenses}} that may be targeting it.
+**If you are using a similar level, using the [[Barbarian King]] as a tank and the enemy Archer Queen is not hiding behind a wall, then the Barbarian King himself will be sufficient to defeat the Queen unless nearby defenses or the defending [[Clan Castle]] troops or Barbarian King are also attacking him. Activating the King's ability will allow him to defeat the Queen quicker.
+*If the Archer Queen is near the edge of the base, you can use a Barbarian King to take it out. You might need to use the King's ability if he is low-leveled.
+*Consider bringing a spell or spells to make the takedown process easier, such as a [[Poison Spell]] to slow the Queen's attacks, a [[Skeleton Spell]] to distract her, or a [[Freeze Spell]] to keep her from killing your troops too quickly.
+*The [[Grand Warden]]'s Eternal Tome ability can keep troops alive while they destroy an Archer Queen. Because the Queen's health is so low, the short duration of the Eternal Tome ability is rarely a problem.
+*You can defeat the defending Archer Queen with high-leveled [[Lightning Spell]]s if she is low leveled. However, this is not a recommended strategy because you cannot easily guarantee that she will die if you bring too little.
+**Even against higher-level Archer Queens, the strategy can still be useful if you are bringing enough Lightning Spells to destroy other key buildings alongside taking her out (such as the [[Eagle Artillery]]), usually with the help of Earthquake Spells to help destroy defenses.
+*Like with the Barbarian King or the Royal Champion, [[Headhunter]]s are effective at targeting and attacking the Archer Queen, and they are used in small numbers in most high-level strategies such as LavaLoon where the other troops cannot target or damage her effectively. However, if Headhunters are sent in alone without assistance or not being protected by the Grand Warden's Eternal Tome ability, they will likely be picked off and taken out easily by the Queen or nearby defenses. As such, they are best sneaked in, covered by other attacking troops or by the Grand Warden's Eternal Tome ability.
+
+==Statistics==
+<center><div class="stats-background">
+{{Modifiers|type=HeroHV|HAbility=true}}
+{|class="wikitable hero-statistics-table" id="archerqueen-table-1" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!data-type="preferred target"|Preferred Target
+!data-type="attack type"|Attack Type
+!data-type="movement speed"|[[Troop Movement Speed|Movement Speed]]
+!data-type="attack speed"|Attack Speed
+!data-type="range"|Range
+!data-type="search radius"|Search Radius
+|-
+|None
+|Ranged (Ground&nbsp;&&nbsp;Air)
+|class="ModifierStat Speed Hero"|24
+|class="AttackSpeed"|0.75s
+|5 tiles
+|10 tiles
+|}
+{|class="wikitable hero-statistics-table floatheader row-highlight" id="archerqueen-table-2" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!data-type="level"|Level<br/>{{Res|RES=Level}}
+!data-type="dps"|Damage per Second<br/>{{Res|RES=Damage}}
+!data-type="dpa"|Damage per Hit<br/>{{Res|RES=Damage}}
+!data-type="hitpoints"|Hitpoints<br/>{{Res|RES=Hitpoint}}
+!data-type="ability level"|Health Recovery<br/>{{Res|RES=Hitpoint}}
+!data-type="training cost"|Upgrade Cost<br/>{{Res|RES=Dark Elixir}}
+!data-type="training time"|Upgrade Time<br/>{{Res|RES=Time}}
+!data-type="required Hero Hall"|[[Hero Hall]] Level Required<br/>{{Res|RES=Hero Hall}}
+|-
+|1
+|class="ModifierStat DPS Hero"|136
+|class="ModifierStat DPH Hero"|102
+|class="ModifierStat HP Hero"|580
+|class="ModifierStat HPRecovery"|115
+|N/A
+|N/A
+|2
+|-
+|2
+|class="ModifierStat DPS Hero"|139
+|class="ModifierStat DPH Hero"|104.25
+|class="ModifierStat HP Hero"|592
+|class="ModifierStat HPRecovery"|115
+|class="GoldPass bCost"|5,000
+|class="GoldPass bTime"|2h
+|2
+|-
+|3
+|class="ModifierStat DPS Hero"|143
+|class="ModifierStat DPH Hero"|107.25
+|class="ModifierStat HP Hero"|604
+|class="ModifierStat HPRecovery"|115
+|class="GoldPass bCost"|5,500
+|class="GoldPass bTime"|4h
+|2
+|-
+|4
+|class="ModifierStat DPS Hero"|146
+|class="ModifierStat DPH Hero"|109.5
+|class="ModifierStat HP Hero"|617
+|class="ModifierStat HPRecovery"|115
+|class="GoldPass bCost"|6,000
+|class="GoldPass bTime"|8h
+|2
+|-
+|5
+|class="ModifierStat DPS Hero"|150
+|class="ModifierStat DPH Hero"|112.5
+|class="ModifierStat HP Hero"|630
+|class="ModifierStat HPRecovery change-highlight"|130
+|class="GoldPass bCost"|6,500
+|class="GoldPass bTime"|10h
+|2
+|-
+|6
+|class="ModifierStat DPS Hero"|154
+|class="ModifierStat DPH Hero"|115.5
+|class="ModifierStat HP Hero"|643
+|class="ModifierStat HPRecovery"|130
+|class="GoldPass bCost"|7,000
+|class="GoldPass bTime"|12h
+|2
+|-
+|7
+|class="ModifierStat DPS Hero"|157
+|class="ModifierStat DPH Hero"|117.75
+|class="ModifierStat HP Hero"|657
+|class="ModifierStat HPRecovery"|130
+|class="GoldPass bCost"|7,500
+|class="GoldPass bTime"|14h
+|2
+|-
+|8
+|class="ModifierStat DPS Hero"|162
+|class="ModifierStat DPH Hero"|121.5
+|class="ModifierStat HP Hero"|670
+|class="ModifierStat HPRecovery"|130
+|class="GoldPass bCost"|8,000
+|class="GoldPass bTime"|16h
+|2
+|-
+|9
+|class="ModifierStat DPS Hero"|165
+|class="ModifierStat DPH Hero"|123.75
+|class="ModifierStat HP Hero"|685
+|class="ModifierStat HPRecovery"|130
+|class="GoldPass bCost"|8,500
+|class="GoldPass bTime"|18h
+|2
+|-
+|10
+|class="ModifierStat DPS Hero"|169
+|class="ModifierStat DPH Hero"|126.75
+|class="ModifierStat HP Hero"|699
+|class="ModifierStat HPRecovery change-highlight"|145
+|class="GoldPass bCost"|10,000
+|class="GoldPass bTime"|20h
+|2
+|-
+|11
+|class="ModifierStat DPS Hero"|173
+|class="ModifierStat DPH Hero"|129.75
+|class="ModifierStat HP Hero"|714
+|class="ModifierStat HPRecovery"|145
+|class="GoldPass bCost"|10,500
+|class="GoldPass bTime"|22h
+|class="change-highlight"|3
+|-
+|12
+|class="ModifierStat DPS Hero"|178
+|class="ModifierStat DPH Hero"|133.5
+|class="ModifierStat HP Hero"|729
+|class="ModifierStat HPRecovery"|145
+|class="GoldPass bCost"|11,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|13
+|class="ModifierStat DPS Hero"|183
+|class="ModifierStat DPH Hero"|137.25
+|class="ModifierStat HP Hero"|744
+|class="ModifierStat HPRecovery"|145
+|class="GoldPass bCost"|11,500
+|class="GoldPass bTime"|1d
+|3
+|-
+|14
+|class="ModifierStat DPS Hero"|187
+|class="ModifierStat DPH Hero"|140.25
+|class="ModifierStat HP Hero"|759
+|class="ModifierStat HPRecovery"|145
+|class="GoldPass bCost"|12,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|15
+|class="ModifierStat DPS Hero"|192
+|class="ModifierStat DPH Hero"|144
+|class="ModifierStat HP Hero"|775
+|class="ModifierStat HPRecovery change-highlight"|160
+|class="GoldPass bCost"|12,500
+|class="GoldPass bTime"|1d
+|3
+|-
+|16
+|class="ModifierStat DPS Hero"|196
+|class="ModifierStat DPH Hero"|147
+|class="ModifierStat HP Hero"|792
+|class="ModifierStat HPRecovery"|160
+|class="GoldPass bCost"|13,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|17
+|class="ModifierStat DPS Hero"|201
+|class="ModifierStat DPH Hero"|150.75
+|class="ModifierStat HP Hero"|808
+|class="ModifierStat HPRecovery"|160
+|class="GoldPass bCost"|13,500
+|class="GoldPass bTime"|1d
+|3
+|-
+|18
+|class="ModifierStat DPS Hero"|207
+|class="ModifierStat DPH Hero"|155.25
+|class="ModifierStat HP Hero"|826
+|class="ModifierStat HPRecovery"|160
+|class="GoldPass bCost"|14,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|19
+|class="ModifierStat DPS Hero"|212
+|class="ModifierStat DPH Hero"|159
+|class="ModifierStat HP Hero"|842
+|class="ModifierStat HPRecovery"|160
+|class="GoldPass bCost"|14,500
+|class="GoldPass bTime"|1d
+|3
+|-
+|20
+|class="ModifierStat DPS Hero"|217
+|class="ModifierStat DPH Hero"|162.75
+|class="ModifierStat HP Hero"|861
+|class="ModifierStat HPRecovery change-highlight"|175
+|class="GoldPass bCost"|15,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|21
+|class="ModifierStat DPS Hero"|223
+|class="ModifierStat DPH Hero"|167.25
+|class="ModifierStat HP Hero"|878
+|class="ModifierStat HPRecovery"|175
+|class="GoldPass bCost"|17,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|22
+|class="ModifierStat DPS Hero"|228
+|class="ModifierStat DPH Hero"|171
+|class="ModifierStat HP Hero"|897
+|class="ModifierStat HPRecovery"|175
+|class="GoldPass bCost"|19,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|23
+|class="ModifierStat DPS Hero"|234
+|class="ModifierStat DPH Hero"|175.5
+|class="ModifierStat HP Hero"|916
+|class="ModifierStat HPRecovery"|175
+|class="GoldPass bCost"|21,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|24
+|class="ModifierStat DPS Hero"|240
+|class="ModifierStat DPH Hero"|180
+|class="ModifierStat HP Hero"|935
+|class="ModifierStat HPRecovery"|175
+|class="GoldPass bCost"|23,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|25
+|class="ModifierStat DPS Hero"|246
+|class="ModifierStat DPH Hero"|184.5
+|class="ModifierStat HP Hero"|954
+|class="ModifierStat HPRecovery change-highlight"|190
+|class="GoldPass bCost"|25,000
+|class="GoldPass bTime"|1d
+|3
+|-
+|26
+|class="ModifierStat DPS Hero"|252
+|class="ModifierStat DPH Hero"|189
+|class="ModifierStat HP Hero"|974
+|class="ModifierStat HPRecovery"|190
+|class="GoldPass bCost"|27,000
+|class="GoldPass bTime"|2d
+|3
+|-
+|27
+|class="ModifierStat DPS Hero"|258
+|class="ModifierStat DPH Hero"|193.5
+|class="ModifierStat HP Hero"|995
+|class="ModifierStat HPRecovery"|190
+|class="GoldPass bCost"|29,000
+|class="GoldPass bTime"|2d
+|3
+|-
+|28
+|class="ModifierStat DPS Hero"|264
+|class="ModifierStat DPH Hero"|198
+|class="ModifierStat HP Hero"|1,016
+|class="ModifierStat HPRecovery"|190
+|class="GoldPass bCost"|31,000
+|class="GoldPass bTime"|2d
+|3
+|-
+|29
+|class="ModifierStat DPS Hero"|271
+|class="ModifierStat DPH Hero"|203.25
+|class="ModifierStat HP Hero"|1,038
+|class="ModifierStat HPRecovery"|190
+|class="GoldPass bCost"|33,000
+|class="GoldPass bTime"|2d
+|3
+|-
+|30
+|class="ModifierStat DPS Hero"|278
+|class="ModifierStat DPH Hero"|208.5
+|class="ModifierStat HP Hero"|1,059
+|class="ModifierStat HPRecovery change-highlight"|205
+|class="GoldPass bCost"|35,000
+|class="GoldPass bTime"|2d
+|3
+|-
+|31
+|class="ModifierStat DPS Hero"|285
+|class="ModifierStat DPH Hero"|213.75
+|class="ModifierStat HP Hero"|1,082
+|class="ModifierStat HPRecovery"|205
+|class="GoldPass bCost"|37,000
+|class="GoldPass bTime"|2d 6h
+|class="change-highlight"|4
+|-
+|32
+|class="ModifierStat DPS Hero"|292
+|class="ModifierStat DPH Hero"|219
+|class="ModifierStat HP Hero"|1,104
+|class="ModifierStat HPRecovery"|205
+|class="GoldPass bCost"|39,000
+|class="GoldPass bTime"|2d 6h
+|4
+|-
+|33
+|class="ModifierStat DPS Hero"|299
+|class="ModifierStat DPH Hero"|224.25
+|class="ModifierStat HP Hero"|1,127
+|class="ModifierStat HPRecovery"|205
+|class="GoldPass bCost"|41,000
+|class="GoldPass bTime"|2d 6h
+|4
+|-
+|34
+|class="ModifierStat DPS Hero"|307
+|class="ModifierStat DPH Hero"|230.25
+|class="ModifierStat HP Hero"|1,151
+|class="ModifierStat HPRecovery"|205
+|class="GoldPass bCost"|43,000
+|class="GoldPass bTime"|2d 6h
+|4
+|-
+|35
+|class="ModifierStat DPS Hero"|315
+|class="ModifierStat DPH Hero"|236.25
+|class="ModifierStat HP Hero"|1,175
+|class="ModifierStat HPRecovery change-highlight"|220
+|class="GoldPass bCost"|45,000
+|class="GoldPass bTime"|2d 6h
+|4
+|-
+|36
+|class="ModifierStat DPS Hero"|322
+|class="ModifierStat DPH Hero"|241.5
+|class="ModifierStat HP Hero"|1,200
+|class="ModifierStat HPRecovery"|220
+|class="GoldPass bCost"|47,000
+|class="GoldPass bTime"|2d 12h
+|4
+|-
+|37
+|class="ModifierStat DPS Hero"|331
+|class="ModifierStat DPH Hero"|248.25
+|class="ModifierStat HP Hero"|1,226
+|class="ModifierStat HPRecovery"|220
+|class="GoldPass bCost"|49,000
+|class="GoldPass bTime"|2d 12h
+|4
+|-
+|38
+|class="ModifierStat DPS Hero"|338
+|class="ModifierStat DPH Hero"|253.5
+|class="ModifierStat HP Hero"|1,251
+|class="ModifierStat HPRecovery"|220
+|class="GoldPass bCost"|51,000
+|class="GoldPass bTime"|2d 12h
+|4
+|-
+|39
+|class="ModifierStat DPS Hero"|347
+|class="ModifierStat DPH Hero"|260.25
+|class="ModifierStat HP Hero"|1,278
+|class="ModifierStat HPRecovery"|220
+|class="GoldPass bCost"|53,000
+|class="GoldPass bTime"|2d 12h
+|4
+|-
+|40
+|class="ModifierStat DPS Hero"|356
+|class="ModifierStat DPH Hero"|267
+|class="ModifierStat HP Hero"|1,304
+|class="ModifierStat HPRecovery change-highlight"|235
+|class="GoldPass bCost"|55,000
+|class="GoldPass bTime"|2d 12h
+|4
+|-
+|41
+|class="ModifierStat DPS Hero"|365
+|class="ModifierStat DPH Hero"|273.75
+|class="ModifierStat HP Hero"|1,331
+|class="ModifierStat HPRecovery"|235
+|class="GoldPass bCost"|58,000
+|class="GoldPass bTime"|3d
+|class="change-highlight"|5
+|-
+|42
+|class="ModifierStat DPS Hero"|374
+|class="ModifierStat DPH Hero"|280.5
+|class="ModifierStat HP Hero"|1,359
+|class="ModifierStat HPRecovery"|235
+|class="GoldPass bCost"|61,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|43
+|class="ModifierStat DPS Hero"|383
+|class="ModifierStat DPH Hero"|287.25
+|class="ModifierStat HP Hero"|1,388
+|class="ModifierStat HPRecovery"|235
+|class="GoldPass bCost"|64,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|44
+|class="ModifierStat DPS Hero"|393
+|class="ModifierStat DPH Hero"|294.75
+|class="ModifierStat HP Hero"|1,417
+|class="ModifierStat HPRecovery"|235
+|class="GoldPass bCost"|67,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|45
+|class="ModifierStat DPS Hero"|403
+|class="ModifierStat DPH Hero"|302.25
+|class="ModifierStat HP Hero"|1,447
+|class="ModifierStat HPRecovery change-highlight"|250
+|class="GoldPass bCost"|70,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|46
+|class="ModifierStat DPS Hero"|413
+|class="ModifierStat DPH Hero"|309.75
+|class="ModifierStat HP Hero"|1,478
+|class="ModifierStat HPRecovery"|250
+|class="GoldPass bCost"|73,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|47
+|class="ModifierStat DPS Hero"|423
+|class="ModifierStat DPH Hero"|317.25
+|class="ModifierStat HP Hero"|1,508
+|class="ModifierStat HPRecovery"|250
+|class="GoldPass bCost"|76,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|48
+|class="ModifierStat DPS Hero"|434
+|class="ModifierStat DPH Hero"|325.5
+|class="ModifierStat HP Hero"|1,540
+|class="ModifierStat HPRecovery"|250
+|class="GoldPass bCost"|79,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|49
+|class="ModifierStat DPS Hero"|445
+|class="ModifierStat DPH Hero"|333.75
+|class="ModifierStat HP Hero"|1,572
+|class="ModifierStat HPRecovery"|250
+|class="GoldPass bCost"|82,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|50
+|class="ModifierStat DPS Hero"|456
+|class="ModifierStat DPH Hero"|342
+|class="ModifierStat HP Hero"|1,606
+|class="ModifierStat HPRecovery change-highlight"|265
+|class="GoldPass bCost"|85,000
+|class="GoldPass bTime"|3d
+|5
+|-
+|51
+|class="ModifierStat DPS Hero"|465
+|class="ModifierStat DPH Hero"|348.75
+|class="ModifierStat HP Hero"|1,646
+|class="ModifierStat HPRecovery"|265
+|class="GoldPass bCost"|86,000
+|class="GoldPass bTime"|3d
+|class="change-highlight"|6
+|-
+|52
+|class="ModifierStat DPS Hero"|474
+|class="ModifierStat DPH Hero"|355.5
+|class="ModifierStat HP Hero"|1,688
+|class="ModifierStat HPRecovery"|265
+|class="GoldPass bCost"|87,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|53
+|class="ModifierStat DPS Hero"|485
+|class="ModifierStat DPH Hero"|363.75
+|class="ModifierStat HP Hero"|1,730
+|class="ModifierStat HPRecovery"|265
+|class="GoldPass bCost"|88,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|54
+|class="ModifierStat DPS Hero"|495
+|class="ModifierStat DPH Hero"|371.25
+|class="ModifierStat HP Hero"|1,774
+|class="ModifierStat HPRecovery"|265
+|class="GoldPass bCost"|89,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|55
+|class="ModifierStat DPS Hero"|505
+|class="ModifierStat DPH Hero"|378.75
+|class="ModifierStat HP Hero"|1,819
+|class="ModifierStat HPRecovery change-highlight"|280
+|class="GoldPass bCost"|90,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|56
+|class="ModifierStat DPS Hero"|515
+|class="ModifierStat DPH Hero"|386.25
+|class="ModifierStat HP Hero"|1,865
+|class="ModifierStat HPRecovery"|280
+|class="GoldPass bCost"|93,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|57
+|class="ModifierStat DPS Hero"|526
+|class="ModifierStat DPH Hero"|394.5
+|class="ModifierStat HP Hero"|1,912
+|class="ModifierStat HPRecovery"|280
+|class="GoldPass bCost"|96,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|58
+|class="ModifierStat DPS Hero"|537
+|class="ModifierStat DPH Hero"|402.75
+|class="ModifierStat HP Hero"|1,960
+|class="ModifierStat HPRecovery"|280
+|class="GoldPass bCost"|99,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|59
+|class="ModifierStat DPS Hero"|548
+|class="ModifierStat DPH Hero"|411
+|class="ModifierStat HP Hero"|2,010
+|class="ModifierStat HPRecovery"|280
+|class="GoldPass bCost"|102,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|60
+|class="ModifierStat DPS Hero"|559
+|class="ModifierStat DPH Hero"|419.25
+|class="ModifierStat HP Hero"|2,060
+|class="ModifierStat HPRecovery change-highlight"|295
+|class="GoldPass bCost"|105,000
+|class="GoldPass bTime"|3d
+|6
+|-
+|61
+|class="ModifierStat DPS Hero"|570
+|class="ModifierStat DPH Hero"|427.5
+|class="ModifierStat HP Hero"|2,111
+|class="ModifierStat HPRecovery"|295
+|class="GoldPass bCost"|107,000
+|class="GoldPass bTime"|4d
+|6
+|-
+|62
+|class="ModifierStat DPS Hero"|581
+|class="ModifierStat DPH Hero"|435.75
+|class="ModifierStat HP Hero"|2,164
+|class="ModifierStat HPRecovery"|295
+|class="GoldPass bCost"|109,000
+|class="GoldPass bTime"|4d
+|6
+|-
+|63
+|class="ModifierStat DPS Hero"|593
+|class="ModifierStat DPH Hero"|444.75
+|class="ModifierStat HP Hero"|2,218
+|class="ModifierStat HPRecovery"|295
+|class="GoldPass bCost"|111,000
+|class="GoldPass bTime"|4d
+|6
+|-
+|64
+|class="ModifierStat DPS Hero"|605
+|class="ModifierStat DPH Hero"|453.75
+|class="ModifierStat HP Hero"|2,274
+|class="ModifierStat HPRecovery"|295
+|class="GoldPass bCost"|113,000
+|class="GoldPass bTime"|4d
+|6
+|-
+|65
+|class="ModifierStat DPS Hero"|617
+|class="ModifierStat DPH Hero"|462.75
+|class="ModifierStat HP Hero"|2,330
+|class="ModifierStat HPRecovery change-highlight"|310
+|class="GoldPass bCost"|115,000
+|class="GoldPass bTime"|4d
+|6
+|-
+|66
+|class="ModifierStat DPS Hero"|628
+|class="ModifierStat DPH Hero"|471
+|class="ModifierStat HP Hero"|2,384
+|class="ModifierStat HPRecovery"|310
+|class="GoldPass bCost"|117,000
+|class="GoldPass bTime"|4d
+|class="change-highlight"|7
+|-
+|67
+|class="ModifierStat DPS Hero"|638
+|class="ModifierStat DPH Hero"|478.5
+|class="ModifierStat HP Hero"|2,432
+|class="ModifierStat HPRecovery"|310
+|class="GoldPass bCost"|119,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|68
+|class="ModifierStat DPS Hero"|648
+|class="ModifierStat DPH Hero"|486
+|class="ModifierStat HP Hero"|2,476
+|class="ModifierStat HPRecovery"|310
+|class="GoldPass bCost"|121,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|69
+|class="ModifierStat DPS Hero"|656
+|class="ModifierStat DPH Hero"|492
+|class="ModifierStat HP Hero"|2,516
+|class="ModifierStat HPRecovery"|310
+|class="GoldPass bCost"|123,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|70
+|class="ModifierStat DPS Hero"|664
+|class="ModifierStat DPH Hero"|498
+|class="ModifierStat HP Hero"|2,552
+|class="ModifierStat HPRecovery change-highlight"|325
+|class="GoldPass bCost"|125,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|71
+|class="ModifierStat DPS Hero"|671
+|class="ModifierStat DPH Hero"|503.25
+|class="ModifierStat HP Hero"|2,584
+|class="ModifierStat HPRecovery"|325
+|class="GoldPass bCost"|130,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|72
+|class="ModifierStat DPS Hero"|677
+|class="ModifierStat DPH Hero"|507.75
+|class="ModifierStat HP Hero"|2,616
+|class="ModifierStat HPRecovery"|325
+|class="GoldPass bCost"|135,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|73
+|class="ModifierStat DPS Hero"|682
+|class="ModifierStat DPH Hero"|511.5
+|class="ModifierStat HP Hero"|2,648
+|class="ModifierStat HPRecovery"|325
+|class="GoldPass bCost"|140,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|74
+|class="ModifierStat DPS Hero"|687
+|class="ModifierStat DPH Hero"|515.25
+|class="ModifierStat HP Hero"|2,680
+|class="ModifierStat HPRecovery"|325
+|class="GoldPass bCost"|145,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|75
+|class="ModifierStat DPS Hero"|692
+|class="ModifierStat DPH Hero"|519
+|class="ModifierStat HP Hero"|2,712
+|class="ModifierStat HPRecovery change-highlight"|340
+|class="GoldPass bCost"|150,000
+|class="GoldPass bTime"|4d
+|7
+|-
+|76
+|class="ModifierStat DPS Hero"|697
+|class="ModifierStat DPH Hero"|522.75
+|class="ModifierStat HP Hero"|2,740
+|class="ModifierStat HPRecovery"|340
+|class="GoldPass bCost"|155,000
+|class="GoldPass bTime"|4d
+|class="change-highlight"|8
+|-
+|77
+|class="ModifierStat DPS Hero"|701
+|class="ModifierStat DPH Hero"|525.75
+|class="ModifierStat HP Hero"|2,768
+|class="ModifierStat HPRecovery"|340
+|class="GoldPass bCost"|160,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|78
+|class="ModifierStat DPS Hero"|706
+|class="ModifierStat DPH Hero"|529.5
+|class="ModifierStat HP Hero"|2,796
+|class="ModifierStat HPRecovery"|340
+|class="GoldPass bCost"|165,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|79
+|class="ModifierStat DPS Hero"|710
+|class="ModifierStat DPH Hero"|532.5
+|class="ModifierStat HP Hero"|2,824
+|class="ModifierStat HPRecovery"|340
+|class="GoldPass bCost"|170,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|80
+|class="ModifierStat DPS Hero"|714
+|class="ModifierStat DPH Hero"|535.5
+|class="ModifierStat HP Hero"|2,852
+|class="ModifierStat HPRecovery change-highlight"|355
+|class="GoldPass bCost"|175,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|81
+|class="ModifierStat DPS Hero"|717
+|class="ModifierStat DPH Hero"|537.75
+|class="ModifierStat HP Hero"|2,880
+|class="ModifierStat HPRecovery"|355
+|class="GoldPass bCost"|180,000
+|class="GoldPass bTime"|5d
+|8
+|-
+|82
+|class="ModifierStat DPS Hero"|721
+|class="ModifierStat DPH Hero"|540.75
+|class="ModifierStat HP Hero"|2,904
+|class="ModifierStat HPRecovery"|355
+|class="GoldPass bCost"|185,000
+|class="GoldPass bTime"|5d
+|8
+|-
+|83
+|class="ModifierStat DPS Hero"|724
+|class="ModifierStat DPH Hero"|543
+|class="ModifierStat HP Hero"|2,928
+|class="ModifierStat HPRecovery"|355
+|class="GoldPass bCost"|190,000
+|class="GoldPass bTime"|5d
+|8
+|-
+|84
+|class="ModifierStat DPS Hero"|728
+|class="ModifierStat DPH Hero"|546
+|class="ModifierStat HP Hero"|2,952
+|class="ModifierStat HPRecovery"|355
+|class="GoldPass bCost"|195,000
+|class="GoldPass bTime"|5d
+|8
+|-
+|85
+|class="ModifierStat DPS Hero"|731
+|class="ModifierStat DPH Hero"|548.25
+|class="ModifierStat HP Hero"|2,976
+|class="ModifierStat HPRecovery change-highlight"|370
+|class="GoldPass bCost"|200,000
+|class="GoldPass bTime"|5d
+|8
+|-
+|86
+|class="ModifierStat DPS Hero"|734
+|class="ModifierStat DPH Hero"|550.5
+|class="ModifierStat HP Hero"|3,000
+|class="ModifierStat HPRecovery"|370
+|class="GoldPass bCost"|215,000
+|class="GoldPass bTime"|6d
+|class="change-highlight"|9
+|-
+|87
+|class="ModifierStat DPS Hero"|738
+|class="ModifierStat DPH Hero"|553.5
+|class="ModifierStat HP Hero"|3,024
+|class="ModifierStat HPRecovery"|370
+|class="GoldPass bCost"|225,000
+|class="GoldPass bTime"|6d
+|9
+|-
+|88
+|class="ModifierStat DPS Hero"|741
+|class="ModifierStat DPH Hero"|555.75
+|class="ModifierStat HP Hero"|3,048
+|class="ModifierStat HPRecovery"|370
+|class="GoldPass bCost"|235,000
+|class="GoldPass bTime"|6d
+|9
+|-
+|89
+|class="ModifierStat DPS Hero"|745
+|class="ModifierStat DPH Hero"|558.75
+|class="ModifierStat HP Hero"|3,072
+|class="ModifierStat HPRecovery"|370
+|class="GoldPass bCost"|245,000
+|class="GoldPass bTime"|6d
+|9
+|-
+|90
+|class="ModifierStat DPS Hero"|748
+|class="ModifierStat DPH Hero"|561
+|class="ModifierStat HP Hero"|3,096
+|class="ModifierStat HPRecovery change-highlight"|385
+|class="GoldPass bCost"|255,000
+|class="GoldPass bTime"|6d
+|9
+|-
+|91
+|class="ModifierStat DPS Hero"|751
+|class="ModifierStat DPH Hero"|563.25
+|class="ModifierStat HP Hero"|3,120
+|class="ModifierStat HPRecovery"|385
+|class="GoldPass bCost"|280,000
+|class="GoldPass bTime"|7d
+|class="change-highlight"|10
+|-
+|92
+|class="ModifierStat DPS Hero"|755
+|class="ModifierStat DPH Hero"|566.25
+|class="ModifierStat HP Hero"|3,144
+|class="ModifierStat HPRecovery"|385
+|class="GoldPass bCost"|290,000
+|class="GoldPass bTime"|7d
+|10
+|-
+|93
+|class="ModifierStat DPS Hero"|758
+|class="ModifierStat DPH Hero"|568.5
+|class="ModifierStat HP Hero"|3,168
+|class="ModifierStat HPRecovery"|385
+|class="GoldPass bCost"|300,000
+|class="GoldPass bTime"|7d
+|10
+|-
+|94
+|class="ModifierStat DPS Hero"|762
+|class="ModifierStat DPH Hero"|571.5
+|class="ModifierStat HP Hero"|3,192
+|class="ModifierStat HPRecovery"|385
+|class="GoldPass bCost"|310,000
+|class="GoldPass bTime"|7d
+|10
+|-
+|95
+|class="ModifierStat DPS Hero"|765
+|class="ModifierStat DPH Hero"|573.75
+|class="ModifierStat HP Hero"|3,216
+|class="ModifierStat HPRecovery change-highlight"|400
+|class="GoldPass bCost"|320,000
+|class="GoldPass bTime"|7d
+|10
+|-
+|96
+|class="ModifierStat DPS Hero"|768
+|class="ModifierStat DPH Hero"|576
+|class="ModifierStat HP Hero"|3,240
+|class="ModifierStat HPRecovery"|400
+|class="GoldPass bCost"|340,000
+|class="GoldPass bTime"|8d
+|class="change-highlight"|11
+|-
+|97
+|class="ModifierStat DPS Hero"|771
+|class="ModifierStat DPH Hero"|578.25
+|class="ModifierStat HP Hero"|3,264
+|class="ModifierStat HPRecovery"|400
+|class="GoldPass bCost"|350,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|98
+|class="ModifierStat DPS Hero"|774
+|class="ModifierStat DPH Hero"|580.5
+|class="ModifierStat HP Hero"|3,288
+|class="ModifierStat HPRecovery"|400
+|class="GoldPass bCost"|360,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|99
+|class="ModifierStat DPS Hero"|777
+|class="ModifierStat DPH Hero"|582.75
+|class="ModifierStat HP Hero"|3,312
+|class="ModifierStat HPRecovery"|400
+|class="GoldPass bCost"|370,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|100
+|class="ModifierStat DPS Hero"|780
+|class="ModifierStat DPH Hero"|585
+|class="ModifierStat HP Hero"|3,336
+|class="ModifierStat HPRecovery change-highlight"|415
+|class="GoldPass bCost"|380,000
+|class="GoldPass bTime"|8d
+|11
+
+|-
+|101
+|class="ModifierStat DPS Hero"|783
+|class="ModifierStat DPH Hero"|587.25
+|class="ModifierStat HP Hero"|3,360
+|class="ModifierStat HPRecovery"|415
+|class="GoldPass bCost"|400,000
+|class="GoldPass bTime"|8d
+|class="change-highlight"|12
+|-
+|102
+|class="ModifierStat DPS Hero"|786
+|class="ModifierStat DPH Hero"|589.5
+|class="ModifierStat HP Hero"|3,384
+|class="ModifierStat HPRecovery"|415
+|class="GoldPass bCost"|410,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|103
+|class="ModifierStat DPS Hero"|789
+|class="ModifierStat DPH Hero"|591.75
+|class="ModifierStat HP Hero"|3,408
+|class="ModifierStat HPRecovery"|415
+|class="GoldPass bCost"|420,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|104
+|class="ModifierStat DPS Hero"|792
+|class="ModifierStat DPH Hero"|594
+|class="ModifierStat HP Hero"|3,432
+|class="ModifierStat HPRecovery"|415
+|class="GoldPass bCost"|430,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|105
+|class="ModifierStat DPS Hero"|795
+|class="ModifierStat DPH Hero"|596.25
+|class="ModifierStat HP Hero"|3,456
+|class="ModifierStat HPRecovery change-highlight"|430
+|class="GoldPass bCost"|450,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|106
+|class="ModifierStat DPS Hero"|798
+|class="ModifierStat DPH Hero"|598.5
+|class="ModifierStat HP Hero"|3,480
+|class="ModifierStat HPRecovery"|430
+|class="GoldPass bCost"|460,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|107
+|class="ModifierStat DPS Hero"|801
+|class="ModifierStat DPH Hero"|600.75
+|class="ModifierStat HP Hero"|3,504
+|class="ModifierStat HPRecovery"|430
+|class="GoldPass bCost"|470,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|108
+|class="ModifierStat DPS Hero"|804
+|class="ModifierStat DPH Hero"|603
+|class="ModifierStat HP Hero"|3,528
+|class="ModifierStat HPRecovery"|430
+|class="GoldPass bCost"|475,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|109
+|class="ModifierStat DPS Hero"|807
+|class="ModifierStat DPH Hero"|605.25
+|class="ModifierStat HP Hero"|3,552
+|class="ModifierStat HPRecovery"|430
+|class="GoldPass bCost"|485,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|110
+|class="ModifierStat DPS Hero"|810
+|class="ModifierStat DPH Hero"|607.5
+|class="ModifierStat HP Hero"|3,576
+|class="ModifierStat HPRecovery change-highlight"|445
+|class="GoldPass bCost"|490,000
+|class="GoldPass bTime"|8d
+|12
+|}
+</div>
+</center>
+
+==Hero Equipment==
+*When attacking, the Archer Queen can use two of the below pieces of Hero Equipment, which change the abilities she has and grants additional stat bonuses.
+*The Archer Queen does not use any Hero Equipment when defending.
+*Select the equipment below to learn more about the abilities and stat bonuses that each piece gives.
+<div class="flexbox-display bold-text hovernav">
+<div style="width:150px">[[File:Archer Puppet.png|100px|link=Archer Puppet]]<div>[[Archer Puppet]]</div></div>
+<div style="width:150px">[[File:Invisibility Vial.png|100px|link=Invisibility Vial]]<div>[[Invisibility Vial]]</div></div>
+<div style="width:150px">[[File:Giant Arrow.png|100px|link=Giant Arrow]]<div>[[Giant Arrow]]</div></div>
+<div style="width:150px">[[File:Healer Puppet.png|100px|link=Healer Puppet]]<div>[[Healer Puppet]]</div></div>
+<div style="width:150px">[[File:Frozen Arrow.png|100px|link=Frozen Arrow]]<div>[[Frozen Arrow]]</div></div>
+<div style="width:150px">[[File:Magic Mirror.png|100px|link=Magic Mirror]]<div>[[Magic Mirror]]</div></div>
+<div style="width:150px">[[File:Action Figure.png|100px|link=Action Figure]]<div>[[Action Figure]]</div></div>
+<div style="width:150px">[[File:Monolith Arrow.png|100px|link=Monolith Arrow]]<div>[[Monolith Arrow]]</div></div>
+</div>
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Patch
+!Description
+|-
+![https://www.facebook.com/ClashofClans/videos/543882232290471/?comment_id=853407184671306 January 9, 2013]
+|Announced the Archer Queen.
+|-
+!January 10, 2013
+|Added the Archer Queen, with 30 levels. [[File:Archer Queen1.png|60px]][[File:Archer Queen10.png|60px]][[File:Archer Queen20.png|60px]]<!--
+|-
+!February 5, 2013
+|
+*Reduced the Archer Queen's regeneration time at all levels.
+**Level 1: 4h -> 1h.
+**Level 2: reduced from 4h 14m to 1h 6m.
+**Level 3 reduced from 4h 30m to 1h 12m.
+**Level 4 reduced from 4h 46m to 1h 18.
+**Level 5 reduced from 5h 3m to 1h 24m.
+**Level 6 reduced from 5h 21m to 1h 30m.
+**Level 7 reduced from 5h 40m to 1h 36m.
+**Level 8 reduced from 6h 1m to 1h 42m.
+**Level 9 reduced from 6h 23m to 1h 48m.
+**Level 10 reduced from 6h 45m to 1h 54m.
+**Level 11 reduced from 7h 10m to 2h.
+**Level 12 reduced from 7h 36m to 2h 6h.
+**Level 13 reduced from 8h 3m to 2h 12m.
+**Level 14 reduced from 8h 32m to 2h 18m.
+**Level 15 reduced from 9h 3m to 2h 24m.
+**Level 16 reduced from 9h 35m to 2h 30m.
+**Level 17 reduced from 10h 10m to 2h 36m.
+**Level 18 reduced from 10h 46m to 2h 42m.
+**Level 19 reduced from 11h 25m to 2h 48m.
+**Level 20 reduced from 12h 6m to 2h 54m.
+**Level 21 reduced from 12h 50m to 3h.
+**Level 22 reduced from 13h 36m to 3h 6m.
+**Level 23 reduced from 14h 25m to 3h 12m.
+**Level 24 reduced from 15h 17m to 3h 18m.
+**Level 25 reduced from 16h 12m to 3h 24m.
+**Level 26 reduced from 17h 10m to 3h 30m.
+**Level 27 reduced from 18h 12m to 3h 36m.
+**Level 28 reduced from 19h 17m to 3h 42m.
+**Level 29 reduced from 20h 27m to 3h 48m.
+**Level 30 reduced from 21h 40m to 3h 54m.
+*Archer Queen's level and stats are now displayed correctly when visiting villages.
+*Archer Queen now patrols a larger area and show guard radius when tapped.-->
+|-
+!May 23, 2013
+|Added levels 31 to 40 Archer Queen.
+|-
+!January 29, 2014
+|Added the Royal Cloak ability.<!--
+|-
+!July 3, 2014
+|
+*The defensive Archer Queen now has a targeting radius around her platform.
+*Massively reduced her damage, but greatly heals herself when activating her ability.-->
+|-
+!September 16, 2014
+|Reduced hero regeneration times greatly at all levels. {{Res|Time}}
+|-
+!October 22, 2014
+|Hero icons now show hero ability status in replays.
+|-
+!December 11, 2014
+|Hero ability icons now show remaining hitpoints and start flashing when low.<!--
+|-
+!July 1, 2015
+|Improved the Archer Queen's A.I, where she would less likely to target {{H|Walls}}, and would not continue bashing through Walls to get to a destroyed target.
+|-
+!October 12, 2016
+|Changed Archer Queen's info image.-->
+|-
+!December 19, 2016
+|
+*Added levels 41 to 45 Archer Queen. [[File:Archer Queen41.png|60px]]<!--
+*Reduced upgrade costs of levels 31 to 40.
+*Changed Archer Queen's icon and info.-->
+|-
+!December 18, 2017
+|
+*Added levels 46 to 50 Archer Queen.<!--
+*Decreased upgrade cost of levels 8 to 45 Archer Queen.-->
+|-
+!June 11, 2018
+|Added levels 51 to 60 Archer Queen.<!--
+|-
+!June 26, 2018
+|
+*Reduced upgrade times of levels 2 to 38 Barbarian King.
+*Reduced regeneration times of levels 2 to 60.-->
+|-
+!April 2, 2019
+|Converted the Archer Queen from 2D to 3D. [[File:Archer Queen preview.png|60px]]
+|-
+!June 18, 2019
+|Added levels 61 to 65 Archer Queen.
+|-
+!December 9, 2019
+|Added levels 66 to 70 Archer Queen.
+|-
+!March 30, 2020
+|<!--
+*Reduced upgrade cost for level 40 Barbarian King.-->
+*New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero.
+*Archer Queen now displays in her selected skin under the Player Profile tab.
+*When acquiring a new skin, the UI to select the skin will automatically open.
+*Some selected skins will be able to be purchased outside of the Gold Pass.
+*Fixed a bug where the Archer Queen received double health recovery when her ability is used both automatically and manually at the same time.
+*Show purple Hero level icons properly in attack confirm screen if [[Magic Items/List#Hero%20Potion|Hero Potion]] is active.<!--
+*Fixed inconsistencies with situations where multiple boosts which affect damage (Archer Queen's ability) are active at the same time.-->
+|-
+!June 22, 2020
+|Added levels 71 to 75 Archer Queen.
+|-
+!October 12, 2020
+|
+*Heroes now automatically heal when the player's base is raided.
+*Removed guard toggle.
+|-
+!October 26, 2020
+|Fixed skin names not changing when changing Hero with the arrows (in the "Change Skin" menus).
+|-
+!December 7, 2020
+|
+*At the end of a battle, if the Archer Queen's ability remains unused, the Hero will heal the amount of health they would normally recover from using their ability. This will help reduce the Hero's downtime, allowing them to be ready much sooner.
+*A new Cosmetics tab has been added to the in-game shop where you can browse and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems.
+*A "View Skin" option has been added when visiting.
+*Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements.
+|-
+!April 12, 2021
+|
+*Added levels 76 to 80 Archer Queen.<!--
+*Polished and changed the Barbarian King's 3D model. [[File:Archer Queen preview 2021.png|60px]]
+*Reduced upgrade costs and times of levels 1 to 50 Barbarian King. In particular, the cost to summon the Barbarian King was reduced to 5,000 Dark Elixir (from 10,000).-->
+*Boosts on Archer Queen and other Heroes or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background.<!--
+|-
+!December 9, 2021
+|
+*Reduced upgrade costs from levels 26 to 64.
+*Reduced upgrade times from levels 20 to 29.-->
+|-
+!October 10, 2022
+|Added levels 81 to 85 Archer Queen.
+|-
+!December 12, 2022
+|Changed the Archer Queen's 3D model. [[File:Archer Queen 3D preview.png|60px]]
+|-
+!June 12, 2023
+|Added levels 86 to 90 Archer Queen.
+|-
+!December 12, 2023
+|
+*Added levels 91 to 95 Archer Queen.<!--
+*The maximum level for the Barbarian King is now level 10 at Town Hall 7 & level 20 at Town Hall 8 (previously level 5 at TH7 & level 10 at TH8).
+*Reduced upgrade costs and times across all existing levels.-->
+*Replaced the Royal Cloak ability with [[Hero Equipment]] and a health recovery stat.
+**As a result, the Archer Queen loses damage and max health at every level, with much of the missing stats being given to his default Hero Equipment.<!--
+**Changed the description of the Barbarian King. Before, it used to read '''"This colossal menace soaks up huge amounts of damage and bashes anything in his path. He guards his territory fiercely when defending, and can launch into a devastating rage when attacking once his Iron Fist ability is unlocked!"'''.-->
+|-
+!November 25, 2024
+|
+*Added levels 96 to 100 Archer Queen.
+*The Archer Queen is no longer unlocked by placing down [[Archer Queen Altar|her Altar]], but getting level 2 [[Hero Hall]]. Her Altar is replaced by the [[Hero Banner]] obstacle.
+|-
+!March 27, 2025
+|Removed regeneration time. {{Res|Time}}
+|-
+!June 16, 2025
+|Removed regeneration time in the info screen, which was still there prior to this update. {{Res|Time}}
+|-
+!October 6, 2025
+|Moved levels 81 to 85 Archer Queen from Town Hall 15 to Town Hall 14. {{Res|Level}}
+|-
+!November 17, 2025
+|Added levels 101 to 105 Archer Queen.
+|-
+!February 23, 2026  
+|Updated Cost & Time Reductions
+|-
+!June 15, 2026
+|Added levels 106 to 110 Archer Queen.
+'''Upgrade Times''' {{Res|RES=Time}}
+
+* Levels 71-75: 4.5d -> 4d
+* Levels 76-80: 5d -> 4.5d
+* Levels 81-85: 6d -> 5d
+* Levels 86-90: 7d -> 6d
+* Levels 91-95: 8d -> 7d
+'''Costs''' {{Res|RES=Dark Elixir}}
+
+* Level 82: 190K -> 185K
+* Level 83: 200K -> 190K
+* Level 84: 210K -> 195K
+* Level 85: 220K -> 200K
+* Level 86: 230K -> 215K
+* Level 87: 240K -> 225K
+* Level 88: 250K -> 235K
+* Level 89: 260K -> 245K
+* Level 90: 270K -> 255K
+|}
+
+==Hero Skins==
+===Skin Availability===
+{{Skin Availability|Archer Queen}}
+
+===Archer Queen Skins===
+{{Wardrobe-AQ|Barbarian_King#Barbarian_King_Skins|Grand_Warden#Grand_Warden_Skins}}
+<div style="display:none;">''Alternatively, see [[Archer Queen/Skins]] for a gallery.''</div>
+
+===Archer Queen Skin Features===
+{{:Archer Queen/Skin Features}}
+
+===Notes===
+*If you tap on the Archer Queen, she will yell a high pitched battle cry and stand still for a moment, similar to the [[Barbarian King]]. Her default skin will wave a hand towards the player.
+**If she is wearing her Gladiator or Champion skin, she will instead bow down towards the player.
+**If she is in her Valkyrie Queen skin, she will raise her modified X-Bow and stand tall.
+**The Autumn Queen skin will spin counter-clockwise, with a bow in hand.
+**If she is wearing the Ice Queen skin, she will pull her hand up to her face.
+**If she is wearing the Warrior Queen skin, she will bow down to the user. 
+**If she is wearing the Primal Queen skin, she will put her hand on her costume and look up.
+**If she is wearing the Clockwork Queen skin, she will load and fire her crossbow. 
+**If she is wearing the Pirate Queen skin, she will be waving at the player.
+**If she is wearing the Rogue Queen skin, she will wave toward the player in a very similar way to the original skin. 
+**If she is wearing the Jungle Queen skin, she will bow down to the left side.
+**If she is wearing the Party Queen skin, she will clench her right fist and lift it to the player.
+**If she is wearing the Kyudo Queen skin, she will bow to the player.
+**If she is wearing the Queen Fatale skin, she will position herself in a seductive pose and kiss to the player.
+**If she is wearing the Renegade Queen skin, she will spray tag a logo on the ground.
+**If she is wearing the Clash-A-Rama Queen skin, she will show off her X-Bow to the player before accidentally launching an arrow into the distance.
+**If she is wearing the P.E.Q.Q.A skin, a butterfly will appear on her head and she will become enticed by it. Shortly after, the insect disappears.
+**If she is wearing the Archer Hunter skin, she will take a skull out, toss it upwards into the air and swing it like a baseball bat with her X-Bow.
+**If she is wearing the Fury Queen skin, she will somersault into the air and fire from her X-Bow before landing back on the ground.
+**If she is wearing the Blizzard Queen skin, she will create a snowflake in her left hand, smile at the player and fire an arrow at it as it levitates into the air.
+**If she is wearing the Queen of the Dunes skin, the monkey driving her cart will be spooked and run around wildly, almost causing the Queen to fall out of it.
+*All Archer Queen skins are left-handed.
+*Some of the Archer Queen skins have some unique features that other skins from the Archer Queen do not have.
+**The Warrior Queen skin has unique pink colored particles after she is deployed.
+**The Ice Queen skin has unique ice-like particles when her ability is activated.
+**When you tap the Archer Queen while she is wearing her Clockwork skin, she fires a single arrow. However, while attacking in battles se fires three.
+**When deployed, the Champion Queen will have a fiery ring where she is placed, which lasts for one second.
+**The Clash-A-Rama Queen skin's X-Bow causes small explosions to appear wherever her arrows land.
+*Some of the Archer Queen's skins feature her holding different weapons instead of her X-Bow:
+**With the Champion Queen, Magic Queen, Queen of the North, Egypt Queen, Clash Games Queen, Archer Satyr, Fire Queen, Quickfire Queen, Kyudo Queen and Blizzard Queen skins, the Archer Queen holds a [[wikipedia:Recurve bow|recurve bow]] instead of an X-Bow.
+***In the case of the Kyudo Queen, she uses a ''[[wikipedia:Yumi|yumi]]'', a Japanese asymmetrical bow.
+**With the Space Queen skin, her X-Bow is replaced with a large gun with a satellite dish. 
+**With the Wild West Queen skin, she uses two revolvers.
+**With the Football Queen skin, the Archer Queen uses a football instead of an X-Bow.
+**With the Summer Queen skin, she uses a large gun with a parasol at the end of its barrel.
+**With the Dark Minion Queen skin, she uses a crossbow with a green blade attached to one of her arms.
+**With the Puppet Queen skin, she uses a firework launcher toy.
+**With the Snake Queen skin, she holds an umbrella and attacks by launching water at the target.
+**With the Brutality Queen skin, she throws a chair at the target.
+**With the Queen Fatale skin, she uses a [[wikipedia:Thompson submachine gun|Thompson submachine gun]].
+**With the Renegade Queen skin, she uses a plasma X-Bow.
+**With the P.E.Q.Q.A skin, her X-Bow has been combined with a [[P.E.K.K.A]]'s sword.
+**With the Queen of the Dunes skin, she uses sand as her weapon of choice and fires arrows molded from said substance.
+*Before skins and 3D models were added, the Archer Queen used to have recoil when she attacked. A clip of this can be seen [https://www.youtube.com/watch?v=vx_r07wk_m8 here].
+*Before the Archer Queen's texture was converted into a 3D model, she had visual changes at levels 10, 20, and 41.
+**Initially, the Archer Queen is similar to a giant [[Archer]], but with a modified [[X-Bow]], a silver crown, purple hair, and a darker green tunic.
+**At level 10, her crown became golden.
+**At level 20, the stock of her modified X-Bow became golden as well. Her shots used to change from Elixir-colored to gold.
+**At level 41, her cloak received a golden rim, and her golden modified X-Bow stock became a darker gold color or gained a purple glow outline.
+
+{|style="text-align: center; margin: auto; width: 500px;"
+|[[File:Archer Queen1.png|link=]]
+|[[File:Archer Queen10.png|link=]]
+|[[File:Archer Queen20.png|link=]]
+|[[File:Archer Queen41.png|link=]]
+|-
+|style="width: auto;"|'''Levels 1-9 (Old Sprite)'''
+|style="width: auto;"|'''Levels 10-19 (Old Sprite)'''
+|style="width: auto;"|'''Levels 20-40 (Old Sprite)'''
+|style="width: auto;"|'''Levels 41-60 (Old Sprite)'''
+|}
+
+==Trivia==
+*If the Archer Queen attacks while her Invisibility Vial ability is active, her arrows change from their normal Elixir-like color to bright orange.
+*When she is injured or falls in battle, a small explosion occurs, she yells in pain, and a red beam shoots to the sky. After that, like all other heroes, the Archer Queen stands still and a "dizzy" animation is engaged.
+**However, this only applies to certain Hero Skins for the Archer Queen, and her knockout sounds may be different.
+*Sometimes the Archer Queen attacks a wall but then may seemingly retarget and attack another wall; this is most often caused by her retargeting to a different target (usually because her previous target was destroyed).
+*While attacking, if the opponent's Hero Banner is empty and the Archer Queen wakes up during the battle, the Hero Banner will have a short sparkling animation but the Archer Queen will not appear to defend the base.
+*If your Archer Queen wakes up while you are in [[Village Edit Mode]], a sparkle will appear wherever in the Hero Banner's original location (even if you moved it already).
+**However, as of the March 27, 2025 update, this no longer occurs.
+*A maximum level [[Electro Dragon]] under a maximum-level [[Rage Spell]] can one-shot a level 1-78 Archer Queen, but a level 79 or 80 Archer Queen survives.
+**A level 79 Archer Queen survives with exactly 2 hitpoints left.
+**However, as of the latest update, a level 4 Electro Dragon can one-shot a defending Archer Queen even at level 95, due to defending Heroes not equipping Hero Equipment on defense.
+*Prior to the January 29, 2014 update that introduced Hero abilities, and prior to the October 12, 2020 update that removed the sleep button for Heroes, the original description for the Archer Queen, as well as the [[Barbarian King]], were "''Heroes can attack enemy villages or guard your village. Heroes can be injured, but are immortal. Heal them by letting them sleep or using the Heal button. Heroes won't defend the village while sleeping''."
+*When initially released, the Archer Queen cost 40,000 Dark Elixir to summon. This was later reduced to 20,000 in the March 2020 update, and further reduced to 10,000 in the April 2021 update. 
+**Today, Archer Queen cost 1,600,000 Elixir to summon via upgrading [[Hero Hall]] to level 2 at Town Hall 8 in the November 2024 Update.
+*The first person to max out the Archer Queen and Barbarian King was a player named jessiebrar (during the initial release of [[Heroes]], the max level for both Heroes was 30).
+*The Archer Queen appears with long wristbands in her artwork, but does not appear with them in battle.
+**She used to appear with long wristbands in her 2D sprite before being converted into 3D.
+*The Archer Queen's crossbow fires out three arrows, despite that it is designed to only be loaded with a single arrow.
+*The [[w:c:clashroyale:Archer Queen|Archer Queen]] one of two [[Heroes]] to appear in ''[[wikipedia:Clash Royale|Clash Royale]],'' the other being the [[Grand Warden]]''.''
+**The Archer Queen's Royal Cloak ability in ''Clash of Clans'' functions similarly to the [[w:c:clashroyale:Cloaking Cape|Cloaking Cape]] in ''[[wikipedia:Clash Royale|Clash Royale]]''. In addition to its ''Clash Royale'' effects, it partially heals the Archer Queen and summons Archers when used in ''Clash of Clans''.
+**Unlike the Archer Queen in ''Clash of Clans'', the Archer Queen in ''Clash Royale'' is not enormous. She is not immortal either, as she turns into Elixir when she dies.
+*The Archer Queen is one of two Heroes to appear as [[w:c:squad-busters:Archer Queen|a character]] in ''[[wikipedia:Squad Busters|Squad Busters]],'' the other being the Barbarian King.
+*The "Town Hall 16" update, released on December 12, 2023, reduced the Archer Queen's hitpoints and damage by around 20% each and changed the Royal Cloak ability to be split into 2 parts, the Archer Puppet and Invisibility Vial. This was done to make Heroes weaker on defense. Her description was also changed. It used to read "''This graceful huntress is a master of destructive force, though modest in health. She snipes targets in her territory when defending, and can summon stealth and terrifying damage when attacking once her Royal Cloak ability is unlocked!''".
+*Despite the March 27, 2025 maintenance break that removed training times in the Home Village, the "regeneration time" statistic is still visible in Hero info screens, although it does not have an effect on gameplay, and was later fixed afterwards.<sup>[please specify which update]</sup> 
+**The regeneration time used to start at 10 minutes and increases by 2 minutes at every 5th level to a maximum of 48 minutes at level 95 onwards.
+===Comparisons===
+*The Archer Queen is one of the three units that can attack an [[Air Defense]] while being healed by a [[Healer]] without the Healer being in range of the aforementioned Air Defense. The other four units capable of doing this are the [[Grand Warden]], [[Apprentice Warden]] (if alone), [[Thrower]], and the [[Super Archer]].
+*The Archer Queen is the only human Hero to appear barefoot in her default skin. 
+*The Archer Queen is one of the three units associated with [[Archer]]s, the others being the [[Sneaky Archer]] and [[Super Archer]].
+*The Archer Queen is one of the 13 units to appear in a Scenery, the others being the [[Barbarian]], [[Goblin]], [[Balloon]], [[Hog Rider]], [[Barbarian King]], [[P.E.K.K.A]], [[Baby Dragon]], [[Skeleton]], Grand Warden, [[Dragon Rider]], [[Cannon Cart]], and the [[Party Wizard]]. In her case, she appears in the Clashy Constructs (as Clockwork Queen), and the 9th Clashiversary Scenery (as Party Queen).
+*The Archer Queen and the Barbarian King were the first [[Heroes]] added to the game, and both have the highest levels out of any unit in the game. They also appear as characters in ''Squad Busters''.
+*If the Archer Queen equips a max level Magic Mirror and Archer Puppet, her health recovery increases to 1790. However, if she equips a max level Archer Puppet and a max level Frozen Arrow, she does 1,107 DPS which is more than all four maxed supercharged {{H|X-Bow}}s at Town Hall 17 which collectively do 980 DPS.
+*The Archer Queen deals the third highest damage out of all the Heroes, however, in case of DPS, her Damage per Second is the highest out of them in that matter, including most of the [[Army|troops]].
+*The Archer Queen was originally unlocked at Town Hall 9 until the Town Hall 17 update on November 25, 2024, it was lowered by 1 and is now available for Town Hall 8 players.
+**After her transition to being unlocked at Town Hall 8, she is also the only Hero to be unlocked at a Town Hall level of an even number, as opposed to other Heroes, which are unlocked at odd levels starting from Town Hall 7 up to 13.
+
+{{TroopsMenuHV}}
+
+[[ru:Королева лучниц]]
+[[de:Bogenschützen-Königin]]
+[[Category:Troops]]
+[[Category:Dark Elixir Troops]]
+[[Category:Heroes]]
+[[Category:Special Abilities]]
+[[Category:Home Village]]

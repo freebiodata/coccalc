@@ -1,0 +1,336 @@
+{{Protection}}
+{{TemporaryTroopUnavailable|mode=building|crafted=yes|phase=Second}}
+[[File:Bomb Hive4.png|center|200px|link=]]
+<center>'''''Oh, those [[bomb]]s of ours, they blow up so fast! Bombs leave the nest in straight lines, exploding when they hit a [[:Category:Troops|ground or air target]].'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Bomb Hive1.png|center|100px|link=]]<div>Level 3-11</div></div>
+<div>[[File:Bomb Hive2.png|center|100px|link=]]<div>Level 12-20</div></div>
+<div>[[File:Bomb Hive3.png|center|100px|link=]]<div>Level 21-29</div></div>
+<div>[[File:Bomb Hive4.png|center|100px|link=]]<div>Level 30</div></div>
+</div>
+
+==Summary==
+*The Bomb Hive is a Crafted Defense that can be chosen from the [[Crafting Station]].
+*When attacking, the Bomb Hive constantly launches bombs that travel in a straight line, in directions parallel to the village grid (diagonally from the player's perspective). These bombs explode upon making contact with an enemy unit or after traveling a set distance, dealing area damage.
+*The Bomb Hive is always active in battle. It continually attacks even when no units are in range.
+*The Bomb Hive's modules upgrade its hitpoints, damage, and range. Only one module can be upgraded at a time.
+*The Bomb Hive's first bomb travels in the south-east direction. Subsequent bombs fire in a cycle of south-west, north-west, and north-east, and south-east again.
+
+==Strategies==
+===Offensive Strategies===
+*The Bomb Hive is considered to be one of the most dangerous defenses, especially when it comes to damage, exploding both ground and air units at the same time. However, its main weakness is that it cannot attack in other direction rather than diagonally in a straight line, but can easily take out units of not taken care of when they are in range. To prevent this, use [[Freeze Spell]]s and/or [[Overgrowth Spell]]s to stop it from attacking, a Totem Spell to tank for the bomblets, or an [[Ice Block Spell]] to protect attacking units.
+*Since most players have newly upgraded to Town Hall 18, the Bomb Hive may initially have much lower hitpoints, and attackers will use the Giant Arrow to destroy this defense.
+**However, this does not work when the Hitpoint module is at level 4, where it can survive Giant Arrows, even at max level.
+*The [[Fireball]] and [[Earthquake Spell]] combo can destroy the Bomb Hive, provided if they are sufficiently leveled. The [[Earthquake Boots]] and the [[Spiky Ball]] combo can also work, with the same rules applied.
+===Defensive Strategies===
+*Because the Bomb Hive is always active and the bombs explode on contact even if the enemy is invisible under [[Invisibility Spell]] or [[Spirit Fox]], a well placed one can counter [[Royal Champion]] Charge as it deals massive amount of damage to both her and the Fox with the splash damage.
+*When dealing against Fireball attacks, spread out major defenses and place minor defenses on the outside. 
+
+==Upgrade Differences==
+*When selected, the Bomb Hive initially appears as a short octagonal defense with blue, brown, gray and black, made of wood, stone, and metal on top of a smooth, nine-padded foundation shared from the [[Crafting Station]]. The base is comprised of stone in a octagonal shape, rotated in a way that its edges face the foundation's sides and vertices. At the top, there is a large, octagonal wooden barrel with the top ends having a fence-like appearance, which holds a large black bomb with a skull, supported by a metal ring, above a dark gray stone square platform where each of its sides have a large launch barrel. The barrels of the are simple, with blue wooden planks tied up with ropes, and in between them are stone supports that connect to the platform. In a raid, it initially releases a bomblet with a propeller at the top which flies onto one of the four fixed directions, allowing them to target aerial units. These bomblets are presumably being created underground, gathered through a conveyor belt and other complex mechanical parts that help to release them in those directions. They travel in this specified order: initially south-east, then south-west, north-west, and north-east, and south-east again, and the cycle repeats until it is destroyed. They explode either upon impact, when they have reached their maximum range, or at the end of the village, dealing massive area damage that damages both ground and air at the same time.
+*At level 12, the Bomb Hive itself becomes slightly bigger, and the bomb on top is slightly larger. The octagonal barrel is replaced by a metal one, which appears to be a six-sided metal crown on top, and the platform turns from dark gray stone to brass. The launch barrels are no longer tied up with ropes, and the bottommost ones are replaced with brass, and their supports turn into dark gray stone.
+*At level 21, the Bomb Hive grows even bigger, while the bomb on top becoming much bigger. In between the body and the platform, there is a thin ring with brass handles with golden hinges in between each barrel. The bottom parts of each the launch barrel are now made of gold instead of brass, and in between each of them, the supports gain additional deep gray stone reinforcements. The crown also changes from metal to gold.
+*At level 30, the golden part that holds the bomb gains rivets on each of the six sides of the crown, with the bomb itself also gaining a golden layer on top of its opening. All the brass and golden parts become shinier, and the reinforcements of each sides of the launch barrels gain a bronze rivet each.
+
+==Statistics==
+<center>
+<div class="stats-background">{{GoldPassForm|Building}}
+{{NumberAvailable|TH18=1}}
+{{BuildingSize|3x3}}
+
+===Common Statistics===
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Damage Type {{Res|Damage Type}}
+!Unit Type Targeted {{Res|Target}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+|-
+|Splash Damage
+|Ground & Air
+|class="AttackSpeed"|1s
+|}
+
+===Module 1: Hitpoints===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|400
+|N/A
+|N/A
+|N/A
+|-
+|2
+|900
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|3
+|1,400
+|class="GoldPass bCost"|3,500,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|4
+|1,900
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|5
+|2,400
+|class="GoldPass bCost"|4,500,000
+|class="GoldPass bTime"|2d 14h
+|class="GoldPass EXP"|472
+|-
+|6
+|2,900
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime"|2d 16h
+|class="GoldPass EXP"|480
+|-
+|7
+|3,400
+|class="GoldPass bCost"|7,500,000
+|class="GoldPass bTime"|2d 18h
+|class="GoldPass EXP"|487
+|-
+|8
+|3,900
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime"|2d 20h
+|class="GoldPass EXP"|494
+|-
+|9
+|4,400
+|class="GoldPass bCost"|10,500,000
+|class="GoldPass bTime"|2d 22h
+|class="GoldPass EXP"|501
+|-
+|10
+|4,900
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+
+===Module 2: Damage===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Damage per Hit<br/>{{Res|Damage}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|class="ModifierStat DPH"|324
+|N/A
+|N/A
+|N/A
+|-
+|2
+|class="ModifierStat DPH"|378
+|class="GoldPass bCost"|35,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|-
+|3
+|class="ModifierStat DPH"|432
+|class="GoldPass bCost"|45,000
+|class="GoldPass bTime"|1d 6h
+|class="GoldPass EXP"|328
+|-
+|4
+|class="ModifierStat DPH"|486
+|class="GoldPass bCost"|55,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|5
+|class="ModifierStat DPH"|540
+|class="GoldPass bCost"|65,000
+|class="GoldPass bTime"|1d 18h
+|class="GoldPass EXP"|388
+|-
+|6
+|class="ModifierStat DPH"|594
+|class="GoldPass bCost"|75,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|7
+|class="ModifierStat DPH"|648
+|class="GoldPass bCost"|85,000
+|class="GoldPass bTime"|2d 6h
+|class="GoldPass EXP"|440
+|-
+|8
+|class="ModifierStat DPH"|702
+|class="GoldPass bCost"|95,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|9
+|class="ModifierStat DPH"|756
+|class="GoldPass bCost"|105,000
+|class="GoldPass bTime"|2d 18h
+|class="GoldPass EXP"|487
+|-
+|10
+|class="ModifierStat DPH"|810
+|class="GoldPass bCost"|115,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+
+===Module 3: Range===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Range<br/>{{Res|Range}}
+![[Resources#Elixir|Cost]]<br/>{{Res|Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|11 tiles
+|N/A
+|N/A
+|N/A
+|-
+|2
+|12 tiles
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|-
+|3
+|13 tiles
+|class="GoldPass bCost"|6,500,000
+|class="GoldPass bTime"|16h
+|class="GoldPass EXP"|240
+|-
+|4
+|14 tiles
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|20h
+|class="GoldPass EXP"|268
+|-
+|5
+|15 tiles
+|class="GoldPass bCost"|9,500,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|-
+|6
+|16 tiles
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|1d 6h
+|class="GoldPass EXP"|328
+|-
+|7
+|17 tiles
+|class="GoldPass bCost"|10,500,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|8
+|18 tiles
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|9
+|19 tiles
+|class="GoldPass bCost"|11,500,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|10
+|20 tiles
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Crafter's Nightmare'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Crafted Defenses in Multiplayer Battles||100||25
+|-
+|Destroy 200 Crafted Defenses in Multiplayer Battles||800||100
+|-
+|Destroy 2,000 Crafted Defenses in Multiplayer Battles||5,000||200
+|-
+!colspan="3" style="text-align: center; width: 650px" |<big>'''Crafting Connoisseur'''</big>
+|-
+|Upgrade Crafted Defenses 5 times||10||10
+|-
+|Upgrade Crafted Defenses 25 times||100||30
+|-
+|Upgrade Crafted Defenses 75 times||1,000||50
+|}
+
+{{IconDescriptions|CraftableDefense=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description
+|-
+!November 16, 2025!!Sneak Peek
+|Announced the Bomb Hive, with 30 levels.
+[[File:Bomb Hive1.png|70px|link=]][[File:Bomb Hive2.png|70px|link=]][[File:Bomb Hive3.png|70px|link=]][[File:Bomb Hive4.png|70px|link=]]
+|-
+!November 20, 2025!!Update
+|Added the Bomb Hive.
+|-
+!March 31, 2026!!Update
+|Removed the Bomb Hive.
+|}
+
+==Audio==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Sound Effects!!Captions!!Description
+|-
+|[[File:BombHive attack1.ogg]][[File:BombHive attack2.ogg]][[File:BombHive attack3.ogg]]
+|Bomb Hive summons bomblets
+|When the Bomb Hive spawns a bomblet
+|-
+|[[File:BombHive explode1.ogg]][[File:BombHive explode2.ogg]][[File:BombHive explode3.ogg]]
+|Bomblet explodes
+|When a bomblet reaches its maximum range, the end of the village boundaries, or hits something
+|}
+
+==Gallery==
+<gallery>
+Bomb Hive Old.png|Bomb Spawner, beta version of Bomb Hive
+</gallery>
+
+==Trivia==
+*There is a beta version of the Bomb Hive known as the Bomb Spawner. It has a bar with two skulls on each end that pushes down when attacking, which spawn two bombs out of traps doors that open that rolls on the ground, likely only attacks ground troops. It was later renamed into the Bomb Hive, which changed it to spawning flying bombs with propellers to hit both ground and air troops but only spawn one bomb at a time.
+*So far, the Bomb Hive has the longest range of all Crafted Defenses in the game, with a range of up to 20 tiles, not counting the [[Hero Bell]], as it does not attack.
+*This is the second building that increases its range when being upgraded, the first being the Inferno Artillery, going from 10 to 12 tiles.
+**In this case, the Range module allows the bomblets to move further, with one tile being added for every upgrade of its range module, from 11 tiles at level 1 up to 20 tiles at level 10.
+
+===Comparisons===
+*The Bomb Hive is the second defense to attack constantly even without enemies in range, the first being the [[Flame Spinner]].
+**However, compared to the Flame Spinner, it has more range but has a blind spot.
+*The Bomb Hive is the only defense without any curvature in its targeting range, with it being entirely polygonal.
+
+{{BuildingsMenuHV}}
+{{Temporary}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Crafted Buildings]]
+[[ru:Улей с бомбами]]

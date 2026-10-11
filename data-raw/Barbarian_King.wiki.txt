@@ -1,0 +1,1480 @@
+{{Protection}}
+{{LargePage}}
+{{For|the troop|Barbarian}}
+{{For|the [[Super Troops|Super]], [[Builder Base Troops|Builder Base]] and [[Clan Capital]] troop with a similar ability but only upon being deployed|Raged Barbarian|Super Barbarian}}
+[[File:King Badge.png|65px|center|link=]]
+[[File:Barbarian King info.png|500x250px|center|link=]]
+<center>
+
+'''''"Biggest and bravest of all {{H|barbarian}}s, this colossal menace soaks up huge amounts of damage and smashes anything in his path with his sword. He guards his {{H|Layouts|territory}} fiercely when defending."'''''
+</center>
+
+==Summary==
+*The Barbarian King is the first [[Heroes|Hero]] unlocked in the Home Village at [[Town Hall]] level 4 when players finish the construction of the [[Hero Hall]]. He is a larger and stronger version of the {{H|Barbarian}}.
+*In his default skin, the Barbarian King appears otherwise similar to that of a [[Barbarian]], except being much larger, taller and more muscular man with friendly mutton chops and wearing a brown kilt with a leather belt and a bronze square-shaped buckle, which is held by red straps connected to a golden square buckle with a rounded stub at the center. He has a golden crown on the top of his head, spiked wristbands on both arms, as well as a large, blunt iron sword in his right hand. On his left arm, he has a steel shoulder guard and a brass gauntlet on his hand, and on his feet, he wears a pair of leather sandals.
+*As a Hero, the Barbarian King can participate in both attack and defense, but will not be available to use if he is being upgraded.
+*The Barbarian King will defend the village when assigned to a [[Hero Banner]], which is only available at Town Hall level 7 onwards. The Barbarian King only defends his territory around his assigned banner and will retreat if lured too far out. If he locks onto a troop, he will follow that troop until he dies or that troop is taken out. Once the troop is killed, and he is outside of his patrol zone, he will return to patrolling around his assigned banner. Like other Home Village Heroes, the Barbarian King does not need to be taken out to three-star a base.
+*The Barbarian King has very high health and a high damage output so he is best used as a tank and a brute force. Deploy him first to distract the defenses then deploy lower health units (like the [[Archer Queen]]) to do the damage behind walls. However, at lower levels, like Town Halls 4 to 9, it is most likely that players might want him inside the base since Heroes are good damage dealers. Another way to use him is for funneling, as is very clear where to funnel, which can be easier depending on his Equipment.
+*As a Hero, the Barbarian King has an ability that can be used once per battle which allows him to recover some of his health, and the amount increases at every fifth level. The [[Hero Equipment]] that he wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase.
+**When unlocked, he starts with the Barbarian Puppet and Rage Vial. 
+***The [[Barbarian Puppet]] allows the Barbarian King to summon a large number of raged Barbarians and an increased health recovery. The level of the Barbarians matches the level researched by the player, while the rage increases their damage and movement speed. It gives a passive increase to max health.
+***The [[Rage Vial]] enrages the Barbarian King with his ability, increasing his damage and movement speed, and grants a vastly increased health recovery. It gives a passive increase to damage.
+**When the [[Blacksmith]] is constructed and is upgraded to level 3, it unlocks the Earthquake Boots and Vampstache respectively.
+***The [[Earthquake Boots]] deals damage similar to an [[Earthquake Spell]], except that it destroys walls instantly and damages all ground units in its radius. It gives a passive increase to damage and max health.
+***The [[Vampstache]] passively restores a small fraction of the King's health every time he lands an attack. It gives a passive increase to damage and attack speed.
+**Additionally, there are Epic rarity Hero Equipment which can be purchased with event medals during certain events or Gems with the [[Trader]].
+***The [[Giant Gauntlet]] makes the King grow gigantic, allowing him to deal splash damage, hit buildings behind {{H|Wall}}s, and reduces damage taken for a period of time. It gives a passive increase to damage and grants self healing.
+***The [[Spiky Ball]] makes the King kick a ricocheting ball which bounces to a number of buildings, dealing massive damage. It gives a passive increase to damage and max health.
+***The [[Snake Bracelet]] passively generates [[Snake Bracelet/Snake|Snakes]] whenever the King takes damage up to a limit, which can jump over Walls. It gives a passive increase to max health and attack speed.
+***The [[Stick Horse]] allows the King the jump over Walls, and attack and move faster for a while when deployed. It gives a passive increase to damage and max health.
+*At Town Halls 4 through 6, the Barbarian King is available at a limited capacity. He cannot be upgraded, his equipment cannot be configured, and he cannot defend the village as there is no Hero Banner to place. However, his key stats (damage per second, hitpoints and health recovery), and that of his default equipment, will scale by Town Hall level based on the level 1 stats. Town Hall 4 has 50% of the stats, Town Hall 5 has 75%, and Town Hall 6 has the full stats.
+**The ability attributes (speed increases, damage increases, etc.) of his default equipment are unaffected by this scaling, only its passive stats.
+==Strategies==
+===Offensive Strategies===
+*The five Home Village Heroes serve different roles in raids. The Barbarian King is the strength specialist, the [[Minion Prince]] is the air specialist, the [[Archer Queen]] is the speed specialist, the [[Grand Warden]] is the support specialist and the [[Royal Champion]] is the offense specialist.
+*The Barbarian King can often be used to create funnels; if there are no gaps in nearby {{H|Walls}}, he will stay outside the Walls and clear out buildings placed outside. As he is able to tank a lot of damage, he can be used to clear areas covered by high-DPS defenses, like a {{H|Hidden Tesla}}, [[Scattershot]], [[Firespitter]], or an {{H|X-Bow}} farm (where multiple of the same defense type is grouped to provide concentrated damage). However, air troops may be better suited for the funnel if anti-air DPS is lacking in such areas, and one should still be wary of single-target {{H|Inferno Tower}}s and [[Monolith]]s, which can quickly defeat him and end the funnel. This can also be commonly referred to as a King Walk.
+*A common way to use the Barbarian King is as a tank as well as the main damage dealer, to distract the defenses to allow troops with low hitpoints to survive. For example, the player may use him with the Archer Queen; he tanks the damage and counters them, while the Archer Queen inflicts the secondary damage. This is a common use and starting phase for Heroes in air attacks, where they serve little purpose with the main army, to destroy Air Defenses. The Grand Warden can also be shielded by the Barbarian King at the same time because of his Life Gem or raged up using the Rage Gem, or if the player has access to it, an [[Apprentice Warden]] for an extra HP boost. This is commonly known as a Hero Dive.
+*He is best used with support from ranged troops, such as the [[Archer]], [[Wizard]], [[Witch]], and the [[Headhunter]] to kill air troops and to deal damage behind.
+**However, make sure that the ranged troops are protected from strong splash defenses such as the [[Scattershot]], [[Mortar]], and the [[Eagle Artillery]], otherwise they will be taken out quickly.
+*He is also good for helping to destroy the remaining buildings of a village, after most or all [[Defensive Buildings|defenses]] have been destroyed.
+**However, he has a slow movement speed, so you might have to speed him up if you want an effective cleanup procedure, either with his ability or other spells.
+*The Barbarian King can be easily swarmed by a group of [[Archer]]s or [[Barbarian]]s, as he only attacks one target at a time and has a somewhat slow attack speed against swarms.
+**However, the [[Giant Gauntlet]] ability can negate this, since it allows the King to do splash damage and take less damage by himself.
+*As his ability recovers some health, you should let your Barbarian King take some damage before activating this ability to maximize the recovered health provided by activating the ability. The exception is at the end of a successful battle where the Barbarian King survives with taking very little or no damage, because if the ability is not activated after battle he will automatically activate it, recovering his health. Depending on Hero Equipment, his ability can be used to speed up the process of clearing the base, when paired with other Hero Equipment.
+*The Barbarian King can be healed by [[Healing Spell]]s, [[Healer]]s, [[Druid]]s, the [[Unicorn]], and the [[Healing Tome]] of the [[Grand Warden]]. However, since he is a Hero, he receives a different healing rate from some of these sources of healing compared to troops:
+**Healing Spells only heal 55% as much as with troops.
+**Healers at lower levels only heal about 55% compared to troops, but this percentage increases at mid-levels, eventually  surpassing troop healing at level 11.
+**Druids heal more effectively (between 5% and 15%) compared to troops, depending on the level.
+**The Unicorn and Healing Tome do not have different healing rates on Heroes when compared to troops.
+*Avoid using the ability when the King approaches a {{H|Bomb Tower}} or an area where a [[Giant Bomb]] or [[Giga Bomb]] will be, unless when desperately needing to recover health. If done, the summoned Barbarians will most likely be wiped out by the resulting explosion. However, this becomes much less of an issue with the higher level Barbarian King because when the [[Bomb]] explodes, it is likely not all of the Barbarians have spawned in yet so only a few of them blow up.
+**This is only a problem only if using either the Barbarian Puppet or if the King is too close to damage dealers, since the Giant Bomb can cripple, or possibly even wipe out the player's whole line of damage-dealing units.
+*When you are facing a single-target {{H|Inferno Tower}}, activate the Barbarian King's ability before he is locked on to the Inferno Tower, when using the Barbarian Puppet. This way the spawned Barbarians can distract the Inferno Tower and keep the King alive for longer. When not using this equipment, the Earthquake Boots allow the King to access the Inferno Tower, or the Giant Gauntlet can allow him to reduce its damage, and to help destroy it quickly with the help of the other Equipment slot.
+*Enable "Automatically use Hero Abilities on KO" in the settings, as there is no real downside to doing so; his Hero ability enhances his sustainability and boosts his damage output, and it might also reduces the time of healing for the hero to be used again, which is noticeable in higher Town Halls.
+*When using Barbarian Puppet, since that ability will summon Barbarians which is the current level inside the [[Laboratory]], it is highly recommended to do so when using this ability often, as they will become stronger and destroy buildings faster, as well as being a greater distraction.
+**However, this equipment is quite weak, so it is not recommended, due to traps that will destroy the spawned Barbarians.
+*In terms of [[Pets]], the Barbarian King is most commonly either paired with the [[Mighty Yak]] at Town Hall 14 or the [[Phoenix]] at Town Hall 15 and above.
+**The Mighty Yak specializes in wall-breaking, which is useful to the Barbarian King as he is the only Hero unable to attack over Walls; the Yak can break open walls enabling the King access to buildings inside, and also being a mini-tank for the King.
+**The Phoenix guarantees his survival in battle for a duration, which can be especially useful since the Barbarian King can potentially be defeated mid-ability. Although defenses generally retarget between the King's first defeat and his revival, he is still able to do considerable damage and tank any defenses that happens to target him, allowing the other units to destroy the defenses before they lock onto them.
+**Other useful choices for Pets include [[Frosty]], which can suppress defenses that the King may not be immediately able to reach, and which can easily stay behind him due to its slow movement speed. The [[Poison Lizard]] can also stay safely behind the King and enable him to handily tackle multiple defending Heroes at a time especially when combined with his ability, the [[Angry Jelly]] can help in [[Root Rider]] attacks, as well as to funnel a high-damage King inside the base with its abilities activated, causing massive damage, and attacks involving the King Charge, where he has the [[Stick Horse]]. The Spirit Fox may also be used to provide funneling with for Meteor Golems, when paired with the Spiky Ball and the Vampstache or Snake Bracelet.
+*The Barbarian King generally benefits more from having better levels itself than better equipment levels, so leveling up the Barbarian King should be a priority at all times for a good offensive attack. However, higher level equipment is still necessary for an effective attack.
+*Some good Hero Equipment pairings include:
+**The Giant Gauntlet and Rage Vial, which allows the King to do massive amounts of damage, take less damage, wreck compartments and to improve his tanking potential.
+***The Spiky Ball is usually an upgrade to Rage Vial in most situations. Spiky Ball give a huge increase in maximum health and damage passively while also crippling nearby defenses and buildings on its way, if not destroy them.
+**The Rage Vial can also find good synergy with Vampstache, allowing the King to recover health faster and deal more damage at the same time.
+**The Vampstache can also be paired with the Spiky Ball to increase his sustainability on the other perimeters of the base, and to launch the Spiky Ball if necessary to destroy important defenses. Best reserved for air attacks.
+**The Vampstache paired with Snake Bracelet can improve the sustainability of the King extremely well with massive amount of extra max health, Snakes causing distraction, and both equipment giving passive attack speed increase.
+**The Earthquake Boots and Spiky Ball ability combined can destroy most buildings except the Town Hall, which this combo is a great way to destroy the core of a base.
+***When paired with a sufficiently-leveled [[Fireball]], this combo can also destroy the Town Hall, which may apply on Hard Mode. However, most defenses as of the November 17, 2025 update can survive this combo, such as [[Ricochet Cannon]]s, [[Monolith]], and the [[Multi-Archer Tower]], to name a few.
+**The Spiky Ball and Snake Bracelet can be used together to allow the King to be excellent at clearing the outer Buildings all by himself without any help.
+===Defensive Strategies===
+*Though he is very strong on offense, he only attacks one target at a time on defense which makes him easy to defeat with multiple units, so protect him with splash-damaging defenses.
+*It is a good idea to place the [[Barbarian King Altar|Altar]] in the middle of a group of storage or other areas to protect, such as he will patrol around them.
+*The Barbarian King is the only Hero that cannot target aerial units. Despite this, he can still stall air units that do not have a preferred target such as [[Dragon]]s, because such air units will target him even though he poses no threat to them.
+*Unlike [[troops]] in the [[Clan Castle]], the Barbarian King cannot be lured to the edge of the map and then defeated out of range of the defenses (unless his altar is near the edge). If his target moves out of his patrol area, he will retreat and engage another enemy inside his patrol area. If no enemies remain in his patrol area, he will resume patrolling.
+*Although the Barbarian King cannot be lured outside of his patrol range, he will lure attacking troops towards him, sometimes ignoring the structure they were originally targeting. This may be a problem in some cases; if you put the Barbarian King near the defender's [[Town Hall]], the attacking troops can be lured toward the Barbarian King, and consequently get closer to the Town Hall. In other cases, this could be beneficial as it draws enemies in the line of fire, especially if weaponized or protected by [[Town Hall/Guardians|Guardians]].
+*Witches in the Clan Castle make good potential defenders to defeat the Barbarian King, because their summoned Skeletons will distract the King for a period of time.
+**However, using a Poison Spell on the defending Witch(es) or when the Barbarian King has his Giant Gauntlet ability activated or is supported by units with area damage such as Wizards will destroy the summoned Skeletons, rendering them useless.
+
+===Against a Barbarian King===
+*If a defensive King is causing trouble to troops, use some small troops, such as [[Barbarian]]s, [[Archer]]s, or [[Wizard]]s behind a tanking troop. This will ensure the King is defeated with minimal loss in troops.
+*If the base has no [[Archer Queen]], or if she is far enough away from the Barbarian King, then attack with air troops, away from buildings that target air troops. The player may have to deploy ground troops periodically in order to keep the Barbarian King in an area where your aerial troops may safely attack the King, so this strategy may not always be effective.
+*The [[Minion Prince]] and the [[Dragon Duke]] is able to defeat the Barbarian King, as the latter cannot target the former due to being an air unit, provided that if there are no anti-air defenses and traps nearby.
+*Single-target Inferno Towers and Monoliths (if available) are excellent countermeasures against the Barbarian King, as they are able to tear through his health quickly once they reach maximum damage. This usually forces the opponent to use a [[Freeze Spell]], [[Totem Spell]] or the [[Overgrowth Spell]] to save their King, however, whether or not the opponent chooses to do so, the summoned Barbarians from the King's Barbarian Puppet's ability will usually overwhelm the Inferno Tower. Consequently, the Inferno Tower itself should be protected by splash damage defenses or Traps such as the Bomb Tower or a Giant Bomb, even if he is enlarged by the Giant Gauntlet.
+*Aerial units such as [[Balloon]]s and [[Minion]]s have little to worry from a Barbarian King; he can usually be ignored in such cases. While the Barbarian King cannot retaliate against air troops, he can still distract them away from other valuable targets, such as the Town Hall.
+*Although swarms of troops are effective against the Barbarian King, the [[P.E.K.K.A]] is also effective for taking down low level Barbarian Kings.
+*The Barbarian King will never go farther than 7 tiles from his Banner so troops placed over 7 tiles away can attack him without retaliation. In particular, the [[Grand Warden]] can snipe him in this way if he is properly placed.
+**If the Barbarian King moves, the troops may come into range of the Barbarian King's tile and be attacked.
+**The Barbarian King's damage can be prevented by using the Eternal Tome ability of the Grand Warden, but he is generally not considered to be a major threat at higher levels and you may find it more useful to save the ability for tackling a more heavily-defended section of the base or for negating a powerful threat (such as the [[Giga Tesla]], [[Giga Inferno]], or the [[Giga Bomb]]'s explosion).
+
+==Statistics==
+<center><div class="stats-background">
+{{Modifiers|type=HeroHV|HAbility=true}}
+{|class="wikitable hero-statistics-table" id="barbarianking-table-1" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!data-type="preferred target"|Preferred Target
+!data-type="attack type"|Attack Type
+!data-type="movement speed"|[[Troop Movement Speed|Movement Speed]]
+!data-type="attack speed"|Attack Speed
+!data-type="range"|Range
+!data-type="search radius"|Search Radius
+|-
+|None
+|class="AttackType"|Melee (Ground&nbsp;Only)
+|class="ModifierStat Speed Hero"|16
+|class="AttackSpeed"|1.2s
+|1 tile
+|9 tiles
+|}
+{|class="wikitable floatheader row-highlight" id="barbarianking-table-3" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0" hero-statistics-table"
+!data-type="level"|Level<br/>{{Res|RES=Level}}
+!data-type="dps"|Damage per Second*<br/>{{Res|RES=Damage}}
+!data-type="dpa"|Damage per Hit<br/>{{Res|RES=Damage}}
+!data-type="hitpoints"|Hitpoints*<br/>{{Res|RES=Hitpoint}}
+!data-type="hitpoints"|Health Recovery<br/>{{Res|RES=Hitpoint}}
+!data-type="training cost"|[[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|RES=Dark Elixir}}
+!data-type="training time"|Upgrade Time<br/>{{Res|RES=Time}}
+!data-type="required Hero Hall"|[[Hero Hall]] Level Required<br/>{{Res|RES=Hero Hall}}
+!dara-type="required Town Hall"|[[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|rowspan="3"|1
+|class="ModifierStat DPS Hero"|51
+|class="ModifierStat DPH Hero"|61.2
+|class="ModifierStat HP Hero"|722.5
+|class="ModifierStat HPRecovery"|100
+|N/A
+|N/A
+|1
+|4
+|-
+|class="ModifierStat DPS Hero"|76.5
+|class="ModifierStat DPH Hero"|91.8
+|class="ModifierStat HP Hero"|1,083.75
+|class="ModifierStat HPRecovery"|150
+|N/A
+|N/A
+|1||class="change-highlight"|5
+|-
+|class="ModifierStat DPS Hero"|102
+|class="ModifierStat DPH Hero"|122.4
+|class="ModifierStat HP Hero"|1,445
+|class="ModifierStat HPRecovery"|200
+|N/A
+|N/A
+|1||class="change-highlight"|6
+|-
+|2
+|class="ModifierStat DPS Hero"|104
+|class="ModifierStat DPH Hero"|124.8
+|class="ModifierStat HP Hero"|1,481
+|class="ModifierStat HPRecovery"|200
+|class="GoldPass bCost"|5,000
+|class="GoldPass bTime"|2h
+|1||7
+|-
+|3
+|class="ModifierStat DPS Hero"|105
+|class="ModifierStat DPH Hero"|126
+|class="ModifierStat HP Hero"|1,518
+|class="ModifierStat HPRecovery"|200
+|class="GoldPass bCost"|5,500
+|class="GoldPass bTime"|4h
+|1||7
+|-
+|4
+|class="ModifierStat DPS Hero"|108
+|class="ModifierStat DPH Hero"|129.6
+|class="ModifierStat HP Hero"|1,556
+|class="ModifierStat HPRecovery"|200
+|class="GoldPass bCost"|6,000
+|class="GoldPass bTime"|8h
+|1||7
+|-
+|5
+|class="ModifierStat DPS Hero"|110
+|class="ModifierStat DPH Hero"|132
+|class="ModifierStat HP Hero"|1,595
+|class="ModifierStat HPRecovery change-highlight"|250
+|class="GoldPass bCost"|6,500
+|class="GoldPass bTime"|10h
+|1||7
+|-
+|6
+|class="ModifierStat DPS Hero"|112
+|class="ModifierStat DPH Hero"|134.4
+|class="ModifierStat HP Hero"|1,635
+|class="ModifierStat HPRecovery"|250
+|class="GoldPass bCost"|7,000
+|class="GoldPass bTime"|12h
+|1||7
+|-
+|7
+|class="ModifierStat DPS Hero"|115
+|class="ModifierStat DPH Hero"|138
+|class="ModifierStat HP Hero"|1,675
+|class="ModifierStat HPRecovery"|250
+|class="GoldPass bCost"|7,500
+|class="GoldPass bTime"|14h
+|1||7
+|-
+|8
+|class="ModifierStat DPS Hero"|116
+|class="ModifierStat DPH Hero"|139.2
+|class="ModifierStat HP Hero"|1,717
+|class="ModifierStat HPRecovery"|250
+|class="GoldPass bCost"|8,000
+|class="GoldPass bTime"|16h
+|1||7
+|-
+|9
+|class="ModifierStat DPS Hero"|119
+|class="ModifierStat DPH Hero"|142.8
+|class="ModifierStat HP Hero"|1,760
+|class="ModifierStat HPRecovery"|250
+|class="GoldPass bCost"|8,500
+|class="GoldPass bTime"|18h
+|1||7
+|-
+|10
+|class="ModifierStat DPS Hero"|122
+|class="ModifierStat DPH Hero"|146.4
+|class="ModifierStat HP Hero"|1,805
+|class="ModifierStat HPRecovery change-highlight"|310
+|class="GoldPass bCost"|10,000
+|class="GoldPass bTime"|20h
+|1||7
+|-
+|11
+|class="ModifierStat DPS Hero"|124
+|class="ModifierStat DPH Hero"|148.8
+|class="ModifierStat HP Hero"|1,850
+|class="ModifierStat HPRecovery"|310
+|class="GoldPass bCost"|10,500
+|class="GoldPass bTime"|22h
+|class="change-highlight"|2||class="change-highlight"|8
+|-
+|12
+|class="ModifierStat DPS Hero"|127
+|class="ModifierStat DPH Hero"|152.4
+|class="ModifierStat HP Hero"|1,896
+|class="ModifierStat HPRecovery"|310
+|class="GoldPass bCost"|11,000
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|13
+|class="ModifierStat DPS Hero"|129
+|class="ModifierStat DPH Hero"|154.8
+|class="ModifierStat HP Hero"|1,943
+|class="ModifierStat HPRecovery"|310
+|class="GoldPass bCost"|11,500
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|14
+|class="ModifierStat DPS Hero"|132
+|class="ModifierStat DPH Hero"|158.4
+|class="ModifierStat HP Hero"|1,992
+|class="ModifierStat HPRecovery"|310
+|class="GoldPass bCost"|12,000
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|15
+|class="ModifierStat DPS Hero"|134
+|class="ModifierStat DPH Hero"|160.8
+|class="ModifierStat HP Hero"|2,042
+|class="ModifierStat HPRecovery change-highlight"|375
+|class="GoldPass bCost"|12,500
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|16
+|class="ModifierStat DPS Hero"|137
+|class="ModifierStat DPH Hero"|164.4
+|class="ModifierStat HP Hero"|2,093
+|class="ModifierStat HPRecovery"|375
+|class="GoldPass bCost"|13,000
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|17
+|class="ModifierStat DPS Hero"|139
+|class="ModifierStat DPH Hero"|166.8
+|class="ModifierStat HP Hero"|2,145
+|class="ModifierStat HPRecovery"|375
+|class="GoldPass bCost"|13,500
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|18
+|class="ModifierStat DPS Hero"|143
+|class="ModifierStat DPH Hero"|171.6
+|class="ModifierStat HP Hero"|2,198
+|class="ModifierStat HPRecovery"|375
+|class="GoldPass bCost"|14,000
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|19
+|class="ModifierStat DPS Hero"|145
+|class="ModifierStat DPH Hero"|174
+|class="ModifierStat HP Hero"|2,253
+|class="ModifierStat HPRecovery"|375
+|class="GoldPass bCost"|14,500
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|20
+|class="ModifierStat DPS Hero"|148
+|class="ModifierStat DPH Hero"|177.6
+|class="ModifierStat HP Hero"|2,309
+|class="ModifierStat HPRecovery change-highlight"|450
+|class="GoldPass bCost"|15,000
+|class="GoldPass bTime"|1d
+|2||8
+|-
+|21
+|class="ModifierStat DPS Hero"|151
+|class="ModifierStat DPH Hero"|181.2
+|class="ModifierStat HP Hero"|2,367
+|class="ModifierStat HPRecovery"|450
+|class="GoldPass bCost"|17,000
+|class="GoldPass bTime"|1d
+|class="change-highlight"|3||class="change-highlight"|9
+|-
+|22
+|class="ModifierStat DPS Hero"|154
+|class="ModifierStat DPH Hero"|184.8
+|class="ModifierStat HP Hero"|2,427
+|class="ModifierStat HPRecovery"|450
+|class="GoldPass bCost"|19,000
+|class="GoldPass bTime"|1d
+|3||9
+|-
+|23
+|class="ModifierStat DPS Hero"|157
+|class="ModifierStat DPH Hero"|188.4
+|class="ModifierStat HP Hero"|2,487
+|class="ModifierStat HPRecovery"|450
+|class="GoldPass bCost"|21,000
+|class="GoldPass bTime"|1d
+|3||9
+|-
+|24
+|class="ModifierStat DPS Hero"|161
+|class="ModifierStat DPH Hero"|193.2
+|class="ModifierStat HP Hero"|2,549
+|class="ModifierStat HPRecovery"|450
+|class="GoldPass bCost"|23,000
+|class="GoldPass bTime"|1d
+|3||9
+|-
+|25
+|class="ModifierStat DPS Hero"|164
+|class="ModifierStat DPH Hero"|196.8
+|class="ModifierStat HP Hero"|2,613
+|class="ModifierStat HPRecovery change-highlight"|525
+|class="GoldPass bCost"|25,000
+|class="GoldPass bTime"|1d
+|3||9
+|-
+|26
+|class="ModifierStat DPS Hero"|167
+|class="ModifierStat DPH Hero"|200.4
+|class="ModifierStat HP Hero"|2,678
+|class="ModifierStat HPRecovery"|525
+|class="GoldPass bCost"|27,000
+|class="GoldPass bTime"|2d
+|3||9
+|-
+|27
+|class="ModifierStat DPS Hero"|170
+|class="ModifierStat DPH Hero"|204
+|class="ModifierStat HP Hero"|2,746
+|class="ModifierStat HPRecovery"|525
+|class="GoldPass bCost"|29,000
+|class="GoldPass bTime"|2d
+|3||9
+|-
+|28
+|class="ModifierStat DPS Hero"|173
+|class="ModifierStat DPH Hero"|207.6
+|class="ModifierStat HP Hero"|2,814
+|class="ModifierStat HPRecovery"|525
+|class="GoldPass bCost"|31,000
+|class="GoldPass bTime"|2d
+|3||9
+|-
+|29
+|class="ModifierStat DPS Hero"|177
+|class="ModifierStat DPH Hero"|212.4
+|class="ModifierStat HP Hero"|2,885
+|class="ModifierStat HPRecovery"|525
+|class="GoldPass bCost"|33,000
+|class="GoldPass bTime"|2d
+|3||9
+|-
+|30
+|class="ModifierStat DPS Hero"|181
+|class="ModifierStat DPH Hero"|217.2
+|class="ModifierStat HP Hero"|2,956
+|class="ModifierStat HPRecovery change-highlight"|625
+|class="GoldPass bCost"|35,000
+|class="GoldPass bTime"|2d
+|3||9
+|-
+|31
+|class="ModifierStat DPS Hero"|184
+|class="ModifierStat DPH Hero"|220.8
+|class="ModifierStat HP Hero"|3,030
+|class="ModifierStat HPRecovery"|625
+|class="GoldPass bCost"|37,000
+|class="GoldPass bTime"|2d 6h
+|class="change-highlight"|4||class="change-highlight"|10
+|-
+|32
+|class="ModifierStat DPS Hero"|188
+|class="ModifierStat DPH Hero"|225.6
+|class="ModifierStat HP Hero"|3,107
+|class="ModifierStat HPRecovery"|625
+|class="GoldPass bCost"|39,000
+|class="GoldPass bTime"|2d 6h
+|4||10
+|-
+|33
+|class="ModifierStat DPS Hero"|192
+|class="ModifierStat DPH Hero"|230.4
+|class="ModifierStat HP Hero"|3,184
+|class="ModifierStat HPRecovery"|625
+|class="GoldPass bCost"|41,000
+|class="GoldPass bTime"|2d 6h
+|4||10
+|-
+|34
+|class="ModifierStat DPS Hero"|196
+|class="ModifierStat DPH Hero"|235.2
+|class="ModifierStat HP Hero"|3,264
+|class="ModifierStat HPRecovery"|625
+|class="GoldPass bCost"|43,000
+|class="GoldPass bTime"|2d 6h
+|4||10
+|-
+|35
+|class="ModifierStat DPS Hero"|200
+|class="ModifierStat DPH Hero"|240
+|class="ModifierStat HP Hero"|3,346
+|class="ModifierStat HPRecovery change-highlight"|725
+|class="GoldPass bCost"|45,000
+|class="GoldPass bTime"|2d 6h
+|4||10
+|-
+|36
+|class="ModifierStat DPS Hero"|203
+|class="ModifierStat DPH Hero"|243.6
+|class="ModifierStat HP Hero"|3,429
+|class="ModifierStat HPRecovery"|725
+|class="GoldPass bCost"|47,000
+|class="GoldPass bTime"|2d 12h
+|4||10
+|-
+|37
+|class="ModifierStat DPS Hero"|207
+|class="ModifierStat DPH Hero"|248.4
+|class="ModifierStat HP Hero"|3,515
+|class="ModifierStat HPRecovery"|725
+|class="GoldPass bCost"|49,000
+|class="GoldPass bTime"|2d 12h
+|4||10
+|-
+|38
+|class="ModifierStat DPS Hero"|212
+|class="ModifierStat DPH Hero"|254.4
+|class="ModifierStat HP Hero"|3,602
+|class="ModifierStat HPRecovery"|725
+|class="GoldPass bCost"|51,000
+|class="GoldPass bTime"|2d 12h
+|4||10
+|-
+|39
+|class="ModifierStat DPS Hero"|216
+|class="ModifierStat DPH Hero"|259.2
+|class="ModifierStat HP Hero"|3,692
+|class="ModifierStat HPRecovery"|725
+|class="GoldPass bCost"|53,000
+|class="GoldPass bTime"|2d 12h
+|4||10
+|-
+|40
+|class="ModifierStat DPS Hero"|220
+|class="ModifierStat DPH Hero"|264
+|class="ModifierStat HP Hero"|3,785
+|class="ModifierStat HPRecovery change-highlight"|850
+|class="GoldPass bCost"|55,000
+|class="GoldPass bTime"|2d 12h
+|4||10
+|-
+|41
+|class="ModifierStat DPS Hero"|234
+|class="ModifierStat DPH Hero"|280.8
+|class="ModifierStat HP Hero"|3,879
+|class="ModifierStat HPRecovery"|850
+|class="GoldPass bCost"|58,000
+|class="GoldPass bTime"|3d
+|class="change-highlight"|5||class="change-highlight"|11
+|-
+|42
+|class="ModifierStat DPS Hero"|239
+|class="ModifierStat DPH Hero"|286.8
+|class="ModifierStat HP Hero"|3,976
+|class="ModifierStat HPRecovery"|850
+|class="GoldPass bCost"|61,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|43
+|class="ModifierStat DPS Hero"|244
+|class="ModifierStat DPH Hero"|292.8
+|class="ModifierStat HP Hero"|4,076
+|class="ModifierStat HPRecovery"|850
+|class="GoldPass bCost"|64,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|44
+|class="ModifierStat DPS Hero"|249
+|class="ModifierStat DPH Hero"|298.8
+|class="ModifierStat HP Hero"|4,178
+|class="ModifierStat HPRecovery"|850
+|class="GoldPass bCost"|67,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|45
+|class="ModifierStat DPS Hero"|254
+|class="ModifierStat DPH Hero"|304.8
+|class="ModifierStat HP Hero"|4,282
+|class="ModifierStat HPRecovery change-highlight"|980
+|class="GoldPass bCost"|70,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|46
+|class="ModifierStat DPS Hero"|259
+|class="ModifierStat DPH Hero"|310.8
+|class="ModifierStat HP Hero"|4,389
+|class="ModifierStat HPRecovery"|980
+|class="GoldPass bCost"|73,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|47
+|class="ModifierStat DPS Hero"|265
+|class="ModifierStat DPH Hero"|318
+|class="ModifierStat HP Hero"|4,499
+|class="ModifierStat HPRecovery"|980
+|class="GoldPass bCost"|76,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|48
+|class="ModifierStat DPS Hero"|270
+|class="ModifierStat DPH Hero"|324
+|class="ModifierStat HP Hero"|4,611
+|class="ModifierStat HPRecovery"|980
+|class="GoldPass bCost"|79,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|49
+|class="ModifierStat DPS Hero"|276
+|class="ModifierStat DPH Hero"|331.2
+|class="ModifierStat HP Hero"|4,727
+|class="ModifierStat HPRecovery"|980
+|class="GoldPass bCost"|82,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|50
+|class="ModifierStat DPS Hero"|282
+|class="ModifierStat DPH Hero"|338.4
+|class="ModifierStat HP Hero"|4,845
+|class="ModifierStat HPRecovery change-highlight"|1,125
+|class="GoldPass bCost"|85,000
+|class="GoldPass bTime"|3d
+|5||11
+|-
+|51
+|class="ModifierStat DPS Hero"|288
+|class="ModifierStat DPH Hero"|345.6
+|class="ModifierStat HP Hero"|4,967
+|class="ModifierStat HPRecovery"|1,125
+|class="GoldPass bCost"|86,000
+|class="GoldPass bTime"|3d
+|class="change-highlight"|6||class="change-highlight"|12
+|-
+|52
+|class="ModifierStat DPS Hero"|294
+|class="ModifierStat DPH Hero"|352.8
+|class="ModifierStat HP Hero"|5,092
+|class="ModifierStat HPRecovery"|1,125
+|class="GoldPass bCost"|87,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|53
+|class="ModifierStat DPS Hero"|300
+|class="ModifierStat DPH Hero"|360
+|class="ModifierStat HP Hero"|5,219
+|class="ModifierStat HPRecovery"|1,125
+|class="GoldPass bCost"|88,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|54
+|class="ModifierStat DPS Hero"|307
+|class="ModifierStat DPH Hero"|368.4
+|class="ModifierStat HP Hero"|5,350
+|class="ModifierStat HPRecovery"|1,125
+|class="GoldPass bCost"|89,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|55
+|class="ModifierStat DPS Hero"|314
+|class="ModifierStat DPH Hero"|376.8
+|class="ModifierStat HP Hero"|5,484
+|class="ModifierStat HPRecovery change-highlight"|1,300
+|class="GoldPass bCost"|90,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|56
+|class="ModifierStat DPS Hero"|320
+|class="ModifierStat DPH Hero"|384
+|class="ModifierStat HP Hero"|5,622
+|class="ModifierStat HPRecovery"|1,300
+|class="GoldPass bCost"|93,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|57
+|class="ModifierStat DPS Hero"|327
+|class="ModifierStat DPH Hero"|392.4
+|class="ModifierStat HP Hero"|5,763
+|class="ModifierStat HPRecovery"|1,300
+|class="GoldPass bCost"|96,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|58
+|class="ModifierStat DPS Hero"|334
+|class="ModifierStat DPH Hero"|400.8
+|class="ModifierStat HP Hero"|5,908
+|class="ModifierStat HPRecovery"|1,300
+|class="GoldPass bCost"|99,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|59
+|class="ModifierStat DPS Hero"|341
+|class="ModifierStat DPH Hero"|409.2
+|class="ModifierStat HP Hero"|6,055
+|class="ModifierStat HPRecovery"|1,300
+|class="GoldPass bCost"|102,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|60
+|class="ModifierStat DPS Hero"|349
+|class="ModifierStat DPH Hero"|418.8
+|class="ModifierStat HP Hero"|6,208
+|class="ModifierStat HPRecovery change-highlight"|1,490
+|class="GoldPass bCost"|105,000
+|class="GoldPass bTime"|3d
+|6||12
+|-
+|61
+|class="ModifierStat DPS Hero"|355
+|class="ModifierStat DPH Hero"|426
+|class="ModifierStat HP Hero"|6,363
+|class="ModifierStat HPRecovery"|1,490
+|class="GoldPass bCost"|107,000
+|class="GoldPass bTime"|4d
+|6||12
+|-
+|62
+|class="ModifierStat DPS Hero"|362
+|class="ModifierStat DPH Hero"|434.4
+|class="ModifierStat HP Hero"|6,522
+|class="ModifierStat HPRecovery"|1,490
+|class="GoldPass bCost"|109,000
+|class="GoldPass bTime"|4d
+|6||12
+|-
+|63
+|class="ModifierStat DPS Hero"|370
+|class="ModifierStat DPH Hero"|444
+|class="ModifierStat HP Hero"|6,685
+|class="ModifierStat HPRecovery"|1,490
+|class="GoldPass bCost"|111,000
+|class="GoldPass bTime"|4d
+|6||12
+|-
+|64
+|class="ModifierStat DPS Hero"|377
+|class="ModifierStat DPH Hero"|452.4
+|class="ModifierStat HP Hero"|6,853
+|class="ModifierStat HPRecovery"|1,490
+|class="GoldPass bCost"|113,000
+|class="GoldPass bTime"|4d
+|6||12
+|-
+|65
+|class="ModifierStat DPS Hero"|385
+|class="ModifierStat DPH Hero"|462
+|class="ModifierStat HP Hero"|7,024
+|class="ModifierStat HPRecovery change-highlight"|1,700
+|class="GoldPass bCost"|115,000
+|class="GoldPass bTime"|4d
+|6||12
+|-
+|66
+|class="ModifierStat DPS Hero"|393
+|class="ModifierStat DPH Hero"|471.6
+|class="ModifierStat HP Hero"|7,200
+|class="ModifierStat HPRecovery"|1,700
+|class="GoldPass bCost"|117,000
+|class="GoldPass bTime"|4d
+|class="change-highlight"|7||class="change-highlight"|13
+|-
+|67
+|class="ModifierStat DPS Hero"|400
+|class="ModifierStat DPH Hero"|480
+|class="ModifierStat HP Hero"|7,378
+|class="ModifierStat HPRecovery"|1,700
+|class="GoldPass bCost"|119,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|68
+|class="ModifierStat DPS Hero"|408
+|class="ModifierStat DPH Hero"|489.6
+|class="ModifierStat HP Hero"|7,557
+|class="ModifierStat HPRecovery"|1,700
+|class="GoldPass bCost"|121,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|69
+|class="ModifierStat DPS Hero"|417
+|class="ModifierStat DPH Hero"|500.4
+|class="ModifierStat HP Hero"|7,735
+|class="ModifierStat HPRecovery"|1,700
+|class="GoldPass bCost"|123,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|70
+|class="ModifierStat DPS Hero"|425
+|class="ModifierStat DPH Hero"|510
+|class="ModifierStat HP Hero"|7,905
+|class="ModifierStat HPRecovery change-highlight"|1,925
+|class="GoldPass bCost"|125,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|71
+|class="ModifierStat DPS Hero"|434
+|class="ModifierStat DPH Hero"|520.8
+|class="ModifierStat HP Hero"|8,075
+|class="ModifierStat HPRecovery"|1,925
+|class="GoldPass bCost"|130,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|72
+|class="ModifierStat DPS Hero"|442
+|class="ModifierStat DPH Hero"|530.4
+|class="ModifierStat HP Hero"|8,245
+|class="ModifierStat HPRecovery"|1,925
+|class="GoldPass bCost"|135,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|73
+|class="ModifierStat DPS Hero"|451
+|class="ModifierStat DPH Hero"|541.2
+|class="ModifierStat HP Hero"|8,415
+|class="ModifierStat HPRecovery"|1,925
+|class="GoldPass bCost"|140,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|74
+|class="ModifierStat DPS Hero"|459
+|class="ModifierStat DPH Hero"|550.8
+|class="ModifierStat HP Hero"|8,585
+|class="ModifierStat HPRecovery"|1,925
+|class="GoldPass bCost"|145,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|75
+|class="ModifierStat DPS Hero"|468
+|class="ModifierStat DPH Hero"|561.6
+|class="ModifierStat HP Hero"|8,755
+|class="ModifierStat HPRecovery change-highlight"|2,150
+|class="GoldPass bCost"|150,000
+|class="GoldPass bTime"|4d
+|7||13
+|-
+|76
+|class="ModifierStat DPS Hero"|475
+|class="ModifierStat DPH Hero"|570
+|class="ModifierStat HP Hero"|8,917
+|class="ModifierStat HPRecovery"|2,150
+|class="GoldPass bCost"|155,000
+|class="GoldPass bTime"|4d
+|class="change-highlight"|8||class="change-highlight"|14
+|-
+|77
+|class="ModifierStat DPS Hero"|483
+|class="ModifierStat DPH Hero"|579.6
+|class="ModifierStat HP Hero"|9,078
+|class="ModifierStat HPRecovery"|2,150
+|class="GoldPass bCost"|160,000
+|class="GoldPass bTime"|4d
+|8||14
+|-
+|78
+|class="ModifierStat DPS Hero"|490
+|class="ModifierStat DPH Hero"|588
+|class="ModifierStat HP Hero"|9,240
+|class="ModifierStat HPRecovery"|2,150
+|class="GoldPass bCost"|165,000
+|class="GoldPass bTime"|4d
+|8||14
+|-
+|79
+|class="ModifierStat DPS Hero"|498
+|class="ModifierStat DPH Hero"|597.6
+|class="ModifierStat HP Hero"|9,401
+|class="ModifierStat HPRecovery"|2,150
+|class="GoldPass bCost"|170,000
+|class="GoldPass bTime"|4d
+|8||14
+|-
+|80
+|class="ModifierStat DPS Hero"|506
+|class="ModifierStat DPH Hero"|607.2
+|class="ModifierStat HP Hero"|9,563
+|class="ModifierStat HPRecovery change-highlight"|2,350
+|class="GoldPass bCost"|175,000
+|class="GoldPass bTime"|4d
+|8||14
+|-
+|81
+|class="ModifierStat DPS Hero"|513
+|class="ModifierStat DPH Hero"|615.6
+|class="ModifierStat HP Hero"|9,690
+|class="ModifierStat HPRecovery"|2,350
+|class="GoldPass bCost"|180,000
+|class="GoldPass bTime"|5d
+|8||14
+|-
+|82
+|class="ModifierStat DPS Hero"|519
+|class="ModifierStat DPH Hero"|622.8
+|class="ModifierStat HP Hero"|9,818
+|class="ModifierStat HPRecovery"|2,350
+|class="GoldPass bCost"|185,000
+|class="GoldPass bTime"|5d
+|8||14
+|-
+|83
+|class="ModifierStat DPS Hero"|526
+|class="ModifierStat DPH Hero"|631.2
+|class="ModifierStat HP Hero"|9,945
+|class="ModifierStat HPRecovery"|2,350
+|class="GoldPass bCost"|195,000
+|class="GoldPass bTime"|5d
+|8||14
+|-
+|84
+|class="ModifierStat DPS Hero"|533
+|class="ModifierStat DPH Hero"|639.6
+|class="ModifierStat HP Hero"|10,073
+|class="ModifierStat HPRecovery"|2,350
+|class="GoldPass bCost"|205,000
+|class="GoldPass bTime"|5d
+|8||14
+|-
+|85
+|class="ModifierStat DPS Hero"|540
+|class="ModifierStat DPH Hero"|648
+|class="ModifierStat HP Hero"|10,200
+|class="ModifierStat HPRecovery change-highlight"|2,500
+|class="GoldPass bCost"|215,000
+|class="GoldPass bTime"|5d
+|8||14
+|-
+|86
+|class="ModifierStat DPS Hero"|547
+|class="ModifierStat DPH Hero"|656.4
+|class="ModifierStat HP Hero"|10,328
+|class="ModifierStat HPRecovery"|2,500
+|class="GoldPass bCost"|220,000
+|class="GoldPass bTime"|6d
+|class="change-highlight"|9||class="change-highlight"|15
+|-
+|87
+|class="ModifierStat DPS Hero"|553
+|class="ModifierStat DPH Hero"|663.6
+|class="ModifierStat HP Hero"|10,455
+|class="ModifierStat HPRecovery"|2,500
+|class="GoldPass bCost"|230,000
+|class="GoldPass bTime"|6d
+|9||15
+|-
+|88
+|class="ModifierStat DPS Hero"|560
+|class="ModifierStat DPH Hero"|672
+|class="ModifierStat HP Hero"|10,583
+|class="ModifierStat HPRecovery"|2,500
+|class="GoldPass bCost"|240,000
+|class="GoldPass bTime"|6d
+|9||15
+|-
+|89
+|class="ModifierStat DPS Hero"|567
+|class="ModifierStat DPH Hero"|680.4
+|class="ModifierStat HP Hero"|10,710
+|class="ModifierStat HPRecovery"|2,500
+|class="GoldPass bCost"|250,000
+|class="GoldPass bTime"|6d
+|9||15
+|-
+|90
+|class="ModifierStat DPS Hero"|574
+|class="ModifierStat DPH Hero"|688.8
+|class="ModifierStat HP Hero"|10,838
+|class="ModifierStat HPRecovery change-highlight"|2,650
+|class="GoldPass bCost"|255,000
+|class="GoldPass bTime"|6d
+|9||15
+|-
+|91
+|class="ModifierStat DPS Hero"|581
+|class="ModifierStat DPH Hero"|697.2
+|class="ModifierStat HP Hero"|10,965
+|class="ModifierStat HPRecovery"|2,650
+|class="GoldPass bCost"|280,000
+|class="GoldPass bTime"|7d
+|class="change-highlight"|10||class="change-highlight"|16
+|-
+|92
+|class="ModifierStat DPS Hero"|587
+|class="ModifierStat DPH Hero"|704.4
+|class="ModifierStat HP Hero"|11,093
+|class="ModifierStat HPRecovery"|2,650
+|class="GoldPass bCost"|290,000
+|class="GoldPass bTime"|7d
+|10||16
+|-
+|93
+|class="ModifierStat DPS Hero"|594
+|class="ModifierStat DPH Hero"|712.8
+|class="ModifierStat HP Hero"|11,220
+|class="ModifierStat HPRecovery"|2,650
+|class="GoldPass bCost"|300,000
+|class="GoldPass bTime"|7d
+|10||16
+|-
+|94
+|class="ModifierStat DPS Hero"|601
+|class="ModifierStat DPH Hero"|721.2
+|class="ModifierStat HP Hero"|11,348
+|class="ModifierStat HPRecovery"|2,650
+|class="GoldPass bCost"|310,000
+|class="GoldPass bTime"|7d
+|10||16
+|-
+|95
+|class="ModifierStat DPS Hero"|608
+|class="ModifierStat DPH Hero"|729.6
+|class="ModifierStat HP Hero"|11,475
+|class="ModifierStat HPRecovery change-highlight"|2,800
+|class="GoldPass bCost"|320,000
+|class="GoldPass bTime"|7d
+|10||16
+|-
+|96
+|class="ModifierStat DPS Hero"|615
+|class="ModifierStat DPH Hero"|738
+|class="ModifierStat HP Hero"|11,600
+|class="ModifierStat HPRecovery"|2,800
+|class="GoldPass bCost"|340,000
+|class="GoldPass bTime"|8d
+|class="change-highlight"|11||class="change-highlight"|17
+|-
+|97
+|class="ModifierStat DPS Hero"|622
+|class="ModifierStat DPH Hero"|746.4
+|class="ModifierStat HP Hero"|11,725
+|class="ModifierStat HPRecovery"|2,800
+|class="GoldPass bCost"|350,000
+|class="GoldPass bTime"|8d
+|11||17
+|-
+|98
+|class="ModifierStat DPS Hero"|629
+|class="ModifierStat DPH Hero"|754.8
+|class="ModifierStat HP Hero"|11,850
+|class="ModifierStat HPRecovery"|2,800
+|class="GoldPass bCost"|360,000
+|class="GoldPass bTime"|8d
+|11||17
+|-
+|99
+|class="ModifierStat DPS Hero"|636
+|class="ModifierStat DPH Hero"|763.2
+|class="ModifierStat HP Hero"|11,975
+|class="ModifierStat HPRecovery"|2,800
+|class="GoldPass bCost"|370,000
+|class="GoldPass bTime"|8d
+|11||17
+|-
+|100
+|class="ModifierStat DPS Hero"|643
+|class="ModifierStat DPH Hero"|771.6
+|class="ModifierStat HP Hero"|12,100
+|class="ModifierStat HPRecovery change-highlight"|2,950
+|class="GoldPass bCost"|380,000
+|class="GoldPass bTime"|8d
+|11||17
+|-
+|101
+|class="ModifierStat DPS Hero"|650
+|class="ModifierStat DPH Hero"|780
+|class="ModifierStat HP Hero"|12,225
+|class="ModifierStat HPRecovery"|2,950
+|class="GoldPass bCost"|400,000
+|class="GoldPass bTime"|8d
+|class="change-highlight"|12||class="change-highlight"|18
+|-
+|102
+|class="ModifierStat DPS Hero"|657
+|class="ModifierStat DPH Hero"|788.4
+|class="ModifierStat HP Hero"|12,350
+|class="ModifierStat HPRecovery"|2,950
+|class="GoldPass bCost"|410,000
+|class="GoldPass bTime"|8d
+|12||18
+|-
+|103
+|class="ModifierStat DPS Hero"|664
+|class="ModifierStat DPH Hero"|796.8
+|class="ModifierStat HP Hero"|12,475
+|class="ModifierStat HPRecovery"|2,950
+|class="GoldPass bCost"|420,000
+|class="GoldPass bTime"|8d
+|12||18
+|-
+|104
+|class="ModifierStat DPS Hero"|671
+|class="ModifierStat DPH Hero"|805.2
+|class="ModifierStat HP Hero"|12,600
+|class="ModifierStat HPRecovery"|2,950
+|class="GoldPass bCost"|430,000
+|class="GoldPass bTime"|8d
+|12||18
+|-
+|105
+|class="ModifierStat DPS Hero"|678
+|class="ModifierStat DPH Hero"|813.6
+|class="ModifierStat HP Hero"|12,725
+|class="ModifierStat HPRecovery change-highlight"|3,100
+|class="GoldPass bCost"|450,000
+|class="GoldPass bTime"|8d
+|12||18
+|-
+|106
+|class="ModifierStat DPS Hero"|685
+|class="ModifierStat DPH Hero"|822
+|class="ModifierStat HP Hero"|12,850
+|class="ModifierStat HPRecovery"|3,100
+|class="GoldPass bCost"|460,000
+|class="GoldPass bTime"|8d
+|12||18
+|-
+|107
+|class="ModifierStat DPS Hero"|692
+|class="ModifierStat DPH Hero"|830.4
+|class="ModifierStat HP Hero"|12,975
+|class="ModifierStat HPRecovery"|3,100
+|class="GoldPass bCost"|470,000
+|class="GoldPass bTime"|8d
+|12||18
+|-
+|108
+|class="ModifierStat DPS Hero"|699
+|class="ModifierStat DPH Hero"|838.8
+|class="ModifierStat HP Hero"|13,100
+|class="ModifierStat HPRecovery"|3,100
+|class="GoldPass bCost"|475,000
+|class="GoldPass bTime"|8d
+|12||18
+|-
+|109
+|class="ModifierStat DPS Hero"|706
+|class="ModifierStat DPH Hero"|847.2
+|class="ModifierStat HP Hero"|13,225
+|class="ModifierStat HPRecovery"|3,100
+|class="GoldPass bCost"|485,000
+|class="GoldPass bTime"|8d
+|12||18
+|-
+|110
+|class="ModifierStat DPS Hero"|713
+|class="ModifierStat DPH Hero"|855.6
+|class="ModifierStat HP Hero"|13,350
+|class="ModifierStat HPRecovery change-highlight"|3,250
+|class="GoldPass bCost"|490,000
+|class="GoldPass bTime"|8d
+|12||18
+|}
+<nowiki>*</nowiki>Statistics are truncated to the whole number in-game.
+</div>
+</center>
+
+==Hero Equipment==
+*When attacking, the Barbarian King can use two of the below pieces of Hero Equipment, which change the abilities he has and grants additional stat bonuses.
+*The Barbarian King does not use any Hero Equipment when defending.
+*Select the equipment below to learn more about the abilities and stat bonuses that each piece gives.
+<div class="flexbox-display bold-text hovernav">
+<div style="width:150px">[[File:Barbarian Puppet.png|100px|link=Barbarian Puppet]]<div>[[Barbarian Puppet]]</div></div>
+<div style="width:150px">[[File:Rage Vial.png|100px|link=Rage Vial]]<div>[[Rage Vial]]</div></div>
+<div style="width:150px">[[File:Earthquake Boots.png|100px|link=Earthquake Boots]]<div>[[Earthquake Boots]]</div></div>
+<div style="width:150px">[[File:Vampstache.png|100px|link=Vampstache]]<div>[[Vampstache]]</div></div>
+<div style="width:150px">[[File:Giant Gauntlet.png|100px|link=Giant Gauntlet]]<div>[[Giant Gauntlet]]</div></div>
+<div style="width:150px">[[File:Spiky Ball.png|100px|link=Spiky Ball]]<div>[[Spiky Ball]]</div></div>
+<div style="width:150px>[[File:Snake Bracelet.png|100px|link=Snake Bracelet]]<div>[[Snake Bracelet]]</div></div>
+<div style="width:150px>[[File:Stick Horse.png|100px|link=Stick Horse]]<div>[[Stick Horse]]</div></div>
+</div>
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+![https://www.facebook.com/ClashofClans/videos/543882232290471/?comment_id=853407184671306 January 9, 2013]
+|Announced the Barbarian King.
+|-
+!January 10, 2013
+|Added the Barbarian King, with 30 levels. [[File:Barbarian King1.png|60px]][[File:Barbarian King10.png|60px]][[File:Barbarian King20.png|60px]]
+|-
+!February 5, 2013
+|
+*Reduced regeneration time at all levels:
+**Level 1: 4h -> 1h {{Res|Time}}
+**Level 2: 4h 14m -> 1h 6m {{Res|Time}}
+**Level 3: 4h 30m -> 1h 12m {{Res|Time}}
+**Level 4: 4h 46m -> 1h 18 {{Res|Time}}
+**Level 5: 5h 3m -> 1h 24m {{Res|Time}}
+**Level 6: 5h 21m -> 1h 30m {{Res|Time}}
+**Level 7: 5h 40m -> 1h 36m {{Res|Time}}
+**Level 8: 6h 1m -> 1h 42m {{Res|Time}}
+**Level 9: 6h 23m -> 1h 48m {{Res|Time}}
+**Level 10: 6h 45m -> 1h 54m {{Res|Time}}
+**Level 11: 7h 10m -> 2h {{Res|Time}}
+**Level 12: 7h 36m -> 2h 6h {{Res|Time}}
+**Level 13: 8h 3m -> 2h 12m {{Res|Time}}
+**Level 14: 8h 32m -> 2h 18m {{Res|Time}}
+**Level 15: 9h 3m -> 2h 24m {{Res|Time}}
+**Level 16: 9h 35m -> 2h 30m {{Res|Time}}
+**Level 17: 10h 10m -> 2h 36m {{Res|Time}}
+**Level 18: 10h 46m -> 2h 42m {{Res|Time}}
+**Level 19: 11h 25m -> 2h 48m {{Res|Time}}
+**Level 20: 12h 6m -> 2h 54m {{Res|Time}}
+**Level 21: 12h 50m -> 3h {{Res|Time}}
+**Level 22: 13h 36m -> 3h 6m {{Res|Time}}
+**Level 23: 14h 25m -> 3h 12m {{Res|Time}}
+**Level 24: 15h 17m -> 3h 18m {{Res|Time}}
+**Level 25: 16h 12m -> 3h 24m {{Res|Time}}
+**Level 26: 17h 10m -> 3h 30m {{Res|Time}}
+**Level 27: 18h 12m -> 3h 36m {{Res|Time}}
+**Level 28: 19h 17m -> 3h 42m {{Res|Time}}
+**Level 29: 20h 27m -> 3h 48m {{Res|Time}}
+**Level 30: 21h 40m -> 3h 54m {{Res|Time}}
+*The Barbarian King's level and stats are now displayed correctly when visiting villages.
+*The Barbarian King now patrol a larger area and show guard radius when tapped.
+|-
+!May 23, 2013
+|Added levels 31 to 40 Barbarian King.
+|-
+!January 29, 2014
+|Added the Iron Fist ability.
+|-
+!July 3, 2014
+|
+*The defensive Barbarian King now has a targeting radius around his platform.
+*Massively reduced his damage, but greatly heals himself when activating his ability.
+|-
+!September 16, 2014
+|Reduced hero regeneration times greatly on all levels. {{Res|Time}}
+|-
+!October 22, 2014
+|Hero icons now show hero ability status in replays.
+|-
+!December 11, 2014
+|Hero ability icons now show remaining hitpoints and start flashing when low.
+|-
+!July 1, 2015
+|Improved the Barbarian King's A.I, where he would less likely to target {{H|Walls}}, and would not continue bashing through Walls to get to a destroyed target.
+|-
+!October 12, 2016
+|Changed the Barbarian King's info image.
+|-
+!December 19, 2016
+|
+*Added levels 41 to 45 Barbarian King. [[File:Barbarian King41.png|60px]]
+*Reduced upgrade costs of levels 31 to 40. {{Res|Dark Elixir}}
+*Changed the Barbarian King's icon and info.
+|-
+!December 18, 2017
+|
+*Added levels 46 to 50 Barbarian King.
+*Decreased upgrade cost of levels 8 to 45 Barbarian King. {{Res|Dark Elixir}}
+|-
+!March 5, 2018
+|Barbarian King's Iron Fist ability no longer affect [[Barbarian]]s that are not summoned from his ability.
+|-
+!June 11, 2018
+|Added levels 51 to 60 Barbarian King.
+|-
+!June 26, 2018
+|
+*Reduced upgrade times of levels 2 to 38 Barbarian King. {{Res|Time}}
+*Reduced regeneration times of levels 2 to 60. {{Res|Time}}
+|-
+!April 2, 2019
+|Converted the Barbarian King from 2D to 3D. [[File:Barbarian King preview.png|60px]]
+|-
+!June 18, 2019
+|Added levels 61 to 65 Barbarian King.
+|-
+!December 9, 2019
+|Added levels 66 to 70 Barbarian King.
+|-
+!March 30, 2020
+|
+*Reduced upgrade cost for level 40 Barbarian King.
+*New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero.
+*Barbarian King now displays in his selected skin under the Player Profile tab.
+*When acquiring a new skin, the UI to select the skin will automatically open.
+*Some selected skins will be able to be purchased outside of the Gold Pass.
+*Fixed a bug where the Barbarian King received double health recovery when his ability is used both automatically and manually at the same time.
+*Show purple Hero level icons properly in attack confirm screen if [[Magic Items/List#Hero%20Potion|Hero Potion]] is active.
+*Fixed inconsistencies with situations where multiple boosts which affect movement speed, attack speed and damage (Barbarian King's ability) are active at the same time.
+|-
+!June 22, 2020
+|Added levels 71 to 75 Barbarian King.
+|-
+!October 12, 2020
+|
+*Heroes now automatically heal when the player's base is raided.
+*Removed guard toggle.
+|-
+!October 26, 2020
+|Fixed skin names not changing when changing Hero with the arrows (in the "Change Skin" menus).
+|-
+!December 7, 2020
+|
+*At the end of a battle, if the Barbarian King's ability remains unused, the Hero will heal the amount of HP they would normally recover from using their ability. This will help reduce the Hero’s downtime, allowing them to be ready much sooner.
+*A new Cosmetics tab has been added to the in-game shop where you can browse and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems.
+*A “View Skin” option has been added when visiting.
+*Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements.
+|-
+!April 12, 2021
+|
+*Added levels 76 to 80 Barbarian King.
+*Polished and changed the Barbarian King's 3D model. [[File:Barbarian King preview 2021.png|60px]]
+*Reduced upgrade costs and times of levels 1 to 50 Barbarian King. In particular, the cost to summon the Barbarian King was reduced to 5,000 Dark Elixir (from 10,000).
+*Boosts on Barbarian King and other Heroes or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background.
+|-
+!June 15, 2021
+|Fixed the Barbarian King occasionally doing 360-degree turns during attacks.
+|-
+!December 9, 2021
+|
+*Reduced upgrade costs from levels 26 to 64. {{Res|Dark Elixir}}
+*Reduced upgrade times from levels 20 to 29. {{Res|Time}}
+|-
+!October 10, 2022
+|
+*Added levels 81 to 85 Barbarian King.
+|-
+!December 12, 2022
+|
+*Changed the Barbarian King's 3D model. [[File:Barbarian King 3D preview.png|60px]]
+|-
+!June 12, 2023
+|Added levels 86 to 90 Barbarian King.
+|-
+!December 12, 2023
+|
+*Added levels 91 to 95 Barbarian King.
+*Increased maximum level from level 5 to 10 at Town Hall 7 and from 10 to level 20 at Town Hall 8. {{Res|Level}}
+*Reduced upgrade costs and times across all existing levels. {{Res|Dark Elixir}}{{Res|Time}}
+*Replaced the Iron Fist ability with [[Hero Equipment]] and a health recovery stat.
+**As a result, the Barbarian King loses DPS and HP at every level, with much of the missing stats being given to his default Hero Equipment.
+**Changed the description of the Barbarian King. Before, it used to read '''"This colossal menace soaks up huge amounts of damage and bashes anything in his path. He guards his territory fiercely when defending, and can launch into a devastating rage when attacking once his Iron Fist ability is unlocked!"'''.
+|-
+!November 25, 2024
+|
+*Added levels 96 to 100 Barbarian King.
+*The Barbarian King can no longer unlocked by placing down [[Barbarian King Altar|his Altar]] and is instead unlocked when the [[Hero Hall]]'s construction is finished. His Altar is replaced by the [[Hero Banner]] obstacle.
+|-
+!March 27, 2025
+|Removed regeneration time. {{Res|Time}}
+|-
+!October 6, 2025
+|Moved levels 81 to 85 Barbarian King from Town Hall 15 to Town Hall 14. {{Res|Level}}
+|-
+!November 17, 2025
+|Added levels 101 to 105 Barbarian King.
+|-
+!May 26, 2026
+|
+*Moved the Barbarian King from Town Hall 7 to Town Hall 4.
+*Added special mechanics for level 1, where his health and damage are scaled, at 50% at Town Hall 4, 75% at Town Hall 5, and 100% at Town Hall 6. He cannot defend the village and can only be used by attacking during these aforementioned Town Hall levels until his Hero Banner is first placed, where he can then be upgraded starting at Town Hall 7.
+|-
+!June 15, 2026
+|Added levels 106 to 110 Barbarian King.
+|}
+
+==Hero Skins==
+===Skin Availability===
+{{Skin Availability|Barbarian King}}
+
+===Barbarian King Skins===
+{{Wardrobe-BK|Royal_Champion#Royal_Champion_Skins|Archer_Queen#Archer_Queen_Skins}}
+<div style="display:none;">''Alternatively, see [[Barbarian King/Skins]] for a gallery.''</div>
+
+===Barbarian King Skin Features===
+{{:Barbarian King/Skin Features}}
+
+===Notes===
+*If you tap on the Barbarian King, he will yell a high pitched battle cry and stand still for a moment, similar to the [[Archer Queen]].
+**If he is wearing the Skeleton King skin, he will remove his skull and bow to the player.
+**If he is wearing the Jolly King skin, he will wave to the player.
+**If he is wearing the Primal King skin, he will smash the ground with his club.
+**If he is wearing the Party King skin, he will play on his guitar and display a [[wikipedia:Sign of the horns|sign of the horns]] gesture, which is often associated with rock and roll and heavy metal.
+**If he is wearing the Champion King skin, he will wave his sword around.
+**If he is wearing the Pirate King skin, he will run his hook through his cutlass.
+**If he is wearing the Warrior King skin, he will raise his sword towards the player.
+**If he is wearing the Rogue King skin, he will remove his crown and bow to the player.
+**If he is wearing the Beat King skin, he will perform on his keytar and perform a little dance.
+**If he is wearing the Golem King skin, he will bow to the player.
+**If he is wearing the Shadow King and Dark Minion King skin, he will taunt the player and display a throat=slit gesture.
+**If he is wearing the Summer King skin, he will surf on his board.
+**If he is wearing the Clash Fest King skin, he will remove his headpiece and twirl it around his hand before putting it back on again.
+**If he is wearing the Magic King skin, he will toss his sword while it spins in the air.
+**If he is wearing the Beast King skin, he will thump the ground and roar at the player.
+**If he is wearing the Goblin King skin, he will put down his sword and let out a laugh.
+**If he is wearing the Future King skin, he appears to be communicating with someone on his earpiece.
+**If he is wearing the King of the North skin, he will spin in the air and land a blow with his axe.
+**If he is wearing the Egypt King skin, he will put his khopesh in both of his hands and look up at the player, as if offering the weapon to them.
+**If he is wearing the Football King skin, he will run around and cheer.
+**If he is wearing the Clash Games King skin, he will throw a few punches and let out a cheer.
+**If he is wearing the Robo King skin, his head will get stuck and he will spin it around to its correct position again.
+**If he is wearing the Fire King skin, he will set his sword on fire with the flame erupting from his head.
+**If he is wearing the King Cody skin, he will cheer to the audience and stand up on his chair.
+**If he is wearing the Samurai King skin, he will slice up a bamboo post that appears in front of him with his katana.
+**If he is wearing the Barbarian Butcher skin, he will trim his beard with his machete.
+**If he is wearing the Renegade King skin, he will show off his robotic arms and slam them together.
+**If he is wearing the Bruiser King skin, he will show off his flails and clang them into each other.
+**If he is wearing the Desert King skin, he will pass his sword from one hand to another and spin it around.
+*The Gladiator King, P.E.K.K.A King, Primal King, and Champion King skins have four fingered hands, while the other skins, including the default one after the Town Hall 14 update introduced a new model for the default Barbarian King skin, have five fingered hands.
+**The four-fingered model for the Barbarian King prior to the Town Hall 14 update contradicts newer artwork of him in 2019 and 2020, which feature him with five-fingered hands. However, the 2020 [https://preview.redd.it/8blhzna43ps51.png?auto=webp&s=76c03156ffb1dd5f9eed0914993923a59c13e350 loading screen image] shows the Barbarian King holding his sword with four-fingered hands.
+***This is the same case for the Jolly King skin and Skeleton King skin where they are shown with five-fingered hands in battle and picture but are shown with four fingers in the [https://pbs.twimg.com/media/EkHS-iSWkAE7sQ7.jpg 2020 Halloween loading screen] and [https://thetechexpress.in/wp-content/uploads/2020/12/COC-LOADING-SCREEN.jpg 2020 Winter loading screen].
+*The Fierce King, A.K.A Savage King, was created by oni on Supercell Make.
+*The Barbarian King is the first Hero to have a skin, which is the Gladiator King, when Season Challenges were first added as part of the April 2, 2019 update.
+*The P.E.K.K.A King, Jolly King, and Champion King are the only skins for the Barbarian King that wield a glowing sword.
+*Many of the Barbarian King's skins feature him holding different weapons instead of a sword:
+**With the Pirate King skin, he holds a cutlass.
+**With the Primal King skin, he holds a large bone.
+**With the Party King skin, he uses an axe-shaped guitar.
+**With the Jungle King skin, he holds a [[wikipedia:Macuahuitl|macuahuitl]], a wooden spiked club that was used by various Mesoamerican cultures, such as the [[wikipedia:Aztecs|Aztecs]].
+**With the Beat King skin, he uses a [[wikipedia:Keytar|keytar]].
+**With the Fierce King, Shadow King, Beast King, King of the North and Barbarian Orc skins, he wields a large axe.
+**With the Egypt King skin, he holds a [[wikipedia:Khopesh|khopesh]], an Egyptian sickle-shaped sword.
+**With the Summer King skin, he uses a surfboard.
+**With the Painter King skin, he holds a large paintbrush.
+**With the Gingerbread King skin, he uses an orange popsicle.
+**With the King Haaland and Football King skins, he uses a football.
+**With the Wild West King skin, he uses a toy horse.
+**With the Clash Games King skin, he uses boxing gloves.
+**With the Dark Minion King skin, he holds a curved sword similar in appearance to a [[wikipedia:Shamshir|shamshir]] or [[wikipedia:Shotel|shotel]].
+**With the Judgment King skin, he uses a spiked hammer.
+**With the Robo King and Future King skins, he uses an electric sword.
+**With the Fire King skin, he uses a jagged sword with a fiery blade.
+**With the Snake King skin, he wields a spiked club similar in appearance to the [[wikipedia:Kanabō|Kanabō]], a war club that was used by samurai in feudal Japan.
+**With the Combat King skin, he uses a combat knife.
+**With the King Cody skin, he uses a golden chair.
+**With the Samurai King skin, he wields a katana.
+**With the Barbarian Butcher skin, he holds a large meat cleaver.
+**With the Renegade King skin, he uses robotic arms.
+**With the Jelly King skin, he attacks with large tentacles instead of a sword.
+**With the Bruiser King skin, he wields two flails, with the spiked balls featuring a glowing energy core.
+**With the Desert King skin, he uses a [[wikipedia:Scimitar|scimitar]].
+*With most of his skins, the Barbarian King will alternate between hitting the [[Buildings|building]] with the sword and his fist. However, both types of strikes do equal damage.
+**In the case of the Rogue King, he has two types of attacks using his fist (either doing a chop or a backslap), and only has one sword attack animation.
+**An exception is the Party King skin, where all of his attacks involve his guitar (which he attacks with in two different ways, either by slamming the guitar's body at the target or doing a stabbing motion with the guitar's body as a blade).
+**The Pirate King skin uses his sword in both his attack animations, slicing the target in two different ways.
+*The Barbarian King has the most current skins of any Hero, which is currently 36.
+*The King Haaland Skin is the first skin to be based on [[wikipedia:Erling Haaland|a real person]] in ''Clash of Clans.''
+**Another skin based on a real person is King Cody, who is based on [[wikipedia:Cody Rhodes|Cody Rhodes]], an American professional wrestler.
+*The Super Squad King was released for free in the shop in celebration of ''[[wikipedia:Squad Busters|Squad Busters]]'' reaching 30 million pre-registrations on the App Store. It was available until May 29, 2024.
+**However, this skin is re-released and can be obtained using Supercell ID Points for 5,000 Points.
+*The Combat King skin has a unique animation which features the Barbarian King crawling along the ground.
+*The Barbarian King's appearance was redesigned twice. Before [[Hero Skins]] were added, the original Barbarian King pre-rendered texture had visual changes at levels 10, 20 and 41.
+**Initially, the Barbarian King used to appear similar to a giant [[Barbarian]], with vegas gold hair, a steel crown, steel gauntlet, and steel shoulder guard. He used a blunt sword with a stone hilt.
+**At level 10, his gauntlet changed from steel to gold.
+**At level 20, his shoulder guard's edge turned to gold, and the central spike turned gold as well.
+**At level 41, his crown turned gold.
+{|style="text-align:center;margin:auto;width:500px;"
+|[[File:Barbarian King1.png|link=]]
+|[[File:Barbarian King10.png|link=]]
+|[[File:Barbarian King20.png|link=]]
+|[[File:Barbarian King41.png|link=]]
+|-
+|style="width: auto;"|'''Levels 1-9 (Old Sprite)'''
+|style="width: auto;"|'''Levels 10-19 (Old Sprite)'''
+|style="width: auto;"|'''Levels 20-40 (Old Sprite)'''
+|style="width: auto;"|'''Levels 41-60 (Old Sprite)'''
+|}
+
+==Trivia==
+===General===
+*Each time he lands an attack on a [[Buildings|building]] or [[Troops|unit]] creates a tiny explosion. The same occurs with the [[Giant]] or [[Golem]] as well, with or without effects depending on the scenery used.
+*The Barbarian King lives in the [[Town Hall]] according to a [https://twitter.com/ClashofClans/status/1388108492326703110 tweet by Supercell].
+**The Barbarian King likely moved to Hero Hall after its addition.
+*When the Barbarian King "falls", or is knocked out in a battle, an explosion occurs and a bright beam of light is sent up into the sky temporarily. He is then seen standing dazed with stars flying around his head for the remainder of the battle.
+*The Barbarian King is shown to be smaller than the [[Giant]]s in the [[w:c:clasharama:Clash-A-Rama!|Clash-A-Rama!]] series, which contradicts a [https://www.youtube.com/watch?v=jC-siWFaX6o Heroes trailer] saying that he is bigger than a Giant.
+*The first person to max out the Barbarian King and [[Archer Queen]] was a player named jessiebrar (during the initial release of [[Heroes]], the maximum level for both Heroes was 30).
+*Prior to the January 29, 2014 update that introduced Hero abilities, and prior to the October 12, 2020 update that removed Guard button for all Heroes and made Heroes heal automatically after the raid, the original description for the Barbarian King and the Archer Queen were "'''Heroes can attack enemy villages or guard your village. Heroes can be injured, but are immortal. Heal them by letting them sleep or using the Heal button. Heroes won't defend the village while sleeping.'''"
+*The Barbarian King's hair used to be vegas gold that contrasts with the [[Barbarian]]'s hair color. In his new appearance, however, his hair color is now yellow like regular Barbarians.
+*The Barbarian King is featured as [[w:c:brawlstars:File:Bull_Skin-Barbarian_King.png|a character skin for Bull]] in ''[[w:c:brawlstars|Brawl Stars]]''.
+*The Barbarian King is one of three units to appear as a [[w:c:squad-busters:Barbarian King|Hero]] in ''[[wikipedia:Squad Busters|Squad Busters]]''. The other being the [[Archer Queen]] and [[P.E.K.K.A]].
+*The [[w:c:clashroyale:Skeleton King|Skeleton King]] from ''[[wikipedia:Clash Royale|Clash Royale]]'' shares a name with one of the Barbarian King's skins. They share a similar summoning ability, but the Skeleton King summons Skeletons instead of Barbarians.
+*His crown is tilting when he is defeated in battle in his default skin, however this is barely noticeable and he must be at a certain position in order to see it.
+*Despite the March 27, 2025 maintenance break that removed training times in the Home Village, the "regeneration time" statistic is still visible in Hero info screens, although it does not have an effect on gameplay.
+**The regeneration time used to start at 10 minutes and increases by 2 minutes at every 5th level to a maximum of 48 minutes at level 95 onwards.
+**This was fixed in a later update.<sup>[please specify what update]</sup>
+===Comparisons===
+*The Barbarian King is the only [[Heroes|Hero]] in the Home Village whose attack type is melee and can only attack ground units.
+*The Barbarian King deals the highest damage out of all the Heroes in the game, however, in terms of Damage per Second, he ranks third among them, including most of the [[Army|troops]].
+*The highest stats that the Barbarian King can achieve with combinations of equipment are:
+**The highest hitpoints are 22,006 by equipping the maximum level Stick Horse and Snake Bracelet.
+**The highest health recovery is 6,226 by equipping the maximum level Barbarian Puppet and Rage Vial.
+**The highest self healing per second is 40 by equipping the maximum level Giant Gauntlet with any other equipment.
+**The highest damage is 1,230 by equipping the maximum level Giant Gauntlet and Spiky Ball.
+**The shortest attack speed is 0.909 seconds by equiping the maximum level Vampstache and Snake Bracelet. This also gives him a DPS of 1106.
+*At max level, the Barbarian King has the second most HP out of any [[Troops|unit]] in the Home Village, if he equips both max-leveled Snake Bracelet and the Barbarian Puppet.
+**The Barbarian King has the third most hitpoints if he equips both these Hero Equipments above, beating the [[Flying Fortress]]' 18,000 HP at level 5 and placing it third, the [[Meteor Golem]] surpasses him by having 19,000 HP at level 3, with the [[Mountain Golem]] being the unit with the highest hitpoints, with up 44,000 HP at level 5.
+***If boss troops are counted, then the Barbarian King has the sixth most hitpoints in the game, as the [[Attack Challenges/Controllable Heroes: Cookie Chaos!|M.E.G.A C.O.O.K.I.E]] would be in fourth place with 25,000 HP, the [[Single Player Campaign|Giant Dragon]] comes third with 33,000 HP, while the [[Single Player Campaign|M.O.M.M.A]] is the unit with the highest hitpoints in the entire game with 55,000 HP.
+*The Barbarian King and the [[Archer Queen]] were the first Heroes added to the game.
+*He and the [[Archer Queen]] have the highest levels out of all the Heroes and Troops.
+**Likewise, they are also the only Heroes to have 3-digit levels, which is 100.
+*He is the only ground Hero who can defeat a [[P.E.K.K.A]] in a one-on-one battle without using his ability. 
+*He is the only Hero who has a Mash-A-Rama skin based on a [[Pets|Pet]] instead of a troop. 
+
+{{TroopsMenuHV}}
+
+[[ru:Король Варваров]]
+[[de:Barbarenkönig]]
+[[es:Rey_Bárbaro]]
+[[Category:Troops]]
+[[Category:Dark Elixir Troops]]
+[[Category:Heroes]]
+[[Category:Special Abilities]]
+[[Category:Home Village]]

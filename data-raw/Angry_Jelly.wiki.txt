@@ -1,0 +1,214 @@
+{{Protection}}
+[[File:Angry Jelly info.png|center|280x280px|link=]]
+
+<center>'''''"This blob of pure anger gets impatient waiting around the {{H|Layouts|Village}}, it's hungry for a good fight. During [[Multiplayer Battles|Battle]] it convinces its [[Heroes|Hero]] to attack [[Defensive Buildings/Home Village|Defenses]] before splitting to fight separately."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Angry Jelly image.png|100x100px]]<div>Level 1-10</div></div>
+</div>
+
+==Summary==
+*The Angry Jelly is the tenth [[Pets|pet]] unlocked when the [[Pet House]] is upgraded to level 10, which requires [[Town Hall]] level 16.
+*The Angry Jelly appears as a small, red jellyfish which floats above the ground. It has four tentacles and a translucent body, inside it is a skull with an angry expression. It attacks by shooting lasers at defenses and troops.
+*When deployed, the Angry Jelly brainwashes its paired [[Heroes|Hero]] for a fixed duration after deployment (or until the Hero is defeated, if that happens first). During this brainwash duration:
+**The paired Hero will prioritize {{H|Defensive Buildings|defenses}}, but will also counterattack against defending enemy troops and Heroes that attack them if possible. This targeting manner is identical to the [[Royal Champion]].
+**The Angry Jelly will stay above the Hero and target defenses in its range. It is untargetable by both defenses and {{H|Traps|traps}} while it is brainwashing the Hero.
+***The Angry Jelly will keep up with the Hero even if they move faster than the Angry Jelly can normally move when its brainwash ability is active, similar to an inactive Phoenix.
+***Take note that the cloned Archer Queens are not affected by the brainwash duration after the original Queen has activated her [[Magic Mirror]] ability.
+*Once the brainwash expires, the Angry Jelly loses its invulnerability and detaches from its Hero, and behaves as any other ranged aerial unit, making it vulnerable to Seeking Air Mines.
+**However, if the Hero it is paired to is being damaged by a defense and the Angry Jelly is nearby, it will actually target the defense that is attacking the Hero in order to try and save it.<ref>https://www.youtube.com/watch?v=Mf71XzKMfP8</ref>
+*{{PreferredTarget|AngryJelly|Plural=Yes}}
+
+==Strategies==
+===Offensive Strategies===
+*The Angry Jelly allows a Hero such as the [[Barbarian King]] to clear out a compartment of defenses with the help of the [[Giant Gauntlet]], and it will not get stalled or drawn away by non-defensive buildings. Using the Angry Jelly in this way enables other troops to complete a funnel much more easily.
+**While it might see some effectiveness to pair alongside a support hero to target defenses, having a hero use the Angry Jelly to funnel will leave behind non-defensive buildings as neither Hero nor Pet will target them for the duration of the brainwash. If you are using it in a Warden Walk for funneling, then some additional cleanup troops will be required to remove the non-defensive buildings for funneling.
+**Alternatively, you can use the Barbarian King in a Hero Dive, and since it targets defenses, it will make the Hero Dive much more effective, since it will not be distracted by storages or the Clan Castle in the base. It will not also activate the Town Hall by accident just by itself.
+**While this ability is active, it makes the King behave similar to a [[Giant]], [[Golem]] or [[Ice Golem]], so if you are using a Root Rider army, you can use the Angry Jelly with the king to help with such attacks, and the Root Rider also removes walls, of which the Barbarian King will likely get stuck during the ability duration.
+**If you are using the King to funnel around the outside of the base, this might not be a good choice, since the King will just try to go into the base to tackle defenses instead, which is a waste of time and the King's HP and damage potential.
+*It can be paired with a [[Grand Warden]] wielding the [[Fireball]] equipment. Even though the Angry Jelly will be outranged by the Warden and will rarely be able to attack, this allows one to clearly visualize the defense the Warden will attack with the Fireball. With additional funneling support, the Warden can reach the core during the brainwash duration and use his Fireball to devastate it with the help of Invisibility and/or Overgrowth Spells with Earthquake Spells to destroy major defenses.
+**Take note that he will not be healed from the damage from defenses without the Unicorn, so you will either need Healers or Druids to support him.
+*It is not good to pair with the [[Archer Queen]] in a Queen Walk since she will not destroy the outside buildings if you are using the Angry Jelly for funneling. You will probably be better off using something like a [[Unicorn]] for extra healing instead.
+**However, if the Archer Queen is paired with the Magic Mirror, when her ability is active, the summoned clone(s) will destroy non-defensive buildings on the outer perimeter of the base, while the original will target defenses, thus allowing for successful pseudo-Queen Charges.
+*In aerial attacks, the Angry Jelly is useful to force the [[Minion Prince]] to temporarily target defenses, allowing him to destroy them faster to increase the chance of the army's success. Pairing this with the [[Noble Iron]] can turn this into a pseudo [[Rocket Spear]]. However, this leaves him very vulnerable to Seeking Air Mines and high-damaging defenses, if he is exposed.
+*Pairing it with the [[Dragon Duke]] also allows him to destroy defenses faster instead of letting him fly around the base. Pairing it with the [[Electro Fangs]] and [[Invisibility Spell|Invisibility Spells]] can turn it into a Dragon Duke charge, akin to a pseudo [[Electro Boots]] charge. 
+*Pairing it with the [[Royal Champion]] brings no benefit to her as her targeting will be unchanged by the brainwash effect. Although the Angry Jelly can get guaranteed damage due to its invulnerability, it cannot tank for her and does relatively low DPS compared to other "extra damage" pets, making it a rather poor choice for her, since she does not benefit from the ability, rather than to increase her damage output.
+**Contrary to popular belief, the Angry Jelly does not prevent the Royal Champion from counterattacking against defending Clan Castle Troops, Skeleton Trap Skeletons, Heroes, or [[Town Hall/Guardians|Guardians]].
+*The Angry Jelly will not currently change the targeting of the troops summoned by Puppet Equipments such as Barbarian Puppet or Henchmen Puppet. The resulting troops will attack anything. The Hog Rider summoned from the Hog Puppet will target Defenses and ignore defending troops. 
+
+===Defensive Strategies===
+*Since its defense-targeting mechanism is similar to the Royal Champion, [[Clan Castle]] troops and [[Skeleton Trap]]s will be an effective counter to this, since they will distract the hero and waste the Angry Jelly's ability duration, and allow the defenses to destroy the hero faster, potentially forcing out an ability when it is not effective.
+*Another good counter to this are {{H|Wall}}s. Since the Barbarian King cannot get past Walls, if there is nothing to help him break through, he will spend a majority of its ability duration breaking a Wall (if there are no defenses outside the walls) to reach a defense, which can lead to him taking unnecessary damage and waste the Angry Jelly's brainwash duration.
+**The same issue is also faced by the Archer Queen, since she too cannot get past Walls without help. Although her range allows her to destroy defenses behind Walls, without wall-breaking support she may walk around the outside of a base to continue attacking front line defenses, or may get stuck attacking walls directly.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target {{Res|Target}}
+!Targets {{Res|Target}}
+!Attack Type {{Res|Damage Type}}
+![[Troop Movement Speed|Movement Speed]] {{Res|Speed}}
+!Attack Speed {{Res|Attack Speed}}
+![[Pet House]] Level Required {{Res|Pet House}}
+!Range {{Res|Range}}
+!Special Ability{{Res|Pet Ability}}
+|-
+|Hero's Target
+|Ground & Air
+|Single Target
+|class="ModifierStat Speed"|<abbr title="Able to follow Hero while brainwashing">16</abbr>
+|class="AttackSpeed"|0.75s
+|10
+|1.5 tiles
+|<abbr title="Its Hero targets Defenses for a while after deployment">Brainwash</abbr>
+|}
+
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Brainwash Duration<br/>{{Res|Time}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|Dark Elixir}}
+!Upgrade Time<br/>{{Res|Time}}
+!Pet House Level Required<br/>{{Res|Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|112
+|class="ModifierStat DPH"|84
+|25s
+|class="ModifierStat HP"|1,450
+|N/A
+|N/A
+|10
+|-
+|2
+|class="ModifierStat DPS"|121
+|class="ModifierStat DPH"|90.75
+|25s
+|class="ModifierStat HP"|1,525
+|class="GoldPass rCost"|150,000
+|class="GoldPass rTime"|3d
+|10
+|-
+|3
+|class="ModifierStat DPS"|130
+|class="ModifierStat DPH"|97.5
+|25s
+|class="ModifierStat HP"|1,600
+|class="GoldPass rCost"|160,000
+|class="GoldPass rTime"|4d
+|10
+|-
+|4
+|class="ModifierStat DPS"|139
+|class="ModifierStat DPH"|104.25
+|25s
+|class="ModifierStat HP"|1,675
+|class="GoldPass rCost"|170,000
+|class="GoldPass rTime"|5d
+|10
+|-
+|5
+|class="ModifierStat DPS"|148
+|class="ModifierStat DPH"|111
+|30s
+|class="ModifierStat HP"|1,750
+|class="GoldPass rCost"|180,000
+|class="GoldPass rTime"|6d
+|10
+|-
+|6
+|class="ModifierStat DPS"|157
+|class="ModifierStat DPH"|117.75
+|30s
+|class="ModifierStat HP"|1,825
+|class="GoldPass rCost"|190,000
+|class="GoldPass rTime"|7d
+|10
+|-
+|7
+|class="ModifierStat DPS"|166
+|class="ModifierStat DPH"|124.5
+|30s
+|class="ModifierStat HP"|1,900
+|class="GoldPass rCost"|200,000
+|class="GoldPass rTime"|8d
+|10
+|-
+|8
+|class="ModifierStat DPS"|175
+|class="ModifierStat DPH"|131.25
+|30s
+|class="ModifierStat HP"|1,975
+|class="GoldPass rCost"|210,000
+|class="GoldPass rTime"|8d
+|10
+|-
+|9
+|class="ModifierStat DPS"|184
+|class="ModifierStat DPH"|138
+|30s
+|class="ModifierStat HP"|2,050
+|class="GoldPass rCost"|220,000
+|class="GoldPass rTime"|8d
+|10
+|-
+|10
+|class="ModifierStat DPS"|193
+|class="ModifierStat DPH"|144.75
+|35s
+|class="ModifierStat HP"|2,125
+|class="GoldPass rCost"|230,000
+|class="GoldPass rTime"|8d 
+|10
+|}
+</div></center>
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%"
+!Date!!Description
+|-
+!April 17, 2024
+|Added the Angry Jelly, with 10 levels. [[File:Angry Jelly image.png|30x30px|link=]]
+|}
+
+==Audio==
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:AngryJelly Tap.ogg]]
+|Angry Jelly squishes while flying
+|When tapping the Angry Jelly
+|-
+|[[File:AngryJelly deploy.ogg]]
+|Angry Jelly brainwashes Hero
+|When the Angry Jelly is deployed
+|-
+|[[File:AngryJelly attack.ogg]]
+|Angry Jelly fires lasers
+|When the Angry Jelly attacks
+|-
+|[[File:AngryJelly death.ogg]]
+|Angry Jelly collapses
+|When the Angry Jelly is defeated
+|}
+
+==Gallery==
+<gallery>
+File:Avatar Angry Jelly.png
+AngryJelly Artwork.jpg|Angry Jelly Artwork
+</gallery>
+
+==Trivia==
+*The Angry Jelly is the seventh Pet to based on a real life animal alongside the [[Electro Owl]], [[Mighty Yak]], [[Frosty]], [[Diggy]], [[Poison Lizard]], [[Spirit Fox]], and [[Sneezy]], and the first Pet to be based on an oceanic animal.
+*It is the first army unit to temporarily change the targeting of another entity.
+*The Angry Jelly is the only Pet that became an inspiration for a Hero skin, which is the Jelly King. 
+
+{{TroopsMenuHV}}
+[[Category:Pets]]
+[[Category:Home Village]]
+[[Category:Troops]]
+[[Category:Air Troops]]

@@ -1,0 +1,15 @@
+<div class="Tabview hidden">
+<tabber>
+Home Village={{:X-Bow/Home Village}}
+|-|
+Builder Base={{:X-Bow/Builder Base}}
+</tabber>
+</div>
+<div style="display:none;">
+The '''X-Bow''' is a defensive building that appears in the Home Village and Builder Base.
+
+For its appearances in each village see the following pages:
+*[[X-Bow/Home Village]]
+*[[X-Bow/Builder Base]]
+</div>
+[[Category:Disambiguation Pages]]

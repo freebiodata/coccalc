@@ -1,0 +1,62 @@
+{
+ "id": "monolith",
+ "name": "Monolith",
+ "category": "defense",
+ "resource": "dark",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 200000,
+   "time": "7d",
+   "th": 15
+  },
+  {
+   "level": 2,
+   "cost": 250000,
+   "time": "8d",
+   "th": 15
+  },
+  {
+   "level": 3,
+   "cost": 260000,
+   "time": "9d",
+   "th": 16
+  },
+  {
+   "level": 4,
+   "cost": 300000,
+   "time": "11d",
+   "th": 17
+  },
+  {
+   "level": 5,
+   "cost": 470000,
+   "time": "15d",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  1,
+  1,
+  1
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Monolith",
+ "lastEdited": "2026-08-30T20:19:59Z",
+ "ok": true
+}

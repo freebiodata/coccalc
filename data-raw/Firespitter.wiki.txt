@@ -1,0 +1,258 @@
+{{Protection}}
+{{For|the temporary [[Crafting Station|Crafted Defense]] with a similar name|Flame Spinner}}
+[[File:Firespitter3.png|center|250x250px]]
+<center>'''''"The Firespitter spews flames at a fire rate faster than the {{H|X-Bow}}! If it misses, the Firespitter will shoot past its target to deal damage to enemies behind. It can only face a single direction, so place carefully!"'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div style="width:120px">[[File:Firespitter1.png|100px|link=]]<div>Level 1</div></div>
+<div style="width:120px">[[File:Firespitter2.png|100px|link=]]<div>Level 2</div></div>
+<div style="width:120px">[[File:Firespitter3.png|112px|link=]]<div>Level 3</div></div>
+</div>
+
+==Summary==
+*The Firespitter is a {{H|Defensive Buildings|defensive building}} unlocked at [[Town Hall]] level 17. It attacks by firing a hail of small molten iron balls at enemies in a straight line. These projectiles do a small amount of damage, but come in bursts of 20 shots and can hit two targets each.
+**The flames are able to hit both ground and air units, independently of which type of unit is first hit. Thus, it is possible for a shot to hit a ground troop followed by an air troop, and vice versa.
+**Once individual flame projectiles have hit two targets, they disappear and cannot hit any further targets.
+*The Firespitter's shots are not perfectly accurate. Instead, they scatter over a narrow angle, making the Firespitter less accurate over longer distances.
+*The Firespitter has a very long range of 16 tiles but can only cover a single general direction, spanning an arc of roughly 150 degrees which covers roughly less than half the base. It can be rotated in angles of 90 degrees, facing directions parallel to the tile sides and not the corners, telegraphed by where its head and claws are facing.
+*Just like the [[Scattershot]], it can deal damage to units behind the initial target, and players can only have two Firespitters on their base.
+
+==Strategies==
+===Defensive Strategies===
+*Due to its extremely long range, it is able to outrange the [[Flame Flinger]], [[Royal Champion]] equipped with the [[Rocket Spear]], and [[Minion Prince]] with the [[Noble Iron]]. Also, due to its fast attack speed, it is able to deal massive amounts of damage to tanky units such as [[Root Rider]]s.
+**When paired with the [[Spell Tower|Rage Spell Tower]], it becomes much more powerful and dangerous having more damage per second which can change the tide in a battle.
+**However, due to its inaccuracy, it is possible for fast enough troops to only take fewer shots, which reduces its damage potential.
+*This defense is very effective against [[Archer Queen|Queen]] Walks and Charges, as the projectiles are able to pierce through the Queen and even the [[Healer]]s and the [[Unicorn]] if the Archer Queen is directly targeting the Firespitter with the Healers being in the line of fire of said defense, provided that they are not on its blind spot.
+**However, even if the Queen is out of range, the Firespitter still has a long range and can eventually take the Healers out if the attacker is not careful.
+*The Firespitter is very effective against units that come out from the Battle Blimp, especially Super Archers, as when a unit comes into the Firespitter's range (such as a [[Dragon]]), the piercing projectiles can take them out with the help of {{H|Traps}}.
+**For Balloons, [[Air Bomb]]s can deal heavy damage to those troops, dealing enough damage for the Firespitter to take them out, especially when paired with the [[Tornado Trap]].
+*When the original target is taken out, the Firespitter stops shooting and then starts a new burst on a new target. The delay between bursts is significant; if it happens frequently, such as when attacking a group of low-health troops, this can significantly reduce the damage output of the Firespitter.
+**This mechanism is unlike the {{B|Roaster}} in the Builder Base which is able to fire off the whole burst even if its original target was killed while retargeting to other units.
+
+===Offensive Strategies===
+*One should be wary of the Firespitter's range, as it is able to outrange the Flame Flinger. To destroy the Firespitter, either attack it from its blind spot, or protect the Flame Flinger by using a tanky unit such as the an [[Ice Golem]], [[Golem]], or [[Yeti]].
+*Using the [[Eternal Tome]] to protect the troops from heavy damage, especially if there are other high-damage defenses nearby.
+**However, the troops must be in the range of the aura, otherwise they will lose their invincibility, rendering them vulnerable to damage.
+*In the case the Firespitter deals heavy damage to the main army (especially when boosted by a Rage Spell Tower and/or supported by high-damage defenses), either use the Eternal Tome to make the troops invulnerable for a short period of time, a [[Freeze Spell]] to freeze it, or disable it for a while using the [[Overgrowth Spell]].
+*Using a Skeleton Spell to distract the Firespitter, so that it will waste its shots, provided if the main army does not get hit by them.
+*Attacking the Firespitter from the sides or behind it can be a good idea, since the Firespitter cannot target units that are not within its attack radius. Be wary however, any defenses and traps (as well as another Firespitter that would cover the blind spot) can protect it from being destroyed easily.
+
+==Upgrade Differences==
+The Firespitter undergoes significant visual changes at levels 2 and 3.
+
+*Initially, the Firespitter is a charcoal-colored, spherical metal furnace with a golden grate on top, and has a dragon-shaped head with brass horns, glowing white eyes, and a barrel inside its mouth, which resembles the Dragon Rider's head, and can turn in different directions by a horizontal brass band, although the head is only limited to turning to a roughly 150-degree cone. It also has a tail, two cage-like openings, and a slightly opened lid at the back. All of these parts are held by a stone foundation with two metal claws with metal plate on top at the front.
+**At level 2, the top part of the dragon's head and its horns turn brass , and the eyes glow yellow.
+**At level 3, all of the brass has been turned into gold. The barrel is now made of metal, while the muzzle remains golden, the jaws are made of a darker metal while the spiky beard is made of glowing meteor, and the eyes glow blue. The circular windows in its back have a gold frame instead of the same as the metal skin, so is some of its tail besides the end spike. The metal skin is now grayer and appears brighter, with most of its horn also made of the same metal beside the top, which remains golden similar to the barrel. The base is now base of metal, and the foundation is made of darker stones, the claws are now glowing meteor with golden plate on top.
+
+When being rotated, the entire furnace changes to the direction, indicated by the claws. The Firespitter aims by turning its head alone the groove of the furnace, and attacks by firing a maximum of twenty molten balls which pierce through units, ground and air alike. These molten balls spread by a small angle, which means that the Firespitter is more accurate when troops are close to it and may damage troops behind its original target.
+
+==Statistics==
+<center><div class="stats-background">
+{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH17=2}}
+{{BuildingSize|3x3}}
+{|class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Damage per Second*<br/>{{Res|Damage}}
+!Damage per Hit**<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|410
+|class="ModifierStat DPH Building"|46.03
+|4,500
+|class="GoldPass bCost"|17,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|8d 12h
+|class="GoldPass EXP"|856
+|17
+|-
+|2
+|class="ModifierStat DPS Building"|437
+|class="ModifierStat DPH Building"|49.05
+|5,000
+|class="GoldPass bCost"|18,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|10d
+|class="GoldPass EXP"|929
+|17
+|-
+|3
+|class="ModifierStat DPS Building"|455
+|class="ModifierStat DPH Building"|51.07
+|5,300
+|class="GoldPass bCost"|29,000,000
+|class="GoldPass bTime" style="white-space:nowrap;"|15d
+|class="GoldPass EXP"|1,138
+|class="change-highlight"|18
+|}
+===[[Supercharge]]s===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level of this building is added.
+{{Supercharge}}
+{|class="wikitable mode-toggle-mode-1" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Charge Level<br/>{{Res|Supercharge|SIZE=17}}
+!Damage per Second*<br/>{{Res|Damage}}
+!Damage per Hit**<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building change-highlight"|473
+|class="ModifierStat DPH Building change-highlight"|53.08
+|5,300
+|class="GoldPass bCost"|14,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|6d 12h
+|class="GoldPass EXP"|749
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|473
+|class="ModifierStat DPH Building"|53.08
+|class="change-highlight"|5,550
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|7d 12h
+|class="GoldPass EXP"|804
+|18
+|}
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Time Between Bursts<br/>{{Res|Attack Speed}}
+!Shots Per Burst<br/>{{Res|Damage}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Favorite Target<br/>{{Res|Target}}
+|-
+|16 tiles
+|0.064s
+|class="AttackSpeed"|1.0167s
+|20 shots
+|Multiple Targets
+|Ground & Air 
+|Any
+|}
+<nowiki>*</nowiki>These damage per second values are seen in-game and are approximations; it does not necessarily do this much DPS if it cannot utilize the full potential of its bursts.<br>
+<nowiki>**</nowiki>In-game, damage per hit values display with decimals truncated.
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Firespitter Finisher'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 40 Firespitters in Multiplayer Battles||100||25
+|-
+|Destroy 400 Firespitters in Multiplayer Battles||800||75
+|-
+|Destroy 4,000 Firespitters in Multiplayer Battles||5,000||200
+|}
+{{IconDescriptions|Defense=Yes|Upgradable=Yes|Supercharge=Yes}}
+
+==History==
+{|class="wikitable floatheader row-highlight" style="width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Date!!Description
+|-
+!November 23, 2024
+|Announced the Firespitter, with two levels and two Supercharge levels. {{Res|Supercharge}}{{Clr}}[[File:Firespitter1.png|60px|link=]][[File:Firespitter2.png|60px|link=]]
+|-
+!November 25, 2024
+|Added the Firespitter, with two are available at Town Hall 17. 
+|-
+!March 24, 2025
+|Added the achievement associated with the Firespitter, "Firespitter Finisher".
+|-
+!November 17, 2025
+|
+*Reduced build times at all levels and all charges:
+*Level 1: 22,500,000 -> 17,000,000 {{Res|Gold}}
+*Level 2: 23,000,000 -> 18,000,000 {{Res|Gold}}
+*Charge 1: 12,000,000 -> 8,000,000 {{Res|Gold}}
+*Charge 2: 10,000,000 -> 6,000,000 {{Res|Gold}}
+*Reduced build costs at all levels and all charges:
+*Level 1: 15d -> 11d {{Res|Time}}
+*Level 2: 16d -> 11d 12h {{Res|Time}}
+*Charge 1: 6d -> 3d 12h {{Res|Time}}
+*Charge 2: 7d -> 4d {{Res|Time}}
+|-
+!February 23, 2026
+|
+*Added the level 3 Firespitter. [[File:Firespitter3.png|60px|link=]]
+*Removed the Supercharges at level 2. {{Res|Supercharge}}
+*Updated displayed damage per second:
+**Level 1: 399 -> 410 {{Res|Damage}}
+**Level 2: 425 -> 437 {{Res|Damage}}
+|}
+
+==Audio==
+===Generic===
+{|class="wikitable mw-collapsible" style="width:100%"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:FireSpitter hit.ogg]]
+|Projectile hits target¹
+|When the Firespitter projectile hits an enemy unit
+|-
+|[[File:Air Sweeper Picked.ogg]]
+|Firespitter selected²
+|When the Firespitter is picked
+|-
+|[[File:Air Sweeper Placed.ogg]]
+|Firespitter placed³
+|When the Firespitter is placed
+|}
+===Unique===
+{|class="wikitable mw-collapsible" style="width:100%"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:FireSpitter Shoot.ogg]]
+|Firespitter fires
+|When the Firespitter attacks units within its range
+|}
+¹ ''Reuses the boulder hit sound effect of the Bowler in higher pitch''<br>
+² ''Reuses the selected sound effect of the Air Sweeper''<br>
+³ ''Reuses the placed sound effect of the Air Sweeper''
+
+==Gallery==
+===Images===
+<gallery>
+Firespitter Concept Art1.jpg|Concepts design of Firespitter.
+Firespitter Concept Art2.jpg|Ditto.
+Firespitter info.jpg|Render model.
+</gallery>
+
+===Animations===
+<div class="flexbox-display normal-text">
+<div style="width=150px">[[File:Firespitter1InAction.mp4|200px]]<div>Firespitter attacking</div></div>
+</div>
+
+==Trivia==
+*In some leaked material, the level 2 Firespitter used to deal 50 damage per shot, which was lowered by one when it is released.
+*The Firespitter takes 1.216 seconds to shoot all 20 flames and takes a 1.016 seconds of cooldown between each attack, resulting in 2.232 seconds per attack cycle by frame counting. However, the damage per second suggested it takes 2.245 seconds per cycle, for example, <math display="inline">\frac{46\times20}{410}=2.245</math>.
+**The Firespitter takes a quick pause after defeating its target to waste less of its volley and the flames themselves can miss, those reasons can lower the damage per second and might explain the extra time in the calculated attack cycle length.
+*When Supercharing a level 2 Firespitter to charge 1, the displayed damage per second is 425 (+17), which equals to 442, and fits with the 2.3 seconds per cycle using the formula above before the February 2026 update, but after Supercharging, the displayed value becomes 460, a bit over the actual optimal value. This caused confusion as the new level 3 damage per hit remains the same but is shown to have 5 less damage per second at 455, which is confirmed to be the intended value with the burst fire damage per second display overhaul.
+*When a unit is hit by the projectile from the Firespitter, upon impact, the sound effect used is similar to the Bowler's boulder hits the second target, except pitched much higher.
+*While being upgraded, the Firespitter's head will only rotate, and not the claws, in which case they always face to the bottom right side, even if the head is rotated oppositely, as compared to both the head and claws rotating in the same direction prior to being upgraded.
+
+===Comparisons===
+*As stated in the description, Firespitter has a higher fire rate than the {{H|X-Bow}} (or {{H|Inferno Tower}} and [[Town Hall/Giga Inferno|Giga Inferno]], all of them attacks every 0.128 seconds). When Firespitter is actively attacking, it is exactly double the fire rate at 0.064 seconds per attack; including the time between burst, it still attacks every 0.1116 seconds on average.
+*The Firespitter is one of the defense in the Home Village that mentions the "damage per hit" statistics in its info section, the other being the [[Eagle Artillery]], Burst Mode {{H|Cannon}}, and Burst Mode [[Mortar]].
+*The Firespitter is one of the defenses in the Home Village to have a blind spot, the others being the Mortar, [[Air Sweeper]], Eagle Artillery, and [[Scattershot]].
+*The Firespitter can be considered as an offensive and more powerful Air Sweeper; it deals damage, can also target ground, has a much higher hitpoints, has a longer range, and covers a bigger arc, as well as not having a blind spot on its attack cone at the direction it is facing. However, it is only limited to rotate in four different directions and can only pierce up to two targets.
+*The Firespitter is one of the defense in the Home Village that can attack both ground and air units at the same time, the others being the Multi-Target {{H|Inferno Tower}}, [[Town Hall/Giga Weapons|Giga Weapons]], [[Multi-Archer Tower]], [[Inferno Artillery]], and [[Revenge Tower]].
+*It does not have unique sounds when placed and swapped, as it reuses the Air Sweeper's sound. However, when attacking, it does, except for the projectile impact, as it reuses a higher-pitched [[Wall Wrecker]] attacking sound.
+*It is one of the defense in the Home Village to have a piercing ability, the others being the [[Scattershot]].
+**However, its projectiles have a piercing limit, which can be observed when attacking troops from a longer range, and unlike the former, the latter also does splash damage as well as piercing through infinite targets.
+*Out of all the defenses in the game, the Firespitter has the longest range, being 16 tiles (not counting the [[Eagle Artillery]], which has a 7-50 tile range).
+
+{{BuildingsMenuHV}}
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Home_Village]]
+[[ru:Огнепушка]]

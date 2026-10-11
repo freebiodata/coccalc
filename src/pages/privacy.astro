@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '@data/meta';
+
+const title = 'Privacy Policy | CoCPlanner';
+const description = 'What CoCPlanner does and does not collect: the calculators run in your browser and nothing you enter is uploaded.';
+---
+<BaseLayout title={title} description={description} canonical="/privacy/" activeNav="">
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Privacy' }]} />
+
+  <div class="page-hero">
+    <h1>Privacy policy</h1>
+    <p class="value-line">
+      The short version: the calculators run entirely in your browser. Nothing you select, type or calculate is
+      sent to us or anyone else.
+    </p>
+  </div>
+
+  <section class="section card">
+    <h2><Icon name="database" size={20} /> What we collect</h2>
+    <ul>
+      <li><strong>Calculator usage:</strong> nothing. Selections (Town Hall level, builder count, buildings) are processed in your browser only and vanish when you close the tab. There is no account, no save, no upload.</li>
+      <li><strong>Analytics:</strong> none. This site ships no analytics scripts, no trackers and no advertising cookies.</li>
+      <li><strong>Server logs:</strong> our host (Cloudflare) processes standard request logs (IP address, URL, timestamp) for security and abuse prevention, as any web host does. We do not use them to profile visitors.</li>
+      <li><strong>Email:</strong> if you write to us, we keep your message and address to reply and to fix the issue you reported. We never send bulk mail or share addresses.</li>
+    </ul>
+
+    <h2><Icon name="lock" size={20} /> Cookies</h2>
+    <p>
+      This site sets no cookies of its own. If Cloudflare serves a technical cookie to protect against abuse, it is
+      strictly functional and requires no consent banner.
+    </p>
+
+    <h2><Icon name="users" size={20} /> Your rights</h2>
+    <p>
+      Because we collect no personal data beyond the email you optionally send us, there is no profile to export or
+      delete. To have a message deleted from our inbox, mail <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>
+      and we will remove it.
+    </p>
+
+    <h2><Icon name="file-text" size={20} /> Changes</h2>
+    <p>
+      If this policy ever changes (for example if analytics or ads are added), the change and its date will be posted
+      here and in the <a href="/changelog/">changelog</a> before it takes effect.
+    </p>
+    <p class="small muted">Last updated 2026-10-11.</p>
+  </section>
+</BaseLayout>

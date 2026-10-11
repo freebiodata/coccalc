@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const title = 'Terms of Use | CoCPlanner';
+const description = 'Terms for using CoCPlanner: provided as is, fan made, no warranty, Supercell trademarks belong to Supercell.';
+---
+<BaseLayout title={title} description={description} canonical="/terms/" activeNav="">
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Terms' }]} />
+
+  <div class="page-hero">
+    <h1>Terms of use</h1>
+    <p class="value-line">The plain terms for using this site.</p>
+  </div>
+
+  <section class="section card">
+    <h2><Icon name="info" size={20} /> Use at your own pace</h2>
+    <p>
+      CoCPlanner and its calculators are provided free, as is, without warranty of any kind. Game data changes with
+      updates; while we check every value against the wiki, we cannot guarantee completeness or accuracy at any
+      moment. Decisions you make in game (what to upgrade, when to spend) are yours.
+    </p>
+    <h2><Icon name="shield" size={20} /> Fan project, not Supercell</h2>
+    <p>
+      This material is unofficial and is not endorsed by Supercell. For more information see Supercell's Fan Content
+      Policy: www.supercell.com/fan-content-policy. Clash of Clans and Supercell are trademarks of Supercell Oy.
+    </p>
+    <h2><Icon name="check-circle" size={20} /> Acceptable use</h2>
+    <p>
+      You may use the calculators and quote short excerpts of our content with a link. You may not scrape, mirror or
+      republish the site or its datasets wholesale, present our tables as your own, or use the site in a way that
+      breaks applicable law or our host's rules.
+    </p>
+    <h2><Icon name="alert" size={20} /> Liability</h2>
+    <p>
+      To the maximum extent permitted by law, we are not liable for any loss arising from use of this site, including
+      resources spent on an upgrade priced by a calculator.
+    </p>
+    <p class="small muted">Last updated 2026-10-11.</p>
+  </section>
+</BaseLayout>

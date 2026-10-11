@@ -1,0 +1,16 @@
+<div class="Tabview">
+<tabber>
+Home Village={{:Elixir Storage/Home Village}}
+|-|
+Builder Base={{:Elixir Storage/Builder Base}}
+</tabber>
+</div>
+<div style="display:none;">
+The '''Elixir Storage''' is a resource building that appears in the Home Village and Builder Base.
+
+For their appearances in each village see the following pages:
+*[[Elixir Storage/Home Village]]
+*[[Elixir Storage/Builder Base]]
+</div>
+[[Category:Disambiguation Pages]]
+[[de:Elixierlager]]

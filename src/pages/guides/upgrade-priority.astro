@@ -1,0 +1,137 @@
+---
+import BaseLayout from '../../components/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import FAQ from '../../components/FAQ.astro';
+import Icon from '../../components/Icon.astro';
+import RelatedTools from '../../components/RelatedTools.astro';
+import { TOOLS } from '@data/meta';
+import { DATA_SNAPSHOT_DATE } from '@data/game';
+
+const title = 'What to Upgrade First in Clash of Clans | CoCPlanner';
+const description =
+  'A practical upgrade order for every town hall level: defenses, heroes, walls and lab, so your builders never sit idle.';
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: 'What to Upgrade First in Clash of Clans',
+    description,
+    datePublished: '2026-10-11',
+    dateModified: DATA_SNAPSHOT_DATE,
+    author: { '@type': 'Organization', name: 'CoCPlanner', url: 'https://coccalc.top/' },
+    publisher: { '@id': 'https://coccalc.top/#organization' },
+    mainEntityOfPage: 'https://coccalc.top/guides/upgrade-priority/',
+  },
+];
+
+const faqItems = [
+  {
+    q: 'Should I max everything before upgrading my town hall?',
+    a: 'Not anymore. The classic advice was to max each TH, but the consensus today is to keep your town hall moving once your key upgrades are done: at TH9 and below, maxing is cheap enough to finish. From TH10 up, jump when your war-relevant defenses, heroes and lab are at or near max, and let cheap leftover buildings catch up while the next TH unlocks new levels.',
+  },
+  {
+    q: 'What should I never upgrade late?',
+    a: 'Your laboratory and army camps. Every day the lab sits idle is a day of research you never get back, and the research track ends up longer than the builder track for most players. Same for spell factory and clan castle: they directly change what your army can do.',
+  },
+  {
+    q: 'Heroes or defenses first?',
+    a: 'Heroes, whenever you can afford them. Hero levels never occupy a builder, so they should always be upgrading somewhere in the background, and at high town halls the hero track is one of the longest in the game. Defenses compete for builders; heroes only compete for dark elixir.',
+  },
+  {
+    q: 'How do I keep 5 builders busy without rushing?',
+    a: 'Keep a buffer of cheap, short upgrades (traps, mines, collectors) queued behind the big ones, and do walls whenever a builder is about to go idle and your storages are full. Walls take no builder time, so they are the perfect overflow valve for loot.',
+  },
+];
+---
+<BaseLayout title={title} description={description} canonical="/guides/upgrade-priority/" activeNav="/guides/upgrade-priority/" jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Upgrade Priority Guide' }]} />
+
+  <div class="page-hero">
+    <h1>What to upgrade first in Clash of Clans</h1>
+    <p class="value-line">
+      A practical upgrade order for every town hall level, built around one rule: never let a builder,
+      the laboratory or a hero sleep if you can help it.
+    </p>
+    <div class="trust-line">
+      <span class="pill blue"><Icon name="book-open" size={14} /> Guide, updated {DATA_SNAPSHOT_DATE}</span>
+      <span class="pill gold"><Icon name="clock" size={14} /> Pairs with the <a href="/upgrade-time-planner/">time planner</a></span>
+    </div>
+  </div>
+
+  <section class="section card card-pop">
+    <h2><Icon name="check-circle" size={20} /> The short answer</h2>
+    <p>
+      Offense first, defense second, walls with leftover loot. Concretely, at almost every town hall:
+    </p>
+    <ol class="step-list">
+      <li><strong>Laboratory, spell factory and army camps</strong> before anything else: they raise what your army can do, and the lab is the longest track in the game.</li>
+      <li><strong>Clan castle</strong> as soon as it is affordable: extra troops and spell space in every attack.</li>
+      <li><strong>Heroes, always in the background.</strong> They never use a builder, so their only cost is dark elixir and patience.</li>
+      <li><strong>New defenses</strong> (the buildings you just unlocked): a new tower at level 1 is usually worth more than one more level on an old tower.</li>
+      <li><strong>Splash defenses, then point defenses</strong>: mortars and wizard towers protect against farming armies; archer towers and cannons add steady war weight.</li>
+      <li><strong>Resource buildings and traps</strong> last, and walls whenever storages are about to overflow.</li>
+    </ol>
+  </section>
+
+  <section class="section">
+    <h2><Icon name="map" size={20} /> Upgrade order by town hall era</h2>
+    <div class="card">
+      <h3>TH1 to TH5: learn the loop</h3>
+      <p>
+        Everything is cheap and fast. Upgrade the town hall as soon as the lab and army camps are maxed, build every new
+        defense slot the same day it unlocks, and do not stress about walls. The only real mistake at this stage is
+        letting builders idle while you wait for a "perfect" order.
+      </p>
+      <h3>TH6 to TH9: the classic maxing grounds</h3>
+      <p>
+        TH9 is where the game opens up: two heroes, serious dark elixir demands and the first long upgrade times.
+        Maxing TH9 fully (walls included) is still a popular stop for war-focused players. Priorities: queen and king
+        continuously, lab on your war army, archer towers and air defenses, then splash, then walls with overflow elixir.
+        The <a href="/upgrade-cost-calculator/">cost calculator</a> will show you what your plan costs before you commit to it.
+      </p>
+      <h3>TH10 to TH12: jump smart, not scared</h3>
+      <p>
+        This is where strict maxing starts to cost you months. The common pattern: max your war army and lab level,
+        get heroes into the 30s and up per TH, build and level the signature defenses (infernos at TH10, eagle at TH11,
+        and the workshop so siege machines are craftable), then jump. Catch-up happens naturally while the next TH's
+        new buildings are going up. Check what the jump actually costs on the <a href="/cost-to-max/">cost to max tables</a>.
+      </p>
+      <h3>TH13 to TH16: the long game</h3>
+      <p>
+        Builder time explodes and heroes, pets and research become the real bottlenecks. Keep every hero and pet
+        upgrading in the background, keep the lab running 24/7, and put builders on the new signature defenses first
+        (scattershot, then monolith, then the TH16 defenses). Walls stop being a chore and become a resource sink:
+        dump overflow into walls any time. The <a href="/time-to-max-calculator/">time to max calculator</a> shows why:
+        at these levels the lab and hero bars dwarf the builder bar.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2><Icon name="target" size={20} /> The three rules that matter more than any list</h2>
+    <div class="card">
+      <ol>
+        <li>
+          <strong>Protect the critical path.</strong> Whatever your <a href="/upgrade-time-planner/">time planner</a> says
+          is the bottleneck (lab, heroes or builders) gets every resource first. Everything else can wait a week.
+        </li>
+        <li>
+          <strong>Loot follows levels.</strong> Higher town halls generate more loot per hour even with weaker relative
+          armies. Do not camp at a low TH out of fear; camp because the math says so.
+        </li>
+        <li>
+          <strong>Overflow goes to walls.</strong> Walls take no builder and no time. They are the answer to
+          "my storages are full and every builder is busy".
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Frequently asked questions</h2>
+    <FAQ items={faqItems} />
+  </section>
+
+  <RelatedTools slugs={['/upgrade-time-planner/', '/cost-to-max/', '/time-to-max-calculator/']} tools={TOOLS} />
+</BaseLayout>

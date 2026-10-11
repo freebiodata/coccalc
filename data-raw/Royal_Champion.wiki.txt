@@ -1,0 +1,749 @@
+__NOEDITSECTION__
+
+{{Protection}}
+[[File:Champion Badge.png|65px|center|link=]]
+[[File:Royal Champion Info.png|center|250px|link=]]
+
+<center>
+'''''"Over the {{H|Wall}} and at them! The Royal Champion is only afraid of four things, and the [[Army|enemy]] isn't one of them. Her short range is perfect for stabbing [[Defensive Buildings/Home Village|defenses]] up close and personal."'''''
+</center>
+
+==Summary==
+*The Royal Champion is the fifth [[Heroes|Hero]] unlocked once the [[Hero Hall]] reaches Level 7, which is available at [[Town Hall]] level 13. She has moderately high damage per second, moderate health, and targets {{H|Defensive Buildings|defenses}}. She can also jump over {{H|Walls}}, much like the [[Hog Rider]] and [[Headhunter]].
+*On her default skin, she is a tan-skinned woman with long, braided blue hair with a pointed end held by a golden headband, a scar on her left eye, and blue eyes and eyebrows. She wears a black robe that reaches to her knees held by a blue waistband, a blue cape, navy-colored pants, and black shoes with dark gray straps that form an "x" symbol. She also wears a golden tiara on her forehead with a "v" symbol. She wields a long spear with a wooden shaft, a diamond-shaped, pointed iron end and a has blue band holding both parts, on which she uses it to throw at her opponents when attacking, and wields an octagonal wooden shield with a rounded square metal piece at the center and encased metal at the edges to help her defend from attacks.
+*She throws her spear from a distance to attack enemy [[buildings]], [[troops]] and defending Heroes.
+*As a Hero, the Royal Champion can participate in both attack and defense, but will not be available to use if she is being upgraded.
+**Like other Heroes, she is not upgraded in the [[Laboratory]] but upgraded with a [[Builder]].
+*Like with other heroes, the Royal Champion will defend the village when assigned to a [[Hero Banner]]. Royal Champion only defends her territory around her banner and will retreat if lured too far out.
+*The Royal Champion has moderately high health, but high damage so she is best used as a ranged damage dealer just like the [[Archer Queen]]. Most likely, you want to protect your Royal Champion so that she can destroy defenses.
+*As a Hero, the Royal Champion has an ability that can be used once per battle which allows her to recover some of her health, and the amount increases at every fifth level. The [[Hero Equipment]] that she wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase.
+**When unlocked, she starts with the Royal Gem and Seeking Shield. 
+***The [[Royal Gem]] grants the ability a vastly increased health recovery. It gives a passive increase to damage and max health.
+***The [[Seeking Shield]] allows her to throw a shield with her ability. It seeks out up to four targets - prioritizing defenses - regardless of distance, dealing a large amount of damage to each. It gives a passive increase to max health.
+**Upgrading the [[Blacksmith]] to level 7 and 8 unlocks the Hog Rider Puppet and Haste Vial respectively.
+***The [[Hog Rider Puppet]] summons Hog Riders, provides a brief invisibility, and grants an increased health recovery with her ability. It gives a passive increase to max health.
+***The [[Haste Vial]] greatly increases her movement speed and attack speed for a short duration with her ability. It gives a passive increase to damage and attack speed.
+**Additionally, there are Epic rarity Hero Equipment which can be purchased with event medals during certain events or gems with the [[Trader]].
+***The [[Rocket Spear]] massively increases her attack range and damage and grants a small splash radius for a few attacks with her ability. It gives a passive increase to damage and max health.
+***The [[Electro Boots]] passively create an electric aura similar to that of the [[Electro Titan|Electro Titan's]], dealing damage to nearby enemy units and buildings. It gives a passive increase to max health and grant her self healing.
+***The [[Frost Flake]] shoots multiple snow flakes at the closest defense, freezes them for a short while, and deals a small amount of damage. It gives a passive increase to max health.
+*If the ability has not been used before the Royal Champion is about to be defeated, it will by default automatically activate. However, this feature can be toggled off in the settings (by turning off "Automatically use Hero Abilities on KO").
+*She will prioritize defenses, and will bypass any other buildings to the nearest defense, if there are any remaining. She will not consider the [[Clan Castle]] as a defense regardless of whether or not it contains enemy troops, but will consider the activated Town Hall weapon (if any) to be a defense. However, unlike other defense-targeting troops, if she becomes aware of a defending hero, Clan Castle troops, or [[Skeleton Trap]] Skeletons (either by being attacked by the troops and/or heroes herself, or by being near a friendly troop under attack by those troops and heroes), she will leave her previously targeted defense (or building if there are no defenses) and instead engage with the troops and/or heroes. Once all of the engaged troops and/or heroes are defeated, she will attack the nearest defense, or building, if there are no remaining defenses.
+
+==Strategies==
+===Offensive Strategies===
+*The five Home Village Heroes serve different roles in raids. The [[Barbarian King]] is the strength specialist, the [[Minion Prince]] is the air specialist, the [[Archer Queen]] is the speed specialist, the [[Grand Warden]] is the support specialist and the Royal Champion is the offense specialist. Deploy her behind the Barbarian King as he tanks and deals the damage while the Royal Champion destroys defenses which are distracted by the King, improving both of their survivabilities.
+*The Seeking Shield, when equipped, can destroy weak defenses such as the [[Mortar]] and {{H|Hidden Tesla}} in one hit.
+**This allows the Royal Champion to set up funnels. Sending her like this without much backup is known as a suicide (or sui) Champion.
+*Similar to the Archer Queen Walk, the Royal Champion can be assisted by multiple [[Healer]]s in a Royal Champion Walk. However, due to the shorter range of the Royal Champion, the Healers can easily get in range of {{H|Air Defense}}s.
+**As with the Archer Queen, this is useful for taking out outer buildings before the main attack.
+**A variation of this uses [[Druid]]s instead of Healers, since the former are ground units, but they only heal her for a limited time.
+**Another version of the Royal Champion Walk is to use Invisibility Spells instead of Healers to destroy important defenses, known as the Royal Champion Charge.
+*Send her in with the main pack of a Hybrid ([[Hog Rider]]s and [[Miner]]s) as they will tank for her and she will deal massive damage to the defenses. She also can attack defending Heroes that are attacking the pack, and then will also follow the pack due to also targeting defenses. She will also protect the pack from defending aerial Clan Castle troops.
+*Often it is better to send her later in the attack, where the main army is starting to lose power getting to the backend defenses to take out said defenses. Deploy her when some of the defenses are attacking the main army. Sending her in too early may result in her quick death.
+**One way to do this is when you have a [[Siege Barracks]] in your army, fill that with Hog Riders and then when they deploy, place the Royal Champion with them.
+*When at a sufficiently high level, she can single-handedly take on and destroy the [[Town Hall]]'s [[Giga Tesla]]/[[Giga Inferno]] if it is alone in a compartment, provided that she does not get distracted by anything else in doing so. Keeping a [[Rage Spell]] on hand can help ensure that the Town Hall gets taken down in this manner, and can be used if the Royal Champion is low-leveled.
+**Hero Equipments such as the [[Haste Vial]] can finish off the Town Hall weapon quickly, or snipe it from afar using the [[Rocket Spear]].
+**Her Seeking Shield ability can also get rid of any Hidden Teslas that might appear to protect the Town Hall in such compartments. However, if the ability is used before the Hidden Teslas appear, it will not target them, so time it wisely.
+*If a single-target {{H|Inferno Tower}} is preventing a great placement, bring one [[Earthquake Spell]] and two [[Lightning Spell]]s. This will allow her ability to one shot the Inferno Tower at not that much of a costly investment if you can use them properly.
+*If you do not need to use her ability during battle, you do not always need to. If the battle ends and she does not use her ability, after battle she will recover health equal to the ability recovery.
+**Before the Town Hall 16 update, if you allow her hitpoints to deplete in order to automatically activate her ability, be wary that her shield throwing animation takes a few seconds to complete. If she is taking very heavy damage during this animation (which most often occurs when under fire from a single-target Inferno Tower), she will be defeated before being able to throw the shield to do damage, effectively wasting the ability.
+***However, since the Town Hall 16 update, this no longer happens, as the Seeking Shield will be released instantly if she is about to get taken out by defenses.
+*There are many good Hero Equipment options for the Royal Champion.
+**The Haste Vial and Hog Rider Puppet combo is universally good at most attack strategies, allowing Royal Champion to briefly be invisible while the Hog Riders tank for her, and massively increases the damage she can do in total with the increased attack speed and Hog Riders and charges into the core of the base. 
+***However, this combo is weak to traps such as Giant Bombs, as they will be destroyed with the help of splash damage defenses, allowing the Royal Champion to be targeted, and defeat her.
+**The Seeking Shield and Rocket Spear allows her to pick up a few close by defenses then use her extra range to target defense deep within a base, making her functionally similar to a [[Flame Flinger]] for a while.
+**The Hog Rider Puppet and Royal Gem is useful for the Royal Champion Charge, allowing her to survive for much longer with the Hog Riders tanking for her and the massive health recovery from the ability as both Equipments provide more of it.
+**The Electro Boots and the Hog Rider Puppet can be a very useful combination because it allows her to deal with swarms, allowing the Hog Riders to tank for her and deal more damage, as well as to recover some health.
+**The Electro Boots and the Haste Vial can be helpful to destroy defenses quickly in a Royal Charge, supported by the [[Spirit Fox]] and [[Invisibility Spell]]s. However, this leaves the Royal Champion with no extra healing, meaning that she is more vulnerable to major defenses.
+
+===Defensive Strategies===
+*Defend possible places where a Champion may be used with lots of high DPS defenses, as she has low health.
+*Defend your outer defenses with splash defenses and traps, as the Royal Champion is commonly teamed up with Hogs from a [[Siege Barracks]] or the Hog Rider Puppet.
+*Place minor defenses such as the {{H|Cannon}}, [[Mortar]], or the {{H|Archer Tower}} to soak up possible Seeking Shields, as they will protect higher value defenses. They can also stall the Royal Champion herself.
+**However, this will only apply if the Royal Champion equips the Seeking Shield.
+*The Royal Champion throws her spear very slowly, so use Skeleton Traps to distract her for a long time. The best place to use this is near a single-target Inferno Tower.
+**That is, unless if the Royal Champion has the Rocket Spear, on which most cases will outrange the Inferno Tower and prevent her from triggering Skeleton Traps.
+***In the case if Skeletons manage to distract the Royal Champion, the explosive spear will destroy all of them, due to its splash damage, if they are too close enough to be caught in the explosion.
+****However, if the defensive Skeletons are well-spread, it will waste two or three Rocket Spears, reducing the Royal Champion's value which in turn increases the chances of a successful defense.
+*The best way to defend against a troop or Hero is to defend the strategies they are used, for instance, the Hybrid and LaLo. Those strategies are also common, but the ways the Royal Champion is used in them are quite different.
+
+===Against a Royal Champion===
+*Use several troops or troops with high damage, as she attacks pretty slowly and has low hitpoints compared to relative troops. Dropping a [[Poison Spell]] decreases her attack speed further, giving your troops the upper hand.
+*Using several {{H|Lightning Spell}}s to take her down can also be viable, but it is best used if there are other buildings of value nearby (such as the [[Eagle Artillery]], [[Scattershot]], and/or the [[Firespitter]]).
+*For defense-targeting troops, trying to speed past a Royal Champion is a very viable strategy but may be risky if you fail or if they slow down while still in the radius of a Royal Champion.
+*A sufficiently-upgraded [[Fireball]] from the [[Grand Warden]] can take down the Royal Champion, if she is within the blast radius, but the minimum levels for her to survive a maximum level Fireball can vary depending on the difficulty modifiers, as well being affected by the maximum level for the [[Hero Bell]]'s hero health boost module.
+**Normally, the Fireball can take down the Royal Champion up to level 47, on which a Totem Spell is able to finish her off; below that level she will get knocked out from defending.
+***If boosted by the maximum Hero Bell, this is reduced to level 14, leaving her with exactly 31 hitpoints remaining.
+**In Expert Mode, a level 37 Royal Champion will survive with 2-3 hitpoints remaining.
+***If also boosted by the Hero Bell, this is reduced to at least level 9, leaving her about 14 hitpoints remaining.
+**In Master Mode, a level 29 Royal Champion will survive with about 28 hitpoints remaining.
+***If also boosted by the Hero Bell, this is reduced to at least level 5, where she survives with 21 hitpoints remaining.
+**In Legend Mode, a level 23 or 24 Champion will survive with either 1 or 41 hitpoints remaining, respectively.
+***If also boosted by the Hero Bell, this is reduced to at least level 2, where she survives with exactly 31 hitpoints remaining.
+**In ESports Mode, due to the 6-level reduction, the Royal Champion can survive a level 21 Fireball (maximum level for Epic Equipment) when she is at least level 14.
+***If also boosted by the Hero Bell, she will survive Fireballs, even at level 1, and can be taken out with a Lightning Spell afterwards.
+
+==Statistics==
+<center><div class="stats-background">
+{{Modifiers|type=HeroHV|HAbility=true}}
+{|class="wikitable hero-statistics-table" id="royalchampion-table-1" style="text-align: center; width: 100%;" border="0" cellpadding="1" cellspacing="1"
+!data-type="preferred target"|Preferred Target
+!data-type="attack type"|Attack Type
+!data-type="attack type"|Attack Speed
+!data-type="movement speed"|[[Troop Movement Speed|Movement Speed]]
+!data-type="range"|Range
+!data-type="search-radius"|Search Radius
+|-
+|[[Defensive Buildings|Defenses]]
+|Ranged (Ground & Air)
+|class="AttackSpeed"|1.2s
+|class="ModifierStat Speed Hero"|24
+|3 tiles
+|9 tiles
+|}
+
+{|class="wikitable hero-statistics-table floatheader row-highlight" id="royalchampion-table-2" style="text-align: center; width: 100%;" border="0" cellpadding="1" cellspacing="1"
+!data-type="level"|Level<br/>{{Res|RES=Level}}
+!data-type="dps"|Damage per Second<br/>{{Res|RES=Damage}}
+!data-type="dps"|Damage per Hit<br/>{{Res|RES=Damage}}
+!data-type="hitpoints"|Hitpoints<br/>{{Res|RES=Hitpoint}}
+!data-type="health recovery"|Health Recovery<br/>{{Res|RES=Hitpoint}}
+!data-type="training cost"|Upgrade Cost<br/>{{Res|RES=Dark Elixir}}
+!data-type="training time"|Upgrade Time<br/>{{Res|RES=Time}}
+!data-type="required Hero Hall"|[[Hero Hall]] Level Required<br/>{{Res|RES=Hero Hall}}
+|-
+|1
+|class="ModifierStat DPS Hero"|340
+|class="ModifierStat DPH Hero"|408
+|class="ModifierStat HP Hero"|2,508
+|class="ModifierStat HPRecovery"|400
+|N/A
+|N/A
+|7
+|-
+|2
+|class="ModifierStat DPS Hero"|350
+|class="ModifierStat DPH Hero"|420
+|class="ModifierStat HP Hero"|2,550
+|class="ModifierStat HPRecovery"|400
+|class="GoldPass bCost"|10,000
+|class="GoldPass bTime"|4h
+|7
+|-
+|3
+|class="ModifierStat DPS Hero"|360
+|class="ModifierStat DPH Hero"|432
+|class="ModifierStat HP Hero"|2,593
+|class="ModifierStat HPRecovery"|400
+|class="GoldPass bCost"|15,000
+|class="GoldPass bTime"|10h
+|7
+|-
+|4
+|class="ModifierStat DPS Hero"|370
+|class="ModifierStat DPH Hero"|444
+|class="ModifierStat HP Hero"|2,635
+|class="ModifierStat HPRecovery"|400
+|class="GoldPass bCost"|20,000
+|class="GoldPass bTime"|12h
+|7
+|-
+|5
+|class="ModifierStat DPS Hero"|375
+|class="ModifierStat DPH Hero"|450
+|class="ModifierStat HP Hero"|2,678
+|class="ModifierStat HPRecovery change-highlight"|500
+|class="GoldPass bCost"|25,000
+|class="GoldPass bTime"|20h
+|7
+|-
+|6
+|class="ModifierStat DPS Hero"|380
+|class="ModifierStat DPH Hero"|456
+|class="ModifierStat HP Hero"|2,720
+|class="ModifierStat HPRecovery"|500
+|class="GoldPass bCost"|30,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|7
+|class="ModifierStat DPS Hero"|385
+|class="ModifierStat DPH Hero"|462
+|class="ModifierStat HP Hero"|2,763
+|class="ModifierStat HPRecovery"|500
+|class="GoldPass bCost"|35,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|8
+|class="ModifierStat DPS Hero"|390
+|class="ModifierStat DPH Hero"|468
+|class="ModifierStat HP Hero"|2,805
+|class="ModifierStat HPRecovery"|500
+|class="GoldPass bCost"|40,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|9
+|class="ModifierStat DPS Hero"|396
+|class="ModifierStat DPH Hero"|475.2
+|class="ModifierStat HP Hero"|2,848
+|class="ModifierStat HPRecovery"|500
+|class="GoldPass bCost"|45,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|10
+|class="ModifierStat DPS Hero"|402
+|class="ModifierStat DPH Hero"|482.4
+|class="ModifierStat HP Hero"|2,890
+|class="ModifierStat HPRecovery change-highlight"|600
+|class="GoldPass bCost"|50,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|11
+|class="ModifierStat DPS Hero"|408
+|class="ModifierStat DPH Hero"|489.6
+|class="ModifierStat HP Hero"|2,933
+|class="ModifierStat HPRecovery"|600
+|class="GoldPass bCost"|53,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|12
+|class="ModifierStat DPS Hero"|414
+|class="ModifierStat DPH Hero"|496.8
+|class="ModifierStat HP Hero"|2,975
+|class="ModifierStat HPRecovery"|600
+|class="GoldPass bCost"|56,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|13
+|class="ModifierStat DPS Hero"|420
+|class="ModifierStat DPH Hero"|504
+|class="ModifierStat HP Hero"|3,018
+|class="ModifierStat HPRecovery"|600
+|class="GoldPass bCost"|59,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|14
+|class="ModifierStat DPS Hero"|426
+|class="ModifierStat DPH Hero"|511.2
+|class="ModifierStat HP Hero"|3,060
+|class="ModifierStat HPRecovery"|600
+|class="GoldPass bCost"|62,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|15
+|class="ModifierStat DPS Hero"|432
+|class="ModifierStat DPH Hero"|518.4
+|class="ModifierStat HP Hero"|3,103
+|class="ModifierStat HPRecovery change-highlight"|700
+|class="GoldPass bCost"|65,000
+|class="GoldPass bTime"|1d
+|7
+|-
+|16
+|class="ModifierStat DPS Hero"|438
+|class="ModifierStat DPH Hero"|525.6
+|class="ModifierStat HP Hero"|3,145
+|class="ModifierStat HPRecovery"|700
+|class="GoldPass bCost"|70,000
+|class="GoldPass bTime"|1d 12h
+|7
+|-
+|17
+|class="ModifierStat DPS Hero"|444
+|class="ModifierStat DPH Hero"|532.8
+|class="ModifierStat HP Hero"|3,188
+|class="ModifierStat HPRecovery"|700
+|class="GoldPass bCost"|75,000
+|class="GoldPass bTime"|1d 12h
+|7
+|-
+|18
+|class="ModifierStat DPS Hero"|448
+|class="ModifierStat DPH Hero"|537.6
+|class="ModifierStat HP Hero"|3,230
+|class="ModifierStat HPRecovery"|700
+|class="GoldPass bCost"|80,000
+|class="GoldPass bTime"|1d 12h
+|7
+|-
+|19
+|class="ModifierStat DPS Hero"|452
+|class="ModifierStat DPH Hero"|542.4
+|class="ModifierStat HP Hero"|3,273
+|class="ModifierStat HPRecovery"|700
+|class="GoldPass bCost"|85,000
+|class="GoldPass bTime"|1d 12h
+|7
+|-
+|20
+|class="ModifierStat DPS Hero"|456
+|class="ModifierStat DPH Hero"|547.2
+|class="ModifierStat HP Hero"|3,315
+|class="ModifierStat HPRecovery change-highlight"|800
+|class="GoldPass bCost"|90,000
+|class="GoldPass bTime"|1d 12h
+|7
+|-
+|21
+|class="ModifierStat DPS Hero"|460
+|class="ModifierStat DPH Hero"|552
+|class="ModifierStat HP Hero"|3,349
+|class="ModifierStat HPRecovery"|800
+|class="GoldPass bCost"|95,000
+|class="GoldPass bTime"|2d
+|7
+|-
+|22
+|class="ModifierStat DPS Hero"|465
+|class="ModifierStat DPH Hero"|558
+|class="ModifierStat HP Hero"|3,383
+|class="ModifierStat HPRecovery"|800
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime"|2d
+|7
+|-
+|23
+|class="ModifierStat DPS Hero"|470
+|class="ModifierStat DPH Hero"|564
+|class="ModifierStat HP Hero"|3,417
+|class="ModifierStat HPRecovery"|800
+|class="GoldPass bCost"|105,000
+|class="GoldPass bTime"|2d
+|7
+|-
+|24
+|class="ModifierStat DPS Hero"|474
+|class="ModifierStat DPH Hero"|568.8
+|class="ModifierStat HP Hero"|3,451
+|class="ModifierStat HPRecovery"|800
+|class="GoldPass bCost"|110,000
+|class="GoldPass bTime"|2d
+|7
+|-
+|25
+|class="ModifierStat DPS Hero"|477
+|class="ModifierStat DPH Hero"|572.4
+|class="ModifierStat HP Hero"|3,485
+|class="ModifierStat HPRecovery change-highlight"|900
+|class="GoldPass bCost"|115,000
+|class="GoldPass bTime"|2d
+|7
+|-
+|26
+|class="ModifierStat DPS Hero"|480
+|class="ModifierStat DPH Hero"|576
+|class="ModifierStat HP Hero"|3,519
+|class="ModifierStat HPRecovery"|900
+|class="GoldPass bCost"|120,000
+|class="GoldPass bTime"|3d
+|class="change-highlight"|8
+|-
+|27
+|class="ModifierStat DPS Hero"|483
+|class="ModifierStat DPH Hero"|579.6
+|class="ModifierStat HP Hero"|3,553
+|class="ModifierStat HPRecovery"|900
+|class="GoldPass bCost"|125,000
+|class="GoldPass bTime"|3d
+|8
+|-
+|28
+|class="ModifierStat DPS Hero"|486
+|class="ModifierStat DPH Hero"|583.2
+|class="ModifierStat HP Hero"|3,587
+|class="ModifierStat HPRecovery"|900
+|class="GoldPass bCost"|130,000
+|class="GoldPass bTime"|3d
+|8
+|-
+|29
+|class="ModifierStat DPS Hero"|489
+|class="ModifierStat DPH Hero"|586.8
+|class="ModifierStat HP Hero"|3,621
+|class="ModifierStat HPRecovery"|900
+|class="GoldPass bCost"|135,000
+|class="GoldPass bTime"|3d
+|8
+|-
+|30
+|class="ModifierStat DPS Hero"|492
+|class="ModifierStat DPH Hero"|590.4
+|class="ModifierStat HP Hero"|3,655
+|class="ModifierStat HPRecovery change-highlight"|1,000
+|class="GoldPass bCost"|140,000
+|class="GoldPass bTime"|3d
+|8
+|-
+|31
+|class="ModifierStat DPS Hero"|495
+|class="ModifierStat DPH Hero"|594
+|class="ModifierStat HP Hero"|3,681
+|class="ModifierStat HPRecovery"|1,000
+|class="GoldPass bCost"|145,000
+|class="GoldPass bTime"|4d
+|class="change-highlight"|9
+|-
+|32
+|class="ModifierStat DPS Hero"|498
+|class="ModifierStat DPH Hero"|597.6
+|class="ModifierStat HP Hero"|3,706
+|class="ModifierStat HPRecovery"|1,000
+|class="GoldPass bCost"|150,000
+|class="GoldPass bTime"|4d
+|9
+|-
+|33
+|class="ModifierStat DPS Hero"|502
+|class="ModifierStat DPH Hero"|602.4
+|class="ModifierStat HP Hero"|3,732
+|class="ModifierStat HPRecovery"|1,000
+|class="GoldPass bCost"|155,000
+|class="GoldPass bTime"|4d
+|9
+|-
+|34
+|class="ModifierStat DPS Hero"|506
+|class="ModifierStat DPH Hero"|607.2
+|class="ModifierStat HP Hero"|3,757
+|class="ModifierStat HPRecovery"|1,000
+|class="GoldPass bCost"|160,000
+|class="GoldPass bTime"|4d
+|9
+|-
+|35
+|class="ModifierStat DPS Hero"|510
+|class="ModifierStat DPH Hero"|612
+|class="ModifierStat HP Hero"|3,783
+|class="ModifierStat HPRecovery change-highlight"|1,100
+|class="GoldPass bCost"|165,000
+|class="GoldPass bTime"|4d
+|9
+|-
+|36
+|class="ModifierStat DPS Hero"|514
+|class="ModifierStat DPH Hero"|616.8
+|class="ModifierStat HP Hero"|3,808
+|class="ModifierStat HPRecovery"|1,100
+|class="GoldPass bCost"|170,000
+|class="GoldPass bTime"|5d
+|9
+|-
+|37
+|class="ModifierStat DPS Hero"|518
+|class="ModifierStat DPH Hero"|621.6
+|class="ModifierStat HP Hero"|3,834
+|class="ModifierStat HPRecovery"|1,100
+|class="GoldPass bCost"|175,000
+|class="GoldPass bTime"|5d
+|9
+|-
+|38
+|class="ModifierStat DPS Hero"|522
+|class="ModifierStat DPH Hero"|626.4
+|class="ModifierStat HP Hero"|3,859
+|class="ModifierStat HPRecovery"|1,100
+|class="GoldPass bCost"|180,000
+|class="GoldPass bTime"|5d
+|9
+|-
+|39
+|class="ModifierStat DPS Hero"|526
+|class="ModifierStat DPH Hero"|631.2
+|class="ModifierStat HP Hero"|3,885
+|class="ModifierStat HPRecovery"|1,100
+|class="GoldPass bCost"|200,000
+|class="GoldPass bTime"|5d
+|9
+|-
+|40
+|class="ModifierStat DPS Hero"|530
+|class="ModifierStat DPH Hero"|636
+|class="ModifierStat HP Hero"|3,910
+|class="ModifierStat HPRecovery change-highlight"|1,200
+|class="GoldPass bCost"|220,000
+|class="GoldPass bTime"|5d
+|9
+|-
+|41
+|class="ModifierStat DPS Hero"|533
+|class="ModifierStat DPH Hero"|639.6
+|class="ModifierStat HP Hero"|3,936
+|class="ModifierStat HPRecovery"|1,200
+|class="GoldPass bCost"|240,000
+|class="GoldPass bTime"|5d
+|class="change-highlight"|10
+|-
+|42
+|class="ModifierStat DPS Hero"|536
+|class="ModifierStat DPH Hero"|643.2
+|class="ModifierStat HP Hero"|3,961
+|class="ModifierStat HPRecovery"|1,200
+|class="GoldPass bCost"|260,000
+|class="GoldPass bTime"|6d
+|10
+|-
+|43
+|class="ModifierStat DPS Hero"|539
+|class="ModifierStat DPH Hero"|646.8
+|class="ModifierStat HP Hero"|3,987
+|class="ModifierStat HPRecovery"|1,200
+|class="GoldPass bCost"|280,000
+|class="GoldPass bTime"|6d 12h
+|10
+|-
+|44
+|class="ModifierStat DPS Hero"|542
+|class="ModifierStat DPH Hero"|650.4
+|class="ModifierStat HP Hero"|4,012
+|class="ModifierStat HPRecovery"|1,200
+|class="GoldPass bCost"|300,000
+|class="GoldPass bTime"|7d
+|10
+|-
+|45
+|class="ModifierStat DPS Hero"|545
+|class="ModifierStat DPH Hero"|654
+|class="ModifierStat HP Hero"|4,038
+|class="ModifierStat HPRecovery change-highlight"|1,300
+|class="GoldPass bCost"|320,000
+|class="GoldPass bTime"|7d 12h
+|10
+|-
+|46
+|class="ModifierStat DPS Hero"|548
+|class="ModifierStat DPH Hero"|657.6
+|class="ModifierStat HP Hero"|4,064
+|class="ModifierStat HPRecovery"|1,300
+|class="GoldPass bCost"|340,000
+|class="GoldPass bTime"|8d
+|class="change-highlight"|11
+|-
+|47
+|class="ModifierStat DPS Hero"|551
+|class="ModifierStat DPH Hero"|661.2
+|class="ModifierStat HP Hero"|4,090
+|class="ModifierStat HPRecovery"|1,300
+|class="GoldPass bCost"|350,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|48
+|class="ModifierStat DPS Hero"|554
+|class="ModifierStat DPH Hero"|664.8
+|class="ModifierStat HP Hero"|4,116
+|class="ModifierStat HPRecovery"|1,300
+|class="GoldPass bCost"|360,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|49
+|class="ModifierStat DPS Hero"|557
+|class="ModifierStat DPH Hero"|668.4
+|class="ModifierStat HP Hero"|4,142
+|class="ModifierStat HPRecovery"|1,300
+|class="GoldPass bCost"|370,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|50
+|class="ModifierStat DPS Hero"|560
+|class="ModifierStat DPH Hero"|672
+|class="ModifierStat HP Hero"|4,168
+|class="ModifierStat HPRecovery change-highlight"|1,400
+|class="GoldPass bCost"|380,000
+|class="GoldPass bTime"|8d
+|11
+
+|-
+|51
+|class="ModifierStat DPS Hero"|563
+|class="ModifierStat DPH Hero"|675.6
+|class="ModifierStat HP Hero"|4,194
+|class="ModifierStat HPRecovery"|1,400
+|class="GoldPass bCost"|400,000
+|class="GoldPass bTime"|8d
+|class="change-highlight"|12
+|-
+|52
+|class="ModifierStat DPS Hero"|566
+|class="ModifierStat DPH Hero"|679.2
+|class="ModifierStat HP Hero"|4,220
+|class="ModifierStat HPRecovery"|1,400
+|class="GoldPass bCost"|410,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|53
+|class="ModifierStat DPS Hero"|569
+|class="ModifierStat DPH Hero"|682.8
+|class="ModifierStat HP Hero"|4,246
+|class="ModifierStat HPRecovery"|1,400
+|class="GoldPass bCost"|420,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|54
+|class="ModifierStat DPS Hero"|572
+|class="ModifierStat DPH Hero"|686.4
+|class="ModifierStat HP Hero"|4,272
+|class="ModifierStat HPRecovery"|1,400
+|class="GoldPass bCost"|430,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|55
+|class="ModifierStat DPS Hero"|575
+|class="ModifierStat DPH Hero"|690
+|class="ModifierStat HP Hero"|4,298
+|class="ModifierStat HPRecovery change-highlight"|1,500
+|class="GoldPass bCost"|450,000
+|class="GoldPass bTime"|8d
+|12
+|}
+
+</div>
+</center>
+
+==Hero Equipment==
+*When attacking, the Royal Champion can use two of the below pieces of Hero Equipment, which change the abilities she has and grants additional stat bonuses.
+*The Royal Champion does not use any Hero Equipment when defending.
+*Select the equipment below to learn more about the abilities and stat bonuses that each piece gives.
+<div class="flexbox-display bold-text hovernav">
+<div style="width:150px">[[File:Royal Gem.png|100px|link=Royal Gem]]<div>[[Royal Gem]]</div></div>
+<div style="width:150px">[[File:Seeking Shield.png|100px|link=Seeking Shield]]<div>[[Seeking Shield]]</div></div>
+<div style="width:150px">[[File:Hog Rider Puppet.png|100px|link=Hog Rider Puppet]]<div>[[Hog Rider Puppet]]</div></div>
+<div style="width:150px">[[File:Haste Vial.png|100px|link=Haste Vial]]<div>[[Haste Vial]]</div></div>
+<div style="width:150px">[[File:Rocket Spear.png|100px|link=Rocket Spear]]<div>[[Rocket Spear]]</div></div>
+<div style="width:150px">[[File:Electro Boots.png|100px|link=Electro Boots]]<div>[[Electro Boots]]</div></div>
+<div style="width:150px">[[File:Frost Flake.png|100px|link=Frost Flake]]<div>[[Frost Flake]]</div></div>
+</div>
+
+==History==
+{|class="fandom-table"
+!Patch!!Type!!Description
+|-
+!December 9, 2019
+!Town Hall 13 Update
+|Added the Royal Champion. with 20 levels.
+|-
+!December 8, 2020
+!Logmas Update
+|Added levels 21 to 25 Royal Champion.
+|-
+!April 12, 2021
+!Town Hall 14 Update
+|Added levels 26 to 30 Royal Champion.
+|-
+!September 13, 2022
+!Update
+|Reduced Seeking Shield health regenerations at levels 5 and 6:
+*Level 5: 2,900 -> 2,800 {{Res|RES=Hitpoint}}
+*Level 6: 3,200 -> 3,000 {{Res|RES=Hitpoint}}
+|-
+!October 10, 2022
+!Town Hall 15 Update
+|Added levels 31 to 35 Royal Champion.
+|-
+!June 12, 2023
+!Summer Update
+|Added levels 36 to 40 Royal Champion.
+|-
+!December 12, 2023
+!Town Hall 16 Update
+|
+*Added levels 41 to 45 Royal Champion.
+*Replaced the Seeking Shield ability with Hero Equipment of [[Seeking Shield]] and [[Royal Gem]].
+|-
+!November 25, 2024
+!Town Hall 17 Update
+|
+*Added levels 46 to 50 Royal Champion.
+*The Royal Champion is no longer unlocked by placing down [[Royal Champion Altar|her Altar]], but from upgrading [[Hero Hall]] to level 6. Her Altar is replaced by the [[Hero Banner]] obstacle.
+|-
+!March 27, 2025
+!Clash Anytime Update
+|Removed Regeneration Time.
+|-
+!November 17, 2025
+!Town Hall 18 Update
+|Added levels 51 to 55 Royal Champion.
+|}
+
+==Hero Skins==
+===Skin Availability===
+{{Skin Availability|Royal Champion}}
+
+===<big>Royal Champion Skins</big>===
+{{Wardrobe-RC|Grand_Warden#Grand_Warden_Skins|Barbarian_King#Barbarian_King_Skins}}
+<div style="display:none;">''Alternatively, see [[Royal Champion/Skins]] for a gallery.''</div>
+
+===Royal Champion Skin Features===
+{{:Royal Champion/Skin Features}}
+
+===Notes===
+*Some of the Royal Champion's skins feature her holding different objects instead of a spear and shield:
+**With the Gladiator Champion, she holds a lightning bolt and a dipylon, a Greek shield.
+**With the Shadow Champion, she holds a shovel and a skull lantern.
+**With the Primal Champion skin, she holds a turtle in her left hand.
+**With the Summer Champion skin, she holds a harpoon and a basket full of pearls.
+**With the Party Champion skin, she holds a jukebox.
+**With the Magic Champion skin, she has a crow perched on her left hand.
+**With the Pirate Champion skin, she holds a boat wheel.
+**With the Painter Champion skin, she holds a a paintbrush and a bucket.
+**With the Jolly Champion skin, she holds a candy cane and a cookie.
+**With the Dragon Champion Skin, she holds a trident.
+**With the Space Champion skin, she holds a staff with a ball and floating rings.
+**With the Egypt Skin, she holds a cobra.
+**With the Football Skin, she uses a football.
+**With the Wild West Champion, her spear has dynamite attached to it, and her shield is a wooden barrel lid with rope wrapped around it.
+**With The RoyalEST skin, her spear is made of a red ring post with leftover blue ring ropes attached to it, and her shield has a red kiss symbol.
+**With the Royal Ninja skin, her shield is replaced by giant shuriken and her spear is replaced with the ''[[wikipedia:Yari|Jumonji Yari]]'', which is a bit similar to [[w:c:shadowfight:Corporal|Corporal/Lieutenant]]'s weapon from ''Shadow Fight 2''.
+**With the Showtime Champion, she uses a microphone and her shield is a [[wikipedia:Phonograph record|vinyl record]].
+*The Champion's Champion skin is the only skin for the Royal Champion to wield a glowing spear.
+*The Space Champion skin uses a unique jumping sound when she pphops over {{H|Walls}} while idle in the Home Village. Her thrown spears also use a laser beam sound effect.
+
+==Trivia==
+===General===
+*The Royal Champion was revealed with the [[Town Hall]] 13 teaser trailer, but only her chin and her waist are visible. Another teaser picture showed her blue hair and her golden headband, both times with other heroes in their full portrait, and the Royal Champion's photo being torn.
+*Her "Seeking Shield" ability is very similar to [[wikipedia:Captain America|Captain America]]'s shield throw.
+*She could be named after a [[w:c:clashroyale:Trophies|Clash Royale league]] of the same name.
+*Her name is labeled as 'warriorprincess' in the game's files.
+*The Royal Champion is voiced by Bonnie Bogovich, an actress and composer known for ''[[wikipedia:I Expect You to Die|I Expect You to Die]]'', ''[[wikipedia:Pathfinder:Kingmaker|Pathfinder: Kingmaker]]'', and ''[[w:c:garenafreefire|Free Fire]]''.
+*According to [https://youtu.be/M8P1HF-0bPI?t=110 The Making of a Hero], the Royal Champion was originally going to be a "Valkyrie Queen". Her design was also inspired by ''[[wikipedia:Xena: Warrior Princess|Xena: Warrior Princess]]'' and the Wakanda warriors.
+*According to ''The Art of Supercell'', the team was looking for a [[wikipedia:Wonder Woman|Wonder Woman]] or Amazonian type character as the game's fourth hero.
+*Unlike the other Heroes, she can take out [[Builder's Hut]]s (while not weaponized) in one hit at any level.
+*The Royal Champion is the first Hero/unit to be 3D at the original release. Because of this, the Royal Champion does not have any upgrade differences, and the same thing applies to the [[Minion Prince]] who is also a 3D Hero.
+*In promotional artwork, the Winter Champion carries her shield in her left hand and her spear in her right hand, which is the opposite of how the skin appears in the game.
+*The ability sound of the Royal Champion is identical to the last charging sound made by the [[Eagle Artillery]] before activating, but with a 50% increase in pitch and a 20% increase in tempo.
+*When the Royal Champion is paired with the Seeking Shield equipment, some unique interactions occur:
+**Once the Royal Champion uses her ability and throws her shield, she will continue fighting without it (this is only a visual detail and has no effect on her stats). If she is defeated after using the ability, the shield will also be absent from her knockout animation.
+**If the Seeking Shield is activated when the last building on the map is [[Invisibility Spell|invisible]] or [[Overgrowth Spell|untargetable]], the shield will fly towards the top corner of the base, effectively wasting the ability.
+*Despite the March 27, 2025 maintenance break that removed training times in the Home Village, the "regeneration time" statistic is still visible in Hero info screens, although it does not have an effect on gameplay.
+**The regeneration time starts at 30 minutes and increases by 2 minutes at every fifth level to a maximum of 48 minutes at level 45 onwards.
+**This has been fixed in a later update.<sup>[please specify what update]</sup>
+===Comparisons===
+*The Royal Champion and the Grand Warden are the only ground [[Heroes]] that can bypass {{H|Walls}}.
+*The Royal Champion is the only Hero in the game that specifically targets defenses.
+**She is also the only Hero in the game to have a preferred target.
+*The Royal Champion, alongside the [[Battle Machine]] and the [[Battle Copter]], are the only Heroes not to be based on a specific troop.
+**However, she behaves similarly to a ranged [[Hog Rider]]. When Hero Equipment was added, she can also summon them with the [[Hog Rider Puppet]], much like the [[Barbarian King]] with the [[Barbarian Puppet]], the [[Archer Queen]] with the [[Archer Puppet]] and the [[Healer Puppet]], and the [[Lavaloon Puppet]] from the Grand Warden.
+
+{{TroopsMenuHV}}
+
+[[Category:Troops]]
+[[Category:Dark Elixir Troops]]
+[[Category:Heroes]]
+[[Category:Special Abilities]]
+[[Category:Home Village]]
+
+[[de:Königliche Gladiatorin]]
+[[ru:Королевский Чемпион]]

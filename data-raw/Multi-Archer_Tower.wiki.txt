@@ -1,0 +1,281 @@
+__NOEDITSECTION__
+{{Protection}}
+{{For|its unmerged version|Archer Tower/Home Village}}
+{{For|the defenses with similar names|Multi Cannon|Multi Mortar}}
+
+[[File:Multi-Archer Tower4.png|200px|center|link=]]
+
+<center>'''''"These [[Archer]]s have teamed up to take out [[Army|attackers]] faster and more furiously than ever. Teamwork makes the dream work!"'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Multi-Archer Tower Ruin.png|120px|link=]]<div>Construction</div></div>
+<div>[[File:Multi-Archer Tower1.png|120px|link=]]<div>Level 1</div></div>
+<div>[[File:Multi-Archer Tower2.png|120px|link=]]<div>Level 2</div></div>
+<div>[[File:Multi-Archer Tower3.png|120px|link=]]<div>Level 3</div></div>
+<div>[[File:Multi-Archer Tower4.png|148x148px|link=]]<div>Level 4</div></div>
+</div>
+
+==Summary==
+*The Multi-Archer Tower is a multiple-targeting defense that unlocks at [[Town Hall]] 16, and is constructed by merging two level 21 {{H|Archer Tower}}s together.
+**The merging process cannot be undone once the construction is started. The Multi-Archer Tower cannot be split back into two Archer Towers.
+**An Archer Tower that has been geared up cannot be selected for merging.
+**Merging all of the Archer Towers into Multi-Archer Towers to the Town Hall limit is required to upgrade the Town Hall to the next level, similar to the "placing all of the buildings" requirement.
+*Compared to two normal Archer Towers, the Multi-Archer Tower starts off with 50% more health and a bit more than double the total damage per second than the two combined, but attacks at a slower rate.
+**These metrics will keep improving as it levels up while the normal Archer Towers stop getting new levels, extending the usefulness of merging.
+*When attacking opponents, the Multi-Archer Tower can target up to three different units in its range. The Archers atop the tower prioritize attacking as many targets as possible; therefore, the Multi-Archer Tower's behavior changes depending on the number of targets in range:
+**If three or more units are in its range, each Archer on the Multi-Archer Tower will target a different unit, dealing equal damage to each simultaneously.
+**There are different interactions if there are at least two targets in its range:
+***The unit closer to the Multi-Archer Tower will be targeted by two Archers, while the farther one will be targeted by one.
+***If both units are about equal in distance and far apart, two Archers will target the first unit that was deployed, while the other one will be targeted by one.
+***If both units are deployed close to each other, the third Archer alternates between the two targets to spread the damage evenly.
+**If only one unit is in its range, all three Archers will target that unit, focusing all of their fire power on them.
+
+==Strategies==
+===Defensive Strategies===
+*Multi-Archer Towers are well-rounded defenses. Although outputting less damage per second per target than a normal {{H|Archer Tower}}, and having less potential damage per second than a multi-targeting {{H|Inferno Tower}} (given that the Inferno Tower can target twice as many units with similar DPS), it has the flexibility to handle both single targets and groups with relative efficiency, because the Archers atop the tower will retarget as necessary. As an added bonus, Multi-Archer Towers have extremely high hitpoints (a lot more than the combined hitpoints of both unmerged Archer Towers), rivaling major defenses like the [[Monolith]] and the [[Eagle Artillery]], though not as much as the Town Hall at relative levels.
+*Like the [[Ricochet Cannon]] and the [[Inferno Artillery]], the Multi-Archer Tower can counter the use of singular tank troops, as they are able to hit targets behind said tank. A use case for this is targeting a Hero's pet, such as the [[Unicorn]] following an [[Archer Queen]].
+**Certain Pets like [[Frosty]] and [[Sneezy]] can summon subunits, reducing the damage output of the Multi-Archer Tower, as [[Frosty/Frostmite|Frostmites]] will slow it down and [[Sneezy/Booger|Boogers]] will distract it due to their high hitpoints.
+**If Sneezy is paired with the Archer Queen or the [[Grand Warden]], she cannot be targeted due to their long range combined with the distance from said Heroes, unless if they get closer to the Multi-Archer Tower's range, rendering her vulnerable.
+*It can be surprisingly good with dealing against tanks, especially against the [[Lava Hound]], of which they will destroy the Hound quickly, and take out the Lava Pups in a very quick speed, since they will be destroyed by one shot per Archer.
+
+===Offensive Strategies===
+*If you are attacking a Multi-Archer Tower with a large number of troops, the resulting interaction will play out similar to attacking a multi-targeting Inferno Tower, except the Multi-Archer Tower will be weaker due to lower number of targets. However, against single units such as a lone [[Royal Champion]] or [[Archer Queen]], the Multi-Archer Tower will prove to be very potent, with damage per second exceeding that of most other single-target defenses like the {{H|X-Bow}} or a fast-attack Archer Tower.
+*To prevent the Multi-Archer Tower from targeting all your valuable units at once, you can prevent them from being targeted by using an [[Invisibility Spell]]. [[Freeze Spell]]s and [[Overgrowth Spell]] are a staple to disable the defense, if it should be required.
+*If attacking a Multi-Archer Tower with a lone [[Barbarian King]] or Archer Queen, using their abilities while having the [[Barbarian Puppet]] or [[Archer Puppet]] equipped will summon a large number of distracting troops that will force the Multi-Archer Tower to fire in three-target mode, reducing fire on the Hero. This could theoretically work with the [[Healer Puppet]] equipped, but is not advisable unless the Queen will quickly destroy the tower afterwards, as the [[Healer]]s will be quickly whittled down. For the [[Magic Mirror]], the original Queen will get reduced damage when her clone is also hit by the Multi-Archer Tower as it have enough hitpoints as a distraction, and further reduced when the Magic Mirror is at level 18 and above. For the [[Snake Bracelet]], the [[Snake Bracelet/Snake|Snakes]] will distract the Multi Archer Tower the more the King takes damage, which can eventually overwhelm the Multi-Archer Tower and eventually get it destroyed.
+
+==Upgrade Differences==
+The Multi-Archer Tower undergoes significant visual changes at levels 2, 3 and 4.
+*When both Archer Towers are merged, only the base appears and the platform is not completed yet. It has segmented white stone pillars, each with a bronze brace at the bottom, the pillar reinforcement is a two-staged dark stone foundation with a bronze strip that has a bronze spike at the corner. The sides of the tower no longer have gold stairs with two steps and are replaced with dark stone cutting down in size two times. The core of the tower is a large tree trunk with curling branches strangling the pillar reinforcement. At the top, there are leaves covering the tree trunk.
+**When constructed, most of the leaves have been removed besides some that is growing on the branches. The platform is completed with grey metal battlements and its top protrudes upward, the corner pieces is golden on top and made of red wood at the bottom which narrows. The platform has a red wooden frame which contains a floor made with red wood planks forming a rhombus and triangular golden plates filling the floor pointing at the corners. The side of the battlements have a green leaf symbol (symbol of Town Hall 16) with bronze outlines on top of a grey metal band on each side. The pillars gain a segment and the trunk is now taller.
+**At level 2, all the bronze pieces are now golden. The corner pieces gain a dark grey metal plate with a spike over the red wood bottom. A golden rhombus stub is added to the top of the outline of each leaf symbol, and two green flags with golden outlines are added under the symbol.
+**At level 3, all the bronze pieces turn into iron. The battlements now gain castle-like reinforcements and have iron plates with two stubs each, and at the corners, it gains another metal plate with three studs and the existing one gains two smaller spikes at the sides each. The platform has entirely changed to stone, and has four metal plates on it. The leaf symbols have been replaced by shields with two layers, with a yellow gem at the center each. Additionally, the base is no longer a tree trunk and is instead a tall, stone base which holds the tower in place, gains a stone foundation, and there are no longer any leaves and roots. The pillars are now blue, and the corner supports are now made of dark stone with golden braces.
+**At level 4, TBA.
+
+===Archer Appearance Changes===
+*The apparent level of the Archer atop the tower also changes with the level.
+**When constructed and at level 2, the Archer Tower has three Archers on its platform, with the appearance of a level 12 Archers. It still shoots arrows that explode upon impact which come from the unmerged level 21 Archer Towers. However, when the Multi-Archer Tower attacks, it makes a sound effect different from the regular Archer Towers. The Archers atop the Multi-Archer Tower looks out by tilting their heads.
+**At level 3 and 4, the Archer's appearance changes to that of a level 13 Archer. The Archers' looks out animation is fully animated, turning their head and body to the side.
+
+==Statistics==
+<center><div class="stats-background">
+{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH16=2|TH17=3<!--|TH18=4-->}}
+{{BuildingSize|3x3}}
+{|class="wikitable mode-toggle-mode-1"border="0"cellpadding="1"cellspacing="1"style="text-align:center;width:100%;"
+!Level<br>{{Res|Level|SIZE=17}}
+!Damage per Second per Archer<br>{{Res|Damage}}
+!Damage per Hit<br>{{Res|Damage}}
+!Hitpoints<br>{{Res|Hitpoint}}
+!Build Cost<br>{{Res|Gold}}
+!Build Time<br>{{Res|Time}}
+![[Experience]] Gained<br>{{Res|XP}}
+![[Town Hall]] Level Required<br>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|100
+|class="ModifierStat DPH Building"|60
+|5,000
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|7d
+|class="GoldPass EXP"|777
+|16
+|-
+|2
+|class="ModifierStat DPS Building"|108
+|class="ModifierStat DPH Building"|65
+|5,200
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|8d
+|class="GoldPass EXP"|831
+|16
+|-
+|3
+|class="ModifierStat DPS Building"|116
+|class="ModifierStat DPH Building"|70
+|5,400
+|class="GoldPass bCost"|17,500,000
+|class="GoldPass bTime" style="white-space:nowrap"|9d
+|class="GoldPass EXP"|881
+|17
+|-
+|4
+|class="ModifierStat DPS Building"|121
+|class="ModifierStat DPH Building"|73
+|5,500
+|class="GoldPass bCost"|27,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|14d
+|class="GoldPass EXP"|1,099
+|18
+|}
+
+===Supercharges===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level of this building is added.
+{{Supercharge}}
+{|class="wikitable mode-toggle-mode-1" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Charge Level<br>{{Res|Supercharge|SIZE=17}}
+!Damage per Second per Archer<br>{{Res|Damage|SIZE=28}}
+!Damage per Shot<br>{{Res|Damage|SIZE=28}}
+!Hitpoints<br>{{Res|Hitpoint|SIZE=20}}
+!Build Cost<br>{{Res|Gold|SIZE=20}}
+!Build Time<br>{{Res|Time|SIZE=18}}
+![[Experience]] Gained<br>{{Res|XP}}
+![[Town Hall]] Level Required<br>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building change-highlight"|126
+|class="ModifierRange DPH Building change-highlight"|76
+|5,500
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|6d
+|class="GoldPass EXP"|720
+|18
+|-
+|2
+|class="ModifierStat DPS Building"|126
+|class="ModifierRange DPH Building"|76
+|class="change-highlight"|5,600
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime" style="white-space:nowrap"|7d
+|class="GoldPass EXP"|777
+|18
+|}
+{|class="wikitable"style="text-align:center;width:100%;"cellspacing="1"cellpadding="1"border="0"
+!Number of Targets<br>{{Res|Target}}
+!Range<br>{{Res|Range}}
+!Attack Speed<br>{{Res|Attack Speed}}
+!Damage Type<br>{{Res|Damage Type}}
+!Unit Type Targeted<br>{{Res|Target}}
+|-
+|3||10||class="AttackSpeed"|0.6s||Multiple Targets||Ground & Air
+|}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Multi-Archer Tower Terminator'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 50 Multi-Archer Towers in Multiplayer Battles||100||25
+|-
+|Destroy 500 Multi-Archer Towers in Multiplayer Battles||800||75
+|-
+|Destroy 5,000 Multi-Archer Towers in Multiplayer Battles||5,000||200
+|}
+{{IconDescriptions|Defense=Yes|Upgradable=Yes|Supercharge=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible"style="width:100%;"
+!Patch
+!Description
+|-
+!December 6, 2023
+|Announced the Multi-Archer Tower, with 2 levels. [[File:Multi-Archer Tower1.png|65px]][[File:Multi-Archer Tower2.png|65px]]
+|-
+!December 12, 2023
+|Added the Multi-Archer Tower, with two are available at Town Hall 16.
+|-
+!March 26, 2024
+|Increased damage per second per Archer by 10 at all levels. {{Res|Damage}}
+|-
+!November 25, 2024
+|
+*Added the third Multi-Archer Tower available at Town Hall 17.
+*Added the level 3 Multi-Archer Tower. [[File:Multi-Archer Tower3.png|65px]]
+*Added 2 Supercharge levels for the Multi-Archer Tower. {{Res|Supercharge}}
+*Reduced upgrade times at all levels:
+**Level 1: 14d -> 12d {{Res|Time}}
+**Level 2: 15d 12h -> 13d {{Res|Time}}
+*Reduced upgrade costs at all levels:
+**Level 1: 20,000,000 -> 16,000,000 {{Res|Gold}}
+**Level 2: 22,000,000 -> 18,000,000 {{Res|Gold}}
+|-
+!February 10, 2025
+|
+*Appearances of each Archer changes to level 13 at level 3 because of their release.
+*The Archers now have a lookout animation instead of being mostly static until they attack.
+|-
+!March 24, 2025
+|Added the achievement associated with the Multi-Archer Tower, "Multi-Archer Tower Terminator".
+|-
+!November 17, 2025
+|
+*Added the level 4 Multi-Archer Tower. [[File:Multi-Archer Tower4.png|65px]]
+*Reduced upgrade time at level 3 from 15d 12h to 10d 18h. {{Res|Time}}
+*Reduced upgrade cost at level 3 from 23,000,000 to 17,500,000. {{Res|Gold}}
+*Removed the Supercharges at level 3 and replaced them at level 4: {{Res|Supercharge}}
+**Charge 1:{{Res|Supercharge}}{{Res|Uncharged}}
+***Damage: 145 -> 151 {{Res|Damage}}
+***Cost: 7,000,000 -> 12,000,000 {{Res|Gold}}
+***Time: 3d 12h -> 6d {{Res|Time}}
+**Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}
+***Hitpoints: 5,500 -> 5,600 {{Res|Hitpoint}}
+***Cost: 4,000,000 -> 10,000,000 {{Res|Gold}}
+***Time: 4d -> 7d {{Res|Time}}
+|-
+!January 28, 2026
+|Reduced attack speed from 0.5s to 0.6s. {{Res|Attack Speed}}
+|}
+
+==Audio==
+===Generic===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1"bstyle="text-align: center;
+!Sound Effect!!Captions!!Description
+|-
+|[[File:HeroEquipment Upgrade.ogg]]
+|Buildings merge
+|When two Archer Towers fuse together
+|-
+|[[File:Archer Tower Select.ogg]]
+|Archer Tower selected
+|When the Multi-Archer Tower is selected
+|-
+|[[File:Archer Tower Place.ogg]]
+|Archer Tower placed
+|When the Multi-Archer Tower is placed
+|-
+|[[File:ArrowExplode.ogg]]
+|Arrows explode
+|When the Multi-Archer's projectiles hit a target
+|}
+
+===Unique===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center;
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Multi-ArcherTower Shoot.ogg]]
+|Multi-Archer Tower fires arrows
+|When the Multi-Archer Tower attacks
+|}
+
+==Gallery==
+===Images===
+<gallery>
+Multi-Archer Tower level1 info.png
+Multi-Archer Tower level2 info.png
+</gallery>
+
+===Short Animations===
+<div class="flexbox-display norma-text">
+<div style="width=120px";>[[File:Multi-ArcherTower2InAction.mp4|120px|link=]]<div>Multi-Archer Tower in action (animated with sound)</div></div>
+<div style="width=120px";>[[File:Multi-Archer Tower Merge.mp4|150px|link=]]<div>Merging animation (animated with sound)</div></div>
+</div>
+
+==Trivia==
+*Before the Multi-Archer Tower was released, levels 1 to 6 Archer Towers used to have two Archers, and three at level 7 to 21 before the Town Hall 16 update. Although, that is only for flavor as it does not have an increased attack rate. After the Multi-Archer Tower was released however, to avoid confusion, all unmerged Archer Towers only have one Archer at the top.
+[[File:Multi-ArcherTower_Freeze.mp4|thumb|120px|Archers of the Multi-Archer Tower frozen while attacking a Giant]]
+*When attacking, the Archers atop the Multi-Archer Tower have some visual errors, and will soon be fixed in a future update.
+**If they attack two or more units from various sides, they will only face towards the nearest target that enters the attack radius rather than one Archer facing each target, despite the other arrows face toward other targets.
+**The Archers' animations will sometimes freeze on their attack animation when attacking enemy units in its range, which are sometimes shown when the Multi-Archer Tower attacks units at a certain angle.
+
+===Comparisons===
+*The Multi-Archer Tower and [[Inferno Artillery]] are the only defenses that can target the same unit when there are less enemies than the maximum targets they can attack at once, unlike {{H|Inferno Tower}} and [[Town Hall/Giga Weapons|Giga Weapons]].
+*The Multi-Archer Tower and Ricochet Cannon are the first merged defenses to be added in the game.
+
+{{BuildingsMenuHV}}
+[[Category:Buildings]]
+[[Category:Merged Buildings]]
+[[Category:Defenses]]
+[[Category:Home Village]]
+[[ru:Башня, полная лучниц]]

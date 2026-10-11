@@ -1,0 +1,1183 @@
+[
+ {
+  "id": "lassi",
+  "name": "L.A.S.S.I",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 2,
+    "cost": 20000,
+    "time": "1d",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 3,
+    "cost": 30000,
+    "time": "1d 12h",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 4,
+    "cost": 40000,
+    "time": "2d",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 5,
+    "cost": 50000,
+    "time": "2d 12h",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 6,
+    "cost": 60000,
+    "time": "3d",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 7,
+    "cost": 70000,
+    "time": "3d 12h",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 8,
+    "cost": 80000,
+    "time": "4d",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 9,
+    "cost": 90000,
+    "time": "4d 12h",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 10,
+    "cost": 100000,
+    "time": "5d",
+    "petHouse": 1,
+    "th": 14
+   },
+   {
+    "level": 11,
+    "cost": 110000,
+    "time": "5d 12h",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 12,
+    "cost": 120000,
+    "time": "6d",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 13,
+    "cost": 130000,
+    "time": "6d 12h",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 14,
+    "cost": 140000,
+    "time": "7d",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 15,
+    "cost": 150000,
+    "time": "7d 12h",
+    "petHouse": 5,
+    "th": 15
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/L.A.S.S.I"
+ },
+ {
+  "id": "electro-owl",
+  "name": "Electro Owl",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 2,
+    "cost": 30000,
+    "time": "1d 12h",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 3,
+    "cost": 45000,
+    "time": "2d",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 4,
+    "cost": 60000,
+    "time": "3d",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 5,
+    "cost": 75000,
+    "time": "4d",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 6,
+    "cost": 90000,
+    "time": "4d 12h",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 7,
+    "cost": 105000,
+    "time": "5d",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 8,
+    "cost": 120000,
+    "time": "5d 12h",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 9,
+    "cost": 135000,
+    "time": "6d",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 10,
+    "cost": 150000,
+    "time": "6d 12h",
+    "petHouse": 2,
+    "th": 14
+   },
+   {
+    "level": 11,
+    "cost": 165000,
+    "time": "7d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 12,
+    "cost": 180000,
+    "time": "8d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 13,
+    "cost": 195000,
+    "time": "8d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 14,
+    "cost": 210000,
+    "time": "8d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 15,
+    "cost": 225000,
+    "time": "8d",
+    "petHouse": 9,
+    "th": 16
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Electro_Owl"
+ },
+ {
+  "id": "mighty-yak",
+  "name": "Mighty Yak",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 2,
+    "cost": 40000,
+    "time": "1d",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 3,
+    "cost": 50000,
+    "time": "1d 12h",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 4,
+    "cost": 60000,
+    "time": "2d",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 5,
+    "cost": 70000,
+    "time": "2d 12h",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 6,
+    "cost": 80000,
+    "time": "3d",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 7,
+    "cost": 90000,
+    "time": "3d 12h",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 8,
+    "cost": 100000,
+    "time": "4d",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 9,
+    "cost": 110000,
+    "time": "4d 12h",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 10,
+    "cost": 120000,
+    "time": "5d",
+    "petHouse": 3,
+    "th": 14
+   },
+   {
+    "level": 11,
+    "cost": 130000,
+    "time": "5d 12h",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 12,
+    "cost": 140000,
+    "time": "6d",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 13,
+    "cost": 150000,
+    "time": "6d 12h",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 14,
+    "cost": 160000,
+    "time": "7d",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 15,
+    "cost": 170000,
+    "time": "7d 12h",
+    "petHouse": 7,
+    "th": 15
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Mighty_Yak"
+ },
+ {
+  "id": "unicorn",
+  "name": "Unicorn",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 2,
+    "cost": 50000,
+    "time": "1d 12h",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 3,
+    "cost": 65000,
+    "time": "2d",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 4,
+    "cost": 80000,
+    "time": "3d",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 5,
+    "cost": 95000,
+    "time": "4d",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 6,
+    "cost": 110000,
+    "time": "4d 12h",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 7,
+    "cost": 125000,
+    "time": "5d",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 8,
+    "cost": 140000,
+    "time": "5d 12h",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 9,
+    "cost": 155000,
+    "time": "6d",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 10,
+    "cost": 170000,
+    "time": "6d 12h",
+    "petHouse": 4,
+    "th": 14
+   },
+   {
+    "level": 11,
+    "cost": 200000,
+    "time": "7d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 12,
+    "cost": 230000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 13,
+    "cost": 260000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 14,
+    "cost": 290000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 15,
+    "cost": 320000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Unicorn"
+ },
+ {
+  "id": "diggy",
+  "name": "Diggy",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 2,
+    "cost": 90000,
+    "time": "1d 12h",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 3,
+    "cost": 105000,
+    "time": "2d",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 4,
+    "cost": 120000,
+    "time": "3d",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 5,
+    "cost": 130000,
+    "time": "4d",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 6,
+    "cost": 140000,
+    "time": "4d 12h",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 7,
+    "cost": 150000,
+    "time": "5d",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 8,
+    "cost": 160000,
+    "time": "5d 12h",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 9,
+    "cost": 170000,
+    "time": "6d",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 10,
+    "cost": 180000,
+    "time": "6d 12h",
+    "petHouse": 6,
+    "th": 15
+   },
+   {
+    "level": 11,
+    "cost": 220000,
+    "time": "7d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 12,
+    "cost": 250000,
+    "time": "7d 12h",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 13,
+    "cost": 280000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 14,
+    "cost": 310000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 15,
+    "cost": 350000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Diggy"
+ },
+ {
+  "id": "poison-lizard",
+  "name": "Poison Lizard",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 2,
+    "cost": 60000,
+    "time": "1d",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 3,
+    "cost": 75000,
+    "time": "1d 12h",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 4,
+    "cost": 90000,
+    "time": "2d",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 5,
+    "cost": 100000,
+    "time": "2d 12h",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 6,
+    "cost": 110000,
+    "time": "3d",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 7,
+    "cost": 120000,
+    "time": "3d 12h",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 8,
+    "cost": 130000,
+    "time": "4d",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 9,
+    "cost": 140000,
+    "time": "4d 12h",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 10,
+    "cost": 150000,
+    "time": "5d",
+    "petHouse": 7,
+    "th": 15
+   },
+   {
+    "level": 11,
+    "cost": 180000,
+    "time": "6d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 12,
+    "cost": 200000,
+    "time": "7d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 13,
+    "cost": 220000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 14,
+    "cost": 240000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 15,
+    "cost": 260000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Poison_Lizard"
+ },
+ {
+  "id": "phoenix",
+  "name": "Phoenix",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 2,
+    "cost": 80000,
+    "time": "1d 12h",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 3,
+    "cost": 95000,
+    "time": "2d",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 4,
+    "cost": 110000,
+    "time": "3d",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 5,
+    "cost": 125000,
+    "time": "4d",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 6,
+    "cost": 140000,
+    "time": "4d 12h",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 7,
+    "cost": 155000,
+    "time": "5d",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 8,
+    "cost": 170000,
+    "time": "5d 12h",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 9,
+    "cost": 180000,
+    "time": "6d",
+    "petHouse": 8,
+    "th": 15
+   },
+   {
+    "level": 10,
+    "cost": 190000,
+    "time": "6d 12h",
+    "petHouse": 8,
+    "th": 15
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Phoenix"
+ },
+ {
+  "id": "frosty",
+  "name": "Frosty",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 2,
+    "cost": 70000,
+    "time": "1d 12h",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 3,
+    "cost": 85000,
+    "time": "2d",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 4,
+    "cost": 100000,
+    "time": "3d",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 5,
+    "cost": 115000,
+    "time": "4d",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 6,
+    "cost": 130000,
+    "time": "4d 12h",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 7,
+    "cost": 145000,
+    "time": "5d",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 8,
+    "cost": 160000,
+    "time": "5d 12h",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 9,
+    "cost": 170000,
+    "time": "6d",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 10,
+    "cost": 180000,
+    "time": "6d 12h",
+    "petHouse": 5,
+    "th": 15
+   },
+   {
+    "level": 11,
+    "cost": 200000,
+    "time": "7d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 12,
+    "cost": 230000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 13,
+    "cost": 260000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 14,
+    "cost": 290000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 15,
+    "cost": 320000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Frosty"
+ },
+ {
+  "id": "spirit-fox",
+  "name": "Spirit Fox",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 2,
+    "cost": 150000,
+    "time": "3d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 3,
+    "cost": 160000,
+    "time": "4d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 4,
+    "cost": 170000,
+    "time": "5d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 5,
+    "cost": 180000,
+    "time": "5d 12h",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 6,
+    "cost": 190000,
+    "time": "6d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 7,
+    "cost": 200000,
+    "time": "6d 12h",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 8,
+    "cost": 210000,
+    "time": "7d",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 9,
+    "cost": 220000,
+    "time": "7d 12h",
+    "petHouse": 9,
+    "th": 16
+   },
+   {
+    "level": 10,
+    "cost": 230000,
+    "time": "8d",
+    "petHouse": 9,
+    "th": 16
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Spirit_Fox"
+ },
+ {
+  "id": "angry-jelly",
+  "name": "Angry Jelly",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 2,
+    "cost": 150000,
+    "time": "3d",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 3,
+    "cost": 160000,
+    "time": "4d",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 4,
+    "cost": 170000,
+    "time": "5d",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 5,
+    "cost": 180000,
+    "time": "6d",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 6,
+    "cost": 190000,
+    "time": "7d",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 7,
+    "cost": 200000,
+    "time": "8d",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 8,
+    "cost": 210000,
+    "time": "8d",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 9,
+    "cost": 220000,
+    "time": "8d",
+    "petHouse": 10,
+    "th": 16
+   },
+   {
+    "level": 10,
+    "cost": 230000,
+    "time": "8d",
+    "petHouse": 10,
+    "th": 16
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Angry_Jelly"
+ },
+ {
+  "id": "sneezy",
+  "name": "Sneezy",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 2,
+    "cost": 200000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 3,
+    "cost": 220000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 4,
+    "cost": 240000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 5,
+    "cost": 260000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 6,
+    "cost": 280000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 7,
+    "cost": 300000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 8,
+    "cost": 320000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 9,
+    "cost": 340000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   },
+   {
+    "level": 10,
+    "cost": 360000,
+    "time": "8d",
+    "petHouse": 11,
+    "th": 17
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Sneezy"
+ },
+ {
+  "id": "greedy-raven",
+  "name": "Greedy Raven",
+  "resource": "dark",
+  "levels": [
+   {
+    "level": 1,
+    "cost": 0,
+    "time": "0s",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 2,
+    "cost": 260000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 3,
+    "cost": 280000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 4,
+    "cost": 300000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 5,
+    "cost": 320000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 6,
+    "cost": 340000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 7,
+    "cost": 360000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 8,
+    "cost": 380000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 9,
+    "cost": 400000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   },
+   {
+    "level": 10,
+    "cost": 420000,
+    "time": "8d",
+    "petHouse": 12,
+    "th": 18
+   }
+  ],
+  "source": "https://clashofclans.fandom.com/wiki/Greedy_Raven"
+ }
+]

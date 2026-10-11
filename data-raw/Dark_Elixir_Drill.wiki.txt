@@ -1,0 +1,444 @@
+__NOEDITSECTION__
+{{Protection}}
+[[File:Dark Elixir Drill11.png|220px|center|link=]]
+
+<center>
+'''''"Our [[Builder]]s have finally figured a way to extract pure [[Resources#Dark Elixir|Dark Elixir]], the rarest form of the magical substance."'''''
+</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Dark Elixir Drill1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Dark Elixir Drill2.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Dark Elixir Drill3.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Dark Elixir Drill4.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Dark Elixir Drill5.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Dark Elixir Drill6.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Dark Elixir Drill7.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Dark Elixir Drill8.png|100px|link=]]<div>Level 8</div></div>
+<div>[[File:Dark Elixir Drill9.png|100px|link=]]<div>Level 9</div></div>
+<div>[[File:Dark Elixir Drill10.png|100px|link=]]<div>Level 10</div></div>
+<div>[[File:Dark Elixir Drill11.png|100px|link=]]<div>Level 11</div></div>
+</div>
+
+==Summary==
+*The Dark Elixir Drill collects [[Resources#Dark Elixir|Dark Elixir]] from an unlimited underground reserve, and stores it until it is collected by the player and placed into a [[Dark Elixir Storage]]. When the drill is full, production will be stopped until it is collected.
+*Attackers can steal up to 75% of the uncollected Dark Elixir in the drill. Having too many uncollected resources will make players a more attractive target, so protect them with care.
+*The Dark Elixir Drill takes up a 3x3 tile space.
+*The Dark Elixir Drill is unlocked at [[Town Hall]] level 7, along with the Storage. The second and third drills are unlocked at Town Halls 8 and 9, respectively.
+*When you choose to upgrade a Dark Elixir Drill, it will automatically collect any uncollected Dark Elixir. Note that if your Dark Elixir Storage is full at that time, any uncollected Dark Elixir will be lost. During the upgrade the, drill temporarily stops producing Dark Elixir; if it is destroyed in an attack while the upgrade is in progress, the defender will not lose any resources from the drill, as the drill is empty.
+*It can be difficult to see without zooming in, but you can visually tell approximately how much Dark Elixir a Dark Elixir Drill currently contains by looking at the glass box on the top rear portion of the drill. An empty (clear) box means the Drill is less than 20% full, while a full (black) box means the Drill is at least 60% full.
+**Alternatively, you can check the amount of Dark Elixir before attacking in a Multiplayer Battle or from Edit Mode by tapping a Dark Elixir Drill, so that the highlighted Drills will also be selected.
+*You can temporarily boost its production with [[Gems]] or a {{MagicItem|Resource Potion}}. Spending Gems will double the Drill's production rate for 1 day, while using a Resource Potion will boost all Dark Elixir Drills as well as all {{H|Gold Mine}}s and {{H|Elixir Collector}}s.
+*When raiding, the easiest way to tell the difference between the various levels of enemy Drills is to look at the Drill's footings. Unlike the top of the Drill, there is a very recognizable difference between the footings at every level.
+**Alternatively, before attacking a base in a Multiplayer Battle, you can tap a Dark Elixir Drill, and doing so will also reveal the locations of other Dark Elixir Drills, their levels and loot available from them.
+
+==Upgrade Differences==
+The Dark Elixir Drill undergoes significant visual changes at levels 3, 4, 5, 6, 7, 8, 9, 10 and 11.
+
+*When initially constructed, the Dark Elixir Drill consists of a huge helical drill head with black metal core and an iron flute, suspended from a arc-shaped wooded head where the top is connected to a ring with four rivets, the head is connected to a large wood piece that is supported by a wooden frame across its middle, where a metal plate is covering that part, and a small Dark Elixir container at the end of the wood piece. The frame consists of mortared stone footings, wooden pillars, a cylindrical support being bolted on top of the pillar with metal disc filling up the gap. A deep hole made of stone, framed with wood and has two metal bolts at the corner, sits under the drill head. When drilling, the entire structure besides the footings is lowered and the drill head spins while dark smoke comes out from the hole. When it has finished drilling, the entire structure except for the footings is raised up again, and the whole process repeats until its capacity is full.
+**At level 2, the four rivets are replaced with a bolt almost covering the whole ring, two bolts are added to the metal plate on the wood piece, and the wood piece is thicker. The top of the wooden pillars and the cylindrical support received metal plating. The footings become smooth white stone with an diagonal cut.
+**At level 3, the head widens and is wider than the wood piece it connects to. The ring, metal plate on the wood piece, and the top of the pillar turn gold, and all the bolts use gray metal; the plate on the pillars is a bit longer. The footings gain a gray metal band plating.
+**At level 4, the footings replace the stone and gray metal plate for black metal.
+**At level 5, the entire structure gets bigger, longer, or wider in general, with a piece of grey metal added in between the head and the wood piece. The footings acquire a gold band plating. The mining hole increases in size, showing the surrounding rocks more clearly.
+**At level 6, the drill's flute has a golden shine. The gold plating on the footings is replaced by a spiked gold plate facing outward.
+**At level 7, the ring, its bolt, and plate on the pillars are slightly larger, and the wood piece plate is now slanted to the side with a groove in the middle. The spiked plate now matches the shape of the footings and is slanted, it has two stages, only the lower one have spikes and it has much fewer. The bolts on the frame around the hold is now made of gray metal.
+**At level 8, the ring is now made of gray metal and connects to the metal piece with a groove in the middle and two little strips of metal connecting to the slanted plate, the bolt on the ring turns golden, and the slanted plate and its bolts are larger. The pillar is made of black metal and the plate is now staged and the outward facing part is thicker. The footings' lower stage plate extends to the top except the middle and spikes are made with black metal, the plate forms a band around the footing where the middle is grooved. The mining hole is now framed with black metal bricks.
+**At level 9, the drill head is bigger. The ring is flattened as a plating and a new golden one is added between the bolt and the plate, the bolt is made of dark metal again and has four strips of metal holding the ring in place. The pillar plate gets a dark metal plate with three golden spikes. The footings plate's spikes become longer and gold once again, a small black metal slab is added to where the lower stage did not extend upward which matches the top being more slanted.
+**At level 10, the four strips around the ring is golden and wider, the strips on the metal piece get wider and taller, and all the wood is now dark brown. The pillars and footings are made of charleston green wood, and the dark metal plate at the top of each pillar plate also turns golden and the bolt gets a gold spike. The footings are taller with the plate barely slanted and the black metal section is cut out and replaced with a gold stud thicker than the plate itself, resembling a crown. The two spikes at the top are shorter and less sharp, with a new one added to the side, and the band is no longer grooved in the middle but the back corners. The mining hole becomes darker, and the frame is now made of charleston green wood.
+**At level 11, TBA.
+
+==Statistics==
+<div class="stats-background">
+<center>
+{{Modifiers|type=CollectorHV}}
+{{NumberAvailable||TH7=1||TH8=2||TH9=3}}
+{{BuildingSize|3x3}}
+
+{|border="0" cellpadding="1" cellspacing="1" id="darkelixirdrill-table-1" class="wikitable building-statistics-table" style="text-align: center; width: 100%; margin: 0px auto;"
+!data-type="level"|Level<br/>{{Res|Level}}
+!data-type="capacity"|[[Resources#Dark Elixir|Capacity]]<br/>{{Res|Dark Elixir}}
+!data-type="production"|Production Rate<br/>{{Res|Dark Elixir}}
+!data-type="hitpoints"|Hitpoints<br/>{{Res|Hitpoint}}
+!data-type="boost cost"|[[Resources#Gems|Boost Cost]]<br/>{{Res|Gem}}
+!data-type="time to fill"|Time to Fill<br/>{{Res|Time}}
+!data-type="upgrade cost"|[[Resources#Elixir|Build Cost]]<br/>{{Res|RES = Elixir}}
+!data-type="upgrade time"|Build Time<br />{{Res|Time}}
+!data-type="experience gained"|[[Experience]] Gained<br/>{{Res|RES = XP}}
+!data-type="catch-up point"|Catch-Up Point*
+!data-type="required town hall"|[[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="GoldPass LootCapacity"|160
+|class="GoldPass ProductionRate"|20/hr
+|800
+|7
+|class="GoldPass FillTime" style="white-space: nowrap;"|8h
+|class="GoldPass bCost"|180,000
+|class="GoldPass bTime" style="white-space: nowrap;"|4h
+|class="GoldPass EXP"|120
+|N/A
+|7
+|-
+|2
+|class="GoldPass LootCapacity"|300
+|class="GoldPass ProductionRate"|30/hr
+|860
+|10
+|class="GoldPass FillTime" style="white-space: nowrap;"|10h
+|class="GoldPass bCost"|270,000
+|class="GoldPass bTime" style="white-space: nowrap;"|6h
+|class="GoldPass EXP"|146
+|class="GoldPass catchUp" style="white-space: nowrap;"|12h
+|7
+|-
+|3
+|class="GoldPass LootCapacity"|540
+|class="GoldPass ProductionRate"|45/hr
+|920
+|15
+|class="GoldPass FillTime" style="white-space: nowrap;"|12h
+|class="GoldPass bCost"|540,000
+|class="GoldPass bTime" style="white-space: nowrap;"|12h
+|class="GoldPass EXP"|207
+|class="GoldPass catchUp" style="white-space: nowrap;"|1d
+|7
+|-
+|4
+|class="GoldPass LootCapacity"|840
+|class="GoldPass ProductionRate"|60/hr
+|980
+|20
+|class="GoldPass FillTime" style="white-space: nowrap;"|14h
+|class="GoldPass bCost"|900,000
+|class="GoldPass bTime" style="white-space: nowrap;"|18h
+|class="GoldPass EXP"|254
+|class="GoldPass catchUp" style="white-space: nowrap;"|2d 6h
+|class="change-highlight"|9
+|-
+|5
+|class="GoldPass LootCapacity"|1,280
+|class="GoldPass ProductionRate"|80/hr
+|1,060
+|25
+|class="GoldPass FillTime" style="white-space: nowrap;"|16h
+|class="GoldPass bCost"|1,200,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1d
+|class="GoldPass EXP"|293
+|class="GoldPass catchUp" style="white-space: nowrap;"|3d
+|9
+|-
+|6
+|class="GoldPass LootCapacity"|1,800
+|class="GoldPass ProductionRate"|100/hr
+|1,160
+|30
+|class="GoldPass FillTime" style="white-space: nowrap;"|18h
+|class="GoldPass bCost"|1,800,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1d 12h
+|class="GoldPass EXP"|360
+|class="GoldPass catchUp" style="white-space: nowrap;"|6d
+|9
+|-
+|7
+|class="GoldPass LootCapacity"|2,400
+|class="GoldPass ProductionRate"|120/hr
+|1,280
+|35
+|class="GoldPass FillTime" style="white-space: nowrap;"|20h
+|class="GoldPass bCost"|2,100,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1d 18h
+|class="GoldPass EXP"|388
+|class="GoldPass catchUp" style="white-space: nowrap;"|8d 18h
+|class="change-highlight"|10
+|-
+|8
+|class="GoldPass LootCapacity"|3,000
+|class="GoldPass ProductionRate"|140/hr
+|1,380
+|40
+|class="GoldPass FillTime" style="white-space: nowrap;"|21h 25m 43s
+|class="GoldPass bCost"|2,400,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2d
+|class="GoldPass EXP"|415
+|class="GoldPass catchUp" style="white-space: nowrap;"|12d
+|11
+|-
+|9
+|class="GoldPass LootCapacity"|3,600
+|class="GoldPass ProductionRate"|160/hr
+|1,480
+|45
+|class="GoldPass FillTime" style="white-space: nowrap;"|22h 30m
+|class="GoldPass bCost"|3,700,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2d 12h
+|class="GoldPass EXP"|464
+|class="GoldPass catchUp" style="white-space: nowrap;"|17d 12h
+|12
+|-
+|10
+|class="GoldPass LootCapacity"|4,200
+|class="GoldPass ProductionRate"|180/hr
+|1,550
+|50
+|class="GoldPass FillTime" style="white-space: nowrap;"|23h 20m
+|class="GoldPass bCost"|5,300,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3d
+|class="GoldPass EXP"|509
+|class="GoldPass catchUp" style="white-space: nowrap;"|24d
+|14
+|-
+|11
+|class="GoldPass LootCapacity"|4,600
+|class="GoldPass ProductionRate"|200/hr
+|1,600
+|55
+|class="GoldPass FillTime" style="white-space: nowrap;"|23h
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|6d
+|class="GoldPass EXP"|720
+|class="GoldPass catchUp" style="white-space: nowrap;"|54d
+|16
+|}
+
+===[[Supercharge]]s===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level is added.
+{{Supercharge}}
+{|class="wikitable building-statistics-table" border="0" cellpadding="1" cellspacing="1" id="elixircollector-table-1" style="text-align: center; width: 100%; margin: 0px auto;"
+!data-type="level"|Charge Level<br/>{{Res|Supercharge}}
+!data-type="capacity"|[[Resources#Dark Elixir|Capacity]]<br/>{{Res|Dark Elixir}}
+!data-type="production"|Production Rate<br/>{{Res|Dark Elixir}}
+!data-type="hitpoints"|Hitpoints<br/>{{Res|Hitpoint}}
+!data-type="boost cost"|[[Resources#Gems|Boost Cost]]<br/>{{Res|Gem}}
+!data-type="time to fill"|Time to Fill<br/>{{Res|Time}}
+!data-type="upgrade cost"|[[Resources#Elixir|Build Cost]]<br/>{{Res|RES = Elixir}}
+!data-type="upgrade time"|Build Time<br/>{{Res|Time}}
+!data-type="experience gained"|[[Experience]] Gained<br/>{{Res|RES = XP}}
+!data-type="catch-up point"|Catch-Up Point*
+!data-type="required town hall"|[[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="GoldPass LootCapacity change-highlight"|4,807
+|class="GoldPass ProductionRate change-highlight"|209/hr
+|1,600
+|55
+|class="GoldPass FillTime" style="white-space: nowrap;"|23h
+|class="GoldPass bCost"|5,100,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3d
+|class="GoldPass EXP"|509
+|class="GoldPass catchUp" style="white-space: nowrap;"|66d 16h
+|18
+|-
+|2
+|class="GoldPass LootCapacity change-highlight"|5,014
+|class="GoldPass ProductionRate change-highlight"|218/hr
+|1,600
+|55
+|class="GoldPass FillTime" style="white-space: nowrap;"|23h
+|class="GoldPass bCost"|4,500,000
+|class="GoldPass bTime" style="white-space: nowrap;"|4d
+|class="GoldPass EXP"|587
+|class="GoldPass catchUp" style="white-space: nowrap;"|92d 21h 20m
+|18
+|-
+|3
+|class="GoldPass LootCapacity"|5,014
+|class="GoldPass ProductionRate"|218/hr
+|class="change-highlight"|1,650
+|55
+|class="GoldPass FillTime" style="white-space: nowrap;"|23h
+|class="GoldPass bCost"|3,900,000
+|class="GoldPass bTime" style="white-space: nowrap;"|5d
+|class="GoldPass EXP"|657
+|style="white-space: nowrap;"|N/A
+|18
+|}
+</center>
+<p style="margin-left: 16px; text-indent: -9px;">&#42; The ''Catch-Up Point'' is the time at which the newly upgraded Dark Elixir Drill has equaled the total production of the drill ''had it not been upgraded''.</p>
+'''Caveat:''' The ''Catch-Up Point'' calculation assumes that the player collects all resources from the Dark Elixir Drill without allowing it to reach its storage capacity, as resource production ceases at that point. This is more of a concern at lower levels where the capacity is limited and ''Time to Fill'' is relatively short. If the player is unable to regularly collect and achieve the full potential of the collector, the ''Catch-Up Point'' is actually shorter, and performing the upgrade becomes more advantageous.
+</div>
+{{IconDescriptions|ProductionBuilding=Yes|Resource=Dark Elixir|Upgradable=Yes|Supercharge=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Patch!!Type!!Description
+|-
+!January 10, 2013!!Update
+|Added the Dark Elixir Drill, with 6 levels and 2 of them to build.{{Clr}}[[File:Dark Elixir Drill1.png|65px|link=]][[File:Dark Elixir Drill2.png|65px|link=]][[File:Dark Elixir Drill3.png|65px|link=]][[File:Dark Elixir Drill4.png|65px|link=]][[File:Dark Elixir Drill5.png|65px|link=]][[File:Dark Elixir Drill6.png|65px|link=]]
+|-
+![https://forum.supercell.com/showthread.php/10327-Maintenance-11-1-2013-Heroes-update-fixes January 11, 2013]!!Maintenance Break
+|Increased hitpoints at levels 2 to 6:
+*Level 2: 450 -> 480 {{Res|Hitpoint}}
+*Level 3: 500 -> 580 {{Res|Hitpoint}}
+*Level 4: 550 -> 690 {{Res|Hitpoint}}
+*Level 5: 590 -> 830 {{Res|Hitpoint}}
+*Level 6: 610 -> 1,000 {{Res|Hitpoint}}
+|-
+!May 23, 2013!!Update
+|
+*Added the third Dark Elixir Drill available at [[Town Hall]] level 10.
+*Decreased upgrade cost at levels 2 to 6:
+**Level 2: 2,000,000 -> 1,500,000 {{Res|Elixir}}
+**Level 3: 3,000,000 -> 2,000,000 {{Res|Elixir}}
+**Level 4: 4,000,000 -> 3,000,000 {{Res|Elixir}}
+**Level 5: 6,000,000 -> 4,000,000 {{Res|Elixir}}
+**Level 6: 8,000,000 -> 5,000,000 {{Res|Elixir}}
+|-
+![https://forum.supercell.com/showthread.php/124920-Maintenance-9-8-2013-%281st-Anniversary-boost-ends-improved-Boost-Giant-Bomb%29 August 9, 2013]
+!Maintenance Break
+|
+*Reduced the boost cost at all levels:
+**Level 1: 16 -> 7 {{Res|Gem}}
+**Level 2: 20 -> 10 {{Res|Gem}}
+**Level 3: 26 -> 15 {{Res|Gem}}
+**Level 4: 32 -> 20 {{Res|Gem}}
+**Level 5: 40 -> 25 {{Res|Gem}}
+**Level 6: 48 -> 30 {{Res|Gem}}
+*Increased boost duration.
+|-
+!December 11, 2014!!Update
+|
+*Moved the first Dark Elixir Drill to [[Town Hall]] level 7 and the second at Town Hall level 8 (previously they were only available at Town Hall 8 and Town Hall 9 respectively).
+*Increased maximum capacity at all levels:
+**Level 1: 120 -> 160 {{Res|Dark Elixir}}
+**Level 2: 240 -> 300 {{Res|Dark Elixir}}
+**Level 3: 450 -> 540 {{Res|Dark Elixir}}
+**Level 4: 720 -> 840 {{Res|Dark Elixir}}
+**Level 5: 1,120 -> 1,280 {{Res|Dark Elixir}}
+**Level 6: 1,600 -> 1,800 {{Res|Dark Elixir}}
+*Increased hitpoints at all levels:
+**Level 1: 400 -> 800 {{Res|Hitpoint}}
+**Level 2: 480 -> 860 {{Res|Hitpoint}}
+**Level 3: 580 -> 920 {{Res|Hitpoint}}
+**Level 4: 690 -> 980 {{Res|Hitpoint}}
+**Level 5: 830 -> 1,040 {{Res|Hitpoint}}
+**Level 6: 1,000 -> 1,100 {{Res|Hitpoint}}
+|-
+!July 1, 2015!!Update
+|Increased hitpoints at levels 5 and 6:
+*Level 5: 1,040 -> 1,060 {{Res|Hitpoint}}
+*Level 6: 1,100 -> 1,160 {{Res|Hitpoint}}
+|-
+!June 26, 2018!!Balance Changes
+|Reduced build times at levels 1 to 6:
+*Level 1: 1d -> 12h {{Res|Time}}
+*Level 2: 2d -> 1d 12h {{Res|Time}}
+*Level 3: 3d -> 2d {{Res|Time}}
+*Level 4: 4d -> 2d 12h {{Res|Time}}
+*Level 5: 6d -> 4d {{Res|Time}}
+*Level 6: 8d -> 5d 12h {{Res|Time}}
+|-
+!October 23, 2018!!Update
+|Added the level 7 Dark Elixir Drill. [[File:Dark Elixir Drill7.png|65px|link=]]
+|-
+!April 2, 2019!!Update
+|
+*Reduced build time at levels 1 to 7:
+**Level 1: 12h -> 8h {{Res|Time}}
+**Level 2: 1d 12h -> 1d {{Res|Time}}
+**Level 3: 2d -> 1d 12h {{Res|Time}}
+**Level 4: 2d 12h -> 2d {{Res|Time}}
+**Level 5: 4d -> 3d {{Res|Time}}
+**Level 6: 5d 12h -> 4d {{Res|Time}}
+**Level 7: 5d 12h -> 5d {{Res|Time}}
+*Reduced upgrade cost at levels 2 to 7:
+**Level 2: 1,500,000 -> 1,250,000 {{Res|Elixir}}
+**Level 3: 2,000,000 -> 1,500,000 {{Res|Elixir}}
+**Level 4: 3,000,000 -> 1,750,000 {{Res|Elixir}}
+**Level 5: 4,000,000 -> 2,000,000 {{Res|Elixir}}
+**Level 6: 5,000,000 -> 2,500,000 {{Res|Elixir}}
+**Level 7: 6,000,000 -> 3,000,000 {{Res|Elixir}}
+|-
+!March 30, 2020!!Update
+|
+*Added the level 8 Dark Elixir Drill. [[File:Dark Elixir Drill8.png|65px|link=]]
+*Moved the 3rd Dark Elixir Drill from Town Hall level 10 to Town Hall level 9.
+|-
+!April 12, 2021!!Update
+|
+*Reduced build time at levels 1 to 8:
+**Level 1: 8h -> 6h {{Res|Time}}
+**Level 2: 1d -> 12h {{Res|Time}}
+**Level 3: 1d 12h -> 18h {{Res|Time}}
+**Level 4: 2d -> 1d {{Res|Time}}
+**Level 5: 3d -> 1d 12h {{Res|Time}}
+**Level 6: 4d -> 2d {{Res|Time}}
+**Level 7: 5d -> 3d {{Res|Time}}
+**Level 8: 6d -> 4d {{Res|Time}}
+*Reduced upgrade cost at levels 1 to 8:
+**Level 1: 1,000,000 -> 500,000 {{Res|Elixir}}
+**Level 2: 1,250,000 -> 700,000 {{Res|Elixir}}
+**Level 3: 1,500,000 -> 900,000 {{Res|Elixir}}
+**Level 4: 1,750,000 -> 1,200,000 {{Res|Elixir}}
+**Level 5: 2,000,000 -> 1,500,000 {{Res|Elixir}}
+**Level 6: 2,500,000 -> 1,800,000 {{Res|Elixir}}
+**Level 7: 3,000,000 -> 2,400,000 {{Res|Elixir}}
+**Level 8: 3,500,000 -> 3,000,000 {{Res|Elixir}}
+|-
+!December 9, 2021!!Update
+|Added the level 9 Dark Elixir Drill. [[File:Dark Elixir Drill9.png|65px|link=]]
+|-
+![https://supercell.com/en/games/clashofclans/blog/release-notes/february-2024-update-patch-notes/ February 27, 2024]!!Update
+|Added the level 10 Dark Elixir Drill. [[File:Dark Elixir Drill10.png|65px|link=]]
+|-
+!September 9, 2024!!Update
+|Added 3 Supercharge levels for the Dark Elixir Drill. {{Res|Supercharge}}
+|-
+!September ?, 2024!!Maintenance break
+|Changed the statistics for the first two levels of the Supercharged Dark Elixir Drill.
+*Charge 1: {{Res|Supercharge}}{{Res|Uncharged}}{{Res|Uncharged}}
+**Capacity: 4,600 -> 4,410 {{Res|Dark Elixir}}
+**Production Rate: 180/hr -> 189/hr {{Res|Dark Elixir}}
+*Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Uncharged}}
+**Capacity: 4,600 -> 4,620 {{Res|Dark Elixir}}
+**Production Rate: 195/hr -> 198/hr {{Res|Dark Elixir}}
+|-
+!November 8, 2024!!Event
+|The Hammer Jam event temporarily increased its capacity and production rate by 3x for all levels, including its Supercharge levels until November 25.
+|-
+!November 17, 2024!!Town Hall 18 Update
+|
+*Added the level 11 Dark Elixir Drill. [[File:Dark Elixir Drill11.png|65px|link=]]
+*Removed the Supercharges at level 10 and replaced them at level 11: {{Res|Supercharge}}
+**Charge 1: {{Res|Supercharge}}{{Res|Uncharged}}{{Res|Uncharged}}
+***Capacity: 4,410 -> 4,807 {{Res|Dark Elixir}}
+***Production Rate: 189/hr -> 209/hr {{Res|Dark Elixir}}
+***Cost: 1,000,000 -> 5,100,000 {{Res|Elixir}}
+***Time: 2d -> 3d {{Res|Time}}
+**Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Uncharged}}
+***Capacity: 4,620 -> 5,014 {{Res|Dark Elixir}}
+***Production Rate: 198/hr -> 218/hr {{Res|Dark Elixir}}
+***Cost: 900,000 -> 4,500,000 {{Res|Elixir}}
+***Time: 3d -> 4d {{Res|Time}}
+**Charge 3: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Supercharge}}
+***Hitpoints: 1,600 -> 1,650 {{Res|Hitpoint}}
+***Cost: 2,000,000 -> 3,900,000 {{Res|Elixir}}
+***Time: 4d -> 5d {{Res|Time}}
+|}
+
+==Gallery==
+<gallery>
+ChallengesIcon Dark Elixir Drilling.png|Dark Elixir Drilling task (Season Challenges)
+Dark Elixir Drill concepts.png|Concept sketches of Dark Elixir Drill.
+</gallery>
+
+==Trivia==
+===General===
+*The level 3 Dark Elixir Drill will continue to produce over the course of a full 12-hour [[Shields|shield]] (assuming it was empty when the shield is obtained). A level 4 Dark Elixir Drill will continue to produce over the course of a full 14-hour shield, while a level 5 Dark Elixir Drill will continue to produce over the course of a full 16-hour shield.
+*According to a [https://twitter.com/ClashofClans/status/1385203763464523776 tweet] by Clash of Clans, [[Resources#Dark Elixir|Dark Elixir]] is a renewable clean energy source.
+**This contradicts a [https://www.facebook.com/ClashofClans/photos/a.458458120845183/538194936204834/?comment_id=570561552968172 post] saying Dark Elixir is a form of fossil fuels.
+*Although directly selecting a Dark Elixir Drill with a Dark Elixir bubble above it automatically collects any resources it has stored, there is a way to check how much Dark Elixir has been stored without collecting it. This can be done by moving any other building to an invalid spot on your map (e.g., off the edge of your map, or fully or partially occupied by an obstacle, decoration, or another building) and releasing it while its surrounding square has turned red. Then select the desired Dark Elixir Drill and choose the "Info" option to display the amount of Dark Elixir gathered by the drill to that point.
+
+===Comparisons===
+*The Dark Elixir Drill is one of the four buildings associated with Dark Elixir, the other three being the [[Dark Barracks]], [[Dark Spell Factory]], and [[Dark Elixir Storage]].
+*The Dark Elixir Drill, {{H|Elixir Storage}} and Dark Elixir Storage are the only resource buildings in the Home Village that do not appear in a loading screen.
+*The Dark Elixir Drill is the resource building to have the least amount of levels, being 10.
+**The Dark Elixir Drill is also the most expensive resource building to Supercharge, with a cost of 13.5M Elixir to fully charge, barring events which reduce the cost of buildings.
+*The Dark Elixir Drill, along with the [[Clan Castle]] and Dark Elixir Storage are the only resource buildings not to have Builder Base counterparts.
+{{BuildingsMenuHV}}
+[[Category:Buildings]]
+[[Category:Resources]]
+[[Category:Home Village]]
+[[Category:Dark Elixir]]
+[[de:Bohrer für Dunkles Elixier]]
+[[es:Extractor de elixir oscuro]]
+[[ru:Скважина черного эликсира]]

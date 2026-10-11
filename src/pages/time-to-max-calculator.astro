@@ -1,0 +1,143 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FAQ from '../components/FAQ.astro';
+import Icon from '../components/Icon.astro';
+import RelatedTools from '../components/RelatedTools.astro';
+import TrustBlock from '../components/TrustBlock.astro';
+import { SITE, TOOLS } from '@data/meta';
+import { DATA_SNAPSHOT_DATE, MAX_TH } from '@data/game';
+import { timeToMax } from '@lib/calc';
+import { fmtDuration } from '@lib/format';
+
+const title = 'Clash of Clans Time to Max Calculator | CoCPlanner';
+const description =
+  'Enter your town hall level and builder count to see the remaining time to max, broken down by defenses, heroes and lab research.';
+
+const opt = { includeWalls: true, includeLab: true, includeHeroes: true, includePets: true, builders: 5 };
+const t8 = timeToMax(8, opt);
+const t10 = timeToMax(10, opt);
+const t11 = timeToMax(11, opt);
+const t12 = timeToMax(12, opt);
+const t14 = timeToMax(14, opt);
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    '@id': `${SITE.url}/time-to-max-calculator/#app`,
+    name: 'Clash of Clans Time to Max Calculator',
+    url: `${SITE.url}/time-to-max-calculator/`,
+    description: 'Calculate how long it takes to max your Clash of Clans base at any Town Hall level.',
+    applicationCategory: 'GameApplication',
+    operatingSystem: 'Any',
+    browserRequirements: 'Requires JavaScript',
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    publisher: { '@id': `${SITE.url}/#organization` },
+  },
+];
+
+const faqItems = [
+  {
+    q: `How long does it take to max TH10?`,
+    a: `A player arriving at TH10 with a maxed TH9 base needs about ${fmtDuration(t10.totalSec)} to fully max everything through TH${MAX_TH} with 5 builders (${t10.criticalPath === 'builders' ? 'builders are the bottleneck' : t10.criticalPath === 'lab' ? 'lab research is the bottleneck' : t10.criticalPath === 'heroes' ? 'hero levels are the bottleneck' : 'pets are the bottleneck'}). Just maxing the TH10 part itself is a fraction of that.`,
+  },
+  {
+    q: `How long to max TH12?`,
+    a: `From a maxed TH11 base, about ${fmtDuration(t12.totalSec)} remain to a fully maxed TH${MAX_TH} base with 5 builders, with ${fmtDuration(t12.builderSec)} of pure builder work. The lab alone still needs ${fmtDuration(t12.labSec)} of research.`,
+  },
+  {
+    q: `How long to max TH14?`,
+    a: `About ${fmtDuration(t14.totalSec)} from a maxed TH13 base with 5 builders. At this point most of the calendar is heroes and laboratory research: builders only need ${fmtDuration(t14.builderSec)}.`,
+  },
+  {
+    q: 'What does "time to max" actually measure?',
+    a: `It is the wall-clock time from a freshly upgraded Town Hall (with everything maxed one level below) to a 100 percent maxed TH${MAX_TH} base: every building, trap, wall, hero, pet, troop and spell. Heroes, pets and the lab run in parallel with your builders, so the answer is the longest track, not their sum.`,
+  },
+  {
+    q: 'Can I really finish faster?',
+    a: 'Yes, three ways: jump Town Hall before every building is maxed (the planner assumes strict TH order), keep heroes and the lab running 24/7 with books and potions from events and Gold Pass, and never let a builder sleep. Many active players beat the projection by months.',
+  },
+  {
+    q: 'Why is the time to max longer than total builder time divided by builders?',
+    a: 'Because that division ignores two things: the laboratory and hero tracks do not use builders at all, and at high Town Halls they become the critical path. A division would also ignore that you cannot start TH11 upgrades before TH11 exists.',
+  },
+];
+---
+<BaseLayout title={title} description={description} canonical="/time-to-max-calculator/" activeNav="/time-to-max-calculator/" jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Time to Max Calculator' }]} />
+
+  <div class="page-hero">
+    <h1>Clash of Clans Time to Max Calculator</h1>
+    <p class="value-line">
+      Select your Town Hall level and builder count. You get the remaining time to a fully maxed base,
+      shown as a calendar projection month by month, with builders, heroes and lab research separated.
+    </p>
+    <div class="trust-line">
+      <span class="pill"><Icon name="check-circle" size={14} /> Free, no sign up</span>
+      <span class="pill blue"><Icon name="database" size={14} /> Wiki data, snapshot {DATA_SNAPSHOT_DATE}</span>
+      <span class="pill gold"><Icon name="calendar" size={14} /> Calendar projection</span>
+    </div>
+  </div>
+
+  <section class="card card-pop" aria-label="Time to max calculator">
+    <div data-time-to-max>
+      <div class="two-col">
+        <div class="field">
+          <label for="ttm-th">Your Town Hall level</label>
+          <select id="ttm-th" data-ttm-th></select>
+          <p class="hint">Assumes a maxed base of the level below it.</p>
+        </div>
+        <div class="field">
+          <label for="ttm-builders">Builders</label>
+          <select id="ttm-builders" data-ttm-builders></select>
+          <p class="hint">Heroes and the lab run on their own tracks.</p>
+        </div>
+      </div>
+      <div data-ttm-result aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>How to use the time to max calculator</h2>
+    <ol class="step-list">
+      <li><strong>Pick your Town Hall.</strong> The projection starts from a fresh TH at that level: all buildings maxed for the previous TH.</li>
+      <li><strong>Pick your builders.</strong> The builder track is scheduled longest-first, the hero, pet and lab tracks run in parallel.</li>
+      <li><strong>Read the calendar.</strong> Each table row maps one Town Hall push to the calendar months it occupies, so "maxed by when" becomes a real date range you can plan around.</li>
+      <li><strong>Find your bottleneck.</strong> The progress bars show where the time actually goes. If the lab bar is the longest, more builders will not help; research potions will.</li>
+    </ol>
+  </section>
+
+  <section class="section">
+    <h2>How the projection works</h2>
+    <div class="card">
+      <p>
+        All upgrade and research times come from the <a href="https://clashofclans.fandom.com/wiki/Clash_of_Clans_Wiki" rel="noopener">Clash of Clans Wiki</a>
+        (snapshot {DATA_SNAPSHOT_DATE}). The remaining game is split into Town Hall segments. Builder jobs inside a segment are
+        scheduled with a greedy longest-first rule across your builders; segments run in order. Hero levels, pets and laboratory
+        research never occupy a builder, so each runs as its own track, and the headline number is the longest track.
+      </p>
+      <h3>Assumptions and limits</h3>
+      <ul>
+        <li>Strict Town Hall order: each TH is finished before the next one starts. Early jumpers finish sooner.</li>
+        <li>No boosts of any kind: no Gold Pass, no builder boost, no research potions, no event discounts.</li>
+        <li>Builders never idle, which is the theoretical best case for the builder track.</li>
+        <li>Wall upgrades are instant; they cost resources but no time.</li>
+        <li>Home village only: Builder Base and Clan Capital are excluded.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Frequently asked questions</h2>
+    <FAQ items={faqItems} />
+  </section>
+
+  <RelatedTools slugs={['/upgrade-time-planner/', '/upgrade-cost-calculator/', '/cost-to-max/']} tools={TOOLS} />
+
+  <TrustBlock toolName="Time to Max Calculator" />
+</BaseLayout>
+
+<script>
+  import '../scripts/time-to-max';
+</script>

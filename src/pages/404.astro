@@ -1,0 +1,29 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import { TOOLS } from '@data/meta';
+
+const title = 'Page not found | CoCPlanner';
+const description = 'That page does not exist. Here are the CoCPlanner calculators instead.';
+---
+<BaseLayout title={title} description={description} canonical="/404/" noindex activeNav="">
+  <div class="page-hero" style="padding-top:40px">
+    <h1>404: wall down, page not found</h1>
+    <p class="value-line">
+      The page you wanted does not exist (maybe a wall breaker got to it). The calculators are all still standing:
+    </p>
+  </div>
+  <div class="tool-grid">
+    {TOOLS.map((tool) => (
+      <a class="tool-card" href={tool.slug}>
+        <span class="tool-icon"><Icon name={tool.icon} size={26} /></span>
+        <h2>{tool.name}</h2>
+        <p>{tool.short}</p>
+        <span class="go">Open calculator <Icon name="arrow-right" size={15} /></span>
+      </a>
+    ))}
+  </div>
+  <p style="margin-top:20px">
+    Or check the <a href="/sitemap/">sitemap</a> for every page on the site.
+  </p>
+</BaseLayout>

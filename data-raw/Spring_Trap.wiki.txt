@@ -1,0 +1,7 @@
+<div class="Tabview"><tabber>
+Home Village={{:Spring Trap/Home Village}}
+|-|
+Builder Base={{:Spring Trap/Builder Base}}
+</tabber>
+</div>
+[[Category:Disambiguation Pages]]

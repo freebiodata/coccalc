@@ -1,0 +1,266 @@
+__NOEDITSECTION__
+{{Protection}}
+
+[[File:Frosty info.png|center|280px|link=]]
+<div style="position: relative; top: -30px; text-align: right; margin-bottom: -50px; width: 100%;">[[File:More Info Button.png|link=Frosty/Frostmite]]</div><br/>
+<center>'''''“Frosty is the coolest pet... literally. Not only does his icy breath cause enemies to chill out, but he also releases swarms of [[Frosty/Frostmite|Frostmites]] to further slow down {{H|Defensive Buildings|defenses}} and help his [[Heroes|Hero]].”'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Frosty field.png|100px|link=]]<div>Level 1-15</div></div>
+</div>
+
+==Summary==
+*Frosty is the fifth [[Pets|pet]] unlocked, requiring the [[Pet House]] to be upgraded to level 5 (this requires [[Town Hall]] level 15).
+*Frosty periodically spawns [[Frostmite]]s, which do a low amount of damage but inflicts the frost effect on targets they hit, causing them to slow down. Frosty himself also inflicts frost effects on defenses and troops he attacks.
+*{{PreferredTarget|Plural=Yes|HeroRadius|ProperNoun=true|Target Radius=4.5}}
+*[[Frosty/Frostmite|Frostmites]] prioritize [[Defensive Buildings/Home Village|defensive structures]] above all other targets, and will bypass all other types of enemy [[buildings]] and [[troops]] while any defenses remain on the battlefield. This is true even if they are under attack by enemy [[Clan Castle]] troops, [[heroes]] or [[Skeleton Trap]] skeletons. Note that like all troops that prioritize defenses, [[Frosty/Frostmite|Frostmites]] do not consider the Clan Castle to be a defense regardless of whether it contains enemy troops, but do consider the defending [[Grand Warden]] and the activated [[Town Hall]] weapon (if any) to be defensive buildings.
+
+==Strategies==
+===Offensive Strategies===
+*Due to Frosty's relatively fragile health, it is recommended to keep him at the back, allowing him to freely summon Frostmites, which will slow down buildings and support the army.
+**Hence, it is preferable to pair him with the [[Grand Warden]], since they both support other troops. The [[Barbarian King]] is a good alternative choice since he can serve as a straightforward tank for Frosty.
+*Frosty's frost effect can help your army against buildings with high damage but with a slow rate of fire, such as the [[Monolith]] and the [[Eagle Artillery]].
+*Frosty and his [[Frosty/Frostmite|Frostmites']] frost effect work similarly to an [[Ice Golem]] slowing the building he is attacking, hence, he is not able to reset a single-target [[Inferno Tower]]. So a [[Lightning Spell]] or [[Freeze Spell]] will help.
+*If using Frosty for a Warden Walk, you have to be careful since he will be standing in front  of him rendering him vulnerable. As such, he can be great for smash style attacks, as he will be continuously staying behind your main army and spawning [[Frostmite]]s.
+
+===Defensive Strategies===
+*Due to his low hitpoints, Frosty can easily be taken out by high-damage defenses such as [[Ricochet Cannon]]s and the [[Town Hall/Giga Inferno|Giga Inferno]], as they also have the ability to destroy the summoned Frostmites as well.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target {{Res|RES=Target}}
+!Targets {{Res|RES=Target}}
+!Attack Type {{Res|RES=Damage Type}}
+![[Troop Movement Speed|Movement Speed]] {{Res|RES=Speed}}
+!Attack Speed {{Res|RES=Attack Speed}}
+!Summon Cooldown
+![[Pet House]] Level Required {{Res|RES=Pet House}}
+!Range {{Res|RES=Range}}
+!Special Ability{{Res|RES=Pet Ability}}
+|-
+|Within 4.5 tiles of Hero
+|Ground & Air
+|Single Target
+|class="ModifierStat Speed"|24
+|class="AttackSpeed"|1.2s
+|class="AttackSpeed"|8s
+|5
+|3.5 tiles
+|<abbr title="Periodically spawns Frostmites against nearby defenses">Freezy Friends</abbr>
+|}
+
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br />{{Res|RES=Level}}
+!Damage per Second<br />{{Res|RES=Damage}}
+!Damage per Hit<br />{{Res|RES=Damage}}
+![[Frostmite]]s per Summon<br />{{Res|RES=Summon Capacity}}
+!Maximum Frostmites Summoned<br />{{Res|RES=Summon Capacity}}
+!Hitpoints<br />{{Res|RES=Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br />{{Res|RES=Dark Elixir}}
+!Upgrade Time<br />{{Res|RES=Time}}
+!Pet House Level Required<br />{{Res|RES=Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|94
+|class="ModifierStat DPH"|112.8
+|1
+|4
+|class="ModifierStat HP"|2,350
+|N/A
+|N/A
+|5
+|-
+|2
+|class="ModifierStat DPS"|98
+|class="ModifierStat DPH"|117.6
+|1
+|4
+|class="ModifierStat HP"|2,450
+|class="GoldPass rCost"|70,000
+|class="GoldPass rTime"|1d 12h
+|5
+|-
+|3
+|class="ModifierStat DPS"|102
+|class="ModifierStat DPH"|122.4
+|1
+|4
+|class="ModifierStat HP"|2,550
+|class="GoldPass rCost"|85,000
+|class="GoldPass rTime"|2d
+|5
+|-
+|4
+|class="ModifierStat DPS"|106
+|class="ModifierStat DPH"|127.2
+|1
+|4
+|class="ModifierStat HP"|2,650
+|class="GoldPass rCost"|100,000
+|class="GoldPass rTime"|3d
+|5
+|-
+|5
+|class="ModifierStat DPS"|110
+|class="ModifierStat DPH"|132
+|class="change-highlight"|2
+|class="change-highlight"|8
+|class="ModifierStat HP"|2,800
+|class="GoldPass rCost"|115,000
+|class="GoldPass rTime"|4d
+|5
+|-
+|6
+|class="ModifierStat DPS"|114
+|class="ModifierStat DPH"|136.8
+|2
+|8
+|class="ModifierStat HP"|2,900
+|class="GoldPass rCost"|130,000
+|class="GoldPass rTime"|4d 12h
+|5
+|-
+|7
+|class="ModifierStat DPS"|118
+|class="ModifierStat DPH"|141.6
+|2
+|8
+|class="ModifierStat HP"|3,000
+|class="GoldPass rCost"|145,000
+|class="GoldPass rTime"|5d
+|5
+|-
+|8
+|class="ModifierStat DPS"|122
+|class="ModifierStat DPH"|146.4
+|2
+|8
+|class="ModifierStat HP"|3,100
+|class="GoldPass rCost"|160,000
+|class="GoldPass rTime"|5d 12h
+|5
+|-
+|9
+|class="ModifierStat DPS"|126
+|class="ModifierStat DPH"|151.2
+|2
+|8
+|class="ModifierStat HP"|3,200
+|class="GoldPass rCost"|170,000
+|class="GoldPass rTime"|6d
+|5
+|-
+|10
+|class="ModifierStat DPS"|130
+|class="ModifierStat DPH"|156
+|2
+|class="change-highlight"|10
+|class="ModifierStat HP"|3,300
+|class="GoldPass rCost"|180,000
+|class="GoldPass rTime"|6d 12h
+|5
+|-
+|11
+|class="ModifierStat DPS"|134
+|class="ModifierStat DPH"|160.8
+|2
+|10
+|class="ModifierStat HP"|3,400
+|class="GoldPass rCost"|200,000
+|class="GoldPass rTime"|7d
+|11
+|-
+|12
+|class="ModifierStat DPS"|138
+|class="ModifierStat DPH"|165.6
+|2
+|10
+|class="ModifierStat HP"|3,500
+|class="GoldPass rCost"|230,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|13
+|class="ModifierStat DPS"|142
+|class="ModifierStat DPH"|170.4
+|2
+|10
+|class="ModifierStat HP"|3,600
+|class="GoldPass rCost"|260,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|14
+|class="ModifierStat DPS"|146
+|class="ModifierStat DPH"|175.2
+|2
+|10
+|class="ModifierStat HP"|3,700
+|class="GoldPass rCost"|290,000
+|class="GoldPass rTime"|8d
+|11
+|-
+|15
+|class="ModifierStat DPS"|150
+|class="ModifierStat DPH"|180
+|class="change-highlight"|3
+|class="change-highlight"|12
+|class="ModifierStat HP"|3,800
+|class="GoldPass rCost"|320,000
+|class="GoldPass rTime"|8d
+|11
+|}
+</div></center>
+
+==History==
+{|class="wikitable" style="width:100%"
+!Patch
+!Description
+|-
+!October 8, 2022
+|Announced Frosty, with 10 levels. [[File:Frosty_field.png|62x62px]]
+|-
+!October 10, 2022
+|Added Frosty.
+|-
+!March 24, 2025
+|Reduced upgrade costs at levels 2 to 9:
+*Level 2: 135,000 -> 70,000 {{Res|Dark Elixir}}
+*Level 3: 142,500 -> 85,000 {{Res|Dark Elixir}}
+*Level 4: 146,250 -> 100,000 {{Res|Dark Elixir}}
+*Level 5: 150,000 -> 115,000 {{Res|Dark Elixir}}
+*Level 6: 157,500 -> 130,000 {{Res|Dark Elixir}}
+*Level 7: 161,250 -> 145,000 {{Res|Dark Elixir}}
+*Level 8: 168,750 -> 160,000 {{Res|Dark Elixir}}
+*Level 9: 172,500 -> 170,000 {{Res|Dark Elixir}}
+|-
+!June 16, 2025
+|Added the level 11 to 15 Frosty.
+|}
+
+==Gallery==
+<gallery>
+Frosty info 2.png|Happy
+Frosty info 3.png|Angry
+</gallery>
+
+==Trivia==
+===General===
+*The name "Frosty" is a masculine name of Old Norse origins, meaning “''frost''”.
+*Frosty resembles the in-life pinniped species called "''Odobenus rosmarus"'' ([[wikipedia:Walrus|walrus]]). The walrus is a marine pinniped species that have large tusks and whiskers and considerable bulk and live in polar regions. Frosty also appears to have a different color scheme; his fur is glaucous, eyes are bright cerulean, nose is black, tongue is purple, eyebrows, mustache and beard are alice blue, and his tusks are cream-colored. This is in contrast to real-life walruses which are mostly brown, cinnamon or darker in color.
+===Comparisons===
+*Frosty is the third Pet to be based on a real life animal alongside the [[Electro Owl]], [[Mighty Yak]], [[Diggy]], [[Poison Lizard]], [[Spirit Fox]], [[Angry Jelly]], and [[Sneezy]] as well as the second Pet to be based on a mammal.
+*Frosty and Sneezy are the only Pets that can summon subtroops.
+**In this case, Frosty is the only one that summons ground units.
+
+{{TroopsMenuHV}}
+
+[[Category:Pets]]
+[[Category:Home Village]]
+[[Category:Troops]]
+[[Category:Ground Troops]]
+
+[[de:Frosty]]

@@ -1,0 +1,393 @@
+__NOEDITSECTION__
+{{Protection}}
+{{For|the Builder Base version|Elixir Storage/Builder Base}}
+
+[[File:Elixir Storage19.png|200px|center|link=]]
+
+<center>
+'''''"These storages contain the [[Resources#Elixir|elixir]] pumped from underground. Upgrade them to increase the maximum amount of elixir you can store."'''''
+</center>
+
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Elixir Storage1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Elixir Storage2.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Elixir Storage3.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Elixir Storage4.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Elixir Storage5.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Elixir Storage6.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Elixir Storage7.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Elixir Storage8.png|100px|link=]]<div>Level 8</div></div>
+<div>[[File:Elixir Storage9.png|100px|link=]]<div>Level 9</div></div>
+<div>[[File:Elixir Storage10.png|100px|link=]]<div>Level 10</div></div>
+<div>[[File:Elixir Storage11.png|100px|link=]]<div>Level 11</div></div>
+<div>[[File:Elixir Storage12.png|100px|link=]]<div>Level 12</div></div>
+<div>[[File:Elixir Storage13.png|100px|link=]]<div>Level 13</div></div>
+<div>[[File:Elixir Storage14.png|100px|link=]]<div>Level 14</div></div>
+<div>[[File:Elixir Storage15.png|100px|link=]]<div>Level 15</div></div>
+<div>[[File:Elixir Storage16.png|100px|link=]]<div>Level 16</div></div>
+<div>[[File:Elixir Storage17.png|100px|link=]]<div>Level 17</div></div>
+<div>[[File:Elixir Storage18.png|90px|link=]]<div>Level 18</div></div>
+<div>[[File:Elixir Storage19.png|90px|link=]]<div>Level 19</div></div>
+</div>
+
+==Summary==
+*The Elixir Storage allows you to save your hard-earned [[Resources#Elixir|Elixir]] so that you can use it for future upgrades.
+*The amount of Elixir an attacker may [[Raids#Loot|loot]] depends on the defender's [[Town Hall]] level (See Percent Lootable by Town Hall Level below).
+*When your Elixir Storages are full, any Elixir gained from [[raids]] will not go into your Elixir Storage but will count to the total amount of loot stolen from the player. It will also count toward the [[Achievements#Elixir Escapade|Elixir Escapade]] Achievement.
+*Elixir Storages are still fully functional while being upgraded.
+*Upgrading your Elixir Storage to a higher level than you require for storage purposes can potentially save Elixir in a raid. As an attacker receives an amount of Elixir proportional to the percentage of damage each hit causes, the higher health of the upgraded building results in less Elixir per hit. It also takes longer to destroy, giving you more time for your defenses to destroy the attacker before they can steal all the available Elixir.
+*The Elixir Storage is the counterpart of the [[Gold Storage]], and vice versa.
+*Although it stores Elixir, it is upgraded with [[Gold]].
+
+==Upgrade Differences==
+The Elixir Storage undergoes significant visual changes at levels 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19.
+
+*When initially constructed, the Elixir Storage appears as a glass ball with a cork.
+**At levels 2 to 4, one more glass ball is added at each level until there are four of them.
+**At level 5, instead of adding a fifth glass ball, they are replaced by a single large one. The cork is still on it, but is scaled so that it has the proper size needed.
+**At levels 6 to 8, the already massive glass ball grows continuously larger and larger. The direction of the cork alters at level 7.
+**At level 9, the two wooden support stakes are removed in favor of four golden yellow footings. The cork is also replaced by a grey metal spigot near the base of the vessel.
+**At level 10, the four footings receive spiked armor plating on each corner.
+**At level 11, the glass ball gains a spiked metal band around the waist of the vessel.
+**At level 12, it gains large stone footings, parts of the spigot are lined with gold, and a large hole is cut in the top, similar to the [[Dark Elixir Storage]], except it is a circle instead of a square.
+**At level 13, like the {{H|Gold Storage}}s, all the spikes of the footings are removed and replaced by a large spike on each footing. The large hole on top is lined with a dark gray color and changes to a square like shape. The spigot now also turns dark gray.
+**At level 14, the footings get coated with a Dark Elixir-like material. The spigot and the metal band grow bigger.
+**At level 15, the footings of the storage lose the cyan spikes and the large dark blue colored supports and gain a large, dark gray metal-like support with gold platings and linings on it. On the spherical vessel, it loses the white metal ring, and gains a thinner, darker, smaller ring with a gold piece, and a small green one as well, at the end of the incomplete ring.
+**At level 16, the footings are reinforced with thicker indigo frames with gold plating on top. On the glass ball, a thicker metal ring is added with gold upside-down equilateral triangles and patterns next to them on both sides. The hole on top of the ball changes into a triangle encased with thick golden plates.
+**At level 17, the footings are now made out of black metal at the bottom with two studs each, red wood at the middle, and the topmost are made out of reinforced golden plates, with three spikes each. The metal ring around the bottom of the glass ball is now stone with spikes at the center, golden linings, and a red wood lining at the top. At the top of the spherical vessel, the hole is similar to the shape when it was at level 12, except slightly darker and more reinforced.
+**At level 18, the footings of the storage change, as the entire  bottom part become dark gray with two layers, reinforced by three metal guards and gain dark steel blue eagle wings at the top for each footing. The metal ring around the glass ball becomes slightly thicker, gaining a middle layer of black inside, and the red lining changes to a black color. At the top of the spherical vessel, the ring is now made of dark metal and has small blue Eagle wings on each side, and gains a bottom layer made of gold, with squares holding the wings.
+**At level 19, TBA.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable||TH1=1||TH3=2||TH8=3||TH9=4}}
+{{BuildingSize|3x3}}
+{|class="wikitable floatheader row-highlight" id="elixirstorage-table-1" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!data-type="level"|Level<br />{{Res|Level}}
+!data-type="capacity"|[[Resources#Elixir|Storage Capacity]]<br />{{Res|Elixir}}
+!data-type="hitpoints"|Hitpoints<br />{{Res|Hitpoint}}
+!data-type="upgrade cost"|[[Resources#Gold|Build Cost]]<br />{{Res|RES = Gold}}
+!data-type="upgrade time"|Build Time<br />{{Res|Time}}
+!data-type="experience gained"|[[Experience]] Gained<br />{{Res|RES = XP}}
+!data-type="required town hall"|[[Town Hall]] Level Required<br />{{Res|Town Hall}}
+|-
+|1
+|1,500
+|150
+|class="GoldPass bCost"|300
+|class="GoldPass bTime"|10s
+|class="GoldPass EXP"|3
+|1
+|-
+|2
+|3,000
+|300
+|class="GoldPass bCost"|750
+|class="GoldPass bTime"|2m
+|class="GoldPass EXP"|10
+|2
+|-
+|3
+|6,000
+|450
+|class="GoldPass bCost"|1,500
+|class="GoldPass bTime"|5m
+|class="GoldPass EXP"|17
+|2
+|-
+|4
+|12,000
+|600
+|class="GoldPass bCost"|3,000
+|class="GoldPass bTime"|15m
+|class="GoldPass EXP"|30
+|class="change-highlight"|3
+|-
+|5
+|25,000
+|800
+|class="GoldPass bCost"|6,000
+|class="GoldPass bTime"|30m
+|class="GoldPass EXP"|42
+|3
+|-
+|6
+|45,000
+|1,000
+|class="GoldPass bCost"|12,000
+|class="GoldPass bTime"|1h
+|class="GoldPass EXP"|60
+|3
+|-
+|7
+|100,000
+|1,250
+|class="GoldPass bCost"|25,000
+|class="GoldPass bTime"|2h
+|class="GoldPass EXP"|84
+|class="change-highlight"|4
+|-
+|8
+|225,000
+|1,500
+|class="GoldPass bCost"|50,000
+|class="GoldPass bTime"|3h
+|class="GoldPass EXP"|103
+|4
+|-
+|9
+|450,000
+|1,700
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime"|4h
+|class="GoldPass EXP"|120
+|class="change-highlight"|5
+|-
+|10
+|850,000
+|1,900
+|class="GoldPass bCost"|250,000
+|class="GoldPass bTime"|5h
+|class="GoldPass EXP"|134
+|6
+|-
+|11
+|1,750,000
+|2,100
+|class="GoldPass bCost"|500,000
+|class="GoldPass bTime"|6h
+|class="GoldPass EXP"|146
+|7
+|-
+|12
+|2,000,000
+|2,500
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|11
+|-
+|13
+|3,000,000
+|2,900
+|class="GoldPass bCost"|1,800,000
+|class="GoldPass bTime"|18h
+|class="GoldPass EXP"|254
+|12
+|-
+|14
+|4,000,000
+|3,300
+|class="GoldPass bCost"|2,800,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|13
+|-
+|15
+|4,500,000
+|3,700
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|14
+|-
+|16
+|5,000,000
+|3,900
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|15
+|-
+|17
+|5,500,000
+|4,050
+|class="GoldPass bCost"|5,500,000
+|class="GoldPass bTime"|4d
+|class="GoldPass EXP"|587
+|16
+|-
+|18
+|6,000,000
+|4,200
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|5d
+|class="GoldPass EXP"|657
+|17
+|-
+|19
+|6,500,000
+|4,300
+|class="GoldPass bCost"|18,000,000
+|class="GoldPass bTime"|12d 12h
+|class="GoldPass EXP"|1,039
+|18
+|}
+
+{{Loot Availability|ElixirStorage=Yes|class=wikitable|tablestyle=width: 550px;|colheaderstyle=padding: 0px 5px;|cellstyle=padding: 0px 5px;}}
+</div>
+</center>
+{{IconDescriptions|Upgradable=Yes|StorageBuilding = Yes|UnitName=Elixir Storage}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%"
+!Date!!Type!!Description
+|-
+!August 2, 2012
+!Game Release 
+|The Elixir Storage was in the original release of the game with 10 levels.
+|-
+!October 27, 2012
+!Update
+|Added the level 11 Elixir Storage. [[File:Elixir Storage11.png|83x83px|link=]]
+|-
+!January 10, 2013
+!Update
+|Added the fourth Elixir Storage available at [[Town Hall]] level 9.
+|-
+!April 17, 2013
+!Update
+|
+*The percentage loot that can be looted from Elixir Storage is decreased.
+*The maximum possible amount of loot remains the same.
+|-
+!December 5, 2013
+!Update
+|Reworked the loot system; Town Hall 6 and higher had less percentage available to loot from Elixir Storages, but conversely had an increased loot cap (previously all Town Hall levels made 20% of Elixir available, up to a maximum of 198,000).
+|-
+!April 9, 2014
+!Update
+|Level 1 Elixir Storage's upgrade time has been reduced from 15 minutes to 1 minute.
+|-
+!December 11, 2014
+!Update
+|Reduced hitpoints at levels 6 to 11:
+*Level 6: 1,500 -> 1,400 {{Res|Hitpoint}}
+*Level 7: 1,650 -> 1,600 {{Res|Hitpoint}}
+*Level 8: 1,740 -> 1,700 {{Res|Hitpoint}}
+*Level 9: 1,820 -> 1,800 {{Res|Hitpoint}}
+*Level 10: 1,920 -> 1,900 {{Res|Hitpoint}}
+*Level 11: 2,016 -> 2,000 {{Res|Hitpoint}}
+|-
+!April 30, 2015
+!Update
+|Reduced build time from 1 minute to 10 seconds. {{Res|Time}}
+|-
+!July 1, 2015
+!Update
+|The Elixir Storage no longer takes damage from spells, and increased the HP of level 11 Elixir Storage from 2,000 to 2,100.{{Res|Hitpoint}}
+|-
+!December 10, 2015
+!Update
+|Added the level 12 Elixir Storage and reduced the Elixir Storage's storage capacity (compensated by increasing the Town Hall's storage capacity).
+[[File:Elixir Storage12.png|78x78px|link=]]
+|-
+!March 21, 2016
+!Update
+|Gave the Elixir Storage more visual states to indicate more clearly how full or empty they are.
+|-
+!June 11, 2018
+!Town Hall 12 Update
+|Added the level 13 Elixir Storage. [[File:Elixir Storage13.png|81x81px|link=]]
+|-
+!June 26, 2018
+!Update
+|Reduced upgrade times reduction at levels 2 to 10, and 12:
+*Level 2: 30m -> 15m {{Res|Time}}
+*Level 3: 1h -> 30m {{Res|Time}}
+*Level 4: 2h -> 1h {{Res|Time}}
+*Level 5: 3h -> 2h {{Res|Time}}
+*Level 6: 4h -> 3h {{Res|Time}}
+*Level 7: 6h -> 4h {{Res|Time}}
+*Level 8: 8h -> 5h {{Res|Time}}
+*Level 9: 12h -> 8h {{Res|Time}}
+*Level 10: 1d -> 16h {{Res|Time}}
+*Level 12: 7d -> 4d {{Res|Time}}
+|-
+!April 2, 2019
+!Update
+|
+*Reduced upgrade times for levels 10 to 13:
+**Level 10: 16h -> 12h {{Res|Time}}
+**Level 11: 2d -> 16h {{Res|Time}}
+**Level 12: 4d -> 3d {{Res|Time}}
+**Level 13: 7d -> 6d {{Res|Time}}
+*Reduced upgrade costs for levels 12 and 13:
+**Level 12: 2,500,000 -> 1,500,000 {{Res|Gold}}
+**Level 13: 5,000,000 -> 3,000,000 {{Res|Gold}}
+|-
+!December 9, 2019
+!Town Hall 13 Update
+|Added the level 14 Elixir Storage and increased storage capacity of level 13 Elixir Storage from 2,500,000 from 3,000,000. The same update increased the loot cap at TH12 from 450k to 500k.
+[[File:Elixir Storage14.png|74x74px|link=]]
+|-
+!June 22, 2020
+!Update
+|Increased the maximum storage capacity at higher levels for returned resources stolen in attacks.
+|-
+!April 12, 2021
+!Town Hall 14 Update
+|
+*Added the level 15 Elixir Storage. [[File:Elixir Storage15.png|74x74px|link=]]
+*Reduced upgrade times for levels 2 and 3: 
+**Level 2: 15m -> 5m {{Res|Time}}
+**Level 3: 30m -> 20m {{Res|Time}}
+|-
+!October 10, 2022
+!Town Hall 15 Update
+|
+*Added the level 16 Elixir Storage. [[File:Elixir Storage16.png|72x72px|link=]]
+*Reduced upgrade cost for levels 15 Elixir Storage from 5,500,000 to 4,000,000. {{Res|Gold}}
+|-
+!December 12, 2023
+!Town Hall 16 Update
+|Added the level 17 Elixir Storage. [[File:Elixir Storage17.png|71x71px|link=]]
+|-
+!November 25, 2024
+!Town Hall 17 Update
+|Added the level 18 Elixir Storage. [[File:Elixir Storage18.png|57x57px|link=]]
+|-
+!February 10, 2025
+!Update
+|
+*Increased storage capacities at levels 17 and 18:
+**Level 17: 5,250,000 -> 5,500,000 {{Res|Elixir}}
+**Level 18: 5,500,000 -> 6,000,000 {{Res|Elixir}}
+*Reduced upgrade times at levels 2 to 8:
+**Level 2: 5m -> 2m {{Res|Time}}
+**Level 3: 20m -> 10m {{Res|Time}}
+**Level 4: 1h -> 30m {{Res|Time}}
+**Level 5: 2h -> 1h {{Res|Time}}
+**Level 6: 3h -> 1h 30m {{Res|Time}}
+**Level 7: 4h -> 2h {{Res|Time}}
+**Level 8: 5h -> 4h {{Res|Time}}
+|-
+!November 17, 2025
+!Town Hall 18 Update
+|
+*Added the level 19 Elixir Storage. [[File:Elixir Storage19.png|57x57px|link=]]
+*Reduced upgrade time at level 18 from 12d 12h to 7d. {{Res|Time}}
+|}
+
+==Trivia==
+*The word "[[Resources#Elixir|Elixir]]" comes from "al iksir", which is the Arabic word for miracle substances. Dating back to the 3rd century BC, Elixir was rumored to change base metals into gold and prolong life indefinitely.
+*[[Troops]] running from the [[Barracks]] to [[Army Camp]]s that pass behind a storage will be seen as a silhouette as they pass behind.
+**However, this only happens if the Elixir Storages are upgraded to level 5 or higher and are more than halfway full.
+*The level 9 storage tank seems to be "floating" on its supports.
+*It is possible to overflow the Elixir Storage, but only by purchasing special resource packs found in the shop for real money or receiving extra Elixir from the [[Season Challenges#Perks|Season Bank]]. If this is done, any excess Elixir will remain in the storage, and until the excess is removed (either by spending the Elixir or being raided), any Elixir earned from raids will be lost, just as, if the Elixir Storage was full.
+
+===Comparisons===
+*The Elixir Storage and {{H|Gold Storage}} are the resource buildings to have the highest levels, being 16.
+*The Elixir Storage, [[Dark Elixir Drill]] and [[Dark Elixir Storage]] are the only resource buildings in the Home Village that do not appear in a loading screen.
+*The Elixir Storage and the {{H|Elixir Collector}} are the only resource-related buildings to appear in ''[[wikipedia:Clash Royale|Clash Royale]]''.
+**The Elixir Storage appears in ''Clash Royale'', but only in a special game mode (it does not appear otherwise).
+
+{{BuildingsMenuHV}}
+
+[[Category:Buildings]]
+[[Category:Resources]]
+[[Category:Home Village]]
+[[ru:Хранилище эликсира/Родная деревня]]

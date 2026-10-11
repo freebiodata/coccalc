@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { SITE } from '@data/meta';
+
+const title = 'Contact CoCPlanner';
+const description = 'Report a wrong value, suggest a feature or ask about CoCPlanner. Email the team directly.';
+---
+<BaseLayout title={title} description={description} canonical="/contact/" activeNav="">
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Contact' }]} />
+
+  <div class="page-hero">
+    <h1>Contact</h1>
+    <p class="value-line">
+      Wrong number, broken tool, feature idea or data question: mail us and a real person reads it.
+    </p>
+  </div>
+
+  <section class="section card">
+    <h2><Icon name="mail" size={20} /> Email</h2>
+    <p>
+      <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>
+    </p>
+    <p class="small muted">We usually reply within a few days. Data corrections get priority.</p>
+
+    <h2><Icon name="info" size={20} /> Before you report a data error</h2>
+    <p class="small">
+      Check the <a href="/methodology/">methods page</a> first: the value you see in game may include a discount
+      (Gold Pass, event) that we deliberately do not apply, or may have changed in an update after our snapshot.
+      If the wiki disagrees with us, that is a bug: please send the building, level and what the wiki says.
+    </p>
+
+    <h2><Icon name="sparkles" size={20} /> Feature ideas</h2>
+    <p class="small">
+      Builder Base calculators, loot planning and per-building priority lists are the most requested additions.
+      Mail us yours and it joins the <a href="/changelog/">changelog</a> backlog.
+    </p>
+  </section>
+</BaseLayout>

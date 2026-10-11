@@ -1,0 +1,158 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FAQ from '../components/FAQ.astro';
+import Icon from '../components/Icon.astro';
+import RelatedTools from '../components/RelatedTools.astro';
+import TrustBlock from '../components/TrustBlock.astro';
+import { SITE, TOOLS } from '@data/meta';
+import { DATA_SNAPSHOT_DATE, MAX_TH } from '@data/game';
+import { costToMaxFrom, segmentTotals, timeToMax } from '@lib/calc';
+import { fmtDuration, fmtNum } from '@lib/format';
+
+const title = 'Cost to Max Each Town Hall Level | CoCPlanner';
+const description =
+  `Full tables of the gold, elixir and dark elixir needed to max every town hall level from TH1 to TH${MAX_TH}, built from wiki upgrade data.`;
+
+const OPTS = { includeWalls: true, includeLab: true, includeHeroes: true, includePets: true };
+const rows: Array<{ th: number; gold: number; elixir: number; dark: number; timeSec: number; cumGold: number; cumElixir: number; cumDark: number }> = [];
+let cumGold = 0;
+let cumElixir = 0;
+let cumDark = 0;
+for (let th = 1; th <= MAX_TH; th++) {
+  const seg = segmentTotals(th, OPTS);
+  const t = timeToMax(th, { ...OPTS, builders: 5 });
+  cumGold += seg.gold;
+  cumElixir += seg.elixir;
+  cumDark += seg.dark;
+  rows.push({ th, gold: seg.gold, elixir: seg.elixir, dark: seg.dark, timeSec: t.builderSec, cumGold, cumElixir, cumDark });
+}
+
+const th10Row = rows.find((r) => r.th === 10);
+const priciestRow = [...rows].sort((a, b) => b.gold + b.elixir + b.dark - (a.gold + a.elixir + a.dark))[0];
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    '@id': `${SITE.url}/cost-to-max/#dataset`,
+    name: 'Clash of Clans cost to max by Town Hall level',
+    description: `Gold, elixir and dark elixir required to max each Town Hall level, TH1 to TH${MAX_TH}.`,
+    url: `${SITE.url}/cost-to-max/`,
+    creator: { '@id': `${SITE.url}/#organization` },
+    isAccessibleForFree: true,
+    dateModified: DATA_SNAPSHOT_DATE,
+  },
+];
+
+const faqItems = [
+  {
+    q: 'What does "cost to max TH10" include?',
+    a: 'Everything that unlocks or upgrades at TH10: all defense and building levels that TH10 allows, the extra building slots, the full wall set at TH10 wall prices, hero levels available at TH10, pet upgrades and all laboratory research unlocked at TH10. It assumes you arrived at TH10 with a fully maxed TH9.',
+  },
+  {
+    q: 'Which town hall is the most expensive?',
+    a: priciestRow
+      ? `In our snapshot, TH${priciestRow.th}: ${fmtNum(priciestRow.gold)} gold, ${fmtNum(priciestRow.elixir)} elixir and ${fmtNum(priciestRow.dark)} dark elixir for that segment alone. The final wall levels and last defense tiers make the closing Town Halls dramatically heavier than everything before them.`
+      : 'The late Town Hall levels: wall prices and final defense levels make the closing THs dramatically heavier than early ones.',
+  },
+  {
+    q: 'Why are cumulative totals bigger than the sum of the columns I added up?',
+    a: 'They should match exactly: cumulative columns are the running total of every segment from TH1. If you add all "this TH costs" rows for TH1 through TH12 you get the cumulative TH12 row.',
+  },
+  {
+    q: 'Do these numbers include walls?',
+    a: 'Yes, at gold prices, for the maximum wall count available at each Town Hall level. If you spend elixir on the higher wall levels, shift part of the bill from gold to elixir with the <a href="/wall-calculator/">wall calculator</a>.',
+  },
+  {
+    q: 'How current is this table?',
+    a: `Snapshot ${DATA_SNAPSHOT_DATE} of the Clash of Clans Wiki. Supercell rebalances costs occasionally; the changelog records every recheck of this table.`,
+  },
+];
+---
+<BaseLayout title={title} description={description} canonical="/cost-to-max/" activeNav="/cost-to-max/" jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Cost to Max Tables' }]} />
+
+  <div class="page-hero">
+    <h1>Cost to max each town hall level</h1>
+    <p class="value-line">
+      What it really costs to max TH1 through TH{MAX_TH}: gold, elixir and dark elixir per Town Hall segment,
+      plus cumulative totals from the very start. Computed from wiki data, snapshot {DATA_SNAPSHOT_DATE}.
+    </p>
+    <div class="trust-line">
+      <span class="pill"><Icon name="layers" size={14} /> All buildings, walls, heroes, pets, lab</span>
+      <span class="pill blue"><Icon name="database" size={14} /> Wiki data, snapshot {DATA_SNAPSHOT_DATE}</span>
+    </div>
+  </div>
+
+  <section class="card card-pop" aria-label="Cost to max table">
+    <h2 style="font-size:1.2rem">Cost per town hall and cumulative totals</h2>
+    <p class="small muted">
+      "To max this TH" assumes you arrived at that TH with everything maxed one level below. Builder time is the
+      pure sum of upgrade durations at that TH (see the <a href="/upgrade-time-planner/">time planner</a> for
+      builder-parallel dates).
+    </p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Town Hall</th>
+            <th class="num">Gold (this TH)</th>
+            <th class="num">Elixir (this TH)</th>
+            <th class="num">Dark elixir (this TH)</th>
+            <th class="num">Builder work</th>
+            <th class="num">Cumulative gold</th>
+            <th class="num">Cumulative elixir</th>
+            <th class="num">Cumulative dark</th>
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((row) => (
+            <tr>
+              <td><strong>TH{row.th}</strong></td>
+              <td class="num">{fmtNum(row.gold)}</td>
+              <td class="num">{fmtNum(row.elixir)}</td>
+              <td class="num">{fmtNum(row.dark)}</td>
+              <td class="num">{row.timeSec > 0 ? fmtDuration(row.timeSec) : '-'}</td>
+              <td class="num">{fmtNum(row.cumGold)}</td>
+              <td class="num">{fmtNum(row.cumElixir)}</td>
+              <td class="num">{fmtNum(row.cumDark)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Reading the table</h2>
+    <div class="card">
+      {th10Row && (
+        <p>
+          <strong>Example, TH10:</strong> maxing TH10 itself costs {fmtNum(th10Row.gold)} gold, {fmtNum(th10Row.elixir)} elixir
+          and {fmtNum(th10Row.dark)} dark elixir. A player who has maxed every level through TH10 has spent
+          {fmtNum(th10Row.cumGold)} gold, {fmtNum(th10Row.cumElixir)} elixir and {fmtNum(th10Row.cumDark)} dark elixir since TH1,
+          walls included at gold prices.
+        </p>
+      )}
+      <p>
+        Segment costs grow steeply with wall level and the final defense tiers: the last few Town Halls cost more
+        than everything before them combined. That is why upgrade order matters more than loot tricks late game;
+        our <a href="/guides/upgrade-priority/">upgrade priority guide</a> covers what to do about it.
+      </p>
+      <p class="small muted" style="margin:0">
+        Home village only. Walls priced at gold; elixir-eligible wall levels let you split the bill. Heroes, pets and
+        research included. No discounts applied.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Frequently asked questions</h2>
+    <FAQ items={faqItems} />
+  </section>
+
+  <RelatedTools slugs={['/upgrade-cost-calculator/', '/time-to-max-calculator/', '/wall-calculator/']} tools={TOOLS} />
+
+  <TrustBlock toolName="Cost to Max Tables" />
+</BaseLayout>

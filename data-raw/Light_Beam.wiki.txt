@@ -1,0 +1,346 @@
+{{Protection}}
+{{TemporaryTroopUnavailable|mode=building|crafted=yes|phase=Second}}
+[[File:Light Beam4.png|center|200px|link=]]
+<center>'''''So bright, even squinting won’t help! The Light Beam has very long range, but its luminosity fades with distance. Closer [[Army|targets]] take more damage.'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Light Beam1.png|center|100px|link=]]<div>Levels 3-11</div></div>
+<div>[[File:Light Beam2.png|center|100px|link=]]<div>Levels 12-20</div></div>
+<div>[[File:Light Beam3.png|center|100px|link=]]<div>Levels 21-29</div></div>
+<div>[[File:Light Beam4.png|center|100px|link=]]<div>Level 30</div></div>
+</div>
+
+==Summary==
+*The Light Beam is a [[:Category:Crafted Buildings|Crafted]] {{H|Defensive Buildings|Defense}} that can be chosen from the [[Crafting Station]]. It is a single-target long-range defense that shoots balls of light to attack.
+*The Light Beam does full damage to targets within 5 tiles of it (damage is calculated at the point of impact, not where the target was when the light ball was fired). However, beyond that distance, the light balls will have reduced damage, down to a minimum of 30% of the original damage at the edge of the range. If a target moves out of range, the light ball will miss entirely.
+*The Light Beam's modules upgrade its hitpoints, damage, and attack cooldown. Only one module can be upgraded at a time.
+
+==Strategies==
+===Defensive Strategies===
+*Against swarms of medium to high-health troops like [[Dragon]]s, [[Hog Rider]]s, and [[Valkyrie]]s, if sufficiently-leveled, the Light Beam can rival the power of the [[Monolith]].
+**However, it may be less effective on higher-hitpoint units like [[Meteor Golem]]s, [[Lava Hound]]s, and [[P.E.K.K.A]]s, as they will be able to tank them, as the latter defense is more effective in taking them out regardless of hitpoints.
+*Not only can the Light Beam be dangerous for long-range units, including Flame Flingers, but it also deals increased damage when attacking units are close enough. Pair this with high-enough attack speed and damage module levels and this defense can snipe them off more effectively. It can also be placed in areas of the base where Flame Flingers are most likely to be deployed from.
+*To prevent max-level Giant Arrow value, upgrading the Hitpoint module to at least level 4 is recommended, as it will leave 400 hitpoints after the Giant Arrow damages it. This principle also applies to those who are newly upgraded to Town Hall 18.
+
+===Offensive Strategies===
+*To prevent this defense from wreaking havoc onto the attacking army, use [[Freeze Spell|Freeze]] and [[Overgrowth Spell]]s to stop it from attacking, [[Ice Block Spell]]s to protect attacking units in its range, [[Rage Spell]]s to destroy this defense quickly before it deals too much damage, and [[Totem Spell]]s to redirect its attacks away from the army.
+*The max-level Fireball and two Earthquake Spells can take out a max-hitpoint Light Beam when dealing against one with a max-leveled Hitpoint module.
+**The player can also use the {{H|Lightning Spell}} and Earthquake Spell combo, although it would require a lot of spell housing space.
+**In addition, using the [[Barbarian King]]'s [[Spiky Ball]] and the [[Earthquake Boots]] can destroy this defense, if sufficiently-leveled.
+
+==Upgrade Differences==
+*When selected, the Light Beam appears as a very-long range tall defense made of wood, metal, and stone. It has a smooth, nine-padded stone foundation below shared from the [[Crafting Station]]. The short base is made of dark gray stone, holding the entire structure, and has a decagonal layer made of warm gray stone at the top which edges protrude out, looking like a star, with the bottommost layer being dark stone with pads of the same material at the edges. At the body of the Light Beam, there are tall wooden planks that are supported by the base, shaped octagonally, and are positioned vertically, held together by rope in between the base and the body, and a rotational mount on top, which holds the weapon by a metal part that cannot normally be seen. The weapon is an octagonal wooden barrel with equally-spaced planks, and has a double wooden turning wheel with the same shape and a wooden crank on each of the two sides, which can presumably be used to position it higher to target air units. At the front of the barrel is a yellow gem, presumably citrine or amber, held by a decagonal stone frame, which is the source of its attacks, powered from the sun that allows it to detect the nearest unit in range and how near it is. As the attacking unit gets closer, the reflection causes the Light Beam to power up, increasing its damage, reaching maximum potential when the unit is 5 or less tiles away from it. However, the farther it is, the reflection of light decreases, thus lessening the damage. If they exit its range while the projectiles are currently targeting that unit, they will dissipate within the maximum range.
+*At level 12, the support edges of the square pads appear and connect to the base, curving downward from the top. In addition, all the wood becomes pale gray, with the wooden band being replaced by a brass one, with another appearing at the rear side of the barrel, and the decagonal stone frame turns into a gray metal, with a metal piece at the bottom.
+*At level 21, the corner pieces gain a smaller layer of warm grey metal in between, and semicircular metal pieces appear on each side of the base. The wooden parts of the body are replaced by warm gray stone, and the ropes are replaced by concrete. The two-layered wheels are replaced by a single brass one, and the cranks become larger and are now made of dark gray metal. All the wood is now reddish-brown in color, and the metal part at the front becomes shinier and connects to the brass band of the barrel which becomes wider via metal rivets, while the rear one is unaffected.
+*At level 30, all the metal parts become gold, except for the semicircular pieces, which turn brass instead. The concrete support holding the metal body is also replaced with brass. The brass ring at the rear of the barrel turns golden, so is the front, which also completely connects to the frame. The frame gains protruding spikes that resemble the symbol of the sun, with each facing towards the left from the top of the frame, going right at the bottom. The wheels now gain handles at the ends, with an appearance similar to a traditional yacht steering wheel.
+
+==Statistics==
+<center>
+<div class="stats-background">{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH18=1}}
+{{BuildingSize|3x3}}
+
+===Common Statistics===
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Range<br/>{{Res|Range}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+|-
+|15 tiles
+|Single Target
+|Ground & Air
+|}
+
+===Module 1: Hitpoints===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|600
+|N/A
+|N/A
+|N/A
+|-
+|2
+|1,200
+|class="GoldPass bCost"|45,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|-
+|3
+|1,800
+|class="GoldPass bCost"|60,000
+|class="GoldPass bTime"|16h
+|class="GoldPass EXP"|240
+|-
+|4
+|2,400
+|class="GoldPass bCost"|75,000
+|class="GoldPass bTime"|20h
+|class="GoldPass EXP"|268
+|-
+|5
+|3,000
+|class="GoldPass bCost"|90,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|-
+|6
+|3,600
+|class="GoldPass bCost"|95,000
+|class="GoldPass bTime"|1d 6h
+|class="GoldPass EXP"|328
+|-
+|7
+|4,200
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|8
+|4,800
+|class="GoldPass bCost"|105,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|9
+|5,400
+|class="GoldPass bCost"|110,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|10
+|6,000
+|class="GoldPass bCost"|115,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+
+===Module 2: Damage===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Damage per Hit<br/>{{Res|Damage}}
+![[Resources#Elixir|Cost]]<br/>{{Res|Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|class="ModifierRange DPHRange Building"|132-440
+|N/A
+|N/A
+|N/A
+|-
+|2
+|class="ModifierRange DPHRange Building"|144-480
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|3
+|class="ModifierRange DPHRange Building"|156-520
+|class="GoldPass bCost"|3,500,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|4
+|class="ModifierRange DPHRange Building"|168-560
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|5
+|class="ModifierRange DPHRange Building"|180-600
+|class="GoldPass bCost"|4,500,000
+|class="GoldPass bTime"|2d 14h
+|class="GoldPass EXP"|472
+|-
+|6
+|class="ModifierRange DPHRange Building"|192-640
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime"|2d 16h
+|class="GoldPass EXP"|480
+|-
+|7
+|class="ModifierRange DPHRange Building"|204-680
+|class="GoldPass bCost"|7,500,000
+|class="GoldPass bTime"|2d 18h
+|class="GoldPass EXP"|487
+|-
+|8
+|class="ModifierRange DPHRange Building"|216-720
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime"|2d 20h
+|class="GoldPass EXP"|494
+|-
+|9
+|class="ModifierRange DPHRange Building"|228-760
+|class="GoldPass bCost"|10,500,000
+|class="GoldPass bTime"|2d 22h
+|class="GoldPass EXP"|501
+|-
+|10
+|class="ModifierRange DPHRange Building"|240-800
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+
+===Module 3: Attack Cooldown===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Attack Cooldown<br/>{{Res|Attack Speed}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|1.9s
+|N/A
+|N/A
+|N/A
+|-
+|2
+|1.8s
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|-
+|3
+|1.7s
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|1d 6h
+|class="GoldPass EXP"|328
+|-
+|4
+|1.6s
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|5
+|1.5s
+|class="GoldPass bCost"|7,000,000
+|class="GoldPass bTime"|1d 18h
+|class="GoldPass EXP"|388
+|-
+|6
+|1.4s
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|7
+|1.3s
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime"|2d 6h
+|class="GoldPass EXP"|440
+|-
+|8
+|1.2s
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|9
+|1.1s
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|2d 18h
+|class="GoldPass EXP"|487
+|-
+|10
+|1.0s
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Crafter's Nightmare'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Crafted Defenses in Multiplayer Battles||100||25
+|-
+|Destroy 200 Crafted Defenses in Multiplayer Battles||800||100
+|-
+|Destroy 2,000 Crafted Defenses in Multiplayer Battles||5,000||200
+|-
+!colspan="3" style="text-align: center; width: 650px" |<big>'''Crafting Connoisseur'''</big>
+|-
+|Upgrade Crafted Defenses 5 times||10||10
+|-
+|Upgrade Crafted Defenses 25 times||100||30
+|-
+|Upgrade Crafted Defenses 75 times||1,000||50
+|}
+
+{{IconDescriptions|CraftableDefense=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description
+|-
+!November 16, 2025!!Sneak Peek
+|Announced the Light Beam, with 30 levels.
+[[File:Light Beam1.png|70px|link=]][[File:Light Beam2.png|70px|link=]][[File:Light Beam3.png|70px|link=]][[File:Light Beam4.png|70px|link=]]
+|-
+!November 20, 2025!!Update
+|Added the Light Beam.
+|-
+!March 31, 2026!!Update
+|Removed the Light Beam.
+|}
+
+==Audio==
+===Generic===
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:CraftingStation Select.ogg]]
+|Crafting Station selected<br/><br/>Crafted Defense selected
+|When the Crafting Station is tapped<br/><br/>When the Crafted Defense is chosen or switched
+|-
+|[[File:CraftingStation Place.ogg]]
+|Crafting Station placed
+|When the Crafting Station is placed or swapped with another building
+|-
+|[[File:Cannon Shoot.ogg]]
+|Light Beam fires
+|When the Light Beam attacks
+|-
+|[[File:CannonCart hit.ogg]]<!--Placeholder-->
+|Light ball blasts 
+|When the Light Beam's projectile hits something
+|}
+
+===Unique===
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:LightBeam attack1.ogg]][[File:LightBeam attack2.ogg]][[File:LightBeam attack3.ogg]]
+|Light Beam flashes
+|When the Light Beam attacks
+|}
+
+==Gallery==
+<gallery>
+Light Beam Old.png|Sun Beam, beta version of Light Beam
+</gallery>
+<!--
+==Trivia==
+-->
+{{BuildingsMenuHV}}
+{{Temporary}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Crafted Buildings]]
+[[ru:Световой луч]]

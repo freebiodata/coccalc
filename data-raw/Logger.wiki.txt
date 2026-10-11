@@ -1,0 +1,186 @@
+<!--{{Maintenance|reason=New update information}}-->
+{{For|the trap and [[Siege Machines|Siege Machine]] that throws a similar projectile|Log Trap|Log Launcher}}
+
+[[File:Guardians Logger info.png|200px|center|link=]]
+<center>'''''"A hardened meteorite hunk with a fascination for forestry. When Logger isn’t petting his mustache woodpeckers, he’s lobbing bouncing logs that push and crush all [[Army|troop]] types.<br><br>The timber may be slow, but it strikes with the full force of nature!"'''''</center>
+
+<div style="position: relative; top: -100px; text-align: right; margin-bottom: -50px; width: 100%; ">[[File:More Info Button.png|link=Town Hall/Guardians]]</div>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Logger1.png|110px|link=]]<div>Level 1-5</div></div>
+</div>
+
+==Summary==
+*The Logger is one of the default Guardians who is unlocked at [[Town Hall]] 18.
+*The Logger is a male royal blue anthropomorphic entity with glowing blue eyes and four pastel blue patches on each of his arms, and has a golden wristband on each of his wrists. Unlike the [[Longshot]] and the [[Smasher]], he wears a stone brick armor in a running bond pattern. He also has burnt orange wooden eyebrows, beard and a mohawk, which holds brown wooden planks to make it look like a roof-shaped hat. He holds a very large log with two metal rings on each end and numerous spikes. Because to his large size, he can attack both ground and air units.
+
+==Behavior==
+*When tapped, the Logger throws his log in the air before catching it using one of his hands then juggling it into another, after which he lifts the log using both hands in the air. If he was already on top of the Town Hall, he will also jump down from the bottom right side of the Town Hall.
+*The Logger attacks by throwing a log at the closest target, damaging and knocking back all units, ground and air at the same time by one tile. After this, he gathers a log from inside his hat, and the cycle repeats until he is defeated or no units are in range.
+*When idling, he is shown to exercise using his giant Log, lifting it up and moving it down.
+*When walking, the Log he is holding appears to sway to the sides as he lifts.
+*When defeated, he attempts to lift up the log one last time, but fails and then falls backwards before being pinned down by the heavy log. This does not deal damage to attacking units.
+
+==Strategies==
+===Defensive Strategies===
+*The Logger is a formidable Guardian to deal with, with higher hitpoints than the Longshot but less than the Smasher, and has the least damage and range of all the Guardians in the game, although the projectile lasts much longer.
+**His main drawback is his very slow attack speed, which can overwhelm him, especially when dealing with medium-hitpoint units like [[Valkyrie]]s or [[Hog Rider]]s, but is compensated for his wide damage radius, knockback and maximum range of his Logs while also damaging both ground and air at the same time, making him much more dangerous when units are very close to him, similar to the [[Log Trap]], rolling from 7 tiles initially to 8 tiles at max level.
+*The Logger can push back both ground and air units at the same time, which allows him to become a crowd controlling unit, especially when dealing against swarms, as they will be thrown away from the map if they can one-shot them, like {{H|Barbarian}}s, [[Goblin]]s, [[Wall Breaker]]s, [[Wizard]]s, and [[Archer]]s. For high-hitpoint units, it instead deals knockback damage, pushing them back by one tile. This makes it particularly deadly against smash-style attacks where [[Healer]]s are commonly used, where the logs will eventually take them out. Because of his slow attack speed however, he would eventually get taken out, especially when enemy units surround him from multiple directions. To prevent this, place splash-damaging or multi-targeting defenses like [[Scattershot]]s, [[Firespitter]]s, and {{H|Bomb Tower}}s to counter them. {{h|Traps}} and defending [[Heroes]] can also work in this regard.
+===Offensive Strategies===
+*To prevent the Logger from wreaking havoc to the player's army, the attacker can either use a [[Totem Spell]] to redirect his attacks away from the army, a [[Freeze Spell]] to stop him from attacking, an [[Invisibility Spell]] to protect units from being damaged, or an [[Ice Block Spell]] to tank for other units, especially when protecting Healers from being taken out by his Logs.
+**Avoid using [[Poison Spell]]s or [[Headhunter]]s however, as the former will be not be as effective and the latter will not target him, unless if there are no more [[Heroes]] remaining in the base.
+**The Logger's logs can still hit targets behind the initial target, especially Healers, even when invisible, so be careful.
+*Guardians like the Logger are immune to Poison Spells only when they are on top of the Town Hall and are not yet triggered.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Guardian}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Targets<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Range<br/>{{Res|Range}}
+!Patrol Radius<br/>{{Res|Range}}
+!Trigger Radius<br/>{{Res|Range}}
+!Damage Radius<br/>{{Res|Radius}}
+!Pushback Range<br/>{{Res|Push Strength}}
+|-
+|Ground & Air
+|Splash Damage
+|class="ModifierStat Speed Guardian"|8
+|class="AttackSpeed Guardian"|2.5s
+|7 tiles
+|14 tiles
+|15 tiles
+|??
+|1.5 tiles
+|}
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Post-Hit Tile Range<br/>{{Res|Pierce Range}}
+![[Resources#Elixir|Upgrade Cost]]<br/>{{Res|Elixir}}
+!Upgrade Time<br/>{{Res|Time}}
+|-
+|1
+|class="ModifierStat DPS Guardian"|230
+|class="ModifierStat DPH Guardian"|575
+|class="ModifierStat HP Guardian"|8,000
+|5 tiles 
+|N/A
+|N/A
+|-
+|2
+|class="ModifierStat DPS Guardian"|260
+|class="ModifierStat DPH Guardian"|650
+|class="ModifierStat HP Guardian"|9,000
+|5 tiles
+|class="GoldPass bCost"|18,000,000
+|class="GoldPass bTime"|7d
+|-
+|3
+|class="ModifierStat DPS Guardian"|290
+|class="ModifierStat DPH Guardian"|725
+|class="ModifierStat HP Guardian"|10,000
+|5 tiles
+|class="GoldPass bCost"|22,000,000
+|class="GoldPass bTime"|9d
+|-
+|4
+|class="ModifierStat DPS Guardian"|320
+|class="ModifierStat DPH Guardian"|800
+|class="ModifierStat HP Guardian"|11,000
+|6 tiles
+|class="GoldPass bCost"|26,000,000
+|class="GoldPass bTime"|11d
+|-
+|5
+|class="ModifierStat DPS Guardian"|350
+|class="ModifierStat DPH Guardian"|875
+|class="ModifierStat HP Guardian"|12,000
+|6 tiles
+|class="GoldPass bCost"|28,000,000
+|class="GoldPass bTime"|13d
+|}
+</div></center>
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+!April 26, 2026
+|Announced the Logger, with five levels.
+|-
+!April 27, 2026
+|Added the Logger.
+|-
+!July 14, 2026
+|
+*Increased pushback range from 1 tiles to 1.5 tiles {{Res|Push Strength}}
+*Reduced post-hit tile range at all levels:
+**Level 1-3: 7 tiles -> 5 tiles {{Res|Pierce Range}}
+**Level 4-5: 8 tiles -> 6 tiles {{Res|Pierce Range}}
+|}
+
+==Gallery==
+<gallery>
+Guardians Logger info.png|Info image
+Guardians Logger info2.png|Logger render 2
+Guardians Logger info3.png|Logger render 3
+Guardians Logger info4.png|Logger render 4
+Guardians Logger info5.png|Logger render 5
+</gallery>
+==Audio==
+===Generic===
+{|class="wikitable mw-collapsible" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Sound Effects!!Captions!!Description
+|-
+|[[File:Longshot die.ogg]]
+|Longshot collapses*
+|When the Logger is defeated
+|}
+===Unique===
+{|class="wikitable mw-collapsible" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Sound Effects!!Captions!!Description
+|-
+|[[File:Logger.interaction.mp3]]
+|Logger juggles
+|Plays when tapping the Logger
+|-
+|[[File:Logger.land.mp3]]
+|Logger lands
+|Plays when the Logger lands to the ground
+|-
+|[[File:Logger.throw1.ogg]][[File:Logger throw2.ogg]]
+|Logger throws
+|When the Logger attacks
+|-
+|[[File:Logger log1.ogg]][[File:Logger log2.ogg]][[File:Logger log3.ogg]]
+|Log rolls
+|Plays after Logger attacks
+|}
+<nowiki>*</nowiki> ''Reuses the Longshot's death sound effect''
+
+==Trivia==
+===General===
+*The Logger is associated with [[w:c:clashroyale:The Log|the Log]] from Clash Royale, the others being the [[Log Launcher]] and the [[Log Trap]].
+*The Logger has a similar appearance to Strongman from [[Clan Games]], more notably his eyebrows, mustache and wristbands.
+===Comparisons===
+*Out of all the Guardians currently in the game, the Logger:
+**has more health than the Longshot but less than the Smasher;
+**has the second largest trigger range at 15 tiles;
+**has the least attack range of 7 tiles;
+**has a longer projectile lifespan (7-8 seconds);
+**is the only male Guardian who is ranged (not counting the Smasher since he is a melee unit); and
+**does not leave anything when he is defeated.
+
+{{BuildingsMenuHV}}
+[[Category:Home Village]]
+[[Category:Defenses]]
+[[Category:Guardians]]
+[[Category:Ranged Units]]
+[[Category:Splash Damage Units]]

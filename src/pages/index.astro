@@ -1,0 +1,116 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import FAQ from '../components/FAQ.astro';
+import Icon from '../components/Icon.astro';
+import ToolCard from '../components/ToolCard.astro';
+import { SITE, TOOLS } from '@data/meta';
+import { DATA_SNAPSHOT_DATE, MAX_TH } from '@data/game';
+import { costToMaxFrom, timeToMax } from '@lib/calc';
+import { fmtDuration, fmtNum } from '@lib/format';
+
+const title = 'Clash of Clans Upgrade Calculator | CoCPlanner';
+const description =
+  'Free Clash of Clans calculators: upgrade costs, builder time planning, time to max and wall costs. No sign up, runs in your browser.';
+
+const th10 = costToMaxFrom(10);
+const t10 = timeToMax(10, { includeWalls: true, includeLab: true, includeHeroes: true, includePets: true, builders: 5 });
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': `${SITE.url}/#organization`,
+    name: SITE.name,
+    url: `${SITE.url}/`,
+    logo: `${SITE.url}/favicon.svg`,
+    contactPoint: {
+      '@type': 'ContactPoint',
+      contactType: 'customer support',
+      email: SITE.contactEmail,
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${SITE.url}/#website`,
+    name: SITE.name,
+    url: `${SITE.url}/`,
+    publisher: { '@id': `${SITE.url}/#organization` },
+  },
+];
+
+const faqItems = [
+  {
+    q: 'What does CoCPlanner do?',
+    a: `Four free calculators for the Clash of Clans home village: the <a href="/upgrade-cost-calculator/">upgrade cost calculator</a> (what any upgrade path costs), the <a href="/upgrade-time-planner/">upgrade time planner</a> (when your builders finish), the <a href="/time-to-max-calculator/">time to max calculator</a> (the calendar to a maxed base) and the <a href="/wall-calculator/">wall cost calculator</a>.`,
+  },
+  {
+    q: 'Is CoCPlanner free?',
+    a: 'Yes, completely. No sign up, no ads covering the tools, no limits. Everything runs in your browser.',
+  },
+  {
+    q: 'Where do the numbers come from?',
+    a: `Every cost, build time and Town Hall requirement is compiled from the Clash of Clans Wiki, snapshot ${DATA_SNAPSHOT_DATE}. Sources per table are listed on the <a href="/methodology/">data and methods page</a>, and known gaps are flagged there too.`,
+  },
+  {
+    q: 'How long does it take to max a base?',
+    a: `A player arriving at TH10 with a maxed TH9 base and 5 builders needs roughly ${fmtDuration(t10.totalSec)} to fully max TH${MAX_TH}: that is ${fmtNum(th10.gold)} gold, ${fmtNum(th10.elixir)} elixir and ${fmtNum(th10.dark)} dark elixir on the way. Run your own Town Hall level in the <a href="/time-to-max-calculator/">time to max calculator</a>.`,
+  },
+  {
+    q: 'Do you count the Builder Base?',
+    a: 'Not yet. All four calculators cover the home village. Builder Base may arrive in a later update (see the changelog).',
+  },
+];
+---
+<BaseLayout title={title} description={description} canonical="/" activeNav="/" jsonLd={jsonLd}>
+  <div class="page-hero" style="padding-top:26px">
+    <h1>Clash of Clans upgrade calculators that respect your grind</h1>
+    <p class="value-line">
+      Costs, builder schedules, time to max and wall prices for every Town Hall from TH1 to TH{MAX_TH},
+      straight from wiki data. Pick a tool and get your answer in seconds.
+    </p>
+    <div class="trust-line">
+      <span class="pill"><Icon name="check-circle" size={14} /> Free, no sign up</span>
+      <span class="pill blue"><Icon name="layers" size={14} /> TH1 to TH18</span>
+      <span class="pill gold"><Icon name="database" size={14} /> Wiki sourced, snapshot {DATA_SNAPSHOT_DATE}</span>
+    </div>
+  </div>
+
+  <section aria-label="Calculators">
+    <div class="tool-grid">
+      {TOOLS.map((tool) => <ToolCard tool={tool} />)}
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Why plan upgrades at all?</h2>
+    <div class="card">
+      <p>
+        The gap between a rushed base and a strong one is almost never skill: it is order. Builders cost
+        nothing while they sleep, heroes set your war weight, and laboratory research quietly becomes the
+        longest track in the game. CoCPlanner exists to make those tradeoffs visible with real numbers
+        instead of vibes.
+      </p>
+      <ul>
+        <li><strong>Builder-aware scheduling:</strong> not "total time divided by builders" but a real greedy longest-first schedule, with heroes, pets and the lab as parallel tracks.</li>
+        <li><strong>Cost to max per Town Hall:</strong> see exactly what TH10, TH12 or TH15 costs before you commit (see the <a href="/cost-to-max/">cost to max tables</a>).</li>
+        <li><strong>Cited data:</strong> every value traces to the Clash of Clans Wiki, with the snapshot date shown on every page.</li>
+        <li><strong>Private by design:</strong> the calculators run in your browser; nothing you select is uploaded anywhere.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Start here</h2>
+    <ol class="step-list">
+      <li><strong>Price your next move.</strong> The <a href="/upgrade-cost-calculator/">upgrade cost calculator</a> totals any building, hero or troop path, level by level.</li>
+      <li><strong>Pick your date.</strong> The <a href="/upgrade-time-planner/">time planner</a> tells you when you will be maxed with your builder count.</li>
+      <li><strong>See the whole road.</strong> The <a href="/time-to-max-calculator/">time to max calculator</a> turns the remaining grind into a month by month calendar.</li>
+    </ol>
+  </section>
+
+  <section class="section">
+    <h2>Frequently asked questions</h2>
+    <FAQ items={faqItems} />
+  </section>
+</BaseLayout>

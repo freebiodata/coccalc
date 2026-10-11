@@ -1,0 +1,426 @@
+__NOEDITSECTION__
+{{Protection}}
+{{For|the Builder Base version|Gold Storage/Builder Base}}
+[[File:Gold Storage19.png|200px|center|link=]]
+
+<center>
+'''''"All your precious [[Resources#gold|gold]] is stored here. Don't let sneaky goblins anywhere near!'' ''Upgrade the storage to increase its capacity and durability against [[Raids|attack]]."'''''
+</center>
+
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Gold_Storage1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Gold Storage2.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Gold Storage3.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Gold Storage4.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Gold Storage5.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Gold Storage6.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Gold Storage7.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Gold Storage8.png|100px|link=]]<div>Level 8</div></div>
+<div>[[File:Gold Storage9.png|100px|link=]]<div>Level 9</div></div>
+<div>[[File:Gold Storage10.png|100px|link=]]<div>Level 10</div></div>
+<div>[[File:Gold Storage11.png|100px|link=]]<div>Level 11</div></div>
+<div>[[File:Gold Storage12.png|100px|link=]]<div>Level 12</div></div>
+<div>[[File:Gold Storage13.png|100px|link=]]<div>Level 13</div></div>
+<div>[[File:Gold Storage14.png|100px|link=]]<div>Level 14</div></div>
+<div>[[File:Gold Storage15.png|100px|link=]]<div>Level 15</div></div>
+<div>[[File:Gold Storage16.png|100px|link=]]<div>Level 16</div></div>
+<div>[[File:Gold Storage17.png|105px|link=]]<div>Level 17</div></div>
+<div>[[File:Gold Storage18.png|90px|link=]]<div>Level 18</div></div>
+<div>[[File:Gold Storage19.png|90px|link=]]<div>Level 19</div></div>
+</div>
+
+==Summary==
+*The Gold Storage allows players to save hard-earned [[Resources#Gold|Gold]] so that it can be used for future upgrades.
+*Gold Storages are still fully functional while being upgraded.
+*It is one of the most protected buildings in-game, due to its capability to store large quantities of Gold.
+*Upgrading your Gold Storage to a higher level than you require for storage purposes can potentially save Gold in a raid. As an attacker receives an amount of Gold proportional to the percentage of damage each hit causes, the higher health of the upgraded building results in less Gold per hit. It also takes longer to destroy, giving you more time for your defenses to destroy the attacking units before they can steal all of the available Gold.
+*The Gold Storage is the counterpart of the [[Elixir Storage]] and vice versa.
+*Although it stores Gold, it is upgraded with [[Resources#Elixir|Elixir]] and its Elixir Counterpart is upgraded with Gold. This is the same for collectors/drills of various types, with Dark Elixir Buildings being upgraded with Elixir also.
+*As of the July 2015 update, all kinds of storage buildings are now immune against [[Lightning Spell]]s ([[Earthquake Spell]]s were added in this update).
+*Keep in mind, if your Gold Storage is full, you will not be able to store any more Gold in it until it is upgraded or Gold is used. However, there are 2 exceptions to this rule: when you buy Gold from a pack in the store or when you collect Gold from the [[Season Challenges|Season Bank]].
+
+==Upgrade Differences==
+The Gold Storage undergoe significant visual changes at levels 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 and 18.
+
+*When initially constructed, the Gold Storage consists of a square open-top wooden repository with raised wooden corners. It is reinforced around the base by a single steel band with small brass rivets.
+**At level 2, the storage grows slightly taller, adding a pair of small steps on one side and a steel door on the other. A second steel reinforcing band appears as well.
+**At level 3, the storage grows taller, and a third steel reinforcing band has been added. The two small steps are replaced with a short stepladder.
+**At level 4, it is slightly taller still with a fourth steel band and a taller stepladder.
+**At level 5, the four steel bands are replaced with a solid metal base (although the top is still made of wood). Armor plating appears at the base of the four corners of the structure. The stepladder is replaced by steel rungs, and a padlock appears on the steel door.
+**At level 6, the storage grows taller again, and a new steel band appears above the metal base.
+**At level 7, it receives additional reinforcement on the four corners.
+**At level 8, it grows taller once again, the armor plating on the corners receive metal spikes and the steel band moves slightly upwards.
+**At level 9, the storage grows in height once more, receiving a second steel reinforcing band above the metal base. The armor plating on the corners grows wider with additional spikes.
+**At level 10, all the remaining wood is replaced by metal. The flat sides of the Storage receive spiked brass armor plating, while the corners retain their spiked steel reinforcements, though these now extend the length of the structure. The gray metal padlock on the door is replaced by a pair of brass padlocks.
+**At level 11, the top halves of the corner reinforcements are replaced with spiked brass armor, and the four corners receive huge vertical golden spikes.
+**At level 12, it gains a large stone base with steps leading to the ladder, the vertical spikes are replaced by golden pillars, and the two padlocks are replaced by a brass vault.
+**At level 13, most of the spikes are removed and replaced by a few large spikes. The reinforcements on the bottom become a light gray solid rock with two large spikes protruding from them.
+**At level 14, most of the spikes are removed again. The top and bottom are replaced by dark blue metal armor. The reinforcements on the bottom are also dark blue and have two small cyan spikes each.
+**At level 15, the top of the storage widens up a bit, with gold plating on it. It gains new metal-like dark gray colored pads on the top corners. The stairs leading to the top gain more shine. It loses the cyan spikes. The lock gains a pure golden color, and gets larger. The corner supports now lose the large dark blue supports and gain huge dark gray metal supports with gold linings on it. The inner lining of the storage seems to have a green layer of metal.
+**At level 16, the top and bottom corners are colored with shades of indigo with gold frames in between. The stairs leading to the ladder are also colored indigo. The inner lining of the storage also has a purple layer. The keyhole in the lock changes shape to that of an upside down triangle like the one found on [[Town Hall]] 15.
+**At level 17, the top corners turn entirely gold, while the bottom corners turn to stone, with each corner having spikes. There are now light gray stairs with two steps leading to the ladder on the left side and the door on the right. The inner linings are now painted red, and curling roots are present on each corner support. The padlock now turns into a vault door, replacing the lock with a triangular symbol. The keyhole of the door also becomes much larger.
+**At level 18, the appearance changes to match the Town Hall 17 theme. The top corner guards disappear, which exposes the corner with a layer of blue metal and gold layers in between. In between each corner, there are reinforcements with both dark steel blue eagle wings with gold at the center. The light gray stone turns darker, so is the door and the staircases, with the top part being made of concrete with two grooves on each wall. At the right side, the door gains another light gray frame and becomes slightly smaller. At the left, the ladder is positioned downward and the base sections on each side disappear. The staircases gain additional reinforcements on each side. On each corner pillar, the curling roots disappear, the red pillars turn dark steel blue, with one fourth of it being cut, and the corner pieces are now dark stone squares that face towards the edges with an arrow at the center.
+**At level 19, TBA.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable||TH1=1||TH3=2||TH8=3||TH9=4}}
+{{BuildingSize|3x3}}
+{|class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" id="goldstorage-table-1" style="text-align: center; width: 100%;"
+!data-type="level"|Level<br />{{Res|RES=Level}}
+!data-type="capacity"|[[Resources#Gold|Storage Capacity]]<br />{{Res|RES=Gold}}
+!data-type="hitpoints"|Hitpoints<br />{{Res|RES=Hitpoint}}
+!data-type="upgrade cost"|[[Resources#Elixir|Build Cost]]<br />{{Res|RES = Elixir}}
+!data-type="upgrade time"|Build Time<br />{{Res|RES=Time}}
+!data-type="experience gained"|[[Experience]] Gained<br />{{Res|RES = XP}}
+!data-type="required town hall"|[[Town Hall]] Level Required<br />{{Res|RES=Town Hall}}
+|-
+|1
+|1,500
+|150
+|class="GoldPass bCost"|300
+|class="GoldPass bTime"|10s
+|class="GoldPass EXP"|3
+|1
+|-
+|2
+|3,000
+|300
+|class="GoldPass bCost"|750
+|class="GoldPass bTime"|2m
+|class="GoldPass EXP"|10
+|2
+|-
+|3
+|6,000
+|450
+|class="GoldPass bCost"|1,500
+|class="GoldPass bTime"|5m
+|class="GoldPass EXP"|17
+|2
+|-
+|4
+|12,000
+|600
+|class="GoldPass bCost"|3,000
+|class="GoldPass bTime"|15m
+|class="GoldPass EXP"|30
+|class="change-highlight"|3
+|-
+|5
+|25,000
+|800
+|class="GoldPass bCost"|6,000
+|class="GoldPass bTime"|30m
+|class="GoldPass EXP"|42
+|3
+|-
+|6
+|45,000
+|1,000
+|class="GoldPass bCost"|12,000
+|class="GoldPass bTime"|1h
+|class="GoldPass EXP"|60
+|3
+|-
+|7
+|100,000
+|1,250
+|class="GoldPass bCost"|25,000
+|class="GoldPass bTime"|2h
+|class="GoldPass EXP"|84
+|class="change-highlight"|4
+|-
+|8
+|225,000
+|1,500
+|class="GoldPass bCost"|50,000
+|class="GoldPass bTime"|3h
+|class="GoldPass EXP"|103
+|4
+|-
+|9
+|450,000
+|1,700
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime"|4h
+|class="GoldPass EXP"|120
+|class="change-highlight"|5
+|-
+|10
+|850,000
+|1,900
+|class="GoldPass bCost"|250,000
+|class="GoldPass bTime"|5h
+|class="GoldPass EXP"|134
+|6
+|-
+|11
+|1,750,000
+|2,100
+|class="GoldPass bCost"|500,000
+|class="GoldPass bTime"|6h
+|class="GoldPass EXP"|146
+|7
+|-
+|12
+|2,000,000
+|2,500
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|11
+|-
+|13
+|3,000,000
+|2,900
+|class="GoldPass bCost"|1,800,000
+|class="GoldPass bTime"|18h
+|class="GoldPass EXP"|254
+|12
+|-
+|14
+|4,000,000
+|3,300
+|class="GoldPass bCost"|2,800,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|13
+|-
+|15
+|4,500,000
+|3,700
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|14
+|-
+|16
+|5,000,000
+|3,900
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|15
+|-
+|17
+|5,500,000
+|4,050
+|class="GoldPass bCost"|5,500,000
+|class="GoldPass bTime"|4d
+|class="GoldPass EXP"|587
+|16
+|-
+|18
+|6,000,000
+|4,200
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|5d
+|class="GoldPass EXP"|657
+|17
+|-
+|19
+|6,500,000
+|4,300
+|class="GoldPass bCost"|18,000,000
+|class="GoldPass bTime"|12d 12h
+|class="GoldPass EXP"|1,039
+|18
+|}
+
+{{Loot Availability|GoldStorage=Yes|class=wikitable|tablestyle=width: 550px;|colheaderstyle=padding: 0px 5px;|cellstyle=padding: 0px 5px;}}
+</div>
+</center>
+
+===Achievement===
+{|class="wikitable" style="text-align: center;
+!colspan="3" style="text-align: center;|<big>'''Bigger Coffers'''</big>
+|-
+|Description||{{Res|RES=XP}} Rewards||{{Res|RES=Gem}} Rewards
+|-
+|Upgrade your Gold Storage to level 2||10||2
+|-
+|Upgrade your Gold Storage to level 5||100||5
+|-
+|Upgrade your Gold Storage to level 10||1,000||10
+|}
+{{IconDescriptions|Upgradable=Yes|StorageBuilding = Yes|UnitName=Gold Storage}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description 
+|-
+!August 2, 2012
+!Game Release 
+|Introduction of the Gold Storage, with 10 levels and 3 of them to build.
+|-
+!October 27, 2012
+!Town Hall 9 Update
+|Added the level 11 Gold Storage. [[File:Gold Storage11.png|60px|link=]]
+|-
+!January 10, 2013
+!Heroes Update
+|Added the fourth Gold Storage available at [[Town Hall]] level 9.
+|-
+!April 17, 2013
+!Leagues Update
+|
+*The percentage loot that can be looted from Gold Storage is decreased. 
+*The maximum possible amount of loot remains the same. 
+|-
+!December 5, 2013
+!X-Mas & Loot Change
+|Reworked the loot system; Town Hall 6 and higher had less percentage available to loot from Gold Storages, but conversely had an increased loot cap (previously all Town Hall levels made 20% of Gold available, up to a maximum of 198,000).
+|-
+!April 9, 2014
+!Clan Wars Update
+|Reduced the level 1 Gold Storage upgrade time from 15 minutes to 1 minute.
+|-
+!December 11, 2014
+!Winter Update
+|
+*Decreased hitpoints at levels 6 to 11:
+**Level 6: 1,500 -> 1,400 {{Res|RES=Hitpoint}}
+**Level 7: 1,650 -> 1,600 {{Res|RES=Hitpoint}}
+**Level 8: 1,740 -> 1,700 {{Res|RES=Hitpoint}}
+**Level 9: 1,820 -> 1,800 {{Res|RES=Hitpoint}}
+**Level 10: 1,920 -> 1,900 {{Res|RES=Hitpoint}}
+**Level 11: 2,016 -> 2,000 {{Res|RES=Hitpoint}}
+|-
+!April 30, 2015
+!The Air Sweeper Update
+|Reduced the level 1 Gold Storage upgrade time from 1 minute to 10 seconds. 
+|-
+!July 1, 2015
+!The Dark Spell Factory Update
+|
+*The Gold Storage no longer takes damage from spells.
+*Increased hitpoint at level 11 from 2,000 to 2,100. {{Res|RES=Hitpoint}}
+|-
+!December 10, 2015
+!Town Hall 11 Update
+|
+*Added the level 12 Gold Storage. [[File:Gold Storage12.png|60px|link=]]
+*Reduced the storage capacities at level 6, and 8 to 11 (compensated by increasing the Town Hall's storage capacity at levels 2 to 10):
+**Level 6: 50,000 -> 45,000 {{Res|RES=Gold}}
+**Level 8: 250,000 -> 225,000 {{Res|RES=Gold}}
+**Level 9: 500,000 -> 450,000 {{Res|RES=Gold}}
+**Level 10: 1,000,000 -> 850,000 {{Res|RES=Gold}}
+**Level 11: 2,000,000 -> 1,750,000 {{Res|RES=Gold}}
+*The percentage of loot that could be looted from Gold Storages at Town Halls 6 through 10 were increased by 2%.
+|-
+!March 21, 2016
+!The Bowler Update
+|The Gold Storage more visual states to indicate more clearly how full or empty they are.
+|-
+!June 11, 2018
+!Town Hall 12 Update
+|Added the level 13 Gold Storage. [[File:Gold Storage13.png|60px|link=]]
+|-
+!June 26, 2018
+!Balance Changes
+|
+*Reduced upgrade times at levels 2 to 10, and 12:
+**Level 2: 30m -> 15m {{Res|RES=Time}}
+**Level 3: 1h -> 30m {{Res|RES=Time}}
+**Level 4: 2h -> 1h {{Res|RES=Time}}
+**Level 5: 3h -> 2h {{Res|RES=Time}}
+**Level 6: 4h -> 3h {{Res|RES=Time}}
+**Level 7: 6h -> 4h {{Res|RES=Time}}
+**Level 8: 8h -> 5h {{Res|RES=Time}}
+**Level 9: 12h -> 8h {{Res|RES=Time}}
+**Level 10: 1d -> 16h {{Res|RES=Time}}
+**Level 12: 7d -> 4d {{Res|RES=Time}}
+|-
+!April 2, 2019
+!Season Challenge Update
+|
+*Reduced upgrade times at levels 10 to 13:
+**Level 10: 16h -> 12h {{Res|RES=Time}}
+**Level 11: 2d -> 16h {{Res|RES=Time}}
+**Level 12: 4d -> 3d {{Res|RES=Time}}
+**Level 13: 7d -> 6d {{Res|RES=Time}}
+*Reduced upgrade costs at levels 12 and 13:
+**Level 12: 2,500,000 -> 1,500,000 {{Res|RES=Elixir}}
+**Level 13: 5,000,000 -> 3,000,000 {{Res|RES=Elixir}}
+|-
+!December 9, 2019
+!Town Hall 13 Update
+|
+*Added the level 14 Gold Storage. [[File:Gold Storage14.png|60px|link=]]
+*Increased storage capacity of level 13 Gold Storage from 2,500,000 to 3,000,000. {{Res|RES=Gold}}
+*The same update increased the loot cap at Town Hall 12 from 450,000 to 500,000. {{Res|RES=Gold}}
+|-
+!June 22, 2020
+!Summer Update
+|Increased the maximum storage capacity at higher levels for returned resources stolen in attacks. {{Res|RES=Gold}}
+|-
+!April 12, 2021
+!Town Hall 14 Update
+|
+*Added the level 15 Gold Storage. [[File:Gold Storage15.png|60px|link=]]
+*Reduced the upgrade times at levels 2 and 3:
+**Level 2: 15m -> 5m {{Res|RES=Time}}
+**Level 3: 30m -> 20m {{Res|RES=Time}}
+|-
+!October 10, 2022
+!Town Hall 15 Update
+|Added the level 16 Gold Storage. [[File:Gold Storage16.png|74x74px|link=]]
+|-
+!December 12, 2023
+!Town Hall 16 Update
+|
+*Added the level 17 Gold Storage. [[File:Gold Storage17.png|73x73px|link=]]
+*Reduced upgrade cost for levels 15 Gold Storage from 5,500,000 to 3,900,000 {{Res|RES=Elixir}}
+|-
+!November 25, 2024
+!Town Hall 17 Update
+|Added the level 18 Gold Storage. [[File:Gold Storage18.png|74x74px|link=]]
+|-
+!February 10, 2025
+!Update
+|
+*Increased the storage capacity at levels 17 and 18:
+**Level 17: 5,250,000 -> 5,500,000 {{Res|RES=Gold}}
+**Level 18: 5,500,000 -> 6,000,000 {{Res|RES=Gold}}
+*Reduced upgrade times at levels 2 to 8:
+**Level 2: 5m -> 2m {{Res|RES=Time}}
+**Level 3: 20m -> 10m {{Res|RES=Time}}
+**Level 4: 1h -> 30m {{Res|RES=Time}}
+**Level 5: 2h -> 1h {{Res|RES=Time}}
+**Level 6: 3h -> 1h 30m {{Res|RES=Time}}
+**Level 7: 4h -> 2h {{Res|RES=Time}}
+**Level 8: 5h -> 4h {{Res|RES=Time}}
+|-
+!November 17, 2025
+!Town Hall 18 Update
+|
+*Added the level 19 Gold Storage. [[File:Gold Storage19.png|70x70px|link=]]
+*Reduced upgrade time at level 18 from 12d 12h to 7d. {{Res|Time}}
+|}
+
+==Trivia==
+*During the tutorial, the [[Goblin]]s state that they love [[Resources#Gold|Gold]], but they do not prioritize Gold over [[Resources#Elixir|Elixir]] or [[Resources#Dark Elixir|Dark Elixir]].
+*Every upgrade up to level 11 approximately doubles the storage capacity.
+*The description says "Don't let '''sneaky goblins''' anywhere near!". This corresponds the name of a [[Super Troops|Super Troop]], the [[Sneaky Goblin]].
+*Oddly, when the storage is near empty, there is a single Gold coin that appears to be floating halfway up the storage. This is more noticeable with every increase in level.
+*Although not being available as a card in ''[[wikipedia:Clash Royale|Clash Royale]]'', the Gold Storage can be seen in the Jungle Arena arena as a decoration.
+*The Gold Storage is the only resource building to appear in ''Clash Quest''.
+*The Gold Storage and {{H|Elixir Storage}} are the resource buildings to have the highest levels, being 16.
+*It is possible to overflow the Gold Storage, but only by purchasing special resource packs found in the shop for real money or receiving extra Gold from the [[Season Challenges#Perks|Season Bank]]. If this is done, any excess Gold will remain in the storage, and until the excess is removed (either by spending the Gold or being raided), any Gold earned from raids will be lost, just as, if the Gold Storage was full.
+
+==Gallery==
+<gallery>
+Gold Storage level8 info.png
+Gold Storage level8 info2.png
+</gallery>
+
+{{BuildingsMenuHV}}
+
+[[Category:Buildings]]
+[[Category:Resources]]
+[[Category:Home Village]]
+[[ru:Хранилище золота/Родная деревня]]

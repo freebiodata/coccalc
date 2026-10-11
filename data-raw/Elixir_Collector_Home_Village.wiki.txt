@@ -1,0 +1,589 @@
+__NOEDITSECTION__
+{{ClashRoyaleLink|Elixir_Collector}}
+
+{{Protection}}
+{{For|the Builder Base version|Elixir Collector/Builder Base}}
+[[File:Elixir Collector17.png|200px|center|link=]]
+
+<center>
+'''''"{{H|Resource Buildings#Elixir|Elixir}} is pumped from the Ley Lines coursing underneath your {{H|Layouts|village}}. Upgrade your Elixir Collectors to maximize Elixir production."'''''
+</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Elixir Collector1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Elixir Collector2.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Elixir Collector3.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Elixir Collector4.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Elixir Collector5.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Elixir Collector6.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Elixir Collector7.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Elixir Collector8.png|100px|link=]]<div>Level 8</div></div>
+<div>[[File:Elixir Collector9.png|100px|link=]]<div>Level 9</div></div>
+<div>[[File:Elixir Collector10.png|100px|link=]]<div>Level 10</div></div>
+<div>[[File:Elixir Collector11.png|100px|link=]]<div>Level 11</div></div>
+<div>[[File:Elixir Collector12.png|100px|link=]]<div>Level 12</div></div>
+<div>[[File:Elixir Collector13.png|100px|link=]]<div>Level 13</div></div>
+<div>[[File:Elixir Collector14.png|100px|link=]]<div>Level 14</div></div>
+<div>[[File:Elixir Collector15.png|100px|link=]]<div>Level 15</div></div>
+<div>[[File:Elixir Collector16.png|100px|link=]]<div>Level 16</div></div>
+<div>[[File:Elixir Collector17.png|100px|link=]]<div>Level 17</div></div>
+</div>
+
+==Summary==
+*The Elixir Collector collects {{H|Resource Buildings#Elixir|Elixir}} from an unlimited underground reserve (a.k.a Ley Lines) and stores it until collected by the player and placed into an {{H|Elixir Storage}}. When the collector is full, production will be stopped until it is collected (or [[Raids|raided]] by an enemy player).
+*The production rate and capacity depends on the level of the Elixir Collector. Players can get an idea of how much Elixir the collector is storing by how full the tank appears.
+*The Elixir Collector takes up a 3x3 tile space.
+*Tapping on the collect icon collects all Elixir from all Elixir Collectors.
+**Before the May 22, 2017 update, the player would have to collect Elixir individually from each collector.
+*When you choose to upgrade an Elixir Collector, it will automatically collect any uncollected Elixir. Note that if your {{H|Elixir Storage}}s are full at that time, the uncollected Elixir will be lost. During the upgrade the collector temporarily stops producing Elixir.
+*Once the Elixir Collector is level 5, you can temporarily boost its production with [[Gems]] or a {{MagicItem|Resource Potion}}. Spending Gems will double the Collector's production for one day, while using a Resource Potion will double all Home Village resource collectors' production rate for one day. When you click to boost the Elixir Collector, a clock appears for a few seconds.
+**Level 1 to 4 Elixir Collectors cannot be boosted with Gems, but can still be boosted using a Resource Potion. However, you can only use the potion if you have a collector that can be boosted with Gems (either a level 5 or higher {{H|Gold Mine}} or Elixir Collector, or any level of [[Dark Elixir Drill]]).
+**If you upgrade the Elixir Collector while a boost is active, the boost will end prematurely, even if the upgrade is later cancelled (or completes) at a time where the boost would have been active.
+
+==Strategies==
+===Offensive Strategies===
+*Pay careful attention to the location of Elixir Collectors when planning your attack, as Elixir Collectors are usually only marginally protected and can be quite lucrative, especially at high levels. Many times, a single [[Archer]] can be placed in such a way that she can destroy an Elixir Collector while standing clear of any {{H|Defensive Buildings|defenses}}, unless if she is stalled forever by a Battle Builder repairing the collector when it is in the healing range of a weaponized Builder's Hut. Alternatively, if you are at Town Hall 11 or higher, a single [[Sneaky Goblin]] can often destroy an Elixir Collector without getting detected.
+*If you see a round number of Elixir in a raid, it is most likely going to be in the Elixir Collectors rather than in the {{H|Elixir Storage}}s (example 90,000). Although round numbers can occur in Elixir Storages, they happen much more often when Elixir Storages have been emptied by a previous [[Raids|raid]] and the resultant [[Shields|shield]] has allowed the Elixir Collectors to completely fill up.
+*When raiding for Elixir, you can tell if the Elixir Collector is full or not by looking at how filled the tank is. Due to the large tank visuals, it is easier to tell if Elixir Collectors are full than {{H|Gold Mine}}s, so use that fact to your advantage even when farming {{H|Resource Buildings#Gold|Gold}} (Elixir Collectors will fill at the same rate as same-level Gold Mines).
+**Alternatively, you can tap on the Elixir Collector tohow much Elixir is available inside when preparing to attack in a Multiplayer Battle.
+
+===Defensive Strategies===
+*It is a good idea to put your Elixir Collectors outside of your {{H|Walls}}, so they can act as a distraction to [[Troops|units]] such as [[Barbarian]]s, [[Minion]]s, [[Goblin]]s and [[Archer]]s.
+*Attackers can steal up to 50% of the uncollected Elixir in the collectors. Having too many uncollected [[resources]] will make you a more attractive target.
+*High-leveled Elixir Collectors can stall certain troops or parts of the army for quite a while. Use it to stall and stifle funnels and other important things in attacks that need to be quickly and properly executed.
+**With a weaponized [[Builder's Hut]] and the collector is in its healing range, it will stall weak troops such as Archers, Minions and Barbarians forever, but will not work if the troop is strong enough to destroy it before the Battle Builders continue to repair it. Take note that this only applies at Town Hall 14 and above.
+*If an Elixir Collector is destroyed in an attack while it is being upgraded, no Elixir will be lost as the collector is empty during this time.
+
+==Upgrade Differences==
+The Elixir Collector undergoes significant visual changes at levels 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 and 17.
+
+*When initially constructed, the Elixir Collector consists of a large, octagonal glass vat standing vertically on an octagonal wooden base, reinforced by brass at the base and the bottom of the vat. The top of the vat is covered by another wooden slab with a octagonal brass seal being bolted down and has an air vent. A long, narrow metal tube extends from the seal and bends down to a small brass pump embedded in the ground, with a wooden shutoff valve and yellow axle. Elixir periodically bubbles out of the air vent on the top of the vat, causing the vent to bulge out as the Elixir travels upward, and the bubble pops when it is big enough.
+**At level 2, the vat grows taller. A second metal tube is added, each tube starts from the brass pump, which they are taller and a new one is added next to the original, and ending at a cube-shaped merger on the brass seal. Additional tubes are added at levels 3 and 4, with the vat increasing in size at level 3 and the pump at level 4.
+**At level 5, the four metal tubes are replaced with one with a much larger diameter. The brass pump, shutoff valve, and the air vent move to the opposite side of the collector, the pump is shorter again with extra brass reinforcement at the base and the valve's wheel is much larger. A flat metal foundation is added to the collector.
+**At level 6, a second, smaller metal tube appears, connecting to a smaller pump without a shutoff valve on the opposite side of the main pump. The top of the seal and the brass reinforcement for wooden base is a bit taller. A golden bolt is added to the metal foundation, and the pump reinforcement around the main pump merges with the foundation and uses the same metal. The level 7 Elixir Collector adds another smaller tube connecting to the side pump, while the seal gets much wider, and a second golden bolt is added to the foundation.
+**At level 8, the two smaller tubes on the left side of the collector are replaced with a single large-diameter tube, which joins the original tube at the top of the collector. The side pump gets taller and receives a small valve wheel. The air vent is move back to roughly the original position and the seal becomes smaller again. The metal reinforcement around the main valve is taller, it surrounds the side valve only in the ground, and have a third golden bolt on the foundation.
+**At level 9, the wooden cap on the cylindrical vat is replaced with brass. The collector gets a third large tube coming from the back and a brass reinforcing bar appears on the front of the vat. There are now three stubs added between the golden bolts and the main pump, and the valve on it is moved a bit to the side.
+**At level 10, the seal on top of the collector becomes a large brass junction with its own shutoff valve and metal bolts on top, all the tubing enters with two additional large-diameter tubes while all of the tubes are straighten out. All the pumps are now the same size, with three being visible and the one behind the original main valve has a smaller wheel. Two additional reinforcing bars appear on the front of the vat, the air vent is moved above the middle bar, the golden bolts and stubs are larger, with the stubs acting more like stakes and extend to the ground.
+**At level 11, the shutoff valve on the top of the vat is replaced by still more tubing, the tallest tube becomes even wider and connects to the back of the added arc shaped piece on the seal with a bolt on top, splitting its flow into two smaller tubes then connects to the vat. The reinforcing bars are replaced with wide brass reinforcing plates connecting to the stakes, having metal bolts near the base. The shutoff valves' wheel now become gear-shaped. The air vent moves yet again above the left reinforcing plates.
+**At level 12, the tubes on the sides become as wider as the top one, the pump also becomes wider and taller with the wheel having to shift around. The brass slab over the vat and the foundation is now made of black metal. The seal now having a black metal layer in the middle and is much bigger, there are now three tubes instead of two with the side ones are smaller, another bolt is added on the arc and four are add on top of the seal. The reinforcing plates now extends to the seal and have a golden spike over it, and adding a metal bolt to the top before it bends into the black metal slab. The air vent is moved to the back.
+**At level 13, the wooden wheels are now replaced with black metal and the axle is looks like a bolt, the main and side valve wheels becomes smaller. The three tubes on the seal merge into one, the seal becomes even wider, the middle black metal layer is now slanted, and the top part is thicker with all the bolts removed. The middle reinforcing plate got removed while the other two gets thicker, they no longer connect over the seal and the metal bolts turn into golden spikes. The golden bolt on the foundation is removed and the wooden base turns into brass, a circular groove around the vat on the foundation is painted red.
+**At level 14, the four tubes at the bottom are replaced with a single tube on the left side of the collector and its pump is taller, the main pump also remains now as has its own vat with a brass top, and the air vent is move on top of it with a brass guard rail. The tube at the top no longer goes through the arc and has a metal clamp, and the top of the seal is trimmed flat, now spotting a black metal seal with bolts on top. The reinforcing plate are completely removed. The black metal foundation at the bottom is replaced with a rough stone foundation with the red paint still visible.
+**At level 15, the top tube now splits into two as the clamp turns into a merger with a brass symbol made to be similar to the top of the seal, and an additional tube is added behind the main pump. The rough stone foundation is now a smoothly cut with gold supports over each stub on the foundation itself.
+**At level 16, the merger is now gold, the side of the seal gains spikes. The gold supports over the studs now turns into a gold casing and gain a spike over it, the area behind it like the red paint now also turns into brass. 
+**At level 17, TBA.
+
+==Statistics==
+<div class="stats-background">
+<center>
+{{Modifiers|type=CollectorHV}}
+{{NumberAvailable||TH1=1||TH2=2||TH3=3||TH4=4||TH5=5||TH6=6||TH9=7}}
+{{BuildingSize|3x3}}
+
+{|class="wikitable building-statistics-table" border="0" cellpadding="1" cellspacing="1" id="elixircollector-table-1" style="text-align: center; width: 100%; margin: 0px auto;"
+!data-type="level"|Level<br />{{Res|Level}}
+!data-type="capacity"|[[Resources#Elixir|Capacity]]<br />{{Res|Elixir}}
+!data-type="production"|Production Rate<br />{{Res|Elixir}}
+!data-type="hitpoints"|Hitpoints<br />{{Res|Hitpoint}}
+!data-type="boost cost"|[[Resources#Gems|Boost Cost]]<br />{{Res|Gem}}
+!data-type="time to fill"|Time to Fill<br />{{Res|Time}}
+!data-type="upgrade cost"|[[Resources#Gold|Build Cost]]<br />{{Res|RES = Gold}}
+!data-type="upgrade time"|Build Time<br />{{Res|Time}}
+!data-type="experience gained"|[[Experience]] Gained<br />{{Res|RES = XP}}
+!data-type="catch-up point"|Catch-Up Point*
+!data-type="required town hall"|[[Town Hall]] Level Required<br />{{Res|Town Hall}}
+|-
+|1
+|class="GoldPass LootCapacity"|1,000
+|class="GoldPass ProductionRate"|200/hr
+|75
+|N/A
+|class="GoldPass FillTime" style="white-space: nowrap;"|5h
+|class="GoldPass bCost"|150
+|class="GoldPass bTime" style="white-space: nowrap;"|5s
+|class="GoldPass EXP"|2
+|style="white-space: nowrap;"|N/A
+|1
+|-
+|2
+|class="GoldPass LootCapacity"|2,000
+|class="GoldPass ProductionRate"|400/hr
+|150
+|N/A
+|class="GoldPass FillTime" style="white-space: nowrap;"|5h
+|class="GoldPass bCost"|300
+|class="GoldPass bTime" style="white-space: nowrap;"|15s
+|class="GoldPass EXP"|3
+|class="GoldPass catchUp" style="white-space: nowrap;"|15s
+|1
+|-
+|3
+|class="GoldPass LootCapacity"|3,000
+|class="GoldPass ProductionRate"|600/hr
+|300
+|N/A
+|class="GoldPass FillTime" style="white-space: nowrap;"|5h
+|class="GoldPass bCost"|700
+|class="GoldPass bTime" style="white-space: nowrap;"|1m
+|class="GoldPass EXP"|7
+|class="GoldPass catchUp" style="white-space: nowrap;"|2m
+|class="change-highlight"|2
+|-
+|4
+|class="GoldPass LootCapacity"|5,000
+|class="GoldPass ProductionRate"|800/hr
+|400
+|N/A
+|class="GoldPass FillTime" style="white-space: nowrap;"|6h 15m
+|class="GoldPass bCost"|1,400
+|class="GoldPass bTime" style="white-space: nowrap;"|2m
+|class="GoldPass EXP"|10
+|class="GoldPass catchUp" style="white-space: nowrap;"|6m
+|2
+|-
+|5
+|class="GoldPass LootCapacity"|10,000
+|class="GoldPass ProductionRate"|1,000/hr
+|500
+|4
+|class="GoldPass FillTime" style="white-space: nowrap;"|10h
+|class="GoldPass bCost"|3,000
+|class="GoldPass bTime" style="white-space: nowrap;"|5m
+|class="GoldPass EXP"|17
+|class="GoldPass catchUp" style="white-space: nowrap;"|20m
+|class="change-highlight"|3
+|-
+|6
+|class="GoldPass LootCapacity"|20,000
+|class="GoldPass ProductionRate"|1,300/hr
+|550
+|5
+|class="GoldPass FillTime" style="white-space: nowrap;"|15h 23m 5s
+|class="GoldPass bCost"|7,000
+|class="GoldPass bTime" style="white-space: nowrap;"|15m
+|class="GoldPass EXP"|30
+|class="GoldPass catchUp" style="white-space: nowrap;"|50m
+|3
+|-
+|7
+|class="GoldPass LootCapacity"|30,000
+|class="GoldPass ProductionRate"|1,600/hr
+|600
+|6
+|class="GoldPass FillTime" style="white-space: nowrap;"|18h 45m
+|class="GoldPass bCost"|14,000
+|class="GoldPass bTime" style="white-space: nowrap;"|30m
+|class="GoldPass EXP"|42
+|class="GoldPass catchUp" style="white-space: nowrap;"|2h 10m
+|class="change-highlight"|4
+|-
+|8
+|class="GoldPass LootCapacity"|50,000
+|class="GoldPass ProductionRate"|1,900/hr
+|660
+|7
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 2h 18m 57s
+|class="GoldPass bCost"|28,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1h
+|class="GoldPass EXP"|60
+|class="GoldPass catchUp" style="white-space: nowrap;"|5h 20m
+|4
+|-
+|9
+|class="GoldPass LootCapacity"|75,000
+|class="GoldPass ProductionRate"|2,200/hr
+|720
+|8
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 10h 5m 27s
+|class="GoldPass bCost"|56,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1h 30m
+|class="GoldPass EXP"|73
+|class="GoldPass catchUp" style="white-space: nowrap;"|9h 30m
+|class="change-highlight"|5
+|-
+|10
+|class="GoldPass LootCapacity"|100,000
+|class="GoldPass ProductionRate"|2,800/hr
+|780
+|9
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 11h 42m 52s
+|class="GoldPass bCost"|75,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2h
+|class="GoldPass EXP"|84
+|class="GoldPass catchUp" style="white-space: nowrap;"|7h 20m
+|5
+|-
+|11
+|class="GoldPass LootCapacity"|150,000
+|class="GoldPass ProductionRate"|3,500/hr
+|860
+|10
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 18h 51m 26s
+|class="GoldPass bCost"|85,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3h
+|class="GoldPass EXP"|103
+|class="GoldPass catchUp" style="white-space: nowrap;"|12h
+|class="change-highlight"|7
+|-
+|12
+|class="GoldPass LootCapacity"|200,000
+|class="GoldPass ProductionRate"|4,200/hr
+|960
+|10
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 23h 37m 9s
+|class="GoldPass bCost"|170,000
+|class="GoldPass bTime" style="white-space: nowrap;"|4h
+|class="GoldPass EXP"|120
+|class="GoldPass catchUp" style="white-space: nowrap;"|20h
+|8
+|-
+|13
+|class="GoldPass LootCapacity"|250,000
+|class="GoldPass ProductionRate"|4,900/hr
+|1,080
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 3h 1m 14s
+|class="GoldPass bCost"|400,000
+|class="GoldPass bTime" style="white-space: nowrap;"|5h
+|class="GoldPass EXP"|134
+|class="GoldPass catchUp" style="white-space: nowrap;"|1d 6h
+|10
+|-
+|14
+|class="GoldPass LootCapacity"|300,000
+|class="GoldPass ProductionRate"|5,600/hr
+|1,180
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 5h 34m 18s
+|class="GoldPass bCost"|800,000
+|class="GoldPass bTime" style="white-space: nowrap;"|6h
+|class="GoldPass EXP"|146
+|class="GoldPass catchUp" style="white-space: nowrap;"|1d 18h
+|11
+|-
+|15
+|class="GoldPass LootCapacity"|350,000
+|class="GoldPass ProductionRate"|6,300/hr
+|1,280
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|1,200,000
+|class="GoldPass bTime" style="white-space: nowrap;"|10h
+|class="GoldPass EXP"|189
+|class="GoldPass catchUp" style="white-space: nowrap;"|3d 8h
+|12
+|-
+|16
+|class="GoldPass LootCapacity"|385,000
+|class="GoldPass ProductionRate"|7,000/hr
+|1,350
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1d
+|class="GoldPass EXP"|293
+|class="GoldPass catchUp" style="white-space: nowrap;"|9d
+|14
+|-
+|17
+|class="GoldPass LootCapacity"|420,000
+|class="GoldPass ProductionRate"|7,560/hr
+|1,400
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2d
+|class="GoldPass EXP"|415
+|class="GoldPass catchUp" style="white-space: nowrap;"|25d
+|16
+|}
+
+===Supercharges===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level is added.
+{{Supercharge}}
+{|class="wikitable building-statistics-table" border="0" cellpadding="1" cellspacing="1" id="elixircollector-table-1" style="text-align: center; width: 100%; margin: 0px auto;"
+!data-type="level"|Charge Level<br />{{Res|Supercharge}}
+!data-type="capacity"|[[Resources#Elixir|Capacity]]<br />{{Res|Elixir}}
+!data-type="production"|Production Rate<br />{{Res|Elixir}}
+!data-type="hitpoints"|Hitpoints<br />{{Res|Hitpoint}}
+!data-type="boost cost"|[[Resources#Gems|Boost Cost]]<br />{{Res|Gem}}
+!data-type="time to fill"|Time to Fill<br />{{Res|Time}}
+!data-type="upgrade cost"|[[Resources#Gold|Build Cost]]<br />{{Res|RES = Gold}}
+!data-type="upgrade time"|Build Time<br />{{Res|Time}}
+!data-type="experience gained"|[[Experience]] Gained<br />{{Res|RES = XP}}
+!data-type="catch-up point"|Catch-Up Point*
+!data-type="required town hall"|[[Town Hall]] Level Required<br />{{Res|Town Hall}}
+|-
+|1
+|class="GoldPass LootCapacity change-highlight"|436,500
+|class="GoldPass ProductionRate change-highlight"|7,857/hr
+|1,400
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|1,700,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2d
+|class="GoldPass EXP"|415
+|class="GoldPass catchUp" style="white-space: nowrap;"|50d 21h 49m 6s
+|18
+|-
+|2
+|class="GoldPass LootCapacity change-highlight"|453,000
+|class="GoldPass ProductionRate change-highlight"|8,154/hr
+|1,400
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|1,500,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3d
+|class="GoldPass EXP"|509
+|class="GoldPass catchUp" style="white-space: nowrap;"|79d 8h 43m 39s
+|18
+|-
+|3
+|class="GoldPass LootCapacity"|453,000
+|class="GoldPass ProductionRate"|8,154/hr
+|class="change-highlight"|1,450
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|1,300,000
+|class="GoldPass bTime" style="white-space: nowrap;"|4d
+|class="GoldPass EXP"|587
+|style="white-space: nowrap;"|N/A
+|18
+|}
+</center>
+<p style="margin-left: 16px; text-indent: -9px;">&#42; The ''Catch-Up Point'' is the time at which the newly upgraded Elixir Collector has equaled the total production of the collector ''had it not been upgraded'' - this does not consider recovering the cost of the [[Resources#Gold|Gold]] required to perform the upgrade.</p>
+'''Caveat:''' The ''Catch-Up Point'' calculation assumes that the player collects all resources from the Elixir Collector without allowing it to reach its storage capacity, as resource production ceases at that point. This is more of a concern at lower levels where the capacity is limited and ''Time to Fill'' is relatively short. If the player is unable to regularly collect and achieve the full potential of the collector, the ''Catch-Up Point'' is actually shorter and performing the upgrade becomes more advantageous. Or, in easier to understand terms, the catch-up point is the amount of time it would take to get the resources it ''would'' have collected if it was not being upgraded.
+</div>
+{{IconDescriptions|ProductionBuilding=Yes|Resource=Elixir|Upgradable=Yes|UnitName = Elixir Collector|Supercharge=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Patch!!Type!!Description
+|-
+!August 2, 2012!!Game Release
+|Introduced the Elixir Collector, with 10 levels and 5 of them to build.{{Clr}}[[File:Elixir Collector1.png|60px|link=]][[File:Elixir Collector2.png|60px|link=]][[File:Elixir Collector3.png|60px|link=]][[File:Elixir Collector4.png|60px|link=]][[File:Elixir Collector5.png|60px|link=]][[File:Elixir Collector6.png|60px|link=]][[File:Elixir Collector7.png|60px|link=]][[File:Elixir Collector8.png|60px|link=]][[File:Elixir Collector9.png|60px|link=]][[File:Elixir Collector10.png|60px|link=]]
+|-
+!August 10, 2012!!Update
+|Added the sixth Elixir Collector available at [[Town Hall]] level 6.
+|-
+!October 27, 2012!!Update
+|Added the level 11 Elixir Collector. [[File:Elixir Collector11.png|60px|link=]]
+|-
+!November 19, 2012!!Update
+|Elixir Collectors can now be boosted at level 5 using [[Gems]].
+|-
+!April 17, 2013!!Update
+|Reduced upgrade times at levels 5 to 11:
+*Level 5: 4h -> 2h {{Res|Time}}
+*Level 6: 12h -> 6h {{Res|Time}}
+*Level 7: 1d -> 12h {{Res|Time}}
+*Level 8: 2d -> 1d {{Res|Time}}
+*Level 9: 3d -> 2d {{Res|Time}}
+*Level 10: 4d -> 3d {{Res|Time}}
+*Level 11: 5d -> 4d {{Res|Time}}
+|-
+!June 24, 2013!!Maintenance Break
+|Added the seventh Elixir Collector available at [[Town Hall]] level 10.
+|-
+![https://forum.supercell.com/showthread.php/124920-Maintenance-9-8-2013-%281st-Anniversary-boost-ends-improved-Boost-Giant-Bomb%29 August 9, 2013]
+!Maintenance Break
+|
+*Reduced the boost cost of at levels 5 to 11.
+**Level 5: 10 -> 4 {{Res|Gem}}
+**Level 6: 12 -> 5 {{Res|Gem}}
+**Level 7: 14 -> 6 {{Res|Gem}}
+**Level 8: 16 -> 7 {{Res|Gem}}
+**Level 9: 17 -> 8 {{Res|Gem}}
+**Level 10: 19 -> 9 {{Res|Gem}}
+**Level 11: 20 -> 11 {{Res|Gem}}
+*Increased boost duration.
+|-
+!October 22, 2014!!Update
+|Slightly reduced boost cost for level 11 Elixir Collector from 11 to 10. {{Res|Gem}}
+|-
+!December 11, 2014!!Update
+|
+*Added the level 12 Elixir Collector.[[File:Elixir Collector12.png|60px|link=]]
+*Decreased hitpoints at levels 2 to 6:
+**Level 2: 450 -> 440 {{Res|Hitpoint}}
+**Level 3: 500 -> 480 {{Res|Hitpoint}}
+**Level 4: 550 -> 520 {{Res|Hitpoint}}
+**Level 5: 590 -> 560 {{Res|Hitpoint}}
+**Level 6: 610 -> 600 {{Res|Hitpoint}}
+*Increased hitpoints at levels 7 to 11:
+**Level 7: 630 -> 640 {{Res|Hitpoint}}
+**Level 8: 660 -> 680 {{Res|Hitpoint}}
+**Level 9: 680 -> 720 {{Res|Hitpoint}}
+**Level 10: 710 -> 760 {{Res|Hitpoint}}
+**Level 11: 750 -> 800 {{Res|Hitpoint}}
+|-
+!April 30, 2015!!Update
+|Reduced upgrade times at levels 1 and 2:
+*Level 1: 1m -> 10s {{Res|Time}}
+*Level 2: 5m -> 1m {{Res|Time}}
+|-
+![https://cocpolska.wordpress.com/2015/06/30/july-2015-update/ July 1, 2015]!!Update
+|Increased hitpoints at levels 10 to 12:
+*Level 10: 760 -> 780 {{Res|Hitpoint}}
+*Level 11: 800 -> 860 {{Res|Hitpoint}}
+*Level 12: 840 -> 960 {{Res|Hitpoint}}
+|-
+!May 24, 2016!!Update
+|Changed the sound effect of collecting Elixir from [https://www.youtube.com/watch?v=pjEfqcqnq_4 this] to [https://youtu.be/8eIyFYM4xaw?t=42 this].
+|-
+!May 22, 2017!!Update
+|
+*Moved the seventh Elixir Collector to Town Hall 9.
+*Elixir can now be collected from all Elixir Collectors at once by tapping on just one (rather than needing to individually tap all of them).
+|-
+!June 26, 2018!!Balance Changes
+|Reduced upgrade times at levels 5 to 12:
+*Level 5: 2h -> 1h {{Res|Time}}
+*Level 6: 6h -> 4h {{Res|Time}}
+*Level 7: 12h -> 8h {{Res|Time}}
+*Level 8: 1d -> 16h {{Res|Time}}
+*Level 9: 2d -> 1d 12h {{Res|Time}}
+*Level 10: 3d -> 2d {{Res|Time}}
+*Level 11: 4d -> 2d 12h {{Res|Time}}
+*Level 12: 5d -> 3d {{Res|Time}}
+|-
+!June 29, 2018!!Balance Changes
+|Increased production at levels 10 to 12:
+*Level 10: 2500/hr -> 2800/hr {{Res|Elixir}}
+*Level 11: 3000/hr -> 3500/hr {{Res|Elixir}}
+*Level 12: 3500/hr -> 4200/hr {{Res|Elixir}}
+|-
+!October 23, 2018!!Update
+|Added the level 13 Elixir Collector. [[File:Elixir Collector13.png|60px|link=]]
+|-
+!April 2, 2019!!Update
+|Reduced upgrade times at levels 7 to 13:
+*Level 7: 8h -> 6h {{Res|Time}}
+*Level 8: 16h -> 8h {{Res|Time}} 
+*Level 9: 1d 12h -> 10h {{Res|Time}}
+*Level 10: 2d -> 12h {{Res|Time}}
+*Level 11: 2d 12h -> 16h {{Res|Time}}
+*Level 12: 3d -> 1d {{Res|Time}}
+*Level 13: 6d -> 3d {{Res|Time}}
+|-
+!March 30, 2020!!Update
+|Added the level 14 Elixir Collector. [[File:Elixir Collector14.png|60px|link=]]
+|-
+!April 12, 2021!!Update
+|
+*Doubled Storage Capacity at levels 1 to 4 so they do not cap out after 3 hours.
+*Reduced upgrade times at levels 3 to 6, 12 to 14:
+**Level 3: 15m -> 4m {{Res|Time}}
+**Level 4: 1h -> 10m {{Res|Time}}
+**Level 5: 1h -> 40m {{Res|Time}}
+**Level 6: 4h -> 3h {{Res|Time}}
+**Level 12: 1d -> 20h {{Res|Time}}
+**Level 13: 3d -> 1d 16h {{Res|Time}}
+**Level 14: 5d -> 3d 8h {{Res|Time}}
+*Reduced upgrade costs at level 10 to 14:
+**Level 10: 84,000 -> 75,000 {{Res|Gold}}
+**Level 11: 168,000 -> 100,000 {{Res|Gold}}
+**Level 12: 336,000 -> 200,000 {{Res|Gold}}
+**Level 13: 504,000 -> 400,000 {{Res|Gold}}
+**Level 14: 840,000 -> 800,000 {{Res|Gold}}
+|-
+!June 15, 2021
+!Update
+|Reduced the cost of the level 5 Elixir Collector to 3,000 Gold from 3,500, resolving a discrepancy between its upgrade costs and that of the {{H|Gold Mine}}.
+|-
+!December 9, 2021!!Update
+|Added the level 15 Elixir Collector. [[File:Elixir Collector15.png|60px|link=]]
+|-
+!December 12, 2023!!Town Hall Update
+|Reduced upgrade times at level 8, and 10 to 15:
+*Level 8: 8h -> 6h {{Res|Time}} 
+*Level 10: 12h -> 10h {{Res|Time}}
+*Level 11: 16h -> 12h {{Res|Time}}
+*Level 12: 20h -> 16h {{Res|Time}} 
+*Level 13: 1d 16h -> 20h {{Res|Time}}
+*Level 14: 3d 8h -> 1d 16h {{Res|Time}}
+*Level 15: 6d -> 2d 18h {{Res|Time}}
+|-
+![https://supercell.com/en/games/clashofclans/blog/release-notes/february-2024-update-patch-notes/ February 27, 2024]!!Update
+|Added the level 16 Elixir Collector. [[File:Elixir Collector16.png|60px|link=]]
+|-
+!September 9, 2024!!Update
+|Added 3 Supercharge levels for the Elixir Collector. {{Res|Supercharge}}
+|-
+!September ?, 2024!!Maintenance break
+|Changed the statistics for the first two levels of the Supercharged Elixir Collectors.
+*Charge 1: {{Res|Supercharge}}{{Res|Uncharged}}{{Res|Uncharged}}
+**Capacity: 415,000 -> 401,500 {{Res|Elixir}}
+**Production Rate: 7,000/hr -> 7,300/hr {{Res|Elixir}}
+*Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Uncharged}}
+**Capacity: 415,000 -> 418,000 {{Res|Elixir}}
+**Production Rate: 7,500/hr -> 7,600/hr {{Res |Elixir}}
+|-
+!November 8, 2024!!Event
+|The 2024 Hammer Jam event temporarily increased its capacity and production rate by 3x for all levels, including its Supercharge levels until November 25.
+|-
+!February 10, 2025!!Update
+|
+*Reduced upgrade times at levels 2 to 10:
+**Level 2: 1m -> 30s {{Res|Time}}
+**Level 3: 4m -> 2m {{Res|Time}}
+**Level 4: 10m -> 5m {{Res|Time}}
+**Level 5: 40m -> 20m {{Res|Time}}
+**Level 6: 2h -> 1h {{Res|Time}}
+**Level 7: 4h -> 2h {{Res|Time}}
+**Level 8: 6h -> 3h {{Res|Time}}
+**Level 9: 8h -> 4h {{Res|Time}}
+**Level 10: 10h -> 6h {{Res|Time}}
+|-
+!November 17, 2024!!Town Hall 18 Update
+|
+*Added the level 17 Elixir Collector. [[File:Elixir Collector17.png|60px|link=]]
+*Removed the Supercharges at level 16 and replaced them at level 17: {{Res|Supercharge}}
+**Charge 1: {{Res|Supercharge}}{{Res|Uncharged}}{{Res|Uncharged}}
+***Capacity: 401,500 -> 436,500 {{Res|Elixir}}
+***Production Rate: 7,300/hr -> 7,857/hr {{Res|Elixir}}
+***Cost: 350,000 -> 1,700,000 {{Res|Gold}}
+***Time: 1d -> 2d {{Res|Time}}
+**Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Uncharged}}
+***Capacity: 418,000 -> 453,000 {{Res|Elixir}}
+***Production Rate: 7,600/hr -> 8,154/hr {{Res|Elixir}}
+***Cost: 300,000 -> 1,500,000 {{Res|Gold}}
+***Time: 2d -> 3d {{Res|Time}}
+**Charge 3: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Supercharge}}
+***Hitpoints: 1,400 -> 1,450 {{Res|Hitpoint}}
+***Cost: 700,000 -> 1,300,000 {{Res|Gold}}
+***Time: 3d -> 4d {{Res|Time}}
+|}
+
+==Gallery==
+<gallery>
+Elixir Collector1 Animation.gif
+Resources.png|Elixir Collector, as it appeared in the shop (old).
+Resources new update.png|Elixir Collector, as shown in a promotional image of level 11 resource buildings update.
+Sneak-peek-2-Christmas-Winter-2014-update.jpg|Elixir Collector, as shown in the promotional image of 2014 Winter update.
+resource boost.png|Elixir Collector, as shown in the promotional image of resource boost and donation refund. It can be seen in the left side.
+</gallery>
+
+==Trivia==
+===General===
+*The word "Elixir" comes from "al iksir", which is the Arabic word for miracle substances. Dating back to the third century BC, Elixir was rumored to change base metals into gold and prolong life indefinitely.
+*The community refers to the Elixir Collector as "pump", because it obviously pumps out Elixir.
+*Although directly selecting an Elixir Collector with an Elixir bubble above it automatically collects any resources it has stored, there is a way to check how much Elixir has been stored without collecting it. This can be done by moving any other building to an invalid spot on your map (e.g., off the edge of your map, or fully or partially occupied by an obstacle, decoration or another building) and releasing it while its surrounding square has turned red. Then select the desired Elixir Collector and choose the "Info" option to display the amount of Elixir gathered by the collector to that point.
+*Many players criticized the design of the level 14 Elixir Collector, stating that it looks like a "downgrade".
+**According to Darian on [https://www.reddit.com/r/ClashOfClans/comments/fwjtoa/idea_petition_to_remodel_max_level_elixir/fmrsgj3/?context=1000 Reddit], the reason the level 14 Elixir Collector look like the way it is is because they did not want it to look more gaudy like the previous levels.
+*The Elixir Collector can be seen in the 9th Clashiversary scenery on the bottom right of the map.
+*A bug introduced in July of 2018 caused the Elixir Collector to look the same on level 1 and level 2, making it the first building that does not always change its appearance after it is upgraded. This was fixed in the Winter 2019 update.
+*In Clash Royale, the Elixir Collector resembles a level 5 Elixir Collector from Clash of Clans.
+
+===Comparisons===
+*The Elixir Collector is one of the 8 buildings that you are automatically set with at the beginning of the game.
+*The Elixir Collector is the only resource-related building to be a card in Clash Royale.
+**The {{H|Elixir Storage}} also appears in Clash Royale, but only in a special game mode (it does not appear otherwise).
+*The Elixir Collector, along with the {{H|Archer Tower}}, [[Crusher]], and {{H|Inferno Tower}} are the only buildings to appear in a scenery. In its case, the Elixir Collector appears in the 9th Clashiversary Scenery.
+*The Elixir Collector and Gold Mine are the cheapest buildings to be Supercharged in terms of resources. In this case, the Elixir Collector costs a total of 4.5 million Gold to fully Supercharge.
+{{BuildingsMenuHV}}
+<noinclude>
+[[Category:Buildings]]
+[[Category:Resources]]
+[[Category:Home Village]]
+</noinclude>
+[[ru:Сборщик эликсира/Родная деревня]]

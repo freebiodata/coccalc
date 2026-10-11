@@ -1,0 +1,338 @@
+{{Protection}}
+{{For|its unmerged buildings|Cannon/Home Village{{!}}Cannon|Archer Tower/Home Village{{!}}Archer Tower}}
+
+<div class="toggle">
+<div class="active">[[File:Multi-Gear Tower3 LongRange.png|center|200px|link=]]</div>
+<div class="hidden">[[File:Multi-Gear Tower3 FastAttack.png|center|260px|link=]]</div>
+</div>
+<center>'''''"The Multi-Gear Tower is a powerful combination of two classic [[Defensive Buildings|Defenses]]! Choose the attack mode that suits you and let the destruction begin! Targets air and ground [[Army|units]]."'''''</center>
+----
+{{Toggle|Toggle}}
+<div class="toggle">
+<!--Normal-->
+<div class="active">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Long Range'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Multi-Gear Tower Ruin.png|100px|link=]]<div>Construction</div></div>
+<div>[[File:Multi-Gear Tower1 LongRange.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Multi-Gear Tower2 LongRange.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Multi-Gear Tower3 LongRange.png|146x146px|link=]]<div>Level 3</div></div>
+</div>
+</div>
+<!--End of normal, fast attack-->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Fast Attack'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Multi-Gear Tower1 FastAttack.png|130px|link=]]<div>Level 1</div></div>
+<div>[[File:Multi-Gear Tower2 FastAttack.png|130px|link=]]<div>Level 2</div></div>
+<div>[[File:Multi-Gear Tower3 FastAttack.png|140px|link=]]<div>Level 3</div></div>
+</div>
+</div><!--End of fast attack-->
+</div>
+
+==Summary==
+*The Multi-Gear Tower is a multi-purpose {{H|Defensive Buildings|defensive building}} unlocked at [[Town Hall]] level 17 and is constructed by merging both the geared-up {{H|Cannon}} and {{H|Archer Tower}} at level 21 together.
+**The merging process cannot be undone once the construction is started. The Multi-Gear Tower cannot be split back into the geared up Cannon and Archer Tower.
+**An Cannon or Archer Tower that has not been geared up cannot be selected for merging.
+**Merging the geared up Cannon and Archer Tower into the Multi-Gear Tower is required to upgrade the Town Hall to the next level, similar to the "placing all of the buildings" requirement. Indirectly, this does mean progression in the Builder Base (to gear up these two defenses) is required to advance to the next Town Hall level.
+*Compared to a Cannon and Archer Tower and their geared up counterparts, the Multi-Gear Tower starts off with just 50 less health, its Long Range mode deals about 15% more damage per second than a normal Cannon and Archer Tower and the Fast Attack mode deals 6.5% more than the two geared up versions combined, with both modes getting extra range.
+**These metrics will keep improving as it levels up while the geared up Cannon and Archer Tower stop getting new levels, extending the usefulness of merging.
+*The Multi-Gear Tower can be set to two modes: Long Range and Fast Attack. Both modes have their advantages and disadvantages:
+**The Long Range mode is based on the Archer Tower. It shoots large arrows from up to 12 tiles (compared to the normal Archer Tower at 10), allowing it to outrange [[Flame Flinger]]s. It attacks at a slower rate than a normal Cannon or Archer Tower but can deal heavy damage, thus making this mode less effective against swarms.
+**The Fast Attack mode is based on a [[Multi Cannon]] which combines the Burst mode of the geared up Cannon and the Fast Attack mode of geared up Archer Tower. It shoots four cannonballs from a shorter range of 8 tiles (compared to a normal Cannon at 9, geared up Cannon at 7, and geared up Archer Tower at 8). Its fire rate is even faster than the Fast Attack Archer Tower on average when it does not retarget. Even then, unlike the Burst mode Cannon, it can retarget much faster if the target is defeated (at a rate faster than normal Archer Tower) and can also target aerial units. Each cannonball can deal high damage to a single target.
+
+==Strategies==
+===Defensive Strategies===	
+*The Multi-Gear Tower is one of the most powerful single-target merged defenses in the game, having high hitpoints and damage, comparable to the power of the [[Ricochet Cannon]] and [[Multi-Archer Tower]]. Therefore, it should be placed inside the base, where it would be protected against attackers from destroying it easily. Placing it near a [[Rage Spell Tower]] for both modes can increase their effectiveness massively.
+*In Long Range mode, the Multi-Gear Tower can shoot large arrows at enemy units at a very long distance, dealing high damage to a single unit, making it vulnerable to swarms. In this mode, it can outrange the Flame Flinger and [[Royal Champion]] with her active [[Rocket Spear]]. Its stats are better than the Ground and Air {{H|X-Bow}}s except for fire rate and health, and can be treated as one of them. Therefore, it must be protected by splash damage defenses such as [[Scattershot]]s, [[Mortar]]s, and [[Wizard Tower]]s, as well as traps to keep swarms at bay.
+**To defend Flame Flingers in this mode, it could be required to be placed at the edge of the base where Flame Flingers are most likely to be deployed from.
+*In Fast Attack mode, the Multi-Gear Tower can deal massive damage to units, allowing it to deal with swarms and tanks with little to no delay from each burst, and can retarget faster than normal, but is vulnerable to being swarmed too much by swarms or tanks with high damage or being destroyed by longer-range units such as the Flame Flinger. To counter this, [[Mortar]]s can be useful to help deal damage to the Flame Flinger, and the [[Monolith]] and Single-Target {{H|Inferno Tower}}s can help deal with other tanks.
+**Therefore, it is best used at the core of the base, where the main army would get there, paired alongside other major defenses like [[Scattershot]]s and the [[Monolith]].
+**When paired with the Rage Spell Tower, it can deal so much damage that it would melt high-hitpoint units, including [[Heroes]] in seconds due to its very high attack speed, forcing the attacker to activate their Hero abilities or use spells earlier. On Expert, Master, Legend, or ESports mode, this effect can also stack, making it deal even more damage, and may most likely force an early activation of the Eternal Tome ability.
+
+===Offensive Strategies===
+*The Multi-Gear Tower is a formidable defense, but it can easily be destroyed by tanky troops like [[P.E.K.K.A]]s and [[Yeti]]s supported by high-damaging troops like [[Wizard]]s and [[Bowler]]s to help destroy it faster. Spells can be used to disable it, like [[Freeze Spell]]s, [[Invisibility Spell]]s, or [[Overgrowth Spell]].
+*In its Long Range mode, avoid placing the Flame Flinger to attack it, otherwise, the Flame Flinger will easily be destroyed unless it is distracted with tanky units like a [[Golem]] or the [[Totem Spell]]. Swarming it in this mode can also be a good idea, as it has a slow attack speed.
+*In its Fast Attack mode, it can deal with swarms and deal heavy damage to tanks quickly, especially when paired with the Rage Spell Tower, so use a Freeze Spell to stop it from attacking when it is about to wreak havoc onto the army.
+**Alternatively, the Flame Flinger can snipe it from afar, but beware of any longer-ranged defenses such as Mortars or X-Bows, and traps that will otherwise destroy it prematurely or reduce its combat lifespan.
+*The [[Eternal Tome]] can protect the units from taking heavy damage, regardless of the Multi-Gear Tower's mode, especially if paired with other major defenses. Then a Rage Spell can be used to boost the army and destroy it as quickly as possible.
+**However, if the units leave the range of the Grand Warden's aura, they will take damage unless if they return to range of the aura, provided that the ability is still active.
+*The [[Fireball]] and [[Earthquake Spell]]s can be used to destroy this defense, provided if they are sufficiently leveled.
+**Alternatively, the [[Spiky Ball]] and [[Earthquake Boots]] can be used, with the same rules applied.
+*Zapquake is effective against this defense, but will require lots of {{H|Lightning Spell}}s and two Earthquake Spells.
+**Therefore, to get the best value, using the Lightning Spells to also destroy another important defense close to it or even a Hero, such as the defending [[Archer Queen]], then use Earthquake Spells to destroy these defenses.
+
+==Upgrade Differences==
+The Multi-Gear Tower undergoes significant visual changes at levels 2, 3 and 4.
+
+*When the geared-up Cannon and Archer Tower are merged, only the circular base of the Fast Attack mode appears and is initially lowered. The base is comprised of pale violet wooden planks with stone paddings and has blue spikes at the corners. At the bottom, there are thick-layered blue walls which support the battlements and has mechanical iron gears with brass and stone layers which allow the entire building to freely be raised or lowered when the upgrade is complete. At the bottom of each corner support, it is a dark stone with two layers, with one layer higher than the other. Under the battlements, there are two red banners on each side. Depending on the mode, the weapon atop the platform can freely be changed when its construction is complete.
+
+===Long Range===
+*When initially constructed, the base is raised and appears to be cut in two smooth layers. The wooden planks are removed, exposing the deeper part of the platform and gains a dodecagonal stone band, which is transferred from the stone paddings. At the center of the platform, a large bow is added to the top and is comprised of pale violet wood reinforced with a brass-like wing that is similar to the theme of [[Town Hall]] 17, which has a red handle with dark gray guards and hemp rope as its string, and is supported by a thick, dark stone slit which allows the bow to stabilize its firing, in addition to allowing it to rotate using its large bronze gears on each side of the bow. At the center side of the bow, there is a large arrow on one of the sides, which is made of pale purplish-blue wood with a pointed iron tip and red fletching held by a wooden support. When it attacks, the bow stretches back by the gears of the bow, allowing it to focus on its target, then launches a large arrow that deals high damage. This is its default mode.
+**At level 2, the wing and the dark gray guards of the bow, the tip of its arrow, and all the gears are now golden.
+**At level 3, TBA.
+
+===Fast Attack===
+*At level 1, the base is lowered and gains an iron lining at the top of the stone paddings of the platform. A decagonal [[Giant Cannon]]-like barrel with four barrels is added to the top of the platform and has a metal ring at the center, with a small storage at the top filled with unlimited stone cannonballs. The entire barrel is angled upwards, allowing it to target both ground and air. At the front, there is a thick, brass ring riveted by diamond-shaped screws on each side and has a dark grey muzzle. At the front of the large barrel, there are four smaller barrels that are similar to the layout of the [[Multi Mortar]]. These barrels are light gray and have brass muzzles with a yellow glow on the inside each. The entire weapon is rotated by two gears, one on each side that allows it to rotate in any direction, supported by a rotational mount for stability, which cannot normally be seen. When attacking, the smaller barrels rotate 90 degrees for each shot in a clockwise or counter-clockwise motion, depending on the direction it is facing, shooting up to four cannonballs in a quick burst.
+**At level 2, the screws on the front ring of the giant barrel are now spiky and turn golden. All of the gears and the muzzles of the smaller barrels also turn golden.
+**At level 3, TBA.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Toggle|Toggle}}
+{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH17=1}}
+{{BuildingSize|3x3}}
+<div class="toggle">
+<div class="active">
+<p style="font-size:large;font-family:Backbeat;text-align:center;">'''Long Range Mode'''</p>
+{|class="wikitable floatheader row-highlight"style=" text-align:center; width:100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Build Cost<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1||class="ModifierStat DPS Building"|350||class="ModifierStat DPH Building"|350||4,000||class="GoldPass bCost"|17,000,000||class="GoldPass bTime" style="white-space:nowrap;"|8d||class="GoldPass EXP"|831||17
+|-
+|2||class="ModifierStat DPS Building"|370||class="ModifierStat DPH Building"|370||4,200||class="GoldPass bCost"|18,000,000||class="GoldPass bTime" style="white-space:nowrap;"|9d||class="GoldPass EXP"|881||17
+|-
+|3||class="ModifierStat DPS Building"|390||class="ModifierStat DPH Building"|390||4,350||class="GoldPass bCost"|28,000,000||class="GoldPass bTime" style="white-space:nowrap;"|14d||class="GoldPass EXP"|1,099||class="change-highlight"|18
+|}
+</div><!--end Long Range-->
+<div><!--Fast Attack-->
+<p style="font-size:large;font-family:Backbeat;text-align:center;">'''Fast Attack Mode'''</p>
+{|class="wikitable floatheader row-highlight" style="text-align:center; width:100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Damage per Second*<br/>{{Res|Damage}}
+!Damage per Hit**<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Build Cost<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1||class="ModifierStat AltDPS Building"|650||class="ModifierStat DPH Building"|156||4,000||class="GoldPass bCost"|17,000,000||class="GoldPass bTime" style="white-space:nowrap;"|8d||class="GoldPass EXP"|831||17
+|-
+|2||class="ModifierStat AltDPS Building"|690||class="ModifierStat DPH Building"|165.6||4,200||class="GoldPass bCost"|18,000,000||class="GoldPass bTime" style="white-space:nowrap;"|9d||class="GoldPass EXP"|881||17
+|-
+|3||class="ModifierStat AltDPS Building"|710||class="ModifierStat DPH Building"|170.4||4,350||class="GoldPass bCost"|28,000,000||class="GoldPass bTime" style="white-space:nowrap;"|14d||class="GoldPass EXP"|1,099||class="change-highlight"|18
+|}
+</div><!--end Fast Attack-->
+</div>
+
+===[[Supercharge]]s===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level of this building is added.
+{{Supercharge}}
+<div class="toggle">
+<div class="active"><!--Long Range-->
+{|class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Build Cost<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1||class="ModifierStat DPS Building change-highlight"|400||class="ModifierStat DPH Building change-highlight"|400||4,350||class="GoldPass bCost"|12,000,000||class="GoldPass bTime" style="white-space:nowrap;"|6d||class="GoldPass EXP"|720||18
+|-
+|2||class="ModifierStat DPS Building"|400||class="ModifierStat DPH Secondary Building"|400||class="change-highlight"|4,500||class="GoldPass bCost"|10,000,000||class="GoldPass bTime" style="white-space:nowrap;"|7d||class="GoldPass EXP"|777||18
+|}
+
+{|class="wikitable" style="text-align:center; width:100%;" cellspacing="1" cellpadding="1" border="0"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+|-
+|12||class="AttackSpeed"|1s||Single Target||Ground & Air
+|}
+</div><!--end Long Range-->
+<div><!--Fast Attack-->
+{|class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second*<br/>{{Res|Damage}}
+!Damage per Hit**<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+!Build Cost<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1||class="ModifierStat AltDPS Building change-highlight"|720||class="ModifierStat DPH Building change-highlight"|172.8||4,350||class="GoldPass bCost"|12,000,000||class="GoldPass bTime" style="white-space:nowrap;"|6d||class="GoldPass EXP"|720||18
+|-
+|2||class="ModifierStat AltDPS Building"|720||class="ModifierStat DPH Secondary Building"|172.8||class="change-highlight"|4,500||class="GoldPass bCost"|10,000,000||class="GoldPass bTime" style="white-space:nowrap;"|7d||class="GoldPass EXP"|777||18
+|}
+
+{|class="wikitable"style="text-align:center;width:100%;" cellspacing="1"cellpadding="1"border="0"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Time Between Bursts<br/>{{Res|Attack Speed}}
+!Shots Per Burst<br/>{{Res|Burst Fire}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+|-
+|8||class="AttackSpeed"|0.192s||class="AttackSpeed"|0.383s||4 shots||Single Target||Ground & Air
+|}
+<nowiki>*</nowiki>These damage per second values are seen in-game and are approximations; it does not necessarily do this much DPS if it cannot utilize the full potential of its bursts.<br>
+<nowiki>**</nowiki>Damage per hit is truncated to the whole number in-game.
+</div><!--end Fast Attack-->
+</div>
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Multi-Gear Tower Trampler'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Multi-Gear Towers in Multiplayer Battles||100||25
+|-
+|Destroy 200 Multi-Gear Towers in Multiplayer Battles||800||100
+|-
+|Destroy 2,000 Multi-Gear Towers in Multiplayer Battles||5,000||200
+|}
+{{IconDescriptions|Defense=Yes|Upgradable=Yes|Supercharge=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%"
+!Date!!Type!!Description
+|-
+!February 8, 2025!!Sneak Peek
+|Announced the Multi-Gear Tower, with two levels. [[File:Multi-Gear Tower1 LongRange.png|50px]][[File:Multi-Gear Tower1 FastAttack.png|50px]][[File:Multi-Gear Tower2 LongRange.png|50px]][[File:Multi-Gear Tower2 FastAttack.png|50px]]
+|-
+!February 10, 2025!!Update
+|Added the Multi-Gear Tower.
+|-
+!March 24, 2025!!Update
+|
+*Added two Supercharge levels to the Multi-Gear Tower. {{Res|Supercharge}}
+*Added the achievement associated with the Multi-Gear Tower, "Multi-Gear Tower Trampler".
+*Fixed two bugs:
+**The game did not allow the player to build the Multi-Gear Tower for some devices.
+**When upgrading to level 2, either the weapon on top or the building itself disappears.
+|-
+!November 17, 2025!!Update
+|
+*Added the level 3 Multi-Gear Tower. [[File:Multi-Gear Tower3 LongRange.png|50px]][[File:Multi-Gear Tower3 FastAttack.png|50px]]
+*Reduced build times at levels 1 and 2:
+**Level 1: 15d -> 10d {{Res|Time}}
+**Level 2: 16d -> 10d 8h {{Res|Time}}
+*Reduced build costs at levels 1 and 2:
+**Level 1: 22,500,000 -> 17,000,000 {{Res|Gold}}
+**Level 2: 23,000,000 -> 18,000,000 {{Res|Gold}}
+*Removed the Supercharges at level 2 and replaced them at level 3: {{Res|Supercharge}}
+**Charge 1: {{Res|Supercharge}}{{Res|Uncharged}}
+***Long Range Damage: 330 -> 350 {{Res|Damage}}
+***Fast Attack displayed Damage per Second: 678* -> 668* {{Res|Damage}}
+***Fast Attack Damage per Hit: 189 -> 192 {{Res|Damage}}
+***Cost: 7,000,000 -> 12,000,000 {{Res|Gold}}
+***Time: 3d 12h -> 6d {{Res|Time}}
+**Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}
+***Hitpoints: 4,350 -> 4,500 {{Res|Hitpoint}}
+***Cost: 4,000,000 -> 10,000,000 {{Res|Gold}}
+***Time: 4d -> 7d {{Res|Time}}
+|-
+!January 28, 2026!!Balance Changes
+|
+*Increased damage of Long Range mode by 50 at all levels:
+**Level 1: 300 -> 350 {{Res|Damage}}
+**Level 2: 320 -> 370 {{Res|Damage}}
+**Level 3: 340 -> 390 {{Res|Damage}}
+**Charge 1: 350 -> 400 {{Res|Damage}}
+*Reduced Damage per Hit of Fast Attack mode by 20 at all levels:
+**Level 1: 175 -> 155 {{Res|Damage}}
+**Level 2: 185 -> 165 {{Res|Damage}}
+**Level 3: 189 -> 169 {{Res|Damage}}
+**Charge 1: 192 -> 172 {{Res|Damage}}
+*This resulted in the following changes to displayed Damage per Second:
+**Level 1: 607* -> 540* {{Res|Damage}}
+**Level 2: 644* -> 574* {{Res|Damage}}
+**Level 3: 656* -> 588* {{Res|Damage}}
+**Charge 1: 668* -> 600* {{Res|Damage}}
+|-
+!February 23, 2026!!Update
+|
+*Updated displayed damage per second of Fast Attack mode:
+**Level 1: 540* -> 650** {{Res|Damage}}
+**Level 2: 574* -> 690** {{Res|Damage}}
+**Level 3: 588* -> 710** {{Res|Damage}}
+**Charge 1: 600* -> 720** {{Res|Damage}}
+*Updated displayed damage per hit of Fast Attack mode:
+**Level 1: 155 -> 156 {{Res|Damage}}
+**Level 3: 169 -> 170 {{Res|Damage}}
+|}
+<nowiki>*</nowiki>These damage per second values are seen in-game and are approximations; it does not necessarily do this much DPS if it cannot utilize the full potential of its bursts.<br>
+<nowiki>**</nowiki>These damage per second values are exact values; it still does not necessarily do this much DPS if it cannot utilize the full potential of its bursts.
+
+==Audio==
+{|class="wikitable" style="text-align:center; width:100%;" cellspacing="1" cellpadding="1" border="0"
+!Sound Effect!!Caption!!Description
+|-
+|[[File:HeroEquipment Upgrade.ogg]]
+|Buildings merge together
+|When the geared-up Cannon and Archer Tower merge
+|-
+|[[File:Multi-Gear Bow Shoot.ogg]][[File:Multi-Gear Bow Shoot2.ogg]][[File:Multi-Gear Bow Shoot3.ogg]]
+|Multi-Gear Tower's bow shoots
+|When the Long Range Multi-Gear Tower attacks
+|-
+|[[File:Multi-Gear Cannon Fire.ogg]]
+|Multi-Gear Tower's cannons fire
+|When the Fast Attack Multi-Gear Tower attacks
+|-
+|[[File:Multi-Gear Bow Impact.ogg]][[File:Multi-Gear Cannon Impact.ogg]]
+|Large arrow impacts ground (in Long Range Mode)<br/>Cannonball hits target (in Fast Attack Mode)
+|When the Multi-Gear Tower's projectile hits an enemy unit<ref>The current impact SFX for the Fast Attack Multi-Gear Tower uses the Archer arrow impact sound instead.</ref>
+|-
+|[[File:Multi-Gear Cannon Fire1.ogg]][[File:Multi-Gear Cannon Fire2.ogg]] [[File:Multi-Gear Cannon Fire3.ogg]]
+|Multi-Gear Tower's cannons fire (unused)
+|When the Fast Attack Multi-Gear Tower attacks (unused)
+|-
+|[[File:Multi-Gear Bow Pull1.ogg]][[File:Multi-Gear Bow Pull2.ogg]][[File:Multi-Gear Bow Pull3.ogg]]
+|Multi-Gear Tower's bow charges (unused)
+|When the Long Range Multi-Gear Tower prepares to attack (unused)
+|}
+<references/>
+
+==Gallery==
+===Short Animations===
+<div class="flexbox-display normal-text">
+<div>[[File:Multi-Gear Tower Merge Animated.gif|150px|link=]]<div>Multi-Gear Tower being merged (animated)</div></div>
+<div>[[File:Multi-Gear Tower LongRange InAction.mp4|150px|link=]]<div>Long Range Multi-Gear Tower attacking (animated with sound)</div></div>
+<div>[[File:Multi-Gear Tower FastAttack InAction.mp4|150px|link=]]<div>Ditto, but Fast Attack mode</div></div>
+<div>[[File:Multi-Gear Tower FastAttack Test.mp4|150px|link=]]<div>Fast Attack Multi-Gear Tower attacking an Ice Golem</div></div>
+</div>
+<!--===Images===-->
+
+==Trivia==
+*The Fast Attack Multi-Gear Tower takes 0.575 seconds to shoot all 4 cannonballs and takes 0.383 seconds of cooldown between each attack against a single target continuously, resulting in 0.958 seconds per attack cycle by frame counting.
+**Before the February 2026 update, the damage per second suggests it takes around 1.15 seconds per cycle, for example, <math display="inline">\frac{155\times4}{540}=1.1481</math>, <math display="inline">\frac{165\times4}{574}=1.1498</math>, much higher than the frame count data. This may suggest the calculation for the damage per second is not a concrete number like most other defenses but by some testing and estimation, which caused the damage per second to be lower.
+*When the Supercharge is introduced for the level 2 Multi-Gear Tower at Town Hall 17, Fast Attack mode displayed damage per second for charge 1 is set to 678. Using the above formula, it suggests it takes 1.115 seconds per cycle. While this value is closer to the optimal value, it is inconsistent with the 1.15 seconds of levels 1 and 2.
+**When a new level and Supercharge is introduced at Town Hall 18, the damage per hit of the level 3 Fast Attack mode is the same as the old charge 1, both being 189, and the new charge is 192. However, the damage per second are seemingly decreased, from 678 to 656 at level 3, or 668 at the new charge 1 despite having a higher damage per hit. This is because the "time per cycle" has been standardized to be around 1.15 seconds like the early levels (<math display="inline">\frac{189\times4}{656}=1.1524</math>, <math display="inline">\frac{192\times4}{668}=1.1497</math>) and is not caused by a hidden nerf.
+**The "1.15 seconds per cycle" standard still remains true after the balance changes on January 28, 2026, until the February update displaying the correct values.
+*Despite the origin of the Gear-Up mechanic being from the Builder Base, the Long Range mode may have taken inspiration from the [[Blast Bow]] and the Fast Attack mode from the [[Multi Cannon]].
+*The Multi-Gear Tower uses the same sound effects as the X-Bow when placed and is swapped locations with another building.
+
+===Comparisons===
+*The Multi-Gear Tower is the second merged defense to be merged from two different defenses of different ranges, the first being the [[Town Hall/Inferno Artillery|Inferno Artillery]].
+**They are also the only defenses that are unique before being merged, with only one geared up Cannon and Archer Tower, [[Eagle Artillery]], and [[Town Hall/Giga Weapons|Giga Weapons]].
+**Unlike the Inferno Artillery, the Multi-Gear Tower can also be Supercharged.
+*Unlike other Cannons, the Fast Attack Multi-Gear Tower can target both ground and air troops.
+*Excluding the Single-Target {{H|Inferno Tower}} and [[Monolith]] which deals percentage damage, the Fast Attack Multi-Gear Tower deals the highest consistent single target damage in the game at 720, barely stronger than the primary shot of the [[Revenge Tower]] at 714.
+**The [[Light Beam]] at close range has a max damage per second of 800, but it is a temporary defense and the damage falls off at longer range.
+*The Multi-Gear Tower is the only merged defense that can be toggled to a different mode, and can also be changed into a different type of weapon.
+
+{{BuildingsMenuHV}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Merged Buildings]]
+[[ru:Пушкострельная башня]]

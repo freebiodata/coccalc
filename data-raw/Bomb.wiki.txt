@@ -1,0 +1,353 @@
+__NOEDITSECTION__
+{{Protection}}
+{{For|its aerial counterpart|Air Bomb}}
+{{For|the larger analogues|Giant Bomb|Giga Bomb}}
+{{For|a similar trap in the Builder Base and [[Clan Capital]]|Mine}}
+[[File:Bomb info.png|center|200px|link=]]
+
+<center>'''''"Nothing says 'STAY OUT' quite like a good old-fashioned hidden bomb."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Bomb1.png|link=]]<div>Level 1-2</div></div>
+<div>[[File:Bomb3.png|link=]]<div>Level 3-4</div></div>
+<div>[[File:Bomb5.png|link=]]<div>Level 5-6</div></div>
+<div>[[File:Bomb7.png|link=]]<div>Level 7-8</div></div>
+<div>[[File:Bomb9.png|link=]]<div>Level 9-10</div></div>
+<div>[[File:Bomb11.png|link=]]<div>Level 11-12</div></div>
+<div>[[File:Bomb13.png|70px|link=]]<div>Level 13-14</div></div>
+</div>
+
+==Summary==
+*Bombs are {{H|Traps|traps}} that remain hidden until they are activated by an attacking [[Army|troop]] moving into their trigger radius like other traps. It is the first such trap unlocked.
+*Once triggered, Bombs must be re-armed, which can be done for free and takes place automatically after logging into the game.
+*Although they are the weakest of all the traps, Bombs can still have a positive impact on the effectiveness of a village's defense if properly placed, but only if they are always re-armed after triggering.
+*Even though Bombs are classified as "{{H|Defensive Buildings}}", they are not buildings and do not need to be triggered/destroyed for your enemy to reach 100% destruction (nor do they count toward it).
+*The Bomb explodes approximately 1.5 seconds after an enemy comes within 1 tile of it, causing splash damage to every enemy [[:Category:Ground Troops|ground troop]] within 3 tiles. This delay means that you will want to place the Bomb in an area where troops are likely to remain for a period of time like right next to a building they are attacking.
+*The Bomb has a knockback effect that can affect any ground troops with three or less housing space. The more housing space they have, the less they get knocked back.
+
+==Strategies==
+===Defensive Strategies===
+*A Bomb can destroy an equivalent-level [[Wall Breaker]] in one hit. Since the Wall Breaker A.I. targets wall junctions, place Bombs at outside perimeter intersections and corners for maximum effect.
+**This can be used to ruin pathing for a potential [[Archer Queen|Queen]] Charge or similar strategy, though it is ineffective against [[Super Wall Breaker]]s (or if the enemy deploys a sufficient amount of Wall Breakers and they are able to reach the Walls).
+*One defensive strategy commonly used for the placement of Bombs is to position them along the outside {{H|Walls|Wall}}, behind external buildings. The external buildings serve to delay the enemy [[troops]] until they have grouped up, so that when they attack the Wall, the Bomb hits many troops at once. This is most effective against low-health troops, though grouping enough Bombs together can be a serious hazard for [[Giant]]s, too.
+*Alternatively, some players decide to place a group of Bombs around a {{H|Defensive Buildings|defensive building}} on the outside of their base, to act as a trap for enemy Giants. Placing a {{H|Spring Trap}} at the entrance to these trapped defense structures makes them even more effective.
+*Be cautious when upgrading a Bomb, as this will reveal its location. Combat this by relocating it during the upgrade period, since it will not trigger during that period anyway. This is useful against players who scout out your base ahead of time for revenge attacks.
+**This does not apply when the player is in Legend League, where the Bomb will always be active while it is upgraded.
+*Exploiting the way the A.I. targets buildings can dramatically increase the defensive effectiveness of your Bombs. For example, a group of 2 to 3 Bombs placed between a pair of {{H|Resource Buildings|resource collectors}} is very likely to destroy an entire group of [[Goblin]]s as they pass from one collector to the next.
+*A Bomb upgraded to level 4 or higher can instantly kill a group of summoned [[Witch/Skeleton|Skeletons]], making Bombs very effective against [[Witch]] based attacks. However, note that Skeletons on their own are unable to trigger Bombs, meaning they will not be immediately wiped out until other troops (such as Giants) trigger it.
+*Bombs are useful against players who use a [[Battle Blimp]] filled with [[Sneaky Goblin]]s who aim to use the Sneaky Goblins to quickly destroy the Town Hall. Since Bombs trigger even if the Sneaky Goblins are invisible, a sufficient amount of Bombs around the Town Hall can quickly kill the Sneaky Goblins and defuse this tactic. This increases in importance at the highest Town Hall levels, where Town Hall sniping strategies become more viable as the Town Hall gains an increasingly devastating weapon.
+*Bombs can damage [[Witch]]es fairly, also wiping out her summoned Skeletons. Pair this with a sufficiently-leveled Giant Bomb, and this combo will destroy them.
+
+===Offensive Strategies===
+*Bombs do only slight damage to high health troops but will destroy small troops. Try using tanks or high health troops like a [[Giant]] to absorb the Bomb.
+**[[Witch/Skeleton|Skeletons]] spawned by Witches or a [[Skeleton Spell]] do not trigger Bombs, so using such troops to trigger the traps may be less beneficial in Witch-based strategies.
+*If you suspect that a particular location has Bombs in it, use a small troop, such as a [[Barbarian]] to trigger them. Do not send small troops in mass, or they may all be heavily damaged at best, or completely wiped out at worst.
+**Air troops like [[Minion]]s do not have to worry about Bombs as Bombs cannot damage them.
+
+==Upgrade Differences==
+*When initially constructed, the Bomb appears as a spherical iron shell with a fuse.
+*At level 3, the Bomb becomes a little bigger and gains 4 golden spikes around its circumference.
+*At level 5, the Bomb is encased in two metal shells that have several golden bumps on their surface.
+*At level 7, the Bomb is encased in two golden shells with no bumps on the surface.
+*At level 9, the Bomb takes the shape of a truncated icosahedron with spikes.
+*At level 11, the Bomb takes the shape of a cube with the corners golden and spiked, and gains a thin torus around its circumference.
+*At level 13, the Bomb's shell turns blue, protected by dark metal platings with studs, and the opening of the fuse changes from a flat circle into two layers of a pentagon, with one being brass and the other made of dark iron.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable||TH3=2||TH5=4||TH7=6||TH13=7||TH14=8}}
+{{BuildingSize|1x1}}
+{|class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br />{{Res|Level}}
+!Damage<br />{{Res|Damage}}
+![[Resource Buildings#Gold|Cost]]<br />{{Res|Gold}}
+!Build Time<br />{{Res|Time}}
+![[Experience]] Gained<br />{{Res|XP}}
+![[Town Hall]] Level Required<br />{{Res|Town Hall}}
+|-
+|1
+|20
+|class="GoldPass bCost"|400
+|style="white-space: nowrap;"|N/A
+|N/A
+|3
+|-
+|2
+|24
+|class="GoldPass bCost"|1,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1m
+|class="GoldPass EXP"|7
+|3
+|-
+|3
+|29
+|class="GoldPass bCost"|10,000
+|class="GoldPass bTime" style="white-space: nowrap;"|5m
+|class="GoldPass EXP"|17
+|5
+|-
+|4
+|35
+|class="GoldPass bCost"|40,000
+|class="GoldPass bTime" style="white-space: nowrap;"|40m
+|class="GoldPass EXP"|48
+|7
+|-
+|5
+|42
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1h
+|class="GoldPass EXP"|60
+|8
+|-
+|6
+|54
+|class="GoldPass bCost"|230,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2h
+|class="GoldPass EXP"|84
+|9
+|-
+|7
+|72
+|class="GoldPass bCost"|330,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3h
+|class="GoldPass EXP"|103
+|10
+|-
+|8
+|92
+|class="GoldPass bCost"|500,000
+|class="GoldPass bTime" style="white-space: nowrap;"|4h
+|class="GoldPass EXP"|120
+|11
+|-
+|9
+|125
+|class="GoldPass bCost"|750,000
+|class="GoldPass bTime" style="white-space: nowrap;"|6h
+|class="GoldPass EXP"|146
+|13
+|-
+|10
+|140
+|class="GoldPass bCost"|1,300,000
+|class="GoldPass bTime" style="white-space: nowrap;"|12h
+|class="GoldPass EXP"|207
+|14
+|-
+|11
+|155
+|class="GoldPass bCost"|2,500,000
+|class="GoldPass bTime" style="white-space: nowrap;"|18h
+|class="GoldPass EXP"|254
+|15
+|-
+|12
+|170
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1d
+|class="GoldPass EXP"|293
+|16
+|-
+|13
+|185
+|class="GoldPass bCost"|8,500,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2d
+|class="GoldPass EXP"|415
+|17
+|-
+|14
+|200
+|class="GoldPass bCost"|14,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|8d
+|class="GoldPass EXP"|831
+|18
+|}
+
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Trigger Radius<br />{{Res|Radius}}
+!Damage Radius<br />{{Res|Radius}}
+!Damage Type<br />{{Res|Damage Type}}
+!Unit Type Targeted<br />{{Res|Target}}
+!Favorite Target<br />{{Res|Target}}
+|-
+|1.5 tiles
+|3 tiles
+|Area Splash
+|Ground
+|None
+|}
+{|cellpadding="1" cellspacing="1" style="width: 100%;text-align:center;"
+|-
+|colspan="8"|<big>Unarmed Bombs</big>
+|-
+|style="text-align: center;"|Level 1-2
+|style="text-align: center;"|Level 3-4
+|style="text-align: center;"|Level 5-6
+|style="text-align: center;"|Level 7-8
+|style="text-align: center;"|Level 9-10
+|style="text-align: center;"|Level 11-12
+|style="text-align: center;"|Level 13-14
+|-
+|[[File:Bomb1 unarmed.png|link=]]
+|[[File:Bomb3 unarmed.png|link=]]
+|[[File:Bomb5 unarmed.png|link=]]
+|[[File:Bomb7 unarmed.png|link=]]
+|[[File:Bomb9 unarmed.png|link=]]
+|[[File:Bomb11 unarmed.png|link=]]
+|[[File:Bomb13 unarmed.png|70px|link=]]
+|}
+</div>
+</center>
+
+{{IconDescriptions|Trap=Yes|Upgradable=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+![[Version History/2012#World Wide Release - 2nd August 2012|August 2, 2012]]
+|Introduction of the Bomb, with no levels and six of them to build. [[File:Bomb1.png|40px|link=]]
+|-
+![[Version History/2012#Version 2.21 - 30th August 2012|August 30, 2012]]
+|Bombs and other [[Traps/Home Village|traps]] are now visible when visiting own clan members.
+|-
+![[Version History/2012#Version 2.44 - 19th September 2012|September 19, 2012]]
+|Improved visual effect of Bomb's lit fuse.
+|-
+![[Version History/2012#Version 2.73 - 15th October 2012|October 15, 2012]]
+|Bombs and other traps are no longer visible during a defense replay.
+|-
+![[Version History/2013#Version 3.25 - 5th February 2013|February 5, 2013]]
+|Tapping a Bomb now shows its trigger radius.
+|-
+![[Version History/2013#Version 5.6.4 - 6th November 2013 "Trap Upgrades"|November 6, 2013]]
+|
+*Bombs now remain in the village after being triggered, but imposing a re-arm cost in doing so, and removing the ability to sell untriggered Bombs.
+*Added levels 2 to 4 to the Bomb, for a total of five. [[File:Bomb3.png|40px|link=]][[File:Bomb5.png|40px|link=]]
+|-
+![[Version History/2014#Version 6.186.1 - 3rd July 2014 "Hero Changes"|July 3, 2014]]
+|
+*Added the level 6 Bomb.
+*All Bombs and other traps can now be re-armed by tapping the Town Hall.
+*Moved down the [[Town Hall]] requirement for level 5 Bomb to Town Hall 8 (from 9).
+|-
+![[Version History/2015#Version 8.67.3 - 10th December 2015 - "Town Hall 11"|December 10, 2015]]
+|
+*Reduced re-arm costs at all levels:
+**Level 1: 400 -> 50 {{Res|Gold}}
+**Level 2: 500 -> 100 {{Res|Gold}}
+**Level 3: 600 -> 150 {{Res|Gold}}
+**Level 4: 700 -> 200 {{Res|Gold}}
+**Level 5: 800 -> 250 {{Res|Gold}}
+**Level 6: 900 -> 300 {{Res|Gold}}
+|-
+![[Version History/2017#22nd May 2017 "May 2017 Balancing Update"|May 22, 2017]]
+|
+*Increased damages at all levels:
+**Level 1: 12 -> 20 {{Res|Damage}}
+**Level 2: 16 -> 24 {{Res|Damage}}
+**Level 3: 20 -> 29 {{Res|Damage}}
+**Level 4: 26 -> 35 {{Res|Damage}}
+**Level 5: 34 -> 42 {{Res|Damage}}
+**Level 6: 42 -> 54 {{Res|Damage}}
+|-
+![[Version History/2018#Version 10.??? - 5th March 2018 "Builder Hall 8"|March 5, 2018]]
+|Added the level 7 Bomb. [[File:Bomb7.png|40px|link=]]
+|-
+![[Version History/2018#Version 11.49.4 - 23rd October 2018 "Clan War Leagues"|October 23, 2018]]
+|
+*Added the level 8 Bomb.
+*Reduced detonation delay from 2 seconds to 1.5 seconds.
+|-
+![[Version History/2019#Version 11.??? - 2nd April 2019|April 2, 2019]]
+|Removed re-arm costs entirely (as with all traps and reloadable defenses), instead automatically re-arming after logging into the game.
+|-
+![[Version History/2019#Version 13.0.1 - 9th December 2019|December 9, 2019]]
+|
+*Added the level 9 Bomb. [[File:Bomb9.png|40px|link=]]
+*Added the seventh Bomb available at Town Hall 13.
+|-
+![[Version History/2020#Version 13.? - 30th March 2020|March 30, 2020]]
+|
+*Reduced upgrade costs at levels 5 to 7:
+**Level 5: 1,000,000 -> 500,000 {{Res|Gold}}
+**Level 6: 1,500,000 -> 1,000,000 {{Res|Gold}}
+**Level 7: 2,000,000 -> 1,500,000 {{Res|Gold}}
+|-
+![[Version History/2021#Balance Changes - 20th January 2021|January 20, 2021]]
+|Increased damage at the level 9 from 112 to 125. {{Res|Damage}}
+|-
+![[Version History/2021#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+|
+*Added the level 10 Bomb.
+*Added the eighth Bomb available at Town Hall 14.
+*Reduced upgrade costs at levels 5 to 7:
+**Level 5: 500,000 -> 300,000 {{Res|Gold}}
+**Level 6: 1,000,000 -> 600,000 {{Res|Gold}}
+**Level 7: 1,500,000 -> 1,200,000 {{Res|Gold}}
+*Reduced upgrade times at level 2, 5, and 6:
+**Level 2: 15m -> 6m {{Res|Time}}
+**Level 5: 1d -> 18h {{Res|Time}}
+**Level 6: 2d -> 1d 12h {{Res|Time}}
+|-
+!December 9, 2021
+|Reduced upgrade costs at levels 6 to 8. {{Res|Gold}}
+|-
+!October 10, 2022
+|Added the level 11 Bomb. [[File:Bomb11.png|40px|link=]]
+|-
+!December 12, 2023
+|
+*Added the level 12 Bomb.
+*Reduced upgrade costs and times at levels 3 to 10. {{Res|Gold}}{{Res|Time}}
+|-
+!November 25, 2024
+|Added the level 13 Bomb. [[File:Bomb13.png|40px|link=]]
+|-
+!November 17, 2025
+|
+*Added the level 14 Bomb.
+*Reduced upgrade cost at level 13 from 10,000,000 to 8,500,000. {{Res|Gold}}
+*Reduced upgrade time at level 13 from 8d to 4d 12h. {{Res|Time}}
+|}
+
+==Sounds==
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Trap activate.ogg]]
+|Trap triggered
+|When an ground unit triggers the Bomb
+|-
+|[[File:CannonCart impact.ogg]]
+|Ground explosion
+|When the Bomb exploded and hits an ground unit
+|-
+|[[File:Rearm Trap.ogg]]
+|Re-arm trap
+|When the Bomb is re-armed (became unused since the April 2, 2019 update)
+|}
+
+==Gallery==
+===Short Animations===
+<div class="flexbox-display normal-text">
+<div>[[File:Bomb InAction.gif|230px|link=]]</div>
+</div>
+==Trivia==
+*The fuse on the Bomb is lit constantly, but never burns up.
+*The Bomb, [[Giant Bomb]], and {{H|Spring Trap}} are the oldest traps in the game.
+*If the Bomb has been triggered just before the battle ends, the Bomb will not explode.
+{{BuildingsMenuHV}}
+
+[[ru:Бомба]]
+[[de:Bombe]]
+[[es:Bomba]]
+[[fr:Bombe]]
+[[nl:Bom]]
+[[pl:Bomba]]
+[[zh:隐形炸弹]]
+[[Category:Traps]]
+[[Category:Home Village]]

@@ -1,0 +1,272 @@
+__NOEDITSECTION__
+{{Protection}}
+
+[[File:L.A.S.S.I info.png|center|250px|link=]]
+
+<center>'''''"The trustiest hound to ever roam the {{H|Layouts|village}} proper, L.A.S.S.I chases [[:Category:Troops|enemies]] with unrelenting fury. Unless they fly, in which case she just observes them intently."'''''</center>
+
+----
+<div class="flexbox-display bold-text">
+<div>[[File:LASSI field.png|100px|link=]]<div>Level 1-15</div></div>
+</div>
+
+==Summary==
+*L.A.S.S.I is the first [[Pets|pet]] unlocked from the [[Pet House]], and is automatically available once the Pet House has finished being built.
+*{{PreferredTarget|Plural=Yes|ProperNoun=true|HeroRadius|Target Radius=2.5}}
+*L.A.S.S.I is able to jump over {{H|Wall}}s to attack [[buildings]] and ground [[Army|troops]] behind it.
+
+==Strategies==
+===Offensive Strategies===
+*L.A.S.S.I works great with the [[Royal Champion]] because they can support each other during an attack and both have the ability to jump over Walls.
+*L.A.S.S.I is not a damage dealer and functions like a mini-tanker for the Hero. 
+**This could make choosing L.A.S.S.I over [[Diggy]] for the Royal Champion a more viable option where the burrowing ability of Diggy can expose the Royal Champion to fire.
+**Also, she can be an alternative when Diggy is under upgrade in the Pet House.
+*She can also assist in funneling with the [[Barbarian King]] by taking out [[buildings]] behind Walls that the Barbarian King may have trouble reaching. However, this may put her in range of defenses that the Barbarian King may be out of range to tank for, which given her middling hit points, means she will fall rather quickly if this happens. To alleviate this, either use [[Wall Breaker]]s to get the King in, or use [[Freeze Spell]]s to stop the {{H|Defensive Buildings|defenses}}.
+*Alternatively, if the Hero she was paired to dies before L.A.S.S.I, then she will mainly act as a mini-tank thanks to her relatively high HP.
+
+===Defensive Strategies===
+*L.A.S.S.I will not stray very far from her Hero. As a result, you could leave a gap between a layer of Walls and a building that you want to protect from L.A.S.S.I, and if she is paired to the Barbarian King or [[Archer Queen]], L.A.S.S.I will not go for said buildings unless the Hero is attacking the Wall. In the latter case, however, note that the Queen will still be able to attack the building.
+*Her fast movement speed can be considered a weakness at times, as she is faster than any Hero (barring the use of speed-boosting equipment such as the Haste Vial), and thus may charge ahead over long distances, allowing for your defenses to hit L.A.S.S.I first.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target<br/>{{Res|Target}}
+!Targets<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+![[Pet House]] Level Required<br/>{{Res|Pet House}}
+!Range<br/>{{Res|Range}}
+!Special Ability<br/>{{Res|Pet Ability}}
+|-
+|Within 2.5 tiles of Hero
+|Ground
+|Single Target
+|class="ModifierStat Speed"|32
+|class="AttackSpeed"|0.9s
+|1
+|0.6 tiles
+|High Jumper
+|}
+
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" id="minion-table-2" style="text-align: center; width: 100%;"
+!Level<br />{{Res|Level}}
+!Damage per Second<br />{{Res|Damage}}
+!Damage per Hit<br />{{Res|Damage}}
+!Hitpoints<br />{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br />{{Res|Dark Elixir}}
+!Upgrade Time<br />{{Res|Time}}
+!Pet House Level Required<br />{{Res|Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|160
+|class="ModifierStat DPH"|144
+|class="ModifierStat HP"|2,800
+|N/A
+|N/A
+|1
+|-
+|2
+|class="ModifierStat DPS"|170
+|class="ModifierStat DPH"|153
+|class="ModifierStat HP"|2,900
+|class="GoldPass rCost"|20,000
+|class="GoldPass rTime"|1d
+|1
+|-
+|3
+|class="ModifierStat DPS"|180
+|class="ModifierStat DPH"|162
+|class="ModifierStat HP"|3,000
+|class="GoldPass rCost"|30,000
+|class="GoldPass rTime"|1d 12h
+|1
+|-
+|4
+|class="ModifierStat DPS"|190
+|class="ModifierStat DPH"|171
+|class="ModifierStat HP"|3,100
+|class="GoldPass rCost"|40,000
+|class="GoldPass rTime"|2d
+|1
+|-
+|5
+|class="ModifierStat DPS"|200
+|class="ModifierStat DPH"|180
+|class="ModifierStat HP"|3,200
+|class="GoldPass rCost"|50,000
+|class="GoldPass rTime"|2d 12h
+|1
+|-
+|6
+|class="ModifierStat DPS"|210
+|class="ModifierStat DPH"|189
+|class="ModifierStat HP"|3,300
+|class="GoldPass rCost"|60,000
+|class="GoldPass rTime"|3d
+|1
+|-
+|7
+|class="ModifierStat DPS"|220
+|class="ModifierStat DPH"|198
+|class="ModifierStat HP"|3,400
+|class="GoldPass rCost"|70,000
+|class="GoldPass rTime"|3d 12h
+|1
+|-
+|8
+|class="ModifierStat DPS"|230
+|class="ModifierStat DPH"|207
+|class="ModifierStat HP"|3,500
+|class="GoldPass rCost"|80,000
+|class="GoldPass rTime"|4d
+|1
+|-
+|9
+|class="ModifierStat DPS"|240
+|class="ModifierStat DPH"|216
+|class="ModifierStat HP"|3,600
+|class="GoldPass rCost"|90,000
+|class="GoldPass rTime"|4d 12h
+|1
+|-
+|10
+|class="ModifierStat DPS"|260
+|class="ModifierStat DPH"|234
+|class="ModifierStat HP"|3,700
+|class="GoldPass rCost"|100,000
+|class="GoldPass rTime"|5d
+|1
+|-
+|11
+|class="ModifierStat DPS"|290
+|class="ModifierStat DPH"|261
+|class="ModifierStat HP"|3,850
+|class="GoldPass rCost"|110,000
+|class="GoldPass rTime"|5d 12h
+|class="change-highlight"|5
+|-
+|12
+|class="ModifierStat DPS"|310
+|class="ModifierStat DPH"|279
+|class="ModifierStat HP"|3,950
+|class="GoldPass rCost"|120,000
+|class="GoldPass rTime"|6d
+|5
+|-
+|13
+|class="ModifierStat DPS"|330
+|class="ModifierStat DPH"|297
+|class="ModifierStat HP"|4,100
+|class="GoldPass rCost"|130,000
+|class="GoldPass rTime"|6d 12h
+|5
+|-
+|14
+|class="ModifierStat DPS"|360
+|class="ModifierStat DPH"|324
+|class="ModifierStat HP"|4,300
+|class="GoldPass rCost"|140,000
+|class="GoldPass rTime"|7d
+|5
+|-
+|15
+|class="ModifierStat DPS"|400
+|class="ModifierStat DPH"|360
+|class="ModifierStat HP"|4,500
+|class="GoldPass rCost"|150,000
+|class="GoldPass rTime"|7d 12h
+|5
+|}
+</div></center>
+
+==History==
+{|class="wikitable" style="width:100%"
+!Date!!Description
+|-
+![https://www.youtube.com/watch?v=upPy_yN8KrE April 10, 2021]
+|Announced the L.A.S.S.I, with 10 levels.[[File:LASSI field.png|56px|link=]]
+|-
+![[Version History/2021#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+|Added the L.A.S.S.I.
+|-
+![[Version History/2021#Maintenance Break - 13th April 2021|April 13, 2021]]
+|Fixed a bug that allowed players to assign L.A.S.S.I to a [[Heroes|hero]] when the [[Pet House]] was initially built.
+|-
+![[Version History/2021#June 2021 Update - Version 14.93.2 - 15th June 2021|June 15, 2021]]
+|
+*Force retarget for L.A.S.S.I if her assigned Hero is knocked out and the L.A.S.S.I is attacking a {{H|Walls|Wall}}.
+*L.A.S.S.I's level now shows boosted badge in battle end screen when Hero Potion is active.
+|-
+![[Version_History/2023#Version v15.352.5 - June 12, 2023 Summer update|June 12, 2023]]
+|Added levels 11-15 to L.A.S.S.I.
+|-
+!January 12, 2026
+|
+*Increased damage at all levels:
+**Level 1: 150 -> 160 {{Res|Damage}}
+**Level 2: 160 -> 170 {{Res|Damage}}
+**Level 3: 170 -> 180 {{Res|Damage}}
+**Level 4: 180 -> 190 {{Res|Damage}}
+**Level 5: 190 -> 200 {{Res|Damage}}
+**Level 6: 200 -> 210 {{Res|Damage}}
+**Level 7: 210 -> 220 {{Res|Damage}}
+**Level 8: 220 -> 230 {{Res|Damage}}
+**Level 9: 230 -> 240 {{Res|Damage}}
+**Level 10: 240 -> 260 {{Res|Damage}}
+**Level 11: 250 -> 290 {{Res|Damage}}
+**Level 12: 260 -> 310 {{Res|Damage}}
+**Level 13: 270 -> 330 {{Res|Damage}}
+**Level 14: 280 -> 360 {{Res|Damage}}
+**Level 15: 290 -> 400 {{Res|Damage}}
+*Increased hitpoints at all levels:
+**Level 1: 2,700 -> 2,800 {{Res|Hitpoint}}
+**Level 2: 2,800 -> 2,900 {{Res|Hitpoint}}
+**Level 3: 2,900 -> 3,000 {{Res|Hitpoint}}
+**Level 4: 3,000 -> 3,100 {{Res|Hitpoint}}
+**Level 5: 3,100 -> 3,200 {{Res|Hitpoint}}
+**Level 6: 3,200 -> 3,300 {{Res|Hitpoint}}
+**Level 7: 3,300 -> 3,400 {{Res|Hitpoint}}
+**Level 8: 3,400 -> 3,500 {{Res|Hitpoint}}
+**Level 9: 3,500 -> 3,600 {{Res|Hitpoint}}
+**Level 10: 3,600 -> 3,700 {{Res|Hitpoint}}
+**Level 11: 3,700 -> 3,850 {{Res|Hitpoint}}
+**Level 12: 3,800 -> 3,950 {{Res|Hitpoint}}
+**Level 13: 3,900 -> 4,100 {{Res|Hitpoint}}
+**Level 14: 4,000 -> 4,300 {{Res|Hitpoint}}
+**Level 15: 4,100 -> 4,500 {{Res|Hitpoint}}
+|}
+
+==Gallery==
+<gallery>
+Avatar L.A.S.S.I.png|L.A.S.S.I icon.
+LASSI with the butterfly.png|L.A.S.S.I with the butterfly.
+Pet-lassi.jpg.webp|L.A.S.S.I in-game.
+</gallery>
+
+==Trivia==
+*The L.A.S.S.I's name derives from the Finnish name for "''Lawrence''", which in turn comes from the Latin name "''Laurentius''", meaning "''from Laurentum",'' a city near Rome.
+*L.A.S.S.I's appearance is similar to the [[w:c:clashroyale:Mini_P.E.K.K.A|Mini P.E.K.K.A]] from ''[[wikipedia:Clash Royale|Clash Royale]]'' as both are similar to the [[P.E.K.K.A]], both are smaller than the P.E.K.K.A, and both have one eye shaped like a diamond.
+*L.A.S.S.I is a female, as confirmed by the description, matching the [[P.E.K.K.A]] who has a similar appearance.
+**A Mother's Day [https://twitter.com/ClashofClans/status/1391392008342630406 Tweet] by Supercell implies P.E.K.K.A is the owner of L.A.S.S.I.
+*The paw prints visible on the [[Pet House]] are most likely from L.A.S.S.I.
+*L.A.S.S.I is a hound according to a [https://twitter.com/ClashofClans/status/1392479927438659584 video] by Supercell.
+*L.A.S.S.I is shown gazing at a butterfly in the [https://clashofclans.com/blog/game-updates/meet-the-hero-pets-1.html announcement post] which is a reference to a [https://www.youtube.com/watch?v=_PGs-lrzvt4&ab_channel=Godson-Gaming commercial] of ''Clash of Clans''.
+*The L.A.S.S.I makes a similar sound to a [[Miner]] when she attacks.
+*[[w:c:squad-busters:L.A.S.S.I|L.A.S.S.I]] is featured as a [[w:c:squad-busters:Monsters|monster]] in the game ''[[wikipedia:Squad Busters|Squad Busters]]''.
+
+===Comparisons===
+*L.A.S.S.I is the only [[Pets|Pet]] to be a robotic animal rather than an organic one.
+*She is one of the three Pets that are a female, the other being the [[Phoenix]] and [[Sneezy]].
+
+{{TroopsMenuHV}}
+
+[[Category:Pets]]
+[[Category:Home Village]]
+[[de:L.A.S.S.I.]]
+[[es:L.A.S.S.I]]
+[[Category:Troops]]
+[[Category:Ground Troops]]

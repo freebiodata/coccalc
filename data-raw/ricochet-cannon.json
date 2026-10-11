@@ -1,0 +1,56 @@
+{
+ "id": "ricochet-cannon",
+ "name": "Ricochet Cannon",
+ "category": "defense",
+ "resource": "gold",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 12000000,
+   "time": "7d",
+   "th": 16
+  },
+  {
+   "level": 2,
+   "cost": 13000000,
+   "time": "8d",
+   "th": 16
+  },
+  {
+   "level": 3,
+   "cost": 17500000,
+   "time": "9d",
+   "th": 17
+  },
+  {
+   "level": 4,
+   "cost": 26500000,
+   "time": "13d 12h",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  3,
+  3
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Ricochet_Cannon",
+ "lastEdited": "2026-07-16T09:45:14Z",
+ "ok": true
+}

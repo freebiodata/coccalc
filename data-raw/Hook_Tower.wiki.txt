@@ -1,0 +1,357 @@
+{{Protection}}
+{{TemporaryTroopUnavailable|mode=building|crafted=yes|phase=First}}
+
+[[File:Hook Tower4.png|center|200px|link=]]
+<center>'''''"The [[Master Builder]] won't mind that we borrowed rope from his boat, will he?<br><br>The Hook Tower pulls in [[Army|enemies]] from afar and stuns them. Sadly, [[Siege Machines]] are a bit too heavy!"'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Hook Tower1.png|center|100px|link=]]<div>Level 3-11</div></div>
+<div>[[File:Hook Tower2.png|center|100px|link=]]<div>Level 12-20</div></div>
+<div>[[File:Hook Tower3.png|center|100px|link=]]<div>Level 21-29</div></div>
+<div>[[File:Hook Tower4.png|center|100px|link=]]<div>Level 30</div></div>
+</div>
+
+==Summary==
+*The Hook Tower is a Crafted Defense that can be chosen from the [[Crafting Station]].
+*The Hook Tower grabs a single [[Army|unit]] into its blind spot from a long range. The targeted unit takes minimal damage (1 damage per attack; displayed as having 0 damage per second) and is stunned for a period of time.
+**When this attack is done, it retargets to the closest troop. This is evident when it comes to long-range Siege Machines, as after a troop such as a Barbarian is deployed in front of the Flame Flinger for example, the Hook Tower will first target the Flinger and then the Barbarian, so long as the Barbarian does not reach its blind spot.
+*[[Heroes]] and [[Pets]] can be affected as normal. [[Siege Machines]] cannot be pulled by the Hook Tower but will still take damage and be stunned.
+*When the Hook Tower launches its anchor on the target when it is destroyed, it only stuns the target, without reeling it towards its blind spot, and the anchor disappears afterwards.
+*The Hook Tower's modules upgrade its hitpoints, attack frequency and stun duration. Only one module can be upgraded at a time.
+
+==Strategies==
+===Defensive Strategies===
+*The Hook Tower has a very long range, so make sure to place it near high-damage defenses such as [[Ricochet Cannon]]s, [[Multi-Archer Tower]]s, single-target {{H|Inferno Tower}}s and the [[Monolith]] to deal significant damage to the target, especially a Hero. {{H|Traps}} like [[Giant Bomb]]s, [[Seeking Air Mine]]s, and the [[Giga Bomb]] can also work in this regard.
+*The Hook Tower can pick off strong units one by one, which will get stunned and defeated by high-damage defenses. This makes it particularly effective against tanky units, increasing the chances of a successful defense.
+*The Hook Tower has a disadvantage if the attacker uses [[Balloon]]s. When it grabs the Balloon, the unit will trigger any air traps along the way, wasting them, so keep that in mind.
+**Another weakness of the Hook Tower is that it can only target one unit, and would be wasted on fragile units like [[Barbarian]]s, [[Minion]]s and [[Archer]]s. Place splash damage defenses near it to allow the Hook Tower to target units with higher hitpoints.
+*If the attacker is not careful, their Hero may be reeled in towards the blind spot, surrounded by high-damage defenses and traps to finish them off.
+**However, if the attacker is clever enough, they can use the [[Barbarian King]] wielding the [[Spiky Ball]] and the [[Earthquake Boots]] to destroy any surrounding defenses in that area. Additionally, if the [[Grand Warden]] is equipped with the Fireball, when he is grabbed by Hook Tower and the attacker has [[Invisibility Spell]]s, a [[Recall Spell]] and a [[Revive Spell]], the Grand Warden will gain a lot of value by destroying major defenses, which are mostly located in the core, and the same thing also applies to the Royal Champion if she has the [[Electro Boots]] supported by Invisibility Spells. All of these combos become a weakness to the Hook Tower and the defender's base themselves, if the defender does not separate major defenses, especially if it is placed in the core.
+*The Hook Tower is useful against certain Siege Machines, despite not being able to pull them, they will only be stunned. A [[Battle Blimp]] cannot move while stunned, meaning that it will be much harder for the blimp to reach its target location; similarly [[Log Launcher]]s cannot attack while stunned and will lose a significant portion of its lifetime during the stun. The [[Flame Flinger]] can be outranged by the Hook Tower, and its attack is slow enough that it can be stunlocked by the Hook Tower, fully countering it, regardless of the attack speed module level.
+**However, if the attack cooldown reduction is not at a high enough level, a very closely-placed Flame Flinger will lob just one volley of Fire Spirits before the anchor lands onto the Flinger, which can deal significant amount of damage to the Hook Tower, if not destroying it after enough time has passed.
+*If the Grand Warden is somehow targeted by the Hook Tower and displaces him away from the army after he has activated his [[Eternal Tome]], the army will lose their invincibility, putting the attacker at a significant disadvantage.
+
+===Offensive Strategies===
+*The Hook Tower can be especially dangerous, especially if the reeled unit is a [[Heroes|Hero]], and can lure them into dangerous areas of the base with high damage. It also stuns that unit, which allows defenses time to defeat them. To prevent this, use a [[Freeze Spell|Freeze]] or [[Overgrowth Spell]]s to disable this defense, Invisibility Spells to turn them invisible. [[Skeleton Spell]]s and [[Bat Spell]]s can also work in this regard, so long as they are not placed inside its blind spot.
+**However, freezing, {{H|Lightning Spell|stunning}} or trapping the Hook Tower will not stop it from reeling the targeted unit if it has already fired its anchor, as said unit will be displaced into its blind spot as usual.
+*A [[Lava Hound]] frozen by an [[Ice Block Spell]] can be viable if the attacker uses most air attacks like Mass Dragons, and may also apply to Blimps filled with [[Yeti]]s or [[Super Yeti]]s, for example. If this happens, the attacker can use this strategy to distract defenses while Dragons will attempt to destroy them as quickly as possible, and for the Battle Blimp, allow it to reach its desired destination.
+*The [[Spiky Ball]] and the [[Earthquake Boots]] combo can be used to destroy this defense, provided if they are sufficiently leveled. The [[Fireball]] and [[Earthquake Spell]] combo can also do a similar thing, with the same rules applied.
+*The Hook Thrower cannot target invisible units, such as a [[Royal Champion]] concealed by the [[Spirit Fox]] or troops covered by Invisibility Spells.
+**However, for the Royal Champion Charge, make sure to time the Invisibility Spells and the invisibility from the Spirit Fox at the correct time, otherwise she will be reeled in towards the Hook Tower and stun her as major defenses will take her out prematurely.
+*[[Miner]]s, their {{H|Super Miner|super version}}, [[Diggy]] and the [[Battle Drill]] cannot be targeted by the Hook Tower while underground, making them great counters.
+**However, the downside to this is that when they surface, they will get reeled in towards its blind spot when they do so, except for the Battle Drill, which can only be stunned instead.
+**The latter two of the aforementioned units above can stun the Hook Tower, giving more time for other troops to destroy it quickly.
+
+==Upgrade Differences==
+*When selected, the Hook Tower is a tall, hexagonal-shaped building mostly made of wood, with a metal line at the bottom. It has a smooth, nine-padded stone foundation below shared from the Crafting Station. It has a large octagonal brass rotating platform on top which contains a large stone winch that holds a thick rope tied to a large, iron anchor, supported by two metal supports to hold the winch in place, and a wooden U-shaped frame with a metal reinforcement on each end and has two rivets holding it. When it targets a unit, it throws its anchor to the target from a very long range, and reels them into its blind spot, dealing minimal damage and stunning them for a short time. The Hook Tower cannot target any units too close to its blind spot.
+*At level 12, the hexagonal structure changes by an angle so that one vertex faces the edges of the foundation, and gains a large metal plate of its matching shape at the top-most layer. At the top, the frame becomes encased with thin metal reinforcements, and gains more rivets for added protection.
+*At level 21, all the metal parts except the anchor and the frame become brass-colored. The hexagonal band and plate gain rivets of its respective material to hold them in place, and ones that are on the U-shaped frame become iron spikes that are diamond-pyramid-shaped.
+*At level 30, the metal parts that were retained from its previous appearance, including the anchor, as well as the bronze supports, become golden. The golden supports of the platform gain two small golden spikes each, and the bottom brass line gains a small semi-oval plate on each side with pentagonal rivets holding it in place. The rope is now orange.
+
+==Statistics==
+<center>
+<div class="stats-background">{{GoldPassForm|Building}}
+{{NumberAvailable|TH17=1}}
+{{BuildingSize|3x3}}
+
+===Common Statistics===
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Range {{Res|Range}}
+!Damage Type {{Res|Damage Type}}
+!Unit Type Targeted {{Res|Target}}
+!Damage per Attack {{Res|Damage}}
+|-
+|4-15 tiles
+|Single Target
+|Ground & Air
+|class="ModifierStat DPH"|1
+|}
+
+===Module 1: Hitpoints===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Elixir|Cost]]<br/>{{Res|Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|500
+|N/A
+|N/A
+|N/A
+|-
+|2
+|1,000
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|-
+|3
+|1,500
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|1d 6h
+|class="GoldPass EXP"|328
+|-
+|4
+|2,000
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|5
+|2,500
+|class="GoldPass bCost"|7,000,000
+|class="GoldPass bTime"|1d 18h
+|class="GoldPass EXP"|388
+|-
+|6
+|3,000
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|7
+|3,500
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime"|2d 6h
+|class="GoldPass EXP"|440
+|-
+|8
+|4,000
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|9
+|4,500
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|2d 18h
+|class="GoldPass EXP"|487
+|-
+|10
+|5,000
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+
+===Module 2: Attack Cooldown===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Attack Cooldown<br/>{{Res|Attack Speed}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|7.1s
+|N/A
+|N/A
+|N/A
+|-
+|2
+|6.9s
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|-
+|3
+|6.7s
+|class="GoldPass bCost"|6,500,000
+|class="GoldPass bTime"|16h
+|class="GoldPass EXP"|240
+|-
+|4
+|6.5s
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|20h
+|class="GoldPass EXP"|268
+|-
+|5
+|6.3s
+|class="GoldPass bCost"|9,500,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|-
+|6
+|6.1s
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|1d 6h
+|class="GoldPass EXP"|328
+|-
+|7
+|5.9s
+|class="GoldPass bCost"|10,500,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|8
+|5.7s
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|9
+|5.5s
+|class="GoldPass bCost"|11,500,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|10
+|5.3s
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+
+===Module 3: Stun Time===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Stun Time<br/>{{Res|Stun}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+|-
+|1
+|2.7s
+|N/A
+|N/A
+|N/A
+|-
+|2
+|2.8s
+|class="GoldPass bCost"|25,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|-
+|3
+|2.9s
+|class="GoldPass bCost"|30,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|-
+|4
+|3.0s
+|class="GoldPass bCost"|35,000
+|class="GoldPass bTime"|2d 12h
+|class="GoldPass EXP"|464
+|-
+|5
+|3.1s
+|class="GoldPass bCost"|40,000
+|class="GoldPass bTime"|2d 14h
+|class="GoldPass EXP"|472
+|-
+|6
+|3.2s
+|class="GoldPass bCost"|55,000
+|class="GoldPass bTime"|2d 16h
+|class="GoldPass EXP"|480
+|-
+|7
+|3.3s
+|class="GoldPass bCost"|70,000
+|class="GoldPass bTime"|2d 18h
+|class="GoldPass EXP"|487
+|-
+|8
+|3.4s
+|class="GoldPass bCost"|85,000
+|class="GoldPass bTime"|2d 20h
+|class="GoldPass EXP"|494
+|-
+|9
+|3.5s
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime"|2d 22h
+|class="GoldPass EXP"|501
+|-
+|10
+|3.6s
+|class="GoldPass bCost"|115,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Crafter's Nightmare'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Crafted Defenses in Multiplayer Battles||100||25
+|-
+|Destroy 200 Crafted Defenses in Multiplayer Battles||800||100
+|-
+|Destroy 2,000 Crafted Defenses in Multiplayer Battles||5,000||200
+|-
+!colspan="3" style="text-align: center; width: 650px" |<big>'''Crafting Connoisseur'''</big>
+|-
+|Upgrade Crafted Defenses 5 times||10||10
+|-
+|Upgrade Crafted Defenses 25 times||100||30
+|-
+|Upgrade Crafted Defenses 75 times||1,000||50
+|}
+
+{{IconDescriptions|CraftableDefense=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description
+|-
+!June 15, 2025
+!Sneak Peek
+|Announced the Hook Tower, with 30 levels, alongside the introduction of the [[Crafting Station]].
+[[File:Hook Tower1.png|70px|link=]][[File:Hook Tower2.png|70px|link=]][[File:Hook Tower3.png|70px|link=]][[File:Hook Tower4.png|70px|link=]]
+|-
+!June 16, 2025
+!Update
+|Added the Hook Tower.
+|-
+!November 16, 2025
+!Update
+|Removed the Hook Tower.
+|}
+
+==Sounds==
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Hook fire.ogg]]
+|Hook Tower's hook launches
+|When the Hook Tower fires its anchor
+|-
+|[[File:Hook retract.ogg]]
+|Hook grabs something
+|Plays while a unit is pulled in towards the Hook Tower's blind spot
+|}
+
+==Gallery==
+===Short Animations===
+<div class="flexbox-display normal-text">
+<div>[[File:HookTowerFlameFlinger.gif|80px|link=]]<div>Hook Tower stops a Flame Flinger from attacking</div></div>
+</div>
+
+===Images===
+<gallery>
+HookTower BK.jpg
+Hook Tower info.png
+Hook Tower info2.png
+</gallery>
+
+==Trivia==
+*The Hook Tower has similarities to the [[w:c:boombeach:Grappler|Grappler]] from Boom Beach. Both can reel units towards their blind spot and have the same building size. However, the Hook Tower has much less range, significantly lower hitpoints, a smaller blind spot, a slower attack speed and only deals 1 damage when it grabs, but has the ability to stun the target for a short time and can target aerial units.
+**Coincidentally, they are both defenses that last for a limited time.
+**It is also similar to [[w:c:clashroyale:Fisherman|Fisherman]] from Clash Royale. Both pull in the enemy using their hook, although its range is much bigger than his.
+
+{{BuildingsMenuHV}}
+{{Temporary}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Crafted Buildings]]

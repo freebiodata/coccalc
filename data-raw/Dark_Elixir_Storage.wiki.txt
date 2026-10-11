@@ -1,0 +1,297 @@
+__NOEDITSECTION__
+
+{{Protection}}
+[[File:Dark Elixir Storage13.png|center|265x265px]]
+<center>
+
+'''''"The power of [[Resources#Dark Elixir|Dark Elixir]] could not be contained in a regularly shaped [[Resources#Elixir|Elixir]] vat. As it's three times as powerful, we had to invent a cubical form of storage!"'''''
+</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Dark_Elixir_Storage1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Dark_Elixir_Storage2.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Dark_Elixir_Storage3.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Dark_Elixir_Storage4.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Dark_Elixir_Storage5.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Dark_Elixir_Storage6.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Dark_Elixir_Storage7.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Dark_Elixir_Storage8.png|115px|link=]]<div>Level 8</div></div>
+<div>[[File:Dark Elixir Storage9.png|115px|link=]]<div>Level 9</div></div>
+<div>[[File:Dark Elixir Storage10.png|115px|link=]]<div>Level 10</div></div>
+<div>[[File:Dark Elixir Storage11.png|125px|link=]]<div>Level 11</div></div>
+<div>[[File:Dark Elixir Storage12.png|115px|link=]]<div>Level 12</div></div>
+<div>[[File:Dark Elixir Storage13.png|114x114px|link=]]<div>Level 13</div></div>
+</div>
+
+==Summary==
+*This Dark Elixir Storage is a resource building that expands the player's [[Resources#Dark Elixir|Dark Elixir]] capacity. It is unlocked at [[Town Hall]] level 7, along with the [[Dark Elixir Drill]].
+*The Dark Elixir Storage is a transparent, rectangular-shaped building. It is stated that this storage had to resemble a cube due to the Dark Elixir's power.
+*6% or 5% (depending on your Town Hall level) of the total Dark Elixir in the storage (up to 9,000, or none if you are in the Legend League) can be stolen by attackers, although loot penalties may change this amount (see [[Raids]]).
+*Upgrading your Dark Elixir Storage to a higher level than you require for storage purposes can potentially save Dark Elixir in a raid. As an attacker receives an amount of Dark Elixir proportional to the percentage of damage each hit causes, the higher health of the upgraded building results in less Dark Elixir per hit. It also takes longer to destroy, giving you more time for your [[Defensive Buildings|defenses]] to destroy the attacker before they can steal all the available Dark Elixir.
+*Dark Elixir Storages remain fully functional while being upgraded, like all other storages.
+*If a player manages to obtain Dark Elixir without the ability to store it, they will be lost. However they still give credit toward the [[Achievements#Heroic Heist|Heroic Heist]] [[Achievements|Achievement]].
+*Due to the low cap on Dark Elixir, it is sometimes difficult to tell if the Dark Elixir Storage is full. For example, a Town Hall 9 player with a level 6 Dark Elixir Storage with just under 36,000 Dark Elixir in the Dark Elixir Storage and just under 7,200 Dark Elixir in the Town Hall (almost enough to reach the 2,500 cap) is less than 20% full and therefore appears empty.
+**Alternatively, tapping on the Dark Elixir Storage before attacking in a Multiplayer Battle will allow you to see how much Dark Elixir is available from that storage.
+*Dark Elixir is the most difficult resource to obtain, with the possible exception of [[Gems]]. Consequently, many players protect the Dark Elixir Storage as best they can.
+*As of the 2015 July update, all kinds of storages now no longer take damage from spells. This was introduced as a response to the infamous tactic of using the Lightning Spells to steal Dark Elixir by damaging the storage by placing them on this building. Earthquake Spells were not affected since it was introduced in the same update.
+
+==Upgrade Differences==
+The Dark Elixir Storage undergoes significant visual changes at levels 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 and 13.
+
+*When initially constructed, the Dark Elixir Storage consists of a transparent, slightly rounded cubical storage vessel situated on a four-legged wooden platform. There appears to be a small square opening at the top of the storage.
+**At level 2, the storage adds a brass frame to the top of the vessel and a metal spigot at the base. The corners have a spike on each leg.
+**At level 3, the cubic vessel grows substantially in size, and both the wooden platform and brass frame are replaced by versions made of steel.
+**At level 4, the storage gains dark gold legs and a bigger and slightly different tap.
+**At level 5, the storage receives spiked steel armor plating on each of the four corners of the base.
+**At level 6, these armor plates become slightly wider with a pair of small golden spikes on each, and the steel frame atop the vessel turns golden as well. The base's platform is now made out of steel, with the some of the wood turning into gold linings.
+**At level 7, the storage's armor plates lose their spikes and become smooth blackish-gray metal. The spigot is now made of the same dark metal and has golden accents. There are also gold pieces atop the armor plates. The steel frame also gains silver platings in each corner.
+**At level 8, the storage's armor plates are darker with purple accents and slightly bigger. They gain two bluish spikes on each plate.
+**At level 9, the storage's spikes disappear, and golden lining replaces them. The top has faint green lines on them and the spigot turns brighter.
+**At level 10, the footings are reinforced with thicker purple frames with gold plating on top. The spigot turns into a slight tint of light blue. The frame at the top of the storage is now wider with the color being similar to that of the spigot, and the same thing applies to the gold lining of the platform.
+**At level 11, the footings are now made out of black metal at the bottom with two studs each, red wood at the middle, and the topmost are made out of reinforced golden plates, with three spikes each. At the top, the frame becomes gold with red reinforced wood on the inner part, and the golden platings of the frame are now made out of metal. The end of the spigot is now slightly thinner, but gains a red ring near the valve. The platform gains a red base at the bottom.
+**At level 12, the footings of the storage change, as the entire bottom part becomes dark gray with two layers, reinforced by three metal guards, and gain blue eagle wings at the top for each footing. The platform below the cubic vessel becomes gray. The spigot is now lighter in color, its red ring turns dark gray, and is placed higher, with one side of the vessel gaining two layers where the spigot is placed, with an outer layer of dark iron, and blue for the inner. At the top, the frame gains blue eagle wings at each corner, which are placed on top of golden pieces, and the lining that surrounds underneath the frame turns gray.
+**At level 13, the layers, metal guards and eagle wings on each footing are removed and replaced with glowing blue chunks of meteorite, reflecting the [[Town Hall]]'s level 18 theme. The bottom layer of the storage has been fitted with a thin layer of polished stone or metal, while on top, a thickened layer of glass has been added, surrounded by four golden plates on each corner. Part of the tap also becomes golden.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable||TH7=1}}
+{{BuildingSize|3x3}}
+{|border="0" cellpadding="1" cellspacing="1" id="darkelixirstorage-table-1" class="wikitable floatheader row-highlight" style="text-align: center; width: 100%;"
+!data-type="level"|Level<br />{{Res|Level}}
+!data-type="capacity"|[[Resources#Dark Elixir|Storage Capacity]]<br />{{Res|Dark Elixir}}
+!data-type="hitpoints"|Hitpoints<br />{{Res|Hitpoint}}
+!data-type="upgrade cost"|[[Resources#Elixir|Build Cost]]<br />{{Res|Elixir}}
+!data-type="upgrade time"|Build Time<br />{{Res|Time}}
+!data-type="experience gained"|[[Experience]] Gained<br />{{Res|XP}}
+!data-type="required town hall"|[[Town Hall]] Level Required<br />{{Res|Town Hall}}
+|-
+|1
+|10,000
+|2,000
+|class="GoldPass bCost"|250,000
+|class="GoldPass bTime"|8h
+|class="GoldPass EXP"|169
+|7
+|-
+|2
+|17,500
+|2,200
+|class="GoldPass bCost"|500,000
+|class="GoldPass bTime"|16h
+|class="GoldPass EXP"|240
+|7
+|-
+|3
+|40,000
+|2,400
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|class="change-highlight"|8
+|-
+|4
+|75,000
+|2,600
+|class="GoldPass bCost"|1,500,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|8
+|-
+|5
+|140,000
+|2,900
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bTime"|1d 16h
+|class="GoldPass EXP"|379
+|class="change-highlight"|9
+|-
+|6
+|180,000
+|3,200
+|class="GoldPass bCost"|2,400,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|9
+|-
+|7
+|220,000
+|3,500
+|class="GoldPass bCost"|3,800,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|class="change-highlight"|12
+|-
+|8
+|280,000
+|3,800
+|class="GoldPass bCost"|5,400,000
+|class="GoldPass bTime"|3d 12h
+|class="GoldPass EXP"|549
+|13
+|-
+|9
+|330,000
+|4,100
+|class="GoldPass bCost"|6,600,000
+|class="GoldPass bTime"|4d
+|class="GoldPass EXP"|587
+|14
+|-
+|10
+|360,000
+|4,300
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|4d 12h
+|class="GoldPass EXP"|623
+|15
+|-
+|11
+|390,000
+|4,500
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|5d
+|class="GoldPass EXP"|657
+|16
+|-
+|12
+|420,000
+|4,700
+|class="GoldPass bCost"|16,000,000
+|class="GoldPass bTime"|7d
+|class="GoldPass EXP"|777
+|17
+|-
+|13
+|450,000
+|4,800
+|class="GoldPass bCost"|25,000,000
+|class="GoldPass bTime"|13d
+|class="GoldPass EXP"|1,059
+|18
+|}
+{{Loot Availability|DarkElixirStorage=Yes|class=wikitable|tablestyle=width: 550px;|colheaderstyle=padding: 0px 5px;|cellstyle=padding: 0px 5px;}}
+</div>
+</center>
+{{IconDescriptions|Upgradable=Yes|StorageBuilding=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+![[Version History#Version 3.3 - 10th January 2013|January 10, 2013]]
+|Added the Dark Elixir Storage, with 6 levels.{{Clr}}[[File:Dark Elixir Storage1.png|65px|link=]][[File:Dark Elixir Storage2.png|65px|link=]][[File:Dark Elixir Storage3.png|65px|link=]][[File:Dark Elixir Storage4.png|65px|link=]][[File:Dark Elixir Storage5.png|65px|link=]][[File:Dark Elixir Storage6.png|65px|link=]]
+|-
+![https://forum.supercell.com/showthread.php/10327-Maintenance-11-1-2013-Heroes-update-fixes January 11, 2013] 
+|Increased hitpoints at all levels:
+*Level 1: 400 -> 1,000 {{Res|Hitpoint}}
+*Level 2: 600 -> 1,200 {{Res|Hitpoint}}
+*Level 3: 800 -> 1,400 {{Res|Hitpoint}}
+*Level 4: 1,000 -> 1,700 {{Res|Hitpoint}}
+*Level 5: 1,200 -> 2,000 {{Res|Hitpoint}}
+*Level 6: 1,500 -> 2,400 {{Res|Hitpoint}}
+|-
+![[Version History#Version 4.53 - 17th June 2013 "Freeze spell & Japanese"|June 17, 2013]]
+|Increased hitpoints at all levels:
+*Level 1: 1,000 -> 2,000 {{Res|Hitpoint}}
+*Level 2: 1,200 -> 2,200 {{Res|Hitpoint}}
+*Level 3: 1,400 -> 2,400 {{Res|Hitpoint}}
+*Level 4: 1,700 -> 2,600 {{Res|Hitpoint}}
+*Level 5: 2,000 -> 2,900 {{Res|Hitpoint}}
+*Level 6: 2,400 -> 3,200 {{Res|Hitpoint}}
+|-
+![[Version History#Version 7.156 - 1st July 2015 "Dark Spell Factory"|July 1, 2015]]
+|The Dark Elixir Storage no longer takes damage from spells.
+|-
+![[Version History#Version 8.212.1 - 21st March "The Bowler"|March 21, 2016]]
+|The Dark Elixir Storage now has more visual states to indicate more clearly how full or empty they are.
+|-
+![[Version History#Version 10.322.4 (?) - 11th June 2018 "Town Hall 12"|June 11, 2018]]
+|Added the level 7 Dark Elixir Storage. [[File:Dark Elixir Storage7.png|65px|link=]]
+|-
+![https://forum.supercell.com/showthread.php/1739860-Clash-of-Clans-Balance-changes-June-26th-2018 June 26, 2018]
+|Reduced build times at levels 1 to 6:
+*Level 1: 1d -> 12h {{Res|Time}}
+*Level 2: 2d -> 1d 12h {{Res|Time}}
+*Level 3: 3d -> 2d {{Res|Time}}
+*Level 4: 4d -> 2d 12h {{Res|Time}}
+*Level 5: 5d -> 3d 12h {{Res|Time}}
+*Level 6: 6d -> 4d {{Res|Time}}
+|-
+![https://forum.supercell.com/showthread.php/1803515-Spring-Update-2019-In-game-Economy-Changes?p=12126762&viewfull=1#post12126762 April 2, 2019]
+|
+*Reduced build times at all levels:
+**Level 1: 12h -> 8h {{Res|Time}}
+**Level 2: 1d 12h -> 16h {{Res|Time}}
+**Level 3: 2d -> 1d {{Res|Time}}
+**Level 4: 2d 12h -> 1d 12h {{Res|Time}}
+**Level 5: 3d 12h -> 2d {{Res|Time}}
+**Level 6: 4d -> 3d {{Res|Time}}
+**Level 7: 7d -> 5d {{Res|Time}}
+*Reduced build costs at levels 1 to 6:
+**Level 1: 600,000 -> 500,000 {{Res|Elixir}}
+**Level 2: 1,200,000 -> 750,000 {{Res|Elixir}}
+**Level 3: 1,800,000 -> 1,000,000 {{Res|Elixir}}
+**Level 4: 2,400,000 -> 1,500,000 {{Res|Elixir}}
+**Level 5: 3,000,000 -> 2,000,000 {{Res|Elixir}}
+**Level 6: 3,600,000 -> 3,000,000 {{Res|Elixir}}
+*Increased upgrade cost at level 7 from 4,200,000 to 6,000,000. {{Res|Elixir}}
+|-
+![[Version History#Version 13.0.1 - 9th December 2019|December 9, 2019]]
+|Added the level 8 Dark Elixir Storage. [[File:Dark Elixir Storage8.png|65px|link=]]
+|-
+![[Version History#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+|
+*Added the level 9 Dark Elixir Storage. [[File:Dark Elixir Storage9.png|65px|link=]]
+*Reduced build costs at levels 1 and 2:
+**Level 1: 500,000 -> 250,000 {{Res|Elixir}}
+**Level 2: 750,000 -> 500,000 {{Res|Elixir}}
+|-
+!October 10, 2022
+|
+*Added the level 10 Dark Elixir Storage. [[File:Dark Elixir Storage10.png|68x68px|link=]]
+*Reduced upgrade cost at levels 9 from 11,500,000 to 8,100,000. {{Res|Elixir}}
+*Reduced upgrade time at levels 6, 8, 9, and 10:
+**Level 6: 3d -> 2d {{Res|Time}}
+**Level 8: 6d 12h -> 6d {{Res|Time}}
+**Level 9: 14d 6h -> 12d {{Res|Time}}
+**Level 10: 15d -> 12d 12h {{Res|Time}}
+|-
+!December 12, 2023
+|Added the level 11 Dark Elixir Storage. [[File:Dark Elixir Storage11.png|70x70px|link=]]
+|-
+!November 25, 2024
+|Added the level 12 Dark Elixir Storage. [[File:Dark Elixir Storage12.png|70x70px|link=]]
+|-
+!February 10, 2025
+|Increased the storage capacity at higher levels:
+*Level 10: 350,000 -> 360,000 {{Res|Time}}
+*Level 11: 360,000 -> 390,000 {{Res|Time}}
+*Level 12: 370,000 -> 420,000 {{Res|Time}}
+|-
+!November 17, 2025
+|
+*Added the level 13 Dark Elixir Storage. [[File:Dark Elixir Storage13.png|70x70px|link=]]
+*Reduced upgrade time at level 12 from 15d to 9d. {{Res|Time}}
+|}
+
+==Trivia==
+*Although the description refers to [[Resources#Dark Elixir|Dark Elixir]] as "three times as powerful," in the game it is in fact 100 times as powerful. This can be observed by the Gem cost of buying resources: for example, both 10,000,000 [[Resources#Elixir|Elixir]] and 100,000 Dark Elixir can be bought with 3,000 [[Gems]].
+**The phrase of "three times as '''power'''ful" may also be explained as an exponentiation operation, with the fact that 1 Dark Elixir equals to, in Gems, the (3-1=2)nd '''power''' of 10, which equals to 100, Elixir.
+**The conversion rate used by the [[Alchemist]] is every 150 Gold or Elixir equals 1 Dark Elixir
+*It is possible to overflow the Dark Elixir Storage, but only by purchasing special resource packs found in the shop for real money or receiving extra Dark Elixir from the [[Season Challenges#Perks|Season Bank]]. If this is done, any excess Dark Elixir will remain in the storage, and until the excess is removed (either by spending the Dark Elixir or being raided), any Dark Elixir earned from raids will be lost.
+*The Dark Elixir Storage has the most hitpoints out of all storages.
+
+===Comparisons===
+*The Dark Elixir Storage is one of the four buildings that are associated with [[Resources#Dark Elixir|Dark Elixir]], the other three being the [[Dark Barracks]], [[Dark Spell Factory]], and [[Dark Elixir Drill]].
+*The Dark Elixir Storage, {{H|Elixir Storage}} and Dark Elixir Drill are the only resource buildings in the Home Village that do not appear in a [[Loading Screens|loading screen]].
+*The Dark Elixir Storage, along with the [[Clan Castle]] and Dark Elixir Drill are the only resource buildings not to have Builder Base counterparts.
+*It is the only storage in the game where you can only build one of such storage. This makes Dark Elixir the only resource which is stored in one storage.
+{{BuildingsMenuHV}}
+[[Category:Buildings]]
+[[Category:Resources]]
+[[Category:Home Village]]
+[[Category:Dark Elixir]]
+[[de:Lager für Dunkles Elixier]]
+[[ru:Хранилище черного эликсира]]

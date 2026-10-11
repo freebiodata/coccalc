@@ -1,0 +1,50 @@
+{
+ "id": "firespitter",
+ "name": "Firespitter",
+ "category": "defense",
+ "resource": "gold",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 17000000,
+   "time": "8d 12h",
+   "th": 17
+  },
+  {
+   "level": 2,
+   "cost": 18000000,
+   "time": "10d",
+   "th": 17
+  },
+  {
+   "level": 3,
+   "cost": 29000000,
+   "time": "15d",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Firespitter",
+ "lastEdited": "2026-09-25T10:37:03Z",
+ "ok": true
+}

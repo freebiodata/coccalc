@@ -1,0 +1,25 @@
+---
+import Icon from './Icon.astro';
+import type { ToolMeta } from '@data/meta';
+interface Props {
+  /** Slugs of related tools to show. */
+  slugs: string[];
+  tools: ToolMeta[];
+  heading?: string;
+}
+const { slugs, tools, heading = 'Related calculators' } = Astro.props;
+const selected = slugs.map((s) => tools.find((t) => t.slug === s)).filter(Boolean) as ToolMeta[];
+---
+<aside class="section" aria-label={heading}>
+  <h2>{heading}</h2>
+  <div class="tool-grid" style="margin-top:14px">
+    {selected.map((tool) => (
+      <a class="tool-card" href={tool.slug}>
+        <span class="tool-icon"><Icon name={tool.icon} size={26} /></span>
+        <h3>{tool.name}</h3>
+        <p>{tool.short}</p>
+        <span class="go">Open calculator <Icon name="arrow-right" size={15} /></span>
+      </a>
+    ))}
+  </div>
+</aside>

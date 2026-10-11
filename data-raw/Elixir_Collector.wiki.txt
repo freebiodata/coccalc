@@ -1,0 +1,16 @@
+<div class="Tabview hidden">
+<tabber>
+Home Village={{:Elixir Collector/Home Village}}
+|-|
+Builder Base={{:Elixir Collector/Builder Base}}
+</tabber>
+</div>
+<div style="display:none;">
+The '''Elixir Collector''' is a resource building that appears in the Home Village and Builder Base.
+
+For their appearances in each village see the following pages:
+*[[Elixir Collector/Home Village]]
+*[[Elixir Collector/Builder Base]]
+</div>
+[[Category:Disambiguation Pages]]
+[[de:Elixiersammler]]

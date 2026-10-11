@@ -1,0 +1,447 @@
+{{Protection}}
+{{TemporaryTroopAvailable|mode=building|crafted=yes|phase=Fourth}}
+[[File:Hot Candle4-1.png|center|200px|link=]]
+<center>'''''"The flickering flame of the Hot Candle flings fire spurts at multiple surrounding [[Army|enemies]]! Better make your wish quick, as this {{H|Defensive Buildings|defense}}’s target capacity decreases as it melts."'''''</center>
+----
+{{Toggle|Next/Previous}}
+<div class="animated">
+<!--Base Form-->
+<div class="active"><p style="font-size:large; font-family:Backbeat; text-align:center;">'''Base Form'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Hot Candle1-1.png|center|110px|link=]]<div>Level 3-11</div></div>
+<div>[[File:Hot Candle2-1.png|center|110px|link=]]<div>Level 12-20</div></div>
+<div>[[File:Hot Candle3-1.png|center|110px|link=]]<div>Level 21-29</div></div>
+<div>[[File:Hot Candle4-1.png|center|110px|link=]]<div>Level 30</div></div>
+</div>
+</div>
+<!--First Decay-->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''First Decay'''</p><div class="flexbox-display bold-text">
+<div>[[File:Hot Candle1-2.png|center|110px|link=]]<div>Level 3-11</div></div>
+<div>[[File:Hot Candle2-2.png|center|110px|link=]]<div>Level 12-20</div></div>
+<div>[[File:Hot Candle3-2.png|center|110px|link=]]<div>Level 21-29</div></div>
+<div>[[File:Hot Candle4-2.png|center|110px|link=]]<div>Level 30</div></div>
+</div>
+</div>
+<!--Second Decay-->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Second Decay'''</p><div class="flexbox-display bold-text">
+<div>[[File:Hot Candle1-3.png|center|110px|link=]]<div>Level 3-11</div></div>
+<div>[[File:Hot Candle2-3.png|center|110px|link=]]<div>Level 12-20</div></div>
+<div>[[File:Hot Candle3-3.png|center|110px|link=]]<div>Level 21-29</div></div>
+<div>[[File:Hot Candle4-3.png|center|110px|link=]]<div>Level 30</div></div>
+</div>
+</div></div><!--End-->
+
+==Summary==
+*The Hot Candle is a Crafted Defense that can be chosen from the [[Crafting Station]].
+*It is a multi-target defense that fires spurts of flames at multiple ground and air troops, similar to a [[Multi-Archer Tower]]. Initially, it can target up to 6 different targets, however after two set intervals of time, it melts slightly, decreasing its damage potential each time. The number of fired spurts decreases to four after its first melt, then to three after its second. Each spurt still does the same amount of damage, however.
+**The Hot Candle starts melting as soon as any building is destroyed.<!-- Currently a bug workaround, the intended is that the melt starts at battle start. Can be replaced after bugfix-->
+*Like the Multi-Archer Tower, the Hot Candle can hit the same target with multiple shots, stacking its damage on that target.
+*There are different interactions when the Hot Candle attacks a set number of units, similar to the [[Inferno Artillery]] and the Multi-Archer Tower, assuming that it is on its base form.
+**If there are six or more units in range, each flame targets the six nearest ones.
+**If there are five units in range, two flames hit the nearest unit, while the others will be hit by one.
+**If there are four units in range, two flames will target the two closest ones, while the rest will be shot by one.
+**If there are three units in its range, two flames will each target three units, spreading the damage equally.
+***The same applies to two units in its range, except three flames will target each one.
+**If there is only one unit in its range, all six flames will hit that unit.
+*As it melts, the interaction changes to match either the Inferno Artillery or the Multi-Archer Tower.
+
+==Strategies==
+===Defensive Strategies===
+*The Hot Candle is one of the most effective defenses against swarms because of its multi-targeting capability and high attack speed similar to an {{H|Archer Tower}}. Because of this, it can be placed in a compartment of the base filled with {{H|Traps}} and other major defenses.
+*The Hot Candle is weak to longer-ranged units like [[Flame Flinger]]s and [[Rocket Spear]]s from the [[Royal Champion]], so protect it with defenses that match or outrange them like [[Mortar]]s, {{H|X-Bow}}s, and the [[Monolith]]. {{H|Traps}} like [[Giant Bomb]]s and [[Skeleton Trap]]s can also help in this regard.
+*To prevent [[Giant Arrow]] value, especially when it is max-leveled, it is best to upgrade the hitpoint module to at least level 2 or higher.
+*The Hot Candle really shines against individual units like the [[Dragon Duke]] in a Duke Charge, which deals very high damage to him in a short period due to all of its flames hitting him at the same time, provided it was on his base form, as later stages reduce the amount of total damage.
+*Keep the Hot Candle separated from other main defenses such as [[Scattershot]]s and {{H|Inferno Tower}}s, otherwise the attacker will get a lot of value by disabling them all using the [[Overgrowth Spell]] or [[Freeze Spell]].
+===Offensive Strategies===
+*The [[Fireball]] and [[Earthquake Spell]] combo can be used to destroy this defense if both are sufficiently leveled. Two combos, one of them being the [[Spiky Ball]] and the [[Earthquake Boots]], and the other being the [[Flame Blower]] and [[Rocket Backpack]] with one or two Earthquake Spells can also do the same, with the same rules applied.
+*As the Hot Candle can quickly whittle individual tanks with ease, deploy multiple units to reduce its damage potential.
+*When attacking a Hot Candle with a large number of troops, the resulting interaction will play out similar to attacking a multi-targeting Inferno Tower initially, though it decreases as time passes. However, against single units such as a lone [[Royal Champion]] or [[Archer Queen]], the Hot Candle will prove to be very potent, with damage per second exceeding that of most other single-target defenses like the {{H|X-Bow}} or a fast-attack Archer Tower.
+*To prevent the Hot Candle from targeting all important units at once, one can prevent them from being targeted by using an [[Invisibility Spell]]. [[Freeze Spell]]s and [[Overgrowth Spell]]s are a staple to disable the defense, if it should be required. Totem Spells are also effective, as it can reduce the damage output.
+*When attacking a Hot Candle with a lone [[Barbarian King]] or Archer Queen, using their abilities while having the [[Barbarian Puppet]] or [[Archer Puppet]] equipped will summon a large number of distracting troops that will force the Hot-Candle to fire multiple projectiles depending on its decay levels, reducing fire on the Hero. This could theoretically work with the [[Healer Puppet]] equipped, but is not advisable unless the Queen will quickly destroy the tower afterwards, as the [[Healer]]s will be quickly whittled down. For the [[Magic Mirror]], the original Queen will get reduced damage when her clone is also hit by the Multi-Archer Tower as it have enough hitpoints as a distraction, and further reduced when the Magic Mirror is at level 18 and above, although it may also affect the Healers behind. For the [[Snake Bracelet]], the [[Snake Bracelet/Snake|Snakes]] will distract the Hot Candle the more the King takes damage, which can eventually overwhelm the Hot Candle and eventually get it destroyed.
+
+==Upgrade Differences==
+
+==Statistics==
+<center>
+<div class="stats-background">{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH11=1}}
+{{BuildingSize|3x3}}
+
+===Common Statistics===
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!rowspan="2"|Range<br/>{{Res|Range}}
+!rowspan="2"|Attack Speed<br/>{{Res|Attack Speed}}
+!rowspan="2"|Damage Type<br/>{{Res|Damage Type}}
+!rowspan="2"|Unit Type Targeted<br/>{{Res|Target}}
+!colspan="3"|Number of Targets<br/>{{Res|Target}}
+|-
+!Base Form
+!First Decay
+!Second Decay
+|-
+|10.5 Tiles
+|class="AttackSpeed"|0.5s
+|Single Target
+|Ground & Air
+|6
+|4
+|3
+|}
+
+===Module 1: Hitpoints===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Elixir|Cost]]<br/>{{Res|Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+!Town Hall Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|1,600
+|N/A
+|N/A
+|N/A
+|11
+|-
+|2
+|1,800
+|class="GoldPass bCost"|3,500,000
+|class="GoldPass bTime"|6h
+|class="GoldPass EXP"|146
+|12
+|-
+|3
+|2,150
+|class="GoldPass bCost"|4,500,000
+|class="GoldPass bTime"|8h
+|class="GoldPass EXP"|169
+|13
+|-
+|4
+|2,500
+|class="GoldPass bCost"|5,500,000
+|class="GoldPass bTime"|10h
+|class="GoldPass EXP"|189
+|14
+|-
+|5
+|2,700
+|class="GoldPass bCost"|6,500,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|15
+|-
+|6
+|3,150
+|class="GoldPass bCost"|7,500,000
+|class="GoldPass bTime"|18h
+|class="GoldPass EXP"|254
+|16
+|-
+|7
+|3,900
+|class="GoldPass bCost"|8,500,000
+|class="GoldPass bTime"|1d 19h
+|class="GoldPass EXP"|393
+|17
+|-
+|8
+|4,500
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|3d 8h
+|class="GoldPass EXP"|536
+|18
+|-
+|9
+|5,200
+|class="GoldPass bCost"|11,500,000
+|class="GoldPass bTime"|5d 18h
+|class="GoldPass EXP"|704
+|18
+|-
+|10
+|6,000
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime"|9d 12h
+|class="GoldPass EXP"|905
+|18
+|}
+
+===Module 2: Damage===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Damage per Second per Flame<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+!Town Hall Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|80
+|class="ModifierStat DPH Building"|40
+|N/A
+|N/A
+|N/A
+|11
+|-
+|2
+|class="ModifierStat DPS Building"|100
+|class="ModifierStat DPH Building"|50
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|8h
+|class="GoldPass EXP"|169
+|12
+|-
+|3
+|class="ModifierStat DPS Building"|120
+|class="ModifierStat DPH Building"|60
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|10h
+|class="GoldPass EXP"|189
+|13
+|-
+|4
+|class="ModifierStat DPS Building"|150
+|class="ModifierStat DPH Building"|75
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime"|11h
+|class="GoldPass EXP"|198
+|14
+|-
+|5
+|class="ModifierStat DPS Building"|160
+|class="ModifierStat DPH Building"|80
+|class="GoldPass bCost"|7,500,000
+|class="GoldPass bTime"|13h
+|class="GoldPass EXP"|216
+|15
+|-
+|6
+|class="ModifierStat DPS Building"|180
+|class="ModifierStat DPH Building"|90
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime"|19h
+|class="GoldPass EXP"|261
+|16
+|-
+|7
+|class="ModifierStat DPS Building"|190
+|class="ModifierStat DPH Building"|95
+|class="GoldPass bCost"|10,500,000
+|class="GoldPass bTime"|1d 22h
+|class="GoldPass EXP"|406
+|17
+|-
+|8
+|class="ModifierStat DPS Building"|210
+|class="ModifierStat DPH Building"|105
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|3d 11h
+|class="GoldPass EXP"|546
+|18
+|-
+|9
+|class="ModifierStat DPS Building"|230
+|class="ModifierStat DPH Building"|115
+|class="GoldPass bCost"|13,500,000
+|class="GoldPass bTime"|6d 4h
+|class="GoldPass EXP"|729
+|18
+|-
+|10
+|class="ModifierStat DPS Building"|250
+|class="ModifierStat DPH Building"|125
+|class="GoldPass bCost"|15,000,000
+|class="GoldPass bTime"|10d
+|class="GoldPass EXP"|929
+|18
+|}
+
+===Module 3: Seconds Active===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!rowspan="2"|Level<br/>{{Res|Level}}
+!colspan="3"|Total Seconds Active<br/>{{Res|Time}}
+!rowspan="2"|[[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!rowspan="2"|Build Time<br/>{{Res|Time}}
+!rowspan="2"|[[Experience]] Gained<br/>{{Res|XP}}
+!rowspan="2"|Town Hall Level Required<br/>{{Res|Town Hall}}
+|-
+!Base Form
+!First Decay
+!Second Decay
+|-
+|1
+|59s
+|60s - 94s
+|95s+
+|N/A
+|N/A
+|N/A
+|11
+|-
+|2
+|61s
+|62s - 98s
+|99s+
+|class="GoldPass bCost"|30,000
+|class="GoldPass bTime"|4h
+|class="GoldPass EXP"|120
+|12
+|-
+|3
+|63s
+|64s - 102s
+|103s+
+|class="GoldPass bCost"|40,000
+|class="GoldPass bTime"|6h
+|class="GoldPass EXP"|146
+|13
+|-
+|4
+|65s
+|66s - 106s
+|107s+
+|class="GoldPass bCost"|50,000
+|class="GoldPass bTime"|8h
+|class="GoldPass EXP"|169
+|14
+|-
+|5
+|67s
+|68s - 110s
+|111s+
+|class="GoldPass bCost"|60,000
+|class="GoldPass bTime"|10h
+|class="GoldPass EXP"|189
+|15
+|-
+|6
+|69s
+|70s - 114s
+|115s+
+|class="GoldPass bCost"|70,000
+|class="GoldPass bTime"|16h
+|class="GoldPass EXP"|240
+|16
+|-
+|7
+|71s
+|72s - 118s
+|119s+
+|class="GoldPass bCost"|80,000
+|class="GoldPass bTime"|1d 16h
+|class="GoldPass EXP"|379
+|17
+|-
+|8
+|73s
+|74s - 122s
+|123s+
+|class="GoldPass bCost"|90,000
+|class="GoldPass bTime"|3d 2h
+|class="GoldPass EXP"|516
+|18
+|-
+|9
+|75s
+|76s - 126s
+|127s+
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime"|5d 6h
+|class="GoldPass EXP"|673
+|18
+|-
+|10
+|77s
+|78s - 131s
+|132s+
+|class="GoldPass bCost"|110,000
+|class="GoldPass bTime"|9d
+|class="GoldPass EXP"|881
+|18
+|}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Crafter's Nightmare'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Crafted Defenses in Multiplayer Battles||100||25
+|-
+|Destroy 200 Crafted Defenses in Multiplayer Battles||800||100
+|-
+|Destroy 2,000 Crafted Defenses in Multiplayer Battles||5,000||200
+|-
+!colspan="3" style="text-align: center; width: 650px" |<big>'''Crafting Connoisseur'''</big>
+|-
+|Upgrade Crafted Defenses 5 times||10||10
+|-
+|Upgrade Crafted Defenses 25 times||100||30
+|-
+|Upgrade Crafted Defenses 75 times||1,000||50
+|}
+
+{{IconDescriptions|CraftableDefense=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description
+|-
+!June 16, 2026!!Update
+|Added to the game files.
+|-
+!July 30, 2026!!Sneak Peek
+|Announced the Hot Candle, with 30 levels. 
+[[File:Hot Candle1-1.png|70px|link=]][[File:Hot Candle2-1.png|70px|link=]][[File:Hot Candle3-1.png|70px|link=]][[File:Hot Candle4-1.png|70px|link=]]
+|-
+!July 31, 2026!!Maintenance Break
+|Fixed a bug where the Hot Candle decay timer counting scouting attack time, by setting the decay timer to start when a building is destroyed.
+|-
+!August 1, 2026!!Crafting Phase 4 begins
+|Added the Hot Candle.
+|-
+!August 31, 2026!!Update
+|Changed the decay timer to start when a troop is deployed (the original intended behavior).
+|-
+!December 31, 2026!!Crafting Phase 4 ends
+|Removed the Hot Candle.
+|}
+
+==Gallery==
+===Videos===
+<div class="flexbox-display bold-text">
+<div>[[File:HotCandleAttk1.mp4]]<div>Hot Candle attacking (base form)</div></div>
+<div>[[File:HotCandleAttk2.mp4]]<div>Ditto, but first decay</div></div>
+<div>[[File:HotCandleAttk3.mp4]]<div>Ditto, but second decay</div></div>
+</div>
+
+==Audio==
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Hot Candle shoot1.ogg]][[File:Hot Candle shoot2.ogg]][[File:Hot Candle shoot3.ogg]]
+|Hot Candle flickers
+|When the Hot Candle attacks
+|-
+|[[File:Hot Candle hit1.ogg]][[File:Hot Candle hit2.ogg]][[File:Hot Candle hit3.ogg]]
+|Flame hits target
+|When the Hot Candle successfully hits a target
+|}
+
+==Trivia==
+*The Hot Candle is referred to as "Inferno Candle" in the game files.
+
+{{BuildingsMenuHV}}
+{{Temporary}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Crafted Buildings]]

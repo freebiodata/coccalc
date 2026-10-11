@@ -1,0 +1,16 @@
+<div class="Tabview hidden">
+<tabber>
+Home Village={{:Gold Storage/Home Village}}
+|-|
+Builder Base={{:Gold Storage/Builder Base}}
+</tabber>
+</div>
+<div style="display:none;">
+The '''Gold Storage''' is a resource building that appears in the Home Village and Builder Base.
+
+For their appearances in each village see the following pages:
+*[[Gold Storage/Home Village]]
+*[[Gold Storage/Builder Base]]
+</div>
+[[Category:Disambiguation Pages]]
+[[de:Goldlager]]

@@ -1,0 +1,326 @@
+__NOEDITSECTION__
+
+{{Protection}}
+{{For|the Builder Base counterpart|Spring Trap/Builder Base}}
+
+[[File:Spring Trap info.png|240px|center|link=]]
+
+<center>'''''"This bouncy little number tosses an unwanted [[Troops|visitor]] right off your property!"'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Spring Trap1.png|90px|link=]]<div>Level 1-2</div></div>
+<div>[[File:Spring Trap3.png|90px|link=]]<div>Level 3-4</div></div>
+<div>[[File:Spring Trap5.png|90px|link=]]<div>Level 5-6</div></div>
+<div>[[File:Spring Trap7.png|90px|link=]]<div>Level 7-8</div></div>
+<div>[[File:Spring Trap9.png|90px|link=]]<div>Level 9-10</div></div>
+<div>[[File:Spring Trap11.png|90px|link=]]<div>Level 11-12</div></div>
+<div>[[File:Spring Trap13.png|90px|link=]]<div>Level 13</div></div>
+</div>
+
+==Summary==
+*​The Spring Trap is a single-targeting trap that bounces enemy ground units off the battlefield, effectively instantly destroying them if they are less or equal to its housing space capacity. If a unit that exceeds the Spring Trap's spring capacity triggers it, the unit cannot be flung off the map normally, instead it launches the unit upwards, stun them for a short while, and (if level 2 or higher) deal heavy damage.
+**If troops with bigger housing space take fatal damage, they are still launched off of the map. Heroes do not get sprung off the map if defeated in this way.
+**Its damage is halved against [[Heroes]], [[Pets]], or [[Siege Machines]], and Siege Machines cannot be launched in the air.
+**It prioritizes the unit with the highest housing space if there are more than two units that are in its trigger radius.
+*Like other traps, the Spring Trap requires re-arming after it has been activated. Doing so is free and occurs automatically once the player logs into the game.
+*The Spring Trap has a short activation delay. Units with a movement speed of 32 or above, such as the [[Goblin]], can move across it unaffected unless they stop on top of the trap. Units that are slightly slower, such as an [[Archer]], can also avoid the trap by simply passing over a corner of the Spring Trap's tile.
+
+==Strategies==
+===Defensive Strategies===
+*If put in a strategical way, Spring Traps can ruin a raid by damaging some heavy-unit troops, such as [[Root Rider]]s, [[P.E.K.K.A]]s, [[Golem]]s, and [[Electro Titan]]s, significantly reducing their tanking potential. 
+*Spring Traps can be placed near or around the [[Town Hall]], so you can get rid of a high-damage [[Troops|Troop]] closing in.
+*A sound strategy for Spring Traps is to place them in an intentionally-designed {{H|Walls|Wall}} gap. As troops will generally tend to go through the gap rather than fight their way through the Wall, they will be directed right over the Spring Trap and be bounced to their death. Remember, Spring Traps are one-time-use and until being re-armed it will leave an undefended gap in the Wall after an attacker has triggered it.
+**A modified version of this strategy is to place Walls inside your base so that the enemy [[Troops]] have to walk over the Spring Trap to attack nearby buildings.
+*You can also place them in front of commonly-targeted Walls to stop [[Wall Breaker]]s from breaking them, forcing the attacker to deploy a second wave if they have one or be disadvantaged in the attack. However, this may fail to deter [[Super Wall Breaker]]s, as the Spring Trap will instead instantly trigger its Mega Bomb ability.
+*You can place them in between {{H|Defensive Buildings}} to take out a defense-targeting troop with high hitpoints.
+*Some Spring Trap capacity upgrades are better than others, even though each upgrade adds the same amount to its maximum capacity, up to level 5. Upgrading the Spring Trap to level 4, for example, enables the Spring Trap to launch an [[Ice Golem]], [[Thrower]], or a [[Druid]], more than at the previous level. This contrasts with upgrading it to level 2, which does not majorly change its interactions with ground units (only really springing off a [[Super Archer]] or similar troops).
+*Troops with abilities that activate on their destruction can still activate these abilities when getting bounced off a Spring Trap. For example, if an Ice Golem is launched, he still freezes nearby structures and enemy troops since he was technically defeated on the spot.
+*The Spring Trap can be used to stun Heroes and slightly damage them, especially the [[Royal Champion]], since the short stun time will force the attacker to use more spells than normal in a Champion Charge, thus reducing the value they can get.
+
+===Offensive Strategies===
+*If you suspect that a certain location (such as a gap in the {{H|Wall}}) has a Spring Trap, try to trigger the trap by using a single expendable troop like a [[Barbarian]] or a Goblin, as high housing-space units such as ground units like [[P.E.K.K.A]]s, [[Root Rider]]s, [[Electro Titan]]s, [[Golem]]s, [[Heroes]], [[Siege Machines]], or [[Pets]] will take massive amounts of damage from it, although it is limited to one. You can also use a small unit to protect a larger unit with low hitpoints from being flung off the map.
+
+==Upgrade Differences==
+*When first constructed, the Spring Trap consists of a square wooden plank and a brass spring, with one end of the spring attached to a wooden disc (which is fixed to the ground by nails) and the other fixed to the plank, held by latches which hold the trap underground during a defense. When triggered, the Spring Trap unlatches from the ground, flinging a nearby ground unit instantly and out of the map, so long as its housing space is equal to or less than its maximum spring capacity. The large spring can also launch the unit high up in the air if the targeted unit exceeds the housing space capacity and can even fling them off the map if its hitpoints are low enough.
+**At level 3, the Spring Trap's spring becomes a lot thicker, as well as the wood.
+**At level 5, the Spring Trap now has encased metal reinforcements on the edges.
+**At level 7, the Spring Trip's spring is now much thicker than before, and the metal reinforcements on the edges become shinier and sturdier and gain rivets.
+**At level 9, the corners of the metal square gain some gold plating.
+**At level 11, the metal square casing fully becomes gold.
+**At level 13, the wooden plank is now replaced with a metal one. The corners of the square casing also turn metal and its rivets are now gold.
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable|TH4=2|TH6=4|TH8=6|TH12=8|TH13=9}}
+{{BuildingSize|1x1}}
+{|class="wikitable row-highlight" style="text-align: center; width: 100%;" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Spring Capacity<br/>{{Res|Spring}}
+!Damage<br/>{{Res|Damage}}
+![[Resource Buildings#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|10
+|0
+|class="GoldPass bCost"|2,000
+|style="white-space: nowrap;"|N/A
+|N/A
+|4
+|-
+|2
+|12
+|250
+|class="GoldPass bCost"|130,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1h
+|class="GoldPass EXP"|60
+|7
+|-
+|3
+|14
+|300
+|class="GoldPass bCost"|240,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2h
+|class="GoldPass EXP"|84
+|8
+|-
+|4
+|16
+|350
+|class="GoldPass bCost"|350,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3h
+|class="GoldPass EXP"|103
+|9
+|-
+|5
+|18
+|400
+|class="GoldPass bCost"|800,000
+|class="GoldPass bTime" style="white-space: nowrap;"|4h
+|class="GoldPass EXP"|120
+|10
+|-
+|6
+|18
+|500
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|6h
+|class="GoldPass EXP"|146
+|11
+|-
+|7
+|18
+|600
+|class="GoldPass bCost"|1,700,000
+|class="GoldPass bTime" style="white-space: nowrap;"|8h
+|class="GoldPass EXP"|169
+|12
+|-
+|8
+|18
+|750
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|12h
+|class="GoldPass EXP"|207
+|13
+|-
+|9
+|18
+|900
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|18h
+|class="GoldPass EXP"|254
+|14
+|-
+|10
+|18
+|1,050
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1d
+|class="GoldPass EXP"|293
+|15
+|-
+|11
+|18
+|1,200
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2d
+|class="GoldPass EXP"|415
+|16
+|-
+|12
+|18
+|1,300
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3d
+|class="GoldPass EXP"|509
+|17
+|-
+|13
+|18
+|1,400
+|class="GoldPass bCost"|16,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|11d
+|class="GoldPass EXP"|974
+|18
+|}
+{| class="wikitable" style="text-align: center; width: 100%;" border="0" cellpadding="1" cellspacing="1"
+!Trigger Radius {{Res|Radius}}
+!Damage Type {{Res|Damage Type}}
+!Unit Type Targeted {{Res|Target}}
+!Favorite Target {{Res|Target}}
+!Special Ability {{Res|Defense Ability}}
+|-
+|1 tile
+|Single Target
+|Ground
+|Highest housing space troop
+|<abbr title="Pushes and damages bigger Troops that aren't ejected. Heroes, Pets and Siege Machines take half damage.">Powerful Push</abbr>
+|}
+{|cellpadding="1" cellspacing="1" style="width: 100%;text-align:center;"
+|-
+|colspan="8"|<big>'''Unarmed Spring Traps'''</big>
+|-
+|[[File:Spring Trap1 unarmed.png|link=]]
+|[[File:Spring Trap3 unarmed.png|link=]]
+|[[File:Spring Trap7 unarmed.png|link=]]
+|-
+|style="text-align: center;"|Level 1-2
+|style="text-align: center;"|Level 3-6
+|style="text-align: center;"|Level 7-13
+|}
+</div>
+</center>
+{{IconDescriptions|UnitName=Spring Trap|Trap=Yes|Upgradable=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+![[Version History/2012#World Wide Release - 2nd August 2012|August 2, 2012]]
+|Introduction of the Spring Trap, with no levels and four of them available. [[File:Spring Trap1.png|45px|link=]]
+|-
+![[Version History/2012#Version 2.21 - 30th August 2012|August 30, 2012]]
+|
+*Spring Traps no longer affect [[P.E.K.K.A]]s.
+*Spring Traps and other traps are now visible when visiting own clan members.
+|-
+![[Version History/2012#Version 2.73 - 15th October 2012|October 15, 2012]]
+|Spring Traps and other traps are no longer visible during a defense replay.
+|-
+![[Version History/2013#Version 5.6.4 - 6th November 2013 "Trap Upgrades"|November 6, 2013]]
+|
+*Spring Traps, like all other traps, now remain in the village after being triggered, requiring Gold to re-arm after use.
+*Changed its info image to a custom art. Previously, its info image was an in-game sprite.
+|-
+![[Version History/2014#Version 6.186.1 - 3rd July 2014 "Hero Changes"|July 3, 2014]]
+|Spring Traps, like all other traps, can now be re-armed by tapping on the [[Town Hall]].
+|-
+![[Version History/2015#Version 8.67.3 - 10th December 2015 - "Town Hall 11"|December 10, 2015]]
+|Reduced re-arm cost from 2,000 to 500. {{Res|Gold}}
+|-
+![[Version History/2016#Version 8.212.1 - 21st March "The Bowler"|March 21, 2016]]
+|Spring Traps can no longer be triggered by [[Witch/Skeleton|Skeletons]] spawned by [[Witch]]es.
+|-
+![[Version History/2016#Version 8.332.9 - 24th May 2016 "Friendly Challenge"|May 24, 2016]]
+|Added levels 2 to 5 Spring Trap. [[File:Spring Trap1.png|45px|link=]][[File:Spring Trap3.png|45px|link=]][[File:Spring Trap5.png|45px|link=]]
+|-
+![[Version History/2018#Version 10.322.4 (?) - 11th June 2018 "Town Hall 12"|June 11, 2018]]
+|Added the seventh and eighth Spring Traps available at Town Hall 12.
+|-
+![[Version History/2019#Version 11.??? - 2nd April 2019|April 2, 2019]]
+|Removed re-arm cost, instead re-arming upon logging in to the game. {{Res|Gold}}
+|-
+![[Version History/2019#Version 13.0.1 - 9th December 2019|December 9, 2019]]
+|Reduced spring capacity at all levels:
+*Level 1: 15 -> 10 {{Res|Spring}}
+*Level 2: 16 -> 12 {{Res|Spring}}
+*Level 3: 17 -> 14 {{Res|Spring}}
+*Level 4: 18 -> 16 {{Res|Spring}}
+*Level 5: 19 -> 18 {{Res|Spring}}
+|-
+![[Version History/2020#Balance Changes - 16th January 2020|January 16, 2020]]
+|Spring Traps can no longer be triggered by [[Yetimite]]s.
+|-
+![[Version History/2020#Balance Changes - 28th February 2020|February 28, 2020]]
+|Increased effect radius from 0.7 tiles to 0.8 tiles. {{Res|Radius}}
+|-
+![[Version History/2020#Version 13.? - 30th March 2020|March 30, 2020]]
+|Reduced upgrade costs at levels 3 to 5:
+*Level 3: 1,000,000 -> 750,000 {{Res|Gold}}
+*Level 4: 1,500,000 -> 1,000,000 {{Res|Gold}}
+*Level 5: 2,000,000 -> 1,500,000 {{Res|Gold}}
+|-
+![[Version History/2020#Summer Update - Version 13.? - 22nd June 2020|June 22, 2020]]
+|Added the ninth Spring Trap available at Town Hall 13.
+|-
+![[Version History/2021#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+|
+*Reduced upgrade costs at levels 2 to 4:
+**Level 2: 500,000 -> 300,000 {{Res|Gold}}
+**Level 3: 750,000 -> 500,000 {{Res|Gold}}
+**Level 4: 1,000,000 -> 900,000 {{Res|Gold}}
+*Reduced upgrade times at levels 2 to 4:
+**Level 2: 16h -> 12h {{Res|Time}}
+**Level 3: 1d -> 18h {{Res|Time}}
+**Level 4: 2d -> 1d 12h {{Res|Time}}
+|-
+![[Version History/2021#December 9th 2021 Update|December 9, 2021]]
+|Reduced upgrade costs at levels 4 and 5. {{Res|Gold}}
+|-
+![[Version History/2025#Get Ready for Ranked Update! - Oct 6, 2025|October 6, 2025]]
+|
+*Added levels 6 to 12 Spring Trap. [[File:Spring Trap7.png|45px|link=]][[File:Spring Trap9.png|45px|link=]][[File:Spring Trap11.png|45px|link=]]
+*Reworked the Spring Trap, it can only spring away one troop with the highest housing space in the area up to the capacity instead of multiple troops adding up to its capacity. If a troop's Housing Space exceeds the trap's capacity, it gets thrown up, stunned, and takes high damage, and if it has health lower than the damage dealt, it is still ejected.
+|-
+![[Version History/2025#TOWN HALL 18 Crash Lands! - Update - Nov 17, 2025|November 17, 2025]]
+|Added the level 13 Spring Trap. [[File:Spring Trap13.png|45px|link=]]
+|}
+
+==Gallery==
+===Short Animations===
+<div class="flexbox-display normal-text">
+<div>[[File:Spring Trap InAction.mp4|240px|link=]]</div>
+</div>
+{|style="text-align:center; margin:auto; width: 500px;"
+|-
+|[[File:SpringTrapHero.gif|120px|link=]]
+|[[File:SpiritFoxFling.gif|120px|link=]]
+|-
+|[[Barbarian King]] defeated by a Spring Trap
+|[[Spirit Fox]] gets flung off the map in a weird way
+|}
+
+==Trivia==
+*Despite the Spring Trap dealing damage to a [[Troops|Troop]], troops that bounced away from it will neither make upon-death skulls nor tombstones.
+**Under the Eternal Tome of the [[Grand Warden]], smaller troops are not immune to Spring Traps, and in case of high-hitpoint units, they will only get stunned and will not be damaged.
+*If you look carefully, the Spring Trap's range actually extends outside its sprite just enough to see the range circle.
+*When the Arabic language was first introduced into the game, the trap was translated as "Fakh Al-Rabi", where "Rabi" refers to one of the four seasons (spring). This translation was later corrected to "Fakh Al-Zanbarak", which refers to a "spring-loaded trap", actually describing the mechanism.
+*If a unit with more housing space has a low enough health, they will get flung from the map, even ground troops with the most housing space will be tossed. This includes Pets, but because of their 3D model, they spiral in a weird way (see Gallery).
+**For Heroes, they will stay in place where they were defeated by a Spring Trap.
+**This effect even applies to Totems from [[Totem Spell]] as they are technically a troop. If one is placed over a Spring Trap and takes enough damage without other troops present, it will be sprung away.
+
+===Comparisons===
+*The Spring Trap, [[Bomb]], and [[Giant Bomb]] are the oldest traps in the game.
+*The Spring Trap and [[Skeleton Trap]] are the only traps to appear in a [[Loading Screens|loading screen]].
+**The Spring Trap is also the first trap to ever appear in a loading screen, doing so in the 2012 loading screen.
+*Before the October 6, 2025 update which made it gain an additional 7 levels, the Spring Trap and Skeleton Trap were the only Home Village traps to be maxed out early in [[Town Hall]] 10. Later on, the Skeleton Trap also gets a new level at Town Hall 18 on November 17, 2025.
+*Excluding {{H|Wall}}s, nine Spring Traps can be placed down in the Home Village, which is the most of one structure/trap allowed.
+*The Spring Trap is currently the only mechanism in the game that can fully destroy a [[Druid]] and prevent him from transforming into a [[Druid/Bear|Bear]].
+{{BuildingsMenuHV}}
+
+[[ru:Ловушка-пружина/Родная деревня]]
+[[de:Sprungfalle]]
+[[es:Trampa_de_Salto]]
+[[fr:Piège à ressort]]
+[[nl:Veerval]]
+[[pl:Spring Trap]]
+[[zh:隐形弹簧]]
+<noinclude>
+[[Category:Traps]]
+[[Category:Home Village]]
+</noinclude>

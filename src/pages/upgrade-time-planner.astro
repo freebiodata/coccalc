@@ -1,0 +1,151 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FAQ from '../components/FAQ.astro';
+import Icon from '../components/Icon.astro';
+import RelatedTools from '../components/RelatedTools.astro';
+import TrustBlock from '../components/TrustBlock.astro';
+import { SITE, TOOLS } from '@data/meta';
+import { DATA_SNAPSHOT_DATE, MAX_TH } from '@data/game';
+import { timeToMax } from '@lib/calc';
+import { fmtDuration } from '@lib/format';
+
+const title = 'Clash of Clans Upgrade Time Planner | CoCPlanner';
+const description =
+  'See how long your upgrades take with 2 to 6 builders and the exact date you will be maxed. Free, no sign up, instant results.';
+
+// Build-time FAQ numbers (5 builders).
+const t9 = timeToMax(9, { includeWalls: true, includeLab: true, includeHeroes: true, includePets: true, builders: 5 });
+const t11 = timeToMax(11, { includeWalls: true, includeLab: true, includeHeroes: true, includePets: true, builders: 5 });
+const t13 = timeToMax(13, { includeWalls: true, includeLab: true, includeHeroes: true, includePets: true, builders: 5 });
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    '@id': `${SITE.url}/upgrade-time-planner/#app`,
+    name: 'Clash of Clans Upgrade Time Planner',
+    url: `${SITE.url}/upgrade-time-planner/`,
+    description: 'Plan Clash of Clans upgrades with 2 to 6 builders and see the date your base will be maxed.',
+    applicationCategory: 'GameApplication',
+    operatingSystem: 'Any',
+    browserRequirements: 'Requires JavaScript',
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    publisher: { '@id': `${SITE.url}/#organization` },
+  },
+];
+
+const faqItems = [
+  {
+    q: 'How long does TH9 take with 5 builders?',
+    a: `From a fully maxed TH8 base to a fully maxed TH${MAX_TH} base, a TH9 player with 5 builders needs about ${fmtDuration(t9.totalSec)} on the critical path (${t9.criticalPath === 'builders' ? 'builders' : t9.criticalPath === 'lab' ? 'lab research' : t9.criticalPath === 'heroes' ? 'hero levels' : 'pets'}). Only the TH9 portion of that applies if you keep moving up as soon as your key upgrades finish.`,
+  },
+  {
+    q: 'Is more builders always better?',
+    a: 'Yes for the builder track: going from 4 to 5 builders cuts builder time by about 20 percent, because the schedule is close to the sum-of-work divided by builders. But past a point your bottleneck may not be builders at all: hero levels and laboratory research never occupy a builder, so at high Town Halls the lab or heroes often decide your finish date, and a fifth builder changes nothing there.',
+  },
+  {
+    q: 'How does the planner handle heroes and research?',
+    a: 'Heroes, pets and the laboratory never occupy a builder, so the planner runs them as parallel tracks: one track per hero, one per pet and one shared lab track. Your finish date is the longest of all tracks, which is why the result can be longer than a naive "total time divided by builders" number.',
+  },
+  {
+    q: 'What is the greedy longest-first schedule?',
+    a: 'Sort every upgrade by duration and always start the longest available upgrade on the first free builder. This "longest processing time first" rule is within about 4/3 of the perfect schedule, and it matches how experienced players actually play: start the 14 day upgrades before the 4 day ones.',
+  },
+  {
+    q: 'Do you count builder boosts, potions or Gold Pass?',
+    a: `No. All times are raw wiki values (snapshot ${DATA_SNAPSHOT_DATE}). Builder boosts, research potions, books and Gold Pass perks shorten real times, so treat the planner output as the no-boost worst case.`,
+  },
+];
+---
+<BaseLayout title={title} description={description} canonical="/upgrade-time-planner/" activeNav="/upgrade-time-planner/" jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Upgrade Time Planner' }]} />
+
+  <div class="page-hero">
+    <h1>Clash of Clans Upgrade Time Planner</h1>
+    <p class="value-line">
+      Choose your Town Hall level and builder count. The planner schedules every remaining upgrade in
+      Town Hall order, runs heroes and the lab in parallel, and tells you the date you will be maxed.
+    </p>
+    <div class="trust-line">
+      <span class="pill"><Icon name="check-circle" size={14} /> Free, no sign up</span>
+      <span class="pill blue"><Icon name="database" size={14} /> Wiki data, snapshot {DATA_SNAPSHOT_DATE}</span>
+      <span class="pill gold"><Icon name="wrench" size={14} /> Builder-aware scheduling</span>
+    </div>
+  </div>
+
+  <section class="card card-pop" aria-label="Upgrade time planner">
+    <div data-time-planner>
+      <div class="two-col">
+        <div class="field">
+          <label for="tp-th">Your Town Hall level</label>
+          <select id="tp-th" data-tp-th></select>
+          <p class="hint">Assumes a maxed base of the level below it.</p>
+        </div>
+        <div class="field">
+          <label for="tp-builders">Builders</label>
+          <select id="tp-builders" data-tp-builders></select>
+          <p class="hint">Most players run 5 builders.</p>
+        </div>
+      </div>
+      <fieldset style="border:0;padding:0;margin:0 0 14px">
+        <legend class="small" style="font-weight:700;margin-bottom:6px">Include in the plan</legend>
+        <div style="display:flex;gap:18px;flex-wrap:wrap">
+          <label class="small" style="display:flex;gap:6px;align-items:center"><input type="checkbox" data-tp-heroes checked style="min-height:0" /> Hero levels</label>
+          <label class="small" style="display:flex;gap:6px;align-items:center"><input type="checkbox" data-tp-lab checked style="min-height:0" /> Lab research</label>
+          <label class="small" style="display:flex;gap:6px;align-items:center"><input type="checkbox" data-tp-pets checked style="min-height:0" /> Pets</label>
+        </div>
+      </fieldset>
+      <div data-tp-result aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>How to use the time planner</h2>
+    <ol class="step-list">
+      <li><strong>Set your Town Hall.</strong> The plan assumes you just arrived at that TH with everything maxed one level below, which is the standard way to measure "how long is this TH".</li>
+      <li><strong>Set your builders.</strong> From 2 to 6. The schedule uses a greedy longest-first rule, the same order veteran players use.</li>
+      <li><strong>Read your finish date.</strong> The headline date is the critical path: the longest of the builder, hero, pet and lab tracks.</li>
+      <li><strong>Work the table.</strong> Each row is one Town Hall push with its builder time, resources and the calendar date it lands on. The "start these first" list shows the longest upgrades of your current TH so you can begin them tonight.</li>
+    </ol>
+  </section>
+
+  <section class="section">
+    <h2>How the schedule is calculated</h2>
+    <div class="card">
+      <p>
+        Build times come from the <a href="https://clashofclans.fandom.com/wiki/Clash_of_Clans_Wiki" rel="noopener">Clash of Clans Wiki</a>
+        (snapshot {DATA_SNAPSHOT_DATE}). For each Town Hall segment the planner builds the full job list: every copy of every
+        building and trap, plus the levels each copy still needs. Jobs are sorted longest first and handed to the first free
+        builder (an "LPT" list schedule, within 4/3 of perfect). Segments run back to back in Town Hall order.
+      </p>
+      <h3>What runs in parallel</h3>
+      <ul>
+        <li><strong>Builders:</strong> buildings and traps only. Heroes, pets, research and walls never take a builder.</li>
+        <li><strong>Heroes:</strong> one track per hero; each hero upgrades one level at a time.</li>
+        <li><strong>Pets:</strong> one track per pet.</li>
+        <li><strong>Laboratory:</strong> one research at a time, for the whole game.</li>
+        <li><strong>Walls:</strong> instant, no time at all. They only cost resources.</li>
+      </ul>
+      <h3>Limitations</h3>
+      <ul>
+        <li>No boosts: builder boosts, research potions, books of building, Gold Pass or event reductions are not applied.</li>
+        <li>Builders are assumed to never idle and to work in strict Town Hall order. If you jump Town Hall early, your real date can beat the projection.</li>
+        <li>Home village only.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Frequently asked questions</h2>
+    <FAQ items={faqItems} />
+  </section>
+
+  <RelatedTools slugs={['/time-to-max-calculator/', '/upgrade-cost-calculator/', '/wall-calculator/']} tools={TOOLS} />
+
+  <TrustBlock toolName="Upgrade Time Planner" />
+</BaseLayout>
+
+<script>
+  import '../scripts/time-planner';
+</script>

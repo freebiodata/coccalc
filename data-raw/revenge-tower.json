@@ -1,0 +1,44 @@
+{
+ "id": "revenge-tower",
+ "name": "Revenge Tower",
+ "category": "defense",
+ "resource": "dark",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 430000,
+   "time": "13d 5s",
+   "th": 18
+  },
+  {
+   "level": 2,
+   "cost": 460000,
+   "time": "14d",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Revenge_Tower",
+ "lastEdited": "2026-07-18T19:06:06Z",
+ "ok": true
+}

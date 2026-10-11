@@ -1,0 +1,98 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { DATA_SNAPSHOT_DATE, MAX_TH, BUILDINGS, HEROES, PETS, RESEARCH, WALL_LEVELS } from '@data/game';
+
+const title = 'Data and Methods | CoCPlanner';
+const description = 'How CoCPlanner sources, compiles and checks its Clash of Clans upgrade data, and every formula the calculators use.';
+
+const buildingCount = BUILDINGS.length;
+const researchCount = RESEARCH.length;
+const wallCount = WALL_LEVELS.length;
+---
+<BaseLayout title={title} description={description} canonical="/methodology/" activeNav="">
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Data and Methods' }]} />
+
+  <div class="page-hero">
+    <h1>Data and methods</h1>
+    <p class="value-line">
+      Every number on CoCPlanner comes from a source you can check, every formula is written down, and every
+      assumption is on the page next to the result. This page is the fine print behind that promise.
+    </p>
+  </div>
+
+  <section class="section card">
+    <h2><Icon name="database" size={20} /> Data sources</h2>
+    <p>
+      All upgrade costs, build times, research times, Town Hall requirements and building counts are compiled from the
+      <a href="https://clashofclans.fandom.com/wiki/Clash_of_Clans_Wiki" rel="noopener">Clash of Clans Wiki</a> on Fandom,
+      snapshot taken <strong>{DATA_SNAPSHOT_DATE}</strong>. The dataset currently covers:
+    </p>
+    <ul>
+      <li>{buildingCount} home village buildings and traps (defenses, army buildings, resource buildings, town hall) with per-level cost, time and TH requirement, plus how many of each exist per Town Hall level;</li>
+      <li>{wallCount} wall levels with per-segment costs, resource options and TH requirements, plus wall counts per TH;</li>
+      <li>{HEROES.length} heroes with every upgrade level (cost, time, TH requirement);</li>
+      <li>{PETS.length} pets with their upgrade levels;</li>
+      <li>{researchCount} troops and spells with every laboratory research level. Research levels are gated by laboratory level on the wiki; we map laboratory level to Town Hall using the laboratory building table (lab level 1 at TH3 through lab level 16 at TH{MAX_TH}).</li>
+    </ul>
+    <p class="small muted">
+      Supercell can change values in any update. When a reader reports a mismatch we recheck the wiki and record the fix
+      in the <a href="/changelog/">changelog</a>.
+    </p>
+  </section>
+
+  <section class="section card">
+    <h2><Icon name="alert" size={20} /> Known gaps and flags</h2>
+    <ul>
+      <li><strong>Home village only.</strong> Builder Base and Clan Capital upgrades are not included.</li>
+      <li><strong>Snapshot, not live.</strong> Values reflect the wiki on {DATA_SNAPSHOT_DATE}. Patch notes and new Town Hall drops can lag in the wiki by days.</li>
+      <li><strong>Edge quirks kept as-is.</strong> For example, the wiki lists Barracks levels 2 and 3 as TH1 with a footnote that they practically require TH2; we record TH1 and note the quirk.</li>
+      <li><strong>Hero equipment.</strong> Blacksmith equipment upgrades use ores, not gold/elixir/dark elixir, and are excluded from totals (the Blacksmith building itself is included).</li>
+      <li><strong>Builder Base-linked extras</strong> (extra builder slots, builder apprentices) are not modeled; the planner caps builders at 6.</li>
+    </ul>
+  </section>
+
+  <section class="section card">
+    <h2><Icon name="calculator" size={20} /> The math, exactly</h2>
+    <h3>Upgrade cost calculator</h3>
+    <p>
+      For a chosen item, the total is the plain sum of the wiki cost values for every level between your current and
+      target level. Nothing is averaged, estimated or interpolated.
+    </p>
+    <h3>Cost to max a Town Hall segment</h3>
+    <p>
+      For Town Hall X, each building contributes: existing copies (count at TH X minus new slots) pay for the levels
+      newly available at TH X; newly unlocked slots pay for their full chain from level 1. Walls contribute the
+      per-level cost times the wall count available at TH X. Heroes, pets and research contribute the levels their
+      TH gating unlocks. "From TH X" totals sum segments X through {MAX_TH}.
+    </p>
+    <h3>Builder scheduling</h3>
+    <p>
+      Inside each Town Hall segment, upgrade jobs are sorted longest first and each job is assigned to the builder who
+      becomes free earliest (an LPT list schedule, guaranteed within 4/3 of the optimal makespan). Segments run in
+      Town Hall order. Heroes run as one sequential track per hero, pets as one track per pet, and the laboratory as a
+      single shared track, all in parallel with builders. The projected finish date is the longest of these tracks.
+    </p>
+    <h3>Date projection</h3>
+    <p>
+      Finish dates are "now" plus the computed seconds. Calendar reality (builders sleeping, loot droughts, vacations)
+      is on you; the assumptions are listed next to every result.
+    </p>
+    <h3>What is deliberately not modeled</h3>
+    <p>
+      Gold Pass and event discounts, builder boosts, research potions, books, wall rings, and free-to-play gem
+      spending. All results are the raw, undiscounted worst case.
+    </p>
+  </section>
+
+  <section class="section card">
+    <h2><Icon name="check-circle" size={20} /> Editorial policy</h2>
+    <ul>
+      <li><strong>Corrections:</strong> reported errors are rechecked against the wiki and fixed in the next build; the changelog records every data change.</li>
+      <li><strong>Dates:</strong> "last reviewed" dates change only when we actually recheck the underlying data or rewrite the guidance, never for cosmetic reasons.</li>
+      <li><strong>AI disclosure:</strong> the data pipeline and page drafts are machine-assisted, then reviewed and tested by the team before publishing (unit tests cover the math; see the repository).</li>
+      <li><strong>No fake numbers:</strong> no invented ratings, testimonials or usage counts anywhere on the site.</li>
+    </ul>
+  </section>
+</BaseLayout>

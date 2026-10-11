@@ -1,0 +1,149 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import FAQ from '../components/FAQ.astro';
+import Icon from '../components/Icon.astro';
+import RelatedTools from '../components/RelatedTools.astro';
+import TrustBlock from '../components/TrustBlock.astro';
+import { SITE, TOOLS } from '@data/meta';
+import { DATA_SNAPSHOT_DATE, WALL_LEVELS } from '@data/game';
+import { wallCost } from '@lib/calc';
+import { fmtNum } from '@lib/format';
+
+const title = 'Clash of Clans Wall Cost Calculator | CoCPlanner';
+const description =
+  'Calculate the gold or elixir needed to upgrade any number of walls between two levels. Includes costs per level and per town hall.';
+
+// Build-time examples.
+const ex1 = wallCost(11, 12, 100);
+const ex2 = wallCost(13, 14, 100);
+const elixirMinLevel = WALL_LEVELS.filter((l) => l.resourceOptions.includes('elixir')).map((l) => l.level)[0] ?? null;
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    '@id': `${SITE.url}/wall-calculator/#app`,
+    name: 'Clash of Clans Wall Cost Calculator',
+    url: `${SITE.url}/wall-calculator/`,
+    description: 'Calculate the gold or elixir cost of upgrading any number of Clash of Clans walls.',
+    applicationCategory: 'GameApplication',
+    operatingSystem: 'Any',
+    browserRequirements: 'Requires JavaScript',
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    publisher: { '@id': `${SITE.url}/#organization` },
+  },
+];
+
+const faqItems = [
+  {
+    q: 'How much do 100 walls cost from level 11 to 12?',
+    a: `${fmtNum(ex1.total)} gold, at ${fmtNum(ex1.perWall)} per wall (${ex1.levels.length} level jumps). That is the classic TH11 wall grind in one number.`,
+  },
+  {
+    q: 'When can I pay walls with elixir?',
+    a: elixirMinLevel
+      ? `From wall level ${elixirMinLevel} upward the wiki lists elixir as an accepted payment alongside gold, so both resources can carry the grind. The calculator marks which levels in your chosen range accept elixir.`
+      : 'Higher wall levels accept elixir as well as gold; the calculator marks exactly which levels in your chosen range accept it.',
+  },
+  {
+    q: 'Do wall upgrades take builder time?',
+    a: 'No. Wall upgrades are instant: you pay and the wall is done. That is why walls appear in cost totals on this site but never in the builder schedule of the time planner.',
+  },
+  {
+    q: 'How many walls can I have?',
+    a: `The wall count grows with your Town Hall up to the maximum in the game. Our <a href="/cost-to-max/">cost to max tables</a> use the full wall count for each Town Hall level, and the calculator accepts any count so you can price exactly your base.`,
+  },
+  {
+    q: 'Are wall rings counted?',
+    a: 'No. Wall rings are a magic item that pays for walls directly. The calculator shows the raw resource cost, which is what most players grind.',
+  },
+];
+---
+<BaseLayout title={title} description={description} canonical="/wall-calculator/" activeNav="/wall-calculator/" jsonLd={jsonLd}>
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Wall Cost Calculator' }]} />
+
+  <div class="page-hero">
+    <h1>Clash of Clans Wall Cost Calculator</h1>
+    <p class="value-line">
+      Enter how many wall segments you have and pick the levels you are going from and to. You get the
+      cost per wall, the total, and which levels accept elixir instead of gold.
+    </p>
+    <div class="trust-line">
+      <span class="pill"><Icon name="check-circle" size={14} /> Free, no sign up</span>
+      <span class="pill blue"><Icon name="database" size={14} /> Wiki data, snapshot {DATA_SNAPSHOT_DATE}</span>
+      <span class="pill gold"><Icon name="zap" size={14} /> Instant results</span>
+    </div>
+  </div>
+
+  <section class="card card-pop" aria-label="Wall cost calculator">
+    <div data-wall-calculator>
+      <div class="two-col" style="grid-template-columns:1fr 1fr 1fr">
+        <div class="field">
+          <label for="wall-count">Number of walls</label>
+          <input id="wall-count" data-wall-count type="number" min="1" step="1" value="100" inputmode="numeric" />
+          <p class="hint">Any count works: price your whole base or one row.</p>
+        </div>
+        <div class="field">
+          <label for="wall-from">Current wall level</label>
+          <select id="wall-from" data-wall-from></select>
+        </div>
+        <div class="field">
+          <label for="wall-to">Target wall level</label>
+          <select id="wall-to" data-wall-to></select>
+        </div>
+      </div>
+      <div data-wall-result aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>How to use the wall calculator</h2>
+    <ol class="step-list">
+      <li><strong>Count your walls.</strong> Tap a wall in game and check how many segments you own at that level, or just price the standard full set.</li>
+      <li><strong>Set the level range.</strong> From your current wall level to the target.</li>
+      <li><strong>Read the totals.</strong> Per-wall cost, total cost, which levels accept elixir, and the Town Hall each jump needs.</li>
+    </ol>
+  </section>
+
+  <section class="section">
+    <h2>Examples</h2>
+    <div class="card">
+      <ul>
+        <li><strong>100 walls, level 11 to 12:</strong> {fmtNum(ex1.total)} gold ({fmtNum(ex1.perWall)} per wall).</li>
+        <li><strong>100 walls, level 13 to 14:</strong> {fmtNum(ex2.total)} gold ({fmtNum(ex2.perWall)} per wall).</li>
+      </ul>
+      <p class="small muted" style="margin:0">Values from the wiki snapshot ({DATA_SNAPSHOT_DATE}). Reproduce either example in the calculator above.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>How the wall calculator works</h2>
+    <div class="card">
+      <p>
+        Wall costs per level come from the <a href="https://clashofclans.fandom.com/wiki/Walls" rel="noopener">Walls page</a> of the
+        Clash of Clans Wiki (snapshot {DATA_SNAPSHOT_DATE}). The total is the sum of every level jump in your range, times your wall
+        count. Nothing is rounded or estimated.
+      </p>
+      <h3>Notes and limits</h3>
+      <ul>
+        <li>Gold is accepted at every wall level; elixir only at the higher levels, exactly as marked in the results table.</li>
+        <li>Wall upgrades are instant: no builder time, no waiting.</li>
+        <li>Wall rings and event discounts are not counted; the numbers are raw resource prices.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Frequently asked questions</h2>
+    <FAQ items={faqItems} />
+  </section>
+
+  <RelatedTools slugs={['/upgrade-cost-calculator/', '/cost-to-max/', '/upgrade-time-planner/']} tools={TOOLS} />
+
+  <TrustBlock toolName="Wall Cost Calculator" />
+</BaseLayout>
+
+<script>
+  import '../scripts/wall-calculator';
+</script>

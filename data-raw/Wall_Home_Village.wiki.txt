@@ -1,0 +1,571 @@
+__NOEDITSECTION__
+{{Protection}}
+{{For|the Builder Base and [[Clan Capital]] counterparts|Wall}}
+
+[[File:Wall19.png|80px|center|link=]]
+
+<center>
+'''''"Walls are great for keeping your {{H|Layouts|village}} safe and your [[troops|enemies]] in the line of fire."'''''
+</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Wall1.png|75px|link=]]<div>Level 1</div></div>
+<div>[[File:Wall2.png|75px|link=]]<div>Level 2</div></div>
+<div>[[File:Wall3.png|75px|link=]]<div>Level 3</div></div>
+<div>[[File:Wall4.png|75px|link=]]<div>Level 4</div></div>
+<div>[[File:Wall5.png|75px|link=]]<div>Level 5</div></div>
+<div>[[File:Wall6.png|75px|link=]]<div>Level 6</div></div>
+<div>[[File:Wall7.png|75px|link=]]<div>Level 7</div></div>
+<div>[[File:Wall8.png|75px|link=]]<div>Level 8</div></div>
+<div>[[File:Wall9.png|75px|link=]]<div>Level 9</div></div>
+<div>[[File:Wall10.png|75px|link=]]<div>Level 10</div></div>
+<div>[[File:Wall11.png|75px|link=]]<div>Level 11</div></div>
+<div>[[File:Wall12.png|75px|link=]]<div>Level 12</div></div>
+<div>[[File:Wall13.png|75px|link=]]<div>Level 13</div></div>
+<div>[[File:Wall14.png|75px|link=]]<div>Level 14</div></div>
+<div>[[File:Wall15.png|75px|link=]]<div>Level 15</div></div>
+<div>[[File:Wall16.png|75px|link=]]<div>Level 16</div></div>
+<div>[[File:Wall17.png|52px|link=]]<div>Level 17</div></div>
+<div>[[File:Wall18.png|74x74px|link=]]<div>Level 18</div></div>
+<div>[[File:Wall19.png|73x73px|link=]]<div>Level 19</div></div>
+</div>
+
+==Summary== 
+*Walls are defenses that are unlocked when the [[Town Hall]] is upgraded to level 2.
+*Wall placement is a key point in designing a well-defended village. Walls are the main fortification for defense and are capable of withstanding a great deal of damage from attacking enemies. However, the effectiveness of Walls is greatly lowered if they are not constructed to completely enclose the structures they are designed to protect. Any gaps in the continuation of the Wall structure will render it useless, as enemy [[troops]] will simply walk through the broken area. 
+**An exception to this rule is the funneling strategy, where a player deliberately leaves a gap in order to group troops together and subsequently take them out using the splash damage of defensive units such as [[Mortar]]s or [[Wizard Tower]]s. Alternatively (or additionally) your intruders can be caught off-guard by filling the openings with [[traps]] such as [[Bomb]]s or [[Spring Trap]]s.
+*Walls block most [[:Category:Ground Troops|ground units]], with the exceptions being [[Hog Rider]]s, [[Miner]]s, [[Headhunter]]s, [[Yetimite]]s, [[Root Rider]]s, [[Druid]]s (in their Human form), the [[Grand Warden]], [[Royal Champion]], [[Meteor Golem/Meteormite|Meteormites]], and all grounded [[Pets]] except the [[Mighty Yak]]. Walls can be bypassed entirely by [[:Category:Air Troops|air units]] such as [[Balloon]]s or [[Dragon]]s.
+*There exist numerous countermeasures to Walls: 
+**[[Wall Breaker]]s and [[Super Wall Breaker]]s immediately target Walls upon deployment, inflicting 40x normal damage to Walls, but also blow themselves up in the process. Their blasts do splash damage; capable of damaging two layers of walls if they are placed next to each other. The holes created by Wall Breakers allow ground units to gain access to [[buildings]] within the Walls, making Wall Breakers the ideal troop for getting past Walls. The [[Battle Ram]] also targets Walls and inflicts 40x normal damage upon connection, however it can only damage or destroy a single Wall.
+**The {{H|Super Giant}}, [[Wall Wrecker]], [[Stone Slammer]], [[Log Launcher]], [[Mighty Yak]], and the [[M.E.C.H.A]] are capable of doing extra damage to Walls, though none of these specifically target them. Also [[Root Rider]]s have a special ability to not only pass through walls, but also destroy them on their way through.
+**{{H|Jump Spell}}s temporarily allow ground troops to bypass Walls, making the Walls lose their defensiveness, while four [[Earthquake Spell]]s can destroy any Walls regardless of level of either in the area of effect.
+
+==Strategies==
+===Defensive Strategies===
+*The main purpose of Walls is to hinder attacking ground (i.e. non-flying) [[troops]], allowing {{H|Defensive Buildings|defenses}} to damage and take out attackers as they attempt to breach the Walls. Once breaches occur, the attacking troops have free rein to destroy the defenses and other [[Buildings]] within the Walls. Therefore, when designing a defense, it is crucial that players do not attempt to envelop their entire village within one big Wall. Instead, it is recommended that players design their Walls in layers or cells so that [[:Category:Ground Troops|ground troops]] have to break through multiple Walls to attack the entirety of the village, while also providing the defenses more opportunity to repel the attack. Note that with this strategy there will inevitably be buildings that cannot be placed within the Walls; that is entirely normal and can even be used to your advantage by placing non-defensive and non-resource buildings such as [[Builder's Hut]]s, {{H|Army Camp}}s and the [[Laboratory]] immediately outside the Walls to act as another layer for enemy troops to fight through.
+*The [[Wall Breaker]]'s bomb inflicts damage to everything within a small radius of its detonation (area splash), so it is ill-advised to envelop a compartment with grouped layers of walls.
+*Attacking [[Archer]]s and [[Wizard]]s are capable of shooting over Walls and attacking the Buildings behind them. Defenders can use less-important buildings as a "buffer", delaying these ranged units' attacks on more important buildings. In this case, make sure that long-ranged defenses are within range and have ample opportunity to retaliate before these buffer buildings are completely destroyed and the attackers can advance to the Wall.
+*The defensive territory in which an attacker is not permitted to spawn troops is shown in a white overlay after any building has been moved. An attacking player may be able to spawn troops behind the Walls if any area gaps exist in this territory. Since every structure has an additional one square perimeter around which troops cannot be spawned, avoid gaps of greater than two squares to prevent this from happening. {{H|Traps}}, [[decorations]], [[obstacles]] and {{H|Hidden Tesla}}s are exceptions and do not increase the defender's territory.
+**Conversely, such gaps can be filled in with extra Walls, and this can be used to isolate valuable buildings (such as {{H|Inferno Tower}}s or the [[Town Hall]]) in a large compartment; without proper funneling or access to the compartment, ground troops will often ignore these buildings.
+*An outdated practice is to use single standing Wall struts or spikes to lure Wall Breakers; however, this spiking tactic no longer works, as Wall Breakers will only target Walls that are two or more consecutive segments. This technique can, however, be used to extend the defender's territory, and thus the outer perimeter of where attackers may spawn troops. 
+**It can also be used to cover a spawn zone in the inside of the base.
+*Wall Breakers and their Super counterpart only target Walls that completely or partially enclose buildings; they will ignore empty compartments and spikes (unless there are no other targets left).
+*A common mistake among beginners is the attempting to "close" Wall gaps with buildings, obstacles, decorations, etc. This does not work; troops can walk right through the gap as though the obstacles were not there. Only continuous Wall segments will deter ground troops.  However, new attackers often make this same mistake and waste Wall Breakers on the holes in the Walls so this may work in your favor if you do not have enough Walls for the layout you are using.
+*Another common mistake made by new players is attempting to use the edges of the map as barriers, thinking that this will allow them to construct Walls on only two or three sides. This also is ineffective, as enemy troops can always be spawned on the darker grass area surrounding the village, even though buildings cannot be placed there by the player.
+**In the Clan Capital however, this does not apply.
+*Troops and Heroes can walk through two walls that are diagonally to each other.
+*Players should have Walls around the Town Hall, defensive buildings, and (if desired) resource storages rather than Army Camps, [[Barracks]], [[Spell Factory]], [[Laboratory]], or Builder's Huts because damage to the latter buildings are relatively inconsequential. This applies particularly if your Town Hall level is low and [[resources]] are limited.
+*Players could place traps between the gap of the Walls; when enemy troops step on them, they will be easily killed by the traps.
+*The price of higher levels of Walls to upgrade is usually not worth it unless everything else is upgraded due to its numerous countermeasures. However, when sufficiently upgraded, they can still prove advantageous psychologically as an intimidation factor.
+
+===Offensive Strategies=== 
+*Look for gaps or Wall segments that are lower levels than others. Also look for areas within Walls where people have positioned their [[buildings]] poorly. Be careful, however, as gaps can often be intentional and may contain {{H|Traps}} or {{H|Hidden Tesla}}s. Make good use of [[Wall Breaker]]s to penetrate Walls quickly. Attack Walls that are out of range of {{H|Defensive Buildings|defenses}}, if possible.
+*Spiking will no longer work, so you can avoid decoys and distractions.
+*Once a section of a Wall is breached, Wall Breakers will ignore that section and attempt to find the next closest Wall that encloses a building. That section may or may not be behind the breached section.
+*Four [[Earthquake Spell]]s, regardless of level, can destroy Walls of any level.
+*By using [[:Category:Air Troops|aerial units]], {{H|Jump Spell}}s, and/or troops that bypass Walls like [[Hog Rider]]s as well as [[Miner]]s, [[Headhunter]]s, the [[Grand Warden]], and the [[Royal Champion]] you can avoid having to destroy Walls.
+*When placed at the corner of the deployment area, you can widen the opening of a compartment near it by deploying a few Wall Breakers or their Super version.
+
+==Upgrade Differences== 
+*Initially, Walls resemble wooden fences with rope tied around the posts.
+*At level 2, Walls change to uncut rock.
+*At level 3, Walls are smoother and appear as cut stone.
+*At level 4, Walls are changed to solid iron and become taller.
+*At level 5, Walls are carved gold.
+*At level 6, Walls become a tall [[Resources#Elixir|Elixir]]-colored pointy crystal.
+*At level 7, Walls are taller and much sharper, and are dark purple in color.
+*At level 8, Walls are a thick, dull, black crystal with a skull on top. When joined at a corner (specifically when it is at least part of a "V" pattern), the skull looks bigger, and the holes of the skull are darker.
+*At level 9, Walls have spikes on the sides of the Wall and have fires burning atop them when joined in a corner.
+*At level 10, Walls have strips of lava flowing in a clear pipe on top and have waves of fire going through intermittently. When joined at a corner, they have a permanent flame on top of them.
+*At level 11, Walls have lava on their sides and have waves of lava flowing through them intermittently. When joined at a corner, they have the same lava faucet as the ones on the side of the level 10 [[Town Hall]].
+*At level 12, Walls are white on the top, golden on the bottom, and golden lights shining through them intermittently.
+*At level 13, Walls are white and blue with a gray metallic bottom. Springs connect each segment and the Walls have waves of electrical energy flowing through them intermittently. When joined at a corner, they have a permanent white glow.
+*At level 14, Walls are ice on a dark purple wall. The ice atop the Wall connects when joined to other segments and the Walls have waves of light aura flowing through them intermittently. When joined at a corner, they have a blue shine.
+*At level 15, Walls are golden with some pattern on the top, it is surrounded by a purplish-black stone with gold lining on it. The gold atop the Wall connects when joined to other segments and green light reflected on the flowing green water intermittently.
+*At level 16, Walls are varying shades of purple with a metal frame on the top that has a shield-shaped pattern, surrounded by a dark purple frame. An additional, thinner frame made of gold surrounds the Wall below the purple layer. On each side of the Wall are upside down purple triangles surrounded by a purple and gold frame. On the corners of the Walls are small stone columns that connect to the gold frame above. When joined at a corner, they emit a bright blue glow with sparkles coming out of the Wall segments.
+*At level 17, Walls are similar to that of level 12, except at the top there is a golden stone, and at the bottom is colored red, and the lower edge pillars gain a small golden brace each. When joined at a corner, they emit a yellow glow with sparkles, and the Walls gain a gray leaf symbol on each side, and the stone at the top turns white.
+*At level 18, Walls now have a gray stone base, with a pillar that has a line forming a groove, and gains battlements with a golden slab which occasionally glows. When connected to the sides, the slab above turns into a golden line adjacent to other walls, connects to each other, and gains a golden symbol with wings.
+*At level 19, TBA.
+
+*If a Wall segment contains level 10 or higher Walls, the Walls' glowing effects will be continuous on all of them. If the Wall segment also contains lower level Walls, the glowing effect will pause on the lower level Walls, then continue onto the higher level Walls.
+{{Clr}}
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable|width=750px;|tablestyle=margin:0px auto;||TH2=25||TH3=50||TH4=75||TH5=100||TH6=125||TH7=175||TH8=225||TH9=250||TH10=275||TH11=300||TH14=325}}
+{{BuildingSize|1x1}}
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Cumulative Cost<br/>{{Res|Gold}}
+![[Resources#Elixir|Cost]]<br/>{{Res|Elixir}}
+!Cumulative Cost<br/>{{Res|Elixir}}
+![[Magic Items|Cost]]<br/>{{Res|Wall Ring}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|100
+|class="GoldPass bCost"|0
+|class="GoldPass bCost"|0
+|N/A
+|N/A
+|N/A
+|2
+|-
+|2
+|200
+|class="GoldPass bCost"|1,000
+|class="GoldPass bCost"|1,000
+|N/A
+|N/A
+|1
+|2
+|-
+|3
+|400
+|class="GoldPass bCost"|5,000
+|class="GoldPass bCost"|6,000
+|N/A
+|N/A
+|1
+|class="change-highlight"|3
+|-
+|4
+|800
+|class="GoldPass bCost"|10,000
+|class="GoldPass bCost"|16,000
+|N/A
+|N/A
+|1
+|4
+|-
+|5
+|1,200
+|class="GoldPass bCost"|20,000
+|class="GoldPass bCost"|36,000
+|class="GoldPass bCost"|20,000
+|class="GoldPass bCost"|20,000
+|1
+|5
+|-
+|6
+|1,800
+|class="GoldPass bCost"|30,000
+|class="GoldPass bCost"|66,000
+|class="GoldPass bCost"|30,000
+|class="GoldPass bCost"|50,000
+|1
+|6
+|-
+|7
+|2,400
+|class="GoldPass bCost"|50,000
+|class="GoldPass bCost"|116,000
+|class="GoldPass bCost"|50,000
+|class="GoldPass bCost"|100,000
+|1
+|7
+|-
+|8
+|3,000
+|class="GoldPass bCost"|75,000
+|class="GoldPass bCost"|191,000
+|class="GoldPass bCost"|75,000
+|class="GoldPass bCost"|175,000
+|1
+|8
+|-
+|9
+|3,500
+|class="GoldPass bCost"|100,000
+|class="GoldPass bCost"|291,000
+|class="GoldPass bCost"|100,000
+|class="GoldPass bCost"|275,000
+|1
+|9
+|-
+|10
+|4,000
+|class="GoldPass bCost"|200,000
+|class="GoldPass bCost"|491,000
+|class="GoldPass bCost"|200,000
+|class="GoldPass bCost"|475,000
+|1
+|9
+|-
+|11
+|5,000
+|class="GoldPass bCost"|500,000
+|class="GoldPass bCost"|991,000
+|class="GoldPass bCost"|500,000
+|class="GoldPass bCost"|975,000
+|1
+|class="change-highlight"|10
+|-
+|12
+|7,000
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bCost"|1,991,000
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bCost"|1,975,000
+|1
+|11
+|-
+|13
+|8,000
+|class="GoldPass bCost"|1,500,000
+|class="GoldPass bCost"|3,491,000
+|class="GoldPass bCost"|1,500,000
+|class="GoldPass bCost"|3,475,000
+|2
+|12
+|-
+|14
+|9,000
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bCost"|5,491,000
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bCost"|5,475,000
+|2
+|13
+|-
+|15
+|10,000
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bCost"|8,491,000
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bCost"|8,475,000
+|3
+|14
+|-
+|16
+|11,000
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bCost"|12,491,000
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bCost"|12,475,000
+|4
+|15
+|-
+|17
+|12,000
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bCost"|17,491,000
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bCost"|17,475,000
+|5
+|16
+|-
+|18
+|13,000
+|class="GoldPass bCost"|7,000,000
+|class="GoldPass bCost"|24,491,000
+|class="GoldPass bCost"|7,000,000
+|class="GoldPass bCost"|24,475,000
+|7
+|17
+|-
+|19
+|14,000
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bCost"|34,491,000
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bCost"|34,475,000
+|10
+|18
+|}
+{{WBvsWall}}
+{{WWvsWall}}
+{{LLvsWall}}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" id="training-time" style="text-align: center; width: 500px;"
+! colspan="3" style="text-align: center; width: 650px"|<big>'''Wall Buster'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 10 Walls in Multiplayer battles||10||5
+|-
+|Destroy 100 Walls in Multiplayer battles||100||10
+|-
+|Destroy 2,000 Walls in Multiplayer battles||1,000||20
+|}
+{{IconDescriptions}}
+
+==History==
+{|class="wikitable" width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Patch!!Type!!Description
+|-
+!August 2, 2012
+!Game Release
+|The Wall was added in the original release of the game, with 8 levels.{{Clr}}[[File:Wall1.png|40px]][[File:Wall2.png|40px]][[File:Wall3.png|40px]][[File:Wall4.png|40px]][[File:Wall5.png|40px]][[File:Wall6.png|40px]][[File:Wall7.png|40px]][[File:Wall8.png|40px]]
+|-
+!September 18, 2012
+!Update
+|Walls are now built and upgraded instantly.
+|-
+!November 19, 2012
+!Update
+|Made it so that defending [[Clan Castle]] troops can now jump over Walls.
+|-
+!January 10, 2013
+!Town Hall 9 Update
+|Added levels 9 and 10 Wall. [[File:Wall9.png|40px]][[File:Wall10.png|40px]]
+|-
+!February 5, 2013
+!Update
+|Increased hitpoints at levels 9 and 10. {{Res|Hitpoint}}
+|-
+!March 12, 2013
+!Update
+|Added an option to move multiple Wall pieces in a line at one time.
+|-
+!March 25, 2013
+![https://forum.supercell.com/showthread.php/28764-Maintenance-new-Dark-Barracks-and-more-walls-%2825-3-2012%29 Maintenance Break]
+|Added 25 Walls at Town Hall 7.
+|-
+!April 17, 2013
+!Update
+|Added an option where you can rotate Wall sections.
+|-
+!June 17, 2013
+!Town Hall 10 Update
+|Added the level 11 Wall. [[File:Wall11.png|40px]]
+|-
+!September 30, 2013 
+!Major Update
+|Added Village Edit Mode, where you can design your base with Walls and other buildings. You can also place many Walls at once by selecting a Wall piece, then dragging along the wall guide markers.
+|-
+![[Version History#Version 6.253.4 - 16th September 2014 "Lava Hound"|September 16, 2014]]
+!Update
+|
+*Allowed Walls to used Elixir to upgrade to level 7 or higher at the same cost as it would with Gold. {{Res|Elixir}}
+*Added a button to select a row of Walls to upgrade all at once.
+|-
+![[Version History#Version 6.407 - 11th December 2014 "Winter is here!"|11 December, 2014]]
+!Update
+|Restricted the capability for Walls to be upgraded with Elixir to level 9 and above. {{Res|Elixir}}
+|-
+!April 30, 2015
+!Update
+|Reduced the build cost of 200 to 50. {{Res|Gold}}
+|-
+!September 9, 2015
+!Update
+|
+*Added 25 Wall at Town Hall 10.
+*Changed the level 11 Wall design. Prior to this update, the level 11 Wall appeared light blue with an electric theme, which later developed into modern electric Walls at Town Hall 12. [[File:Old Wall11.png|40px]]
+*Minor texture changes were also given to levels 2 to 8 except 4.
+|-
+!May 24, 2016
+!Update
+|The destroyed Walls appearances are different for every level.
+|-
+!October 12, 2016
+!Update
+|Added 25 Walls at Town Hall 11.
+|-
+!December 19, 2016
+!Update
+|
+*Added the level 12 Wall (only 50 pieces could be upgraded to level 12). [[File:Wall12.png|40px|link=]]
+*Reduced upgrade costs at levels 10 and 11. {{Res|Gold}}{{Res|Elixir}}
+|-
+!March 8, 2017
+![https://clashofclans.com/blog/news/fpo-march-2017-balancing-update.html Balance Changes]
+|Allowed 25 more Wall pieces to be upgraded to level 12 (for a total of 75).
+|-
+!October 11, 2017
+!Update
+|Allowed 25 more Wall pieces to be upgraded to level 12 (for a total of 100).
+|-
+!December 18, 2017
+!Update
+|Allowed 25 more Wall pieces to be upgraded to level 12 (for a total of 125).
+|-
+!March 5, 2018
+!Update
+|Allowed the rest of the Walls to be upgraded to level 12.
+|-
+!April 9, 2018
+!Update
+|Wall segments now display how many Ring of Walls items are needed to upgrade to the next level.
+|-
+!June 11, 2018
+!Update
+|
+*Added the level 13 Wall (only 100 pieces could be upgraded to level 13). [[File:Wall13.png|40px|link=]]
+*Walls in the Home Village reduced (such that 1 Wall Ring corresponds to 1 million or part thereof of resources).
+*Reduced upgrade cost from level 5 to 11 Wall. {{Res|Gold}}{{Res|Elixir}}
+|-
+!October 23, 2018
+!Update
+|Allowed 100 more Wall pieces to be upgraded to level 13 (for a total of 200).
+|-
+!December 12, 2018
+!Update
+|Reworked the damage multipliers of [[Stone Slammer]] against Walls - increased maximum damage multiplier, but decreases damage for targets outside the immediate vicinity of the Slammer.
+|-
+!January 28, 2019
+![https://forum.supercell.com/showthread.php/1794325-Maintenance-28-01-Additional-50-Wall-pieces-to-max-LNY-obstacle Maintenance Break]
+|Allowed the rest of the Walls to be upgraded to level 13.
+|-
+!December 9, 2019
+!Town Hall 13 Update
+|Added the level 14 Wall (only 100 pieces could be upgraded to level 14). [[File:Wall14.png|40px|link=]]
+|-
+!March 30, 2020
+!Update
+|
+*Allowed 50 more Wall pieces to be upgraded to level 14 (for a total of 150).
+*Reduced upgrade cost at levels 5 to 12. {{res|Gold}}{{Res|Elixir}}
+*Number of [[Magic Items/List|Wall Rings]] require to upgrade Walls reduced for certain levels.
+**Level 11: 2 -> 1
+**Level 12: 4 -> 3
+|-
+!June 22, 2020
+!Update
+|Allowed 50 more Wall pieces to be upgraded to level 14 (for a total of 200).
+|-
+!October 12, 2020
+!Update
+|Allowed the rest of the Walls to be upgraded to level 14.
+|-
+!December 7, 2020
+!Update
+|Wall segments can now be swapped with other Wall segments.
+|-
+!April 12, 2021
+!Town Hall 14 Update
+|
+*Added the level 15 Wall (only 100 pieces can be upgraded to level 15). [[File:Wall15.png|40px|link=]]
+*Added 25 Walls at Town Hall 14.
+*Reduced upgrade costs at levels 12 and 13: 
+**Level 12: 3,000,000 to 2,000,000 {{Res|Gold}}{{Res|Elixir}}
+**Level 13: 5,000,000 to 4,000,000 {{Res|Gold}}{{Res|Elixir}}
+*Stopped the [[Grand Warden]] from attacking a Wall if nobody else in his group is attacking a Wall.
+*Fixed visual Wall connection problems when visiting villages which have destroyed Walls and the Village owner has not logged in after they were destroyed.
+*Refreshed Wall connections properly when swapping Walls in layout editor.
+|-
+!June 2021
+!Update
+|Allowed 50 more Wall pieces to be upgraded to level 15 (for a total of 150).
+|-
+!September 2021
+!Update
+|Allowed 50 more Wall pieces to be upgraded to level 15 (for a total of 200).
+|-
+!December 2021
+!Update
+|Allowed the rest of the Walls to be upgraded to level 15.
+|-
+!June 2022
+!Update
+|
+*Reduced hitpoints at levels 9 to 14. {{Res|Hitpoint}}
+*Relaxed the capability for Walls to be upgraded with Elixir to level 5 and above. {{Res|Elixir}}
+|-
+!October 10, 2022
+!Town Hall 15 Update
+|
+*Added the level 16 Wall (only 200 pieces can be upgraded to level 16). [[File:Wall16.png|40px|link=]]
+|-
+!June 12, 2023
+!Update
+|Allowed the rest of the Walls to be upgraded to level 16.
+|-
+!December 12, 2023
+!Town Hall 16 Update
+|
+*Added the level 17 Wall (only 150 pieces can be upgraded to level 17). [[File:Wall17.png|40px|link=]]
+*Reduced upgrade cost for level 14 and 15:
+**Level 14: 4,000,000 -> 3,000,000 {{Res|Gold}}{{Res|Elixir}}
+**Level 15: 7,000,000 -> 5,000,000 {{Res|Gold}}{{Res|Elixir}}
+|-
+!June 18, 2024
+!Update
+|
+*Allowed the rest of the Walls to be upgraded to level 17.
+*Reduced upgrade cost at level 17 from 9,000,000 to 7,000,000. {{Res|Gold}}{{Res|Elixir}}
+|-
+!November 25, 2024
+!Town Hall 17 Update
+|Added the level 18 Wall (only 100 pieces can be upgraded to level 18). [[File:Wall18.png|40px|link=]]
+|-
+!February 10, 2025
+!Update
+|Gave updates to Walls:
+*Allowed 50 more Wall pieces to be upgraded to level 18 (for a total of 175).
+*Reduced the build cost from 50 to 0. {{Res|Gold}}
+*Added the ability to drag the Walls to place new one, similar to Edit Layout mode. When upgrading Walls, one can add Walls of the same level up to the amount of resource you have to upgrade them all at once.
+|-
+!March 24, 2025
+!Update
+|Allowed 75 more Wall pieces to be upgraded to level 18 (for a total of 250).
+|-
+!June 16, 2025
+!Update
+|Allowed the rest of the Walls to be upgraded to level 18.
+|-
+!June 30, 2025
+!Balance Changes
+|Reduced hitpoints at level 13 to 18:
+*Level 13: 9,000 -> 8,000 {{Res|Hitpoint}}
+*Level 14: 11,000 -> 9,000 {{Res|Hitpoint}}
+*Level 15: 12,500 -> 10,000 {{Res|Hitpoint}}
+*Level 16: 13,500 -> 11,000 {{Res|Hitpoint}}
+*Level 17: 14,500 -> 12,000 {{Res|Hitpoint}}
+*Level 18: 15,500 -> 13,000 {{Res|Hitpoint}}
+|-
+!November 17, 2025
+!Town Hall 18 Update
+|
+*Added the level 19 Wall (only 125 pieces can be upgraded to level 19). [[File:Wall19 Old.png|40px|link=]]
+*Reduced upgrade cost at level 18 from 8,000,000 to 7,000,000. {{Res|Gold}}{{Res|Elixir}}
+|-
+!February 23, 2026
+!Update
+|
+*Allowed 75 more Wall pieces to be upgraded to level 19 (for a total of 200).
+*Changed the level 19 Wall design which appeared slightly darker. [[File:Wall19.png|40px|link=]]
+|-
+!April 27, 2026
+!Update
+|Allowed 75 more Wall pieces to be upgraded to level 19 (for a total of 275).
+|}
+
+==Trivia==
+*Thus far, level 19 Walls are the structures with the greatest amount of hitpoints in the Home Village, having 14,000 hitpoints.
+*Walls will not be targeted by [[:Category:Air Troops|air troops]], other than the air mode [[Grand Warden]] (in some cases), but they can be destroyed by them through indirect means (such as [[Balloon]]s or the [[Stone Slammer]] attacking buildings and destroying nearby Walls via splash damage, or [[Dragon]]s, {{H|Super Dragon}}s, or {{H|Baby Dragon}}s attacking [[Clan Castle]] troops and damaging the nearby Walls).
+*Occasionally two Wall segments will appear not to be connected, although they really are. This usually happens in the [[Village Edit Mode]]. 
+**A similar thing can also happen when viewing a base, though typically more than two Wall segments will appear to be disconnected.
+*The Wall is the only building not to have a square-shaped grass under it unlike other buildings.
+*The Walls, {{H|Cannon}}, {{H|Archer Tower}}, [[Mortar]], [[Air Defense]], and [[Wizard Tower]] are the oldest defenses in the game.
+*In order to upgrade an entire row of Walls using [[Resources#Elixir|Elixir]], all pieces in the selected Wall must be at least level 5 or up. If there are any selected pieces of Wall in the row that are at level 4 or lower, the game will only offer to upgrade the row with [[Resources#Gold|Gold]] until those lower-level pieces have been upgraded to level 5.
+*Walls overall are one of the most expensive defenses to upgrade in the game.
+*Walls, as well as the Builder Base {{B|Walls}} are one of the only structures with multiple levels not to have upgrade times, the only other being the [[B.O.B Control]].
+*Walls are the only {{H|Defensive Buildings|defensive building}} that do not count as percentage when destroyed.
+*The Walls and Cannon are the first defenses to appear in a loading screen image.
+*Although the level 8 Walls have a similar style as Town Hall 9, it can be upgraded at Town Hall 8. This is due to the fact that the level 8 Walls were in the game before Town Hall level 9 was introduced.
+*Individual Walls from levels 1 to 9 and 11 seem to have a rectangular shadow despite their shape.
+*If selected in a row, the "Upgrade All" button will not appear if it exceeds the player's current storage capacity.
+
+{{BuildingsMenuHV}}
+
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Home Village]]
+
+[[ru:Стена/Родная деревня]]
+[[de:Mauer]]
+[[es:Muros]]
+[[fr:Rempart]]
+[[nl:Muren]]
+[[hu:Walls]]
+[[pl:Mury]]
+[[zh:城牆]]

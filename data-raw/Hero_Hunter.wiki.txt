@@ -1,0 +1,379 @@
+{{Protection}}
+{{TemporaryTroopAvailable|mode=building|crafted=yes|phase=Fourth}}
+{{For|the troop|Headhunter}}
+[[File:Hero Hunter4.png|center|200px|link=]]
+<center>'''''"[[Headhunter]] wants to play a game!<br><br>This destructive deck dealer targets all [[Army|troops]] but serves extra damage to [[Heroes]]! Card projectiles cause slowdown and result in poisoned paper cuts."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Hero Hunter1.png|center|100px|link=]]<div>Level 3-11</div></div>
+<div>[[File:Hero Hunter2.png|center|100px|link=]]<div>Level 12-20</div></div>
+<div>[[File:Hero Hunter3.png|center|100px|link=]]<div>Level 21-29</div></div>
+<div>[[File:Hero Hunter4.png|center|100px|link=]]<div>Level 30</div></div>
+</div>
+
+==Summary==
+*The Hero Hunter is a Crafted Defense that can be chosen from the [[Crafting Station]].
+*The Hero Hunter launches poisonous cards from a cannon, dealing single-target damage against [[Army|ground and air units]]. Units that are hit are poisoned and will be slowed down and take extra poison damage, as if they were afflicted by a [[Poison Spell]].
+**Like poison from a [[Headhunter]], the poison damage wears off quickly over time, making it negligible as compared to card damage.
+*[[Heroes]] take double damage from the cards, and they will be prioritised if possible (though they will not be targeted immediately if the Hero Hunter is attacking another troop when a Hero enters its range).
+*The three modules are hitpoints, damage and Poison Spell level.
+
+==Strategies==
+
+==Upgrade Differences==
+
+==Statistics==
+<center>
+<div class="stats-background">{{Modifiers|type=BuildingHV}}
+{{NumberAvailable|TH11=1}}
+{{BuildingSize|3x3}}
+
+===Common Statistics===
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Range<br/>{{Res|Range}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+!Damage Type<br/>{{Res|Damage Type}}
+!Unit Type Targeted<br/>{{Res|Target}}
+!Favorite Target<br/>{{Res|Target}}
+!Poison Duration<br/>{{Res|Poison}}
+|-
+|9.5 Tiles
+|class="AttackSpeed"|0.6s
+|Single Target
+|Ground & Air
+|Heroes (2x Damage)
+|3s
+|}
+
+===Module 1: Hitpoints===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Cost]]<br/>{{Res|Dark Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+!Town Hall Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|1,600
+|N/A
+|N/A
+|N/A
+|11
+|-
+|2
+|1,800
+|class="GoldPass bCost"|40,000
+|class="GoldPass bTime"|8h
+|class="GoldPass EXP"|169
+|12
+|-
+|3
+|2,150
+|class="GoldPass bCost"|50,000
+|class="GoldPass bTime"|10h
+|class="GoldPass EXP"|189
+|13
+|-
+|4
+|2,500
+|class="GoldPass bCost"|60,000
+|class="GoldPass bTime"|11h
+|class="GoldPass EXP"|198
+|14
+|-
+|5
+|2,700
+|class="GoldPass bCost"|70,000
+|class="GoldPass bTime"|13h
+|class="GoldPass EXP"|216
+|15
+|-
+|6
+|3,150
+|class="GoldPass bCost"|80,000
+|class="GoldPass bTime"|19h
+|class="GoldPass EXP"|261
+|16
+|-
+|7
+|3,900
+|class="GoldPass bCost"|90,000
+|class="GoldPass bTime"|1d 22h
+|class="GoldPass EXP"|406
+|17
+|-
+|8
+|4,400
+|class="GoldPass bCost"|100,000
+|class="GoldPass bTime"|3d 11h
+|class="GoldPass EXP"|546
+|18
+|-
+|9
+|5,200
+|class="GoldPass bCost"|110,000
+|class="GoldPass bTime"|6d 4h
+|class="GoldPass EXP"|729
+|18
+|-
+|10
+|6,000
+|class="GoldPass bCost"|120,000
+|class="GoldPass bTime"|10d
+|class="GoldPass EXP"|929
+|18
+|}
+
+===Module 2: Damage===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!DPS on [[Heroes]]<br/>{{Res|Damage}}
+![[Resources#Elixir|Cost]]<br/>{{Res|Elixir}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+!Town Hall Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|class="ModifierStat DPS Building"|145
+|class="ModifierStat DPH Building"|87
+|class="ModifierStat AltDPS Building"|290
+|N/A
+|N/A
+|N/A
+|11
+|-
+|2
+|class="ModifierStat DPS Building"|155
+|class="ModifierStat DPH Building"|93
+|class="ModifierStat AltDPS Building"|310
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bTime"|4h
+|class="GoldPass EXP"|120
+|12
+|-
+|3
+|class="ModifierStat DPS Building"|170
+|class="ModifierStat DPH Building"|102
+|class="ModifierStat AltDPS Building"|340
+|class="GoldPass bCost"|4,000,000
+|class="GoldPass bTime"|6h
+|class="GoldPass EXP"|146
+|13
+|-
+|4
+|class="ModifierStat DPS Building"|185
+|class="ModifierStat DPH Building"|111
+|class="ModifierStat AltDPS Building"|370
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|8h
+|class="GoldPass EXP"|169
+|14
+|-
+|5
+|class="ModifierStat DPS Building"|195
+|class="ModifierStat DPH Building"|117
+|class="ModifierStat AltDPS Building"|390
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime"|10h
+|class="GoldPass EXP"|189
+|15
+|-
+|6
+|class="ModifierStat DPS Building"|210
+|class="ModifierStat DPH Building"|126
+|class="ModifierStat AltDPS Building"|420
+|class="GoldPass bCost"|7,000,000
+|class="GoldPass bTime"|16h
+|class="GoldPass EXP"|240
+|16
+|-
+|7
+|class="ModifierStat DPS Building"|260
+|class="ModifierStat DPH Building"|156
+|class="ModifierStat AltDPS Building"|520
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|1d 16h
+|class="GoldPass EXP"|379
+|17
+|-
+|8
+|class="ModifierStat DPS Building"|325
+|class="ModifierStat DPH Building"|195
+|class="ModifierStat AltDPS Building"|650
+|class="GoldPass bCost"|9,000,000
+|class="GoldPass bTime"|3d 2h
+|class="GoldPass EXP"|516
+|18
+|-
+|9
+|class="ModifierStat DPS Building"|350
+|class="ModifierStat DPH Building"|210
+|class="ModifierStat AltDPS Building"|700
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|5d 6h
+|class="GoldPass EXP"|673
+|18
+|-
+|10
+|class="ModifierStat DPS Building"|385
+|class="ModifierStat DPH Building"|231
+|class="ModifierStat AltDPS Building"|770
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|9d
+|class="GoldPass EXP"|881
+|18
+|}
+
+===Module 3: Poison Level===
+{|style="text-align: center; width: 100%;" class="wikitable floatheader row-highlight" border="0" cellpadding="1" cellspacing="1"
+!Level<br/>{{Res|Level}}
+![[Poison Spell]] Level<br/>{{Res|Poison}}
+![[Resources#Gold|Cost]]<br/>{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+!Town Hall Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|3
+|N/A
+|N/A
+|N/A
+|11
+|-
+|2
+|4
+|class="GoldPass bCost"|3,500,000
+|class="GoldPass bTime"|6h
+|class="GoldPass EXP"|146
+|12
+|-
+|3
+|5
+|class="GoldPass bCost"|4,500,000
+|class="GoldPass bTime"|8h
+|class="GoldPass EXP"|169
+|13
+|-
+|4
+|6
+|class="GoldPass bCost"|5,500,000
+|class="GoldPass bTime"|10h
+|class="GoldPass EXP"|189
+|14
+|-
+|5
+|7
+|class="GoldPass bCost"|6,500,000
+|class="GoldPass bTime"|12h
+|class="GoldPass EXP"|207
+|15
+|-
+|6
+|8
+|class="GoldPass bCost"|7,500,000
+|class="GoldPass bTime"|18h
+|class="GoldPass EXP"|254
+|16
+|-
+|7
+|9
+|class="GoldPass bCost"|8,500,000
+|class="GoldPass bTime"|1d 19h
+|class="GoldPass EXP"|393
+|17
+|-
+|8
+|10
+|class="GoldPass bCost"|10,000,000
+|class="GoldPass bTime"|3d 8h
+|class="GoldPass EXP"|536
+|18
+|-
+|9
+|11
+|class="GoldPass bCost"|11,500,000
+|class="GoldPass bTime"|5d 18h
+|class="GoldPass EXP"|704
+|18
+|-
+|10
+|12
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime"|9d 12h
+|class="GoldPass EXP"|905
+|18
+|}
+</div>
+</center>
+
+===Achievements===
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+|-
+!colspan="3" style="text-align: center; width: 650px"|<big>'''Crafter's Nightmare'''</big>
+|-
+!Description!!{{Res|XP}} Rewards!!{{Res|Gem}} Rewards
+|-
+|Destroy 20 Crafted Defenses in Multiplayer Battles||100||25
+|-
+|Destroy 200 Crafted Defenses in Multiplayer Battles||800||100
+|-
+|Destroy 2,000 Crafted Defenses in Multiplayer Battles||5,000||200
+|-
+!colspan="3" style="text-align: center; width: 650px" |<big>'''Crafting Connoisseur'''</big>
+|-
+|Upgrade Crafted Defenses 5 times||10||10
+|-
+|Upgrade Crafted Defenses 25 times||100||30
+|-
+|Upgrade Crafted Defenses 75 times||1,000||50
+|}
+
+{{IconDescriptions|CraftableDefense=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"<!--
+!colspan="2"|[https://www.reddit.com/r/ClashOfClans/s/KiRoGpF075 August 8, 2025]
+|A user on Reddit named Skydiggs suggested adding a crafted defense about Headhunter on a gatling cannon that can targets heroes.
+|- -->
+!Date!!Type!!Description
+|-
+!June 16, 2026!!Update
+|Added to the game files.
+|-
+!July 30, 2026!!Sneak Peek
+|Announced the Hero Hunter, with 30 levels.
+[[File:Hero Hunter1.png|70px|link=]][[File:Hero Hunter2.png|70px|link=]][[File:Hero Hunter3.png|70px|link=]][[File:Hero Hunter4.png|70px|link=]]
+|-
+!August 1, 2026!!Crafting Phase 4 begins
+|Added the Hero Hunter.
+|-
+!December 31, 2026!!Crafting Phase 4 ends
+|Removed the Hero Hunter.
+|}
+
+==Audio==
+{|class="wikitable" style="text-align: center; width: 100%;" cellspacing="1" cellpadding="1" border="0"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Hero Hunter shoot1.ogg]][[File:Hero Hunter shoot2.ogg]][[File:Hero Hunter shoot3.ogg]]
+|Hero Hunter shoots
+|When the Hero Hunter attacks
+|-
+|[[File:Hero Hunter hit1.ogg]][[File:Hero Hunter hit2.ogg]][[File:Hero Hunter hit3.ogg]]
+|Large card hits
+|When the Hero Hunter successfully hits a target
+|}
+
+==Trivia==
+*The Hero Hunter shoots different card projectiles depending on its target. It fires a sword card when attacking regular troops, while using a larger crown card when attacking [[Heroes]].
+*The Hero Hunter is referred to as "Headhunter Tower" in the game files.
+
+{{BuildingsMenuHV}}
+{{Temporary}}
+[[Category:Home Village]]
+[[Category:Buildings]]
+[[Category:Defenses]]
+[[Category:Crafted Buildings]]

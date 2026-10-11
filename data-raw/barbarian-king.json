@@ -1,0 +1,667 @@
+{
+ "id": "barbarian-king",
+ "name": "Barbarian King",
+ "category": "hero",
+ "resource": "dark",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 2,
+   "cost": 5000,
+   "time": "2h",
+   "th": 7
+  },
+  {
+   "level": 3,
+   "cost": 5500,
+   "time": "4h",
+   "th": 7
+  },
+  {
+   "level": 4,
+   "cost": 6000,
+   "time": "8h",
+   "th": 7
+  },
+  {
+   "level": 5,
+   "cost": 6500,
+   "time": "10h",
+   "th": 7
+  },
+  {
+   "level": 6,
+   "cost": 7000,
+   "time": "12h",
+   "th": 7
+  },
+  {
+   "level": 7,
+   "cost": 7500,
+   "time": "14h",
+   "th": 7
+  },
+  {
+   "level": 8,
+   "cost": 8000,
+   "time": "16h",
+   "th": 7
+  },
+  {
+   "level": 9,
+   "cost": 8500,
+   "time": "18h",
+   "th": 7
+  },
+  {
+   "level": 10,
+   "cost": 10000,
+   "time": "20h",
+   "th": 7
+  },
+  {
+   "level": 11,
+   "cost": 10500,
+   "time": "22h",
+   "th": 8
+  },
+  {
+   "level": 12,
+   "cost": 11000,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 13,
+   "cost": 11500,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 14,
+   "cost": 12000,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 15,
+   "cost": 12500,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 16,
+   "cost": 13000,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 17,
+   "cost": 13500,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 18,
+   "cost": 14000,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 19,
+   "cost": 14500,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 20,
+   "cost": 15000,
+   "time": "1d",
+   "th": 8
+  },
+  {
+   "level": 21,
+   "cost": 17000,
+   "time": "1d",
+   "th": 9
+  },
+  {
+   "level": 22,
+   "cost": 19000,
+   "time": "1d",
+   "th": 9
+  },
+  {
+   "level": 23,
+   "cost": 21000,
+   "time": "1d",
+   "th": 9
+  },
+  {
+   "level": 24,
+   "cost": 23000,
+   "time": "1d",
+   "th": 9
+  },
+  {
+   "level": 25,
+   "cost": 25000,
+   "time": "1d",
+   "th": 9
+  },
+  {
+   "level": 26,
+   "cost": 27000,
+   "time": "2d",
+   "th": 9
+  },
+  {
+   "level": 27,
+   "cost": 29000,
+   "time": "2d",
+   "th": 9
+  },
+  {
+   "level": 28,
+   "cost": 31000,
+   "time": "2d",
+   "th": 9
+  },
+  {
+   "level": 29,
+   "cost": 33000,
+   "time": "2d",
+   "th": 9
+  },
+  {
+   "level": 30,
+   "cost": 35000,
+   "time": "2d",
+   "th": 9
+  },
+  {
+   "level": 31,
+   "cost": 37000,
+   "time": "2d 6h",
+   "th": 10
+  },
+  {
+   "level": 32,
+   "cost": 39000,
+   "time": "2d 6h",
+   "th": 10
+  },
+  {
+   "level": 33,
+   "cost": 41000,
+   "time": "2d 6h",
+   "th": 10
+  },
+  {
+   "level": 34,
+   "cost": 43000,
+   "time": "2d 6h",
+   "th": 10
+  },
+  {
+   "level": 35,
+   "cost": 45000,
+   "time": "2d 6h",
+   "th": 10
+  },
+  {
+   "level": 36,
+   "cost": 47000,
+   "time": "2d 12h",
+   "th": 10
+  },
+  {
+   "level": 37,
+   "cost": 49000,
+   "time": "2d 12h",
+   "th": 10
+  },
+  {
+   "level": 38,
+   "cost": 51000,
+   "time": "2d 12h",
+   "th": 10
+  },
+  {
+   "level": 39,
+   "cost": 53000,
+   "time": "2d 12h",
+   "th": 10
+  },
+  {
+   "level": 40,
+   "cost": 55000,
+   "time": "2d 12h",
+   "th": 10
+  },
+  {
+   "level": 41,
+   "cost": 58000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 42,
+   "cost": 61000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 43,
+   "cost": 64000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 44,
+   "cost": 67000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 45,
+   "cost": 70000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 46,
+   "cost": 73000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 47,
+   "cost": 76000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 48,
+   "cost": 79000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 49,
+   "cost": 82000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 50,
+   "cost": 85000,
+   "time": "3d",
+   "th": 11
+  },
+  {
+   "level": 51,
+   "cost": 86000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 52,
+   "cost": 87000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 53,
+   "cost": 88000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 54,
+   "cost": 89000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 55,
+   "cost": 90000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 56,
+   "cost": 93000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 57,
+   "cost": 96000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 58,
+   "cost": 99000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 59,
+   "cost": 102000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 60,
+   "cost": 105000,
+   "time": "3d",
+   "th": 12
+  },
+  {
+   "level": 61,
+   "cost": 107000,
+   "time": "4d",
+   "th": 12
+  },
+  {
+   "level": 62,
+   "cost": 109000,
+   "time": "4d",
+   "th": 12
+  },
+  {
+   "level": 63,
+   "cost": 111000,
+   "time": "4d",
+   "th": 12
+  },
+  {
+   "level": 64,
+   "cost": 113000,
+   "time": "4d",
+   "th": 12
+  },
+  {
+   "level": 65,
+   "cost": 115000,
+   "time": "4d",
+   "th": 12
+  },
+  {
+   "level": 66,
+   "cost": 117000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 67,
+   "cost": 119000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 68,
+   "cost": 121000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 69,
+   "cost": 123000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 70,
+   "cost": 125000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 71,
+   "cost": 130000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 72,
+   "cost": 135000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 73,
+   "cost": 140000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 74,
+   "cost": 145000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 75,
+   "cost": 150000,
+   "time": "4d",
+   "th": 13
+  },
+  {
+   "level": 76,
+   "cost": 155000,
+   "time": "4d",
+   "th": 14
+  },
+  {
+   "level": 77,
+   "cost": 160000,
+   "time": "4d",
+   "th": 14
+  },
+  {
+   "level": 78,
+   "cost": 165000,
+   "time": "4d",
+   "th": 14
+  },
+  {
+   "level": 79,
+   "cost": 170000,
+   "time": "4d",
+   "th": 14
+  },
+  {
+   "level": 80,
+   "cost": 175000,
+   "time": "4d",
+   "th": 14
+  },
+  {
+   "level": 81,
+   "cost": 180000,
+   "time": "5d",
+   "th": 14
+  },
+  {
+   "level": 82,
+   "cost": 185000,
+   "time": "5d",
+   "th": 14
+  },
+  {
+   "level": 83,
+   "cost": 195000,
+   "time": "5d",
+   "th": 14
+  },
+  {
+   "level": 84,
+   "cost": 205000,
+   "time": "5d",
+   "th": 14
+  },
+  {
+   "level": 85,
+   "cost": 215000,
+   "time": "5d",
+   "th": 14
+  },
+  {
+   "level": 86,
+   "cost": 220000,
+   "time": "6d",
+   "th": 15
+  },
+  {
+   "level": 87,
+   "cost": 230000,
+   "time": "6d",
+   "th": 15
+  },
+  {
+   "level": 88,
+   "cost": 240000,
+   "time": "6d",
+   "th": 15
+  },
+  {
+   "level": 89,
+   "cost": 250000,
+   "time": "6d",
+   "th": 15
+  },
+  {
+   "level": 90,
+   "cost": 255000,
+   "time": "6d",
+   "th": 15
+  },
+  {
+   "level": 91,
+   "cost": 280000,
+   "time": "7d",
+   "th": 16
+  },
+  {
+   "level": 92,
+   "cost": 290000,
+   "time": "7d",
+   "th": 16
+  },
+  {
+   "level": 93,
+   "cost": 300000,
+   "time": "7d",
+   "th": 16
+  },
+  {
+   "level": 94,
+   "cost": 310000,
+   "time": "7d",
+   "th": 16
+  },
+  {
+   "level": 95,
+   "cost": 320000,
+   "time": "7d",
+   "th": 16
+  },
+  {
+   "level": 96,
+   "cost": 340000,
+   "time": "8d",
+   "th": 17
+  },
+  {
+   "level": 97,
+   "cost": 350000,
+   "time": "8d",
+   "th": 17
+  },
+  {
+   "level": 98,
+   "cost": 360000,
+   "time": "8d",
+   "th": 17
+  },
+  {
+   "level": 99,
+   "cost": 370000,
+   "time": "8d",
+   "th": 17
+  },
+  {
+   "level": 100,
+   "cost": 380000,
+   "time": "8d",
+   "th": 17
+  },
+  {
+   "level": 101,
+   "cost": 400000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 102,
+   "cost": 410000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 103,
+   "cost": 420000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 104,
+   "cost": 430000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 105,
+   "cost": 450000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 106,
+   "cost": 460000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 107,
+   "cost": 470000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 108,
+   "cost": 475000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 109,
+   "cost": 485000,
+   "time": "8d",
+   "th": 18
+  },
+  {
+   "level": 110,
+   "cost": 490000,
+   "time": "8d",
+   "th": 18
+  }
+ ],
+ "countsByTH": null,
+ "source": "https://clashofclans.fandom.com/wiki/Barbarian_King",
+ "lastEdited": "2026-06-16T19:46:20Z",
+ "ok": true
+}

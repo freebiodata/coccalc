@@ -1,0 +1,204 @@
+{{Protection}}
+[[File:Greedy Raven info.png|center|250px|link=]]
+
+<center>'''''"No scarecrow is frightning enough to keep Greedy Raven away from shiny loot! This masked bandit's swift feathers target and deal extra damage to {{H|Resource Buildings|resource buildings}} and egos."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Greedy Raven1.png|100x100px|link=]]<div>Level 1-10</div></div>
+</div>
+
+==Summary==
+*The Greedy Raven is the twelfth [[Pets|Pet]] unlocked when the [[Pet House]] is upgraded to level 12, which requires [[Town Hall]] 18.
+*The Greedy Raven appears to be a black raven with yellow irises, with a few purple daggers with a gold spine under his wings. He wears a light purple thief mask with a gold trim around the neck.
+*When deployed, Greedy Raven flies in the air and maintains distance from the paired Hero. He flings his feathers rapidly, targeting {{H|Resource Buildings}} near the Hero first and deals five times the damage to them, usually within 8 tiles from them. If his Hero is knocked out or removed from battle by a [[Recall Spell]], Greedy Raven behaves like a troop that prioritizes Resource Buildings<!--; he may turn and attack enemy [[Troops|units]] if he becomes aware of any nearby and can fight back against them-->.
+
+==Strategies==
+===Offensive Strategies===
+*The Greedy Raven can be a powerful Pet if used correctly, especially in [[Archer Queen|Queen]] or [[Grand Warden|Warden]] Walks or Charges, as the clearing high hitpoints Storages allow him to create a funnel for your main attack and make the walk faster to prevent time fails. He can also act as a Seeking Air Mine absorber, tanking up to 2 Seeking Air Mines if sufficiently leveled, protecting the [[Healer]]s behind. 
+**However, the Greedy Raven has a very long range, and is quite unlikely to go ahead of Healers. It is instead better to use [[Balloon|Balloons]] to protect both Healers and the Greedy Raven. 
+*The Greedy Raven can be used to farm resources if needed, along with other troops like [[Valkyrie]]s or [[Sneaky Goblin]]s and [[Hero Equipment]]s that deal damage.
+
+===Defensive Strategies===
+*{{H|Air Defense}}s are one of the defenses that can take the Greedy Raven down, since he only targets resource buildings, the Air Defense will have no problem to easily take him out, provided that he is within the range of said defense.
+**Other anti-air defenses can also work in this regard, as well as aerial [[Skeleton]]s, as he cannot fight back against them unless all resource buildings are destroyed. All of these can take down the Greedy Raven if defenses are placed correctly.
+**[[Seeking Air Mine]]s are the worst enemy for the Greedy Raven. Place them in areas where the attacker is most likely to deploy, but in a way that it would target a more important unit, such as a Healer.
+
+
+==Statistics==
+<center>
+<div class="stats-background">
+{{Modifiers|type=Pet}}
+{|class="wikitable troop-statistics-table" border="0" cellpadding="1" cellspacing="1" id="minion-table-1" style="text-align: center; width: 100%;"
+!Preferred Target<br/>{{Res|Target}}
+!Targets<br/>{{Res|Target}}
+!Attack Type<br/>{{Res|Damage Type}}
+![[Troop Movement Speed|Movement Speed]]<br/>{{Res|Speed}}
+!Attack Speed<br/>{{Res|Attack Speed}}
+![[Pet House]] Level Required<br/>{{Res|Pet House}}
+!Range<br/>{{Res|Range}}
+!Special Ability<br/>{{Res|Pet Ability}}
+|-
+|Resources (Damage x5)
+|Ground & Air
+|Single Target
+|class="ModifierStat Speed"|28
+|class="AttackSpeed"|0.42s
+|12
+|8 tiles
+|<abbr title="Targets and deals extra damage to resource buildings">Shine Sweep</abbr>
+|}
+{|class="wikitable troop-statistics-table floatheader row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!DPS on [[Resource Buildings]]<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|Dark Elixir}}
+!Upgrade Time<br/>{{Res|Time}}
+!Pet House Level Required<br/>{{Res|Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|110
+|class="ModifierStat DPH"|46.2
+|class="ModifierStat AltDPS"|550
+|class="ModifierStat HP"|2,150
+|N/A
+|N/A
+|12
+|-
+|2
+|class="ModifierStat DPS"|115
+|class="ModifierStat DPH"|48.3
+|class="ModifierStat AltDPS"|575
+|class="ModifierStat HP"|2,300
+|class="GoldPass rCost"|260,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|3
+|class="ModifierStat DPS"|120
+|class="ModifierStat DPH"|50.4
+|class="ModifierStat AltDPS"|600
+|class="ModifierStat HP"|2,450
+|class="GoldPass rCost"|280,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|4
+|class="ModifierStat DPS"|125
+|class="ModifierStat DPH"|52.5
+|class="ModifierStat AltDPS"|625
+|class="ModifierStat HP"|2,600
+|class="GoldPass rCost"|300,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|5
+|class="ModifierStat DPS"|130
+|class="ModifierStat DPH"|54.6
+|class="ModifierStat AltDPS"|650
+|class="ModifierStat HP"|2,750
+|class="GoldPass rCost"|320,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|6
+|class="ModifierStat DPS"|135
+|class="ModifierStat DPH"|56.7
+|class="ModifierStat AltDPS"|675
+|class="ModifierStat HP"|2,900
+|class="GoldPass rCost"|340,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|7
+|class="ModifierStat DPS"|140
+|class="ModifierStat DPH"|58.8
+|class="ModifierStat AltDPS"|700
+|class="ModifierStat HP"|3,050
+|class="GoldPass rCost"|360,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|8
+|class="ModifierStat DPS"|145
+|class="ModifierStat DPH"|60.9
+|class="ModifierStat AltDPS"|725
+|class="ModifierStat HP"|3,200
+|class="GoldPass rCost"|380,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|9
+|class="ModifierStat DPS"|150
+|class="ModifierStat DPH"|63
+|class="ModifierStat AltDPS"|750
+|class="ModifierStat HP"|3,350
+|class="GoldPass rCost"|400,000
+|class="GoldPass rTime"|8d
+|12
+|-
+|10
+|class="ModifierStat DPS"|155
+|class="ModifierStat DPH"|65.1
+|class="ModifierStat AltDPS"|775
+|class="ModifierStat HP"|3,500
+|class="GoldPass rCost"|420,000
+|class="GoldPass rTime"|8d
+|12
+|}
+</div></center>
+
+==Gallery==
+<gallery>
+Greedy Raven info2.png
+Greedy Raven info3.png
+</gallery>
+
+==Audio==<!--
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 500px;"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Greedy Raven select.ogg]]
+|Greedy Raven giggles
+|When the Greedy Raven is selected from the Pet House or is tapped
+|-
+|[[File:Greedy Raven deploy.ogg]]
+|Greedy Raven caws
+|When the Greedy Raven is deployed
+|-
+|[[File:Greedy Raven swipe.ogg]]
+|Greedy Raven throws feathers
+|When the Greedy Raven attacks using soundwaves
+|-
+|[[File:Greedy Raven death.ogg]]
+|Greedy Raven collapses
+|When the Greedy Raven is defeated
+|}-->
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+!February 20, 2026
+|Announced the Greedy Raven, with 10 levels. [[File:Greedy Raven1.png|50px|link=]]
+|-
+!February 23, 2026
+|Added the Greedy Raven.
+|}
+
+==Trivia==
+*In his design, the Greedy Raven consists of mostly black, with some purple on the daggers and mask, and a little yellow in his irises or gold in the dagger feather spine and trim around the mask. These are the colors of the three main {{H|Resource Buildings|resources}}, Gold, Elixir, and Dark Elixir.
+*On the level 12 Pet House, he has collected some Gold, [[Gems]], golden eggs, a [[Life Gem]], and a red diamond ring in his nest and food bowl.
+**The diamond on the ring has a very similar cut to the premium currency of ''Boom Beach'', just slightly redder instead of magenta.
+
+===Comparisons===
+*The Greedy Raven is one of the Pet to be based on a real life animal alongside the [[Electro Owl]], [[Mighty Yak]], [[Frosty]], [[Diggy]], [[Poison Lizard]], [[Spirit Fox]], [[Angry Jelly]], and [[Sneezy]].
+*He has the second highest attack rate of all pets, only behind the [[Poison Lizard]].
+*The Greedy Raven is the only Pet to specifically target resource buildings.
+
+{{TroopsMenuHV}}
+[[Category:Home Village]]
+[[Category:Pets]]
+[[Category:Troops]]
+[[Category:Air Troops]]

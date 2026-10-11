@@ -1,0 +1,74 @@
+{
+ "id": "scattershot",
+ "name": "Scattershot",
+ "category": "defense",
+ "resource": "gold",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 8000000,
+   "time": "5d",
+   "th": 13
+  },
+  {
+   "level": 2,
+   "cost": 9000000,
+   "time": "7d",
+   "th": 13
+  },
+  {
+   "level": 3,
+   "cost": 11000000,
+   "time": "7d 12h",
+   "th": 14
+  },
+  {
+   "level": 4,
+   "cost": 11500000,
+   "time": "8d",
+   "th": 15
+  },
+  {
+   "level": 5,
+   "cost": 12000000,
+   "time": "8d 12h",
+   "th": 16
+  },
+  {
+   "level": 6,
+   "cost": 16500000,
+   "time": "9d",
+   "th": 17
+  },
+  {
+   "level": 7,
+   "cost": 26500000,
+   "time": "15d",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  2,
+  2,
+  2,
+  2,
+  2,
+  2
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Scattershot",
+ "lastEdited": "2026-07-16T10:20:43Z",
+ "ok": true
+}

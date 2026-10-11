@@ -1,0 +1,80 @@
+{
+ "id": "seeking-air-mine",
+ "name": "Seeking Air Mine",
+ "category": "trap",
+ "resource": "gold",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 12000,
+   "time": "0s",
+   "th": 7
+  },
+  {
+   "level": 2,
+   "cost": 600000,
+   "time": "6h",
+   "th": 9
+  },
+  {
+   "level": 3,
+   "cost": 1200000,
+   "time": "1d",
+   "th": 10
+  },
+  {
+   "level": 4,
+   "cost": 2500000,
+   "time": "1d 12h",
+   "th": 13
+  },
+  {
+   "level": 5,
+   "cost": 5000000,
+   "time": "2d",
+   "th": 15
+  },
+  {
+   "level": 6,
+   "cost": 6500000,
+   "time": "3d",
+   "th": 16
+  },
+  {
+   "level": 7,
+   "cost": 12000000,
+   "time": "5d",
+   "th": 17
+  },
+  {
+   "level": 8,
+   "cost": 19000000,
+   "time": "11d 12h",
+   "th": 18
+  }
+ ],
+ "countsByTH": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  1,
+  2,
+  4,
+  5,
+  5,
+  6,
+  7,
+  8,
+  8,
+  8,
+  9,
+  9
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Seeking_Air_Mine",
+ "lastEdited": "2026-05-09T16:32:26Z",
+ "ok": true
+}

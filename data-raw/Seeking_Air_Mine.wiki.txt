@@ -1,0 +1,351 @@
+__NOTOC__ __NOEDITSECTION__
+
+{{Protection}}
+{{For|a similar trap that deals moderate splash damage|Air Bomb}}
+{{For|a similar defense in the Builder Base and [[Clan Capital]] that deals heavy splash damage|Air Bombs}}
+{{For|a similar ground trap that deals massive splash damage|Giga Bomb}}
+[[File:Seeking Air Mine info.png|200px|center|link=]]
+
+<center>
+'''''"Is it a bird? Is it a plane? Well, it makes no difference as the Seeking Air Mine will blow it sky high. This trap does devastating damage to a single [[:Category:Air Troops|air unit]]."'''''
+</center>
+
+----
+{{Toggle|Toggle}}
+<div class="toggle">
+<!--Idle-->
+<div class="active">
+<p class="hidden" style="font-size:large; font-family:Backbeat; text-align:center;">'''Idle'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Seeking Air Mine1.png|90px|link=]]<div>Level 1-2</div></div>
+<div>[[File:Seeking Air Mine3.png|90px|link=]]<div>Level 3-4</div></div>
+<div>[[File:Seeking Air Mine5.png|90px|link=]]<div>Level 5-6</div></div>
+<div>[[File:Seeking Air Mine7.png|82px|link=]]<div>Level 7-8</div></div>
+</div>
+</div>
+<!--End of idle; targeting-->
+<div class="hidden">
+<p style="font-size:large; font-family:Backbeat; text-align:center;">'''Targeting'''</p>
+<div class="flexbox-display bold-text">
+<div>[[File:Seeking Air Mine1 Targeting.png|82px|link=]]<div>Levels 1-2</div></div>
+<div>[[File:Seeking Air Mine3 Targeting.png|82px|link=]]<div>Levels 3-4</div></div>
+<div>[[File:Seeking Air Mine5 Targeting.png|82px|link=]]<div>Levels 5-6</div></div>
+<div>[[File:Seeking Air Mine7 Targeting.png|82px|link=]]<div>Level 7</div></div>
+</div>
+</div>
+<!--End of targeting-->
+</div>
+==Summary==
+*The Seeking Air Mine is a single-target air {{H|Traps|trap}}. It consists of a spiky metallic bomb attached to three black balloons with white skulls painted onto them.
+*While the [[Air Bomb]] is considered as the aerial counterpart of the [[Bomb]], the Seeking Air Mine is considered the aerial counterpart of the {{H|Spring Trap}}, both dealing huge damage to a single target and has the potential to instantly defeat a troop, though it has a larger trigger radius and lacks a stun. 
+*This trap will target air units with at least 5 housing spaces (including [[Healer]]s, [[Siege Machine]]s, [[Heroes]] and [[Pets]]). The only air troops with fewer than 5 housing spaces are [[Minion]]s, [[Lava Pup]]s (and other Pup variations), [[Bat Spell/Bat|Bats]], and [[Sneezy/Booger|Booger]]s, none of which can trigger the Seeking Air Mine, or get affected by it.
+**The [[Angry Jelly]] cannot be targeted by the Seeking Air Mine while it is still brainwashing a Hero.
+**Since the Seeking Air Mine can only target a single unit, unlike the [[Giga Bomb]] and [[Spear Trap]] from [[Clan Capital]], the Seeking Air Mine only counts housing spaces of single troops, rather than summing up.
+*Like all traps, once it is activated, the Seeking Air Mine must be re-armed in order to be a part of the next defense (with the exception of [[Clan Wars]] and in [[Legend League Tournaments|Legend League]], where all traps are active for every enemy attack). Doing so is free and occurs automatically once the player logs into the game.
+
+==Strategies==
+===Defensive Strategies===
+*A good place for the Seeking Air Mine is next to an [[Air Defense]]. When the enemy destroys an Air Defense and then deploys powerful flying units in the vicinity, the Seeking Air Mine can cripple one quickly, if not destroying one.
+*Its inability to be used against [[Minion]]s can work out in favor of the defender. This means that only larger [[Army|troops]], where the Seeking Air Mine has more utility in, such as [[Balloon]]s, can be hit.
+*The player can place it near the outside of their base to quickly take down any Healers that are deployed. However, more skilled players can deploy Balloons to test for Seeking Air Mines and defuse them. Therefore, it might be more advisable to place them deeper in the base, such as behind a row of defenses.
+*It is best used on [[Dragon]]s or any other powerful flying unit. One can even use this to easily take out {{H|Baby Dragon}}s as Baby Dragons are usually deployed without cover from air units.
+*Placing it next to the [[Town Hall]] to stop lone Dragons from destroying it.
+*It is an effective way to counter a [[Grand Warden]] in air mode. They can do devastating damage, or knock him out in one hit if he is lower-leveled. This can be used to either force the attacker to use the Eternal Tome early (at a point in the attack where it is not important), or if the attacker does not react in time, prevent the Eternal Tome from activating at all, reducing the risk of a defensive loss.
+**The same applies to the [[Minion Prince]], although he can tank up to two Seeking Air Mines because of his higher health, given that he is at a higher level.
+**For the [[Dragon Duke]] however, while alone, he can resist Seeking Air Mines, although he can be damaged like normal if nearby aerial units are close enough to him. Even then, because of his extremely high health, it may require multiple Seeking Air Mines to defeat him unless he is already heavily damaged. 
+**If the player has the setting "Automatically use Hero abilities on KO" turned on, the Grand Warden will be able to endure a hit from the Seeking Air Mine regardless of the level provided his ability has not yet been used. If the Seeking Air Mine would defeat him, the Grand Warden will use his ability and survive with barely any health remaining.
+*It can be used to take down a [[Battle Blimp]] that is being used to finish off the Town Hall after a ground or air attack, due to the speed of the Seeking Air Mine being faster. However, this may have adverse effects since the Battle Blimp may spawn the Clan Castle troops in an unfavorable location, such as the P.E.K.K.A right near a Wizard Tower or even the Town Hall itself.
+*At higher Town Hall levels, Seeking Air Mines can greatly reduce the health of aerial [[Siege Machines]], or even destroy them early. The player can spread out Seeking Air Mines in their base, so that they can cover as many possible Siege Machine directions as possible.
+*It is usually not recommended to group together multiple Seeking Air Mines since they will all target the same unit, effectively wasting them.
+**However, at Town Hall 9, where [[Lava Hound]]s are used often with Balloons, double Seeking Air Mines can be placed near two Air Defenses, to greatly damage Lava Hounds and make them more vulnerable to getting taken out early.
+
+===Offensive Strategies===
+*The Balloon is the best choice against this trap, as it occupies only 5 housing space. It gains even more value if too many traps are set off against once since they will all just hit the Balloon for nothing.
+**This is useful in some [[Single Player Campaign|Single Player]] maps where a level can contain hundreds of them as a single Balloon will trigger dozens of Seeking Air Mines and waste them all.
+**In the [[Mashup Mania]] event, the player could also use the [[Ice Minion]], since it is more housing space-efficient.
+***However, since an update, the Seeking Air Mine requires at least 5 housing space to trigger, which means that the Ice Minion can no longer trigger Seeking Air Mines.<sup>[what update?]</sup>
+*Using the Grand Warden's Eternal Tome ability can negate the damage done by the Seeking Air Mine, but if wishing to do so, activate the ability quickly, otherwise, the troop will get heavily damaged, if not get taken out. Success on the attacker's may be advantageous as they will have negated a powerful trap, but usually, the Eternal Tome is better used to negate damage from more dangerous sources, such as a Town Hall's [[Giga Bomb]].
+
+==Upgrade Differences==
+*When initially constructed, the Seeking Air Mine is a spherical, explosive [[wikipedia:Naval mine#Contact mines|contact mine]] made of metal with spikes as triggers and a small red dot at the center, some of which parts are hidden under a trapdoor just like the [[Air Bomb]]. Inside the mine, there is an explosive material, most likely [[wikipedia:TNT|trinitrotoluene]], and produces red smoke as it flies to the target. Three black balloons with white skulls are attached to the mine via a metal handle. When triggered, the mine leaves a red trail and its red dot blinks repeatedly as it intercepts its target, and explodes with a red vertical cloud will appear once it hits, dealing massive damage.
+*At level 3, the spikes on the Seeking Air Mine become bigger and turn golden, and the Seeking Air Mine can be seen more easily within its compartment as it opens up slightly.
+*At level 5, the mine's red dot becomes bigger, and some spikes are replaced in favor of larger ones with metal reinforcements that hold them. When it follows its target, the dot lights up repeatedly.
+*At level 7, the amount of spikes of the mine increases to five at the top, and are bigger in size, with each one resembling a cactus with a spike at the end. The mine itself changes into a grey base with a golden circle at the top. The balloons are now shinier, making them look like a 3D model, in addition to the skulls being slightly changed.
+
+==Statistics==
+<center><div class="stats-background">
+{{GoldPassForm|BuildingHV}}
+{{NumberAvailable||TH7=1|TH8=2|TH9=4|TH10=5|TH12=6|TH13=7|TH14=8|TH17=9}}
+{{BuildingSize|1x1}}
+{|class="wikitable row-highlight" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Level<br/>{{Res|Level}}
+!Damage<br/>{{Res|Damage}}
+![[Resource Buildings#Gold|Cost]]<br />{{Res|Gold}}
+!Build Time<br/>{{Res|Time}}
+![[Experience]] Gained<br/>{{Res|XP}}
+![[Town Hall]] Level Required<br/>{{Res|Town Hall}}
+|-
+|1
+|1,500
+|class="GoldPass bCost"|12,000
+|N/A
+|N/A
+|7
+|-
+|2
+|1,800
+|class="GoldPass bCost"|600,000
+|class="GoldPass bTime"|6h
+|class="GoldPass EXP"|146
+|9
+|-
+|3
+|2,100
+|class="GoldPass bCost"|1,200,000
+|class="GoldPass bTime"|1d
+|class="GoldPass EXP"|293
+|10
+|-
+|4
+|2,500
+|class="GoldPass bCost"|2,500,000
+|class="GoldPass bTime"|1d 12h
+|class="GoldPass EXP"|360
+|13
+|-
+|5
+|2,800
+|class="GoldPass bCost"|5,000,000
+|class="GoldPass bTime"|2d
+|class="GoldPass EXP"|415
+|15
+|-
+|6
+|3,000
+|class="GoldPass bCost"|6,500,000
+|class="GoldPass bTime"|3d
+|class="GoldPass EXP"|509
+|16
+|-
+|7
+|3,200
+|class="GoldPass bCost"|12,000,000
+|class="GoldPass bTime"|5d
+|class="GoldPass EXP"|657
+|17
+|-
+|8
+|3,350
+|class="GoldPass bCost"|19,000,000
+|class="GoldPass bTime"|11d 12h
+|class="GoldPass EXP"|996
+|18
+|}
+
+{|class="wikitable" border="0" cellpadding="1" cellspacing="1" style="text-align: center; width: 100%;"
+!Trigger Radius
+!Damage Type
+!Unit Type Targeted
+!Favorite Target
+|-
+|4 tiles
+|Single Target
+|Air
+|None
+|}
+
+{|cellpadding="1" cellspacing="1" style="width: 100%;text-align:center;"
+|-
+|colspan="8"|<big>'''Unarmed Seeking Air Mine'''</big>
+|-
+|[[File:Seeking_Air_Mine_unarmed.png|link=]]
+|}
+</div>
+</center>
+{{IconDescriptions|Trap=Yes|Upgradable=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Description
+|-
+![https://www.facebook.com/ClashofClans/photos/a.458458120845183/555937704430557/?type=3 February 4, 2013]
+|Announced the Seeking Air Mine.
+|-
+![[Version History/2013#Version 3.25 - 5th February 2013|February 5, 2013]]
+|Added the Seeking Air Mine, with three levels and one is available at Town Hall 7, 8, and 9. [[File:Seeking Air Mine1.png|50px|link=]][[File:Seeking Air Mine3.png|50px|link=]]
+|-
+![[Version History/2013#Version 3.124 - 17th April 2013 "Leagues"|April 17, 2013]]
+|Added the fourth Seeking Air Mine available at Town Hall 9.
+|-
+![[Version History/2013#Version 4.53 - 17th June 2013 "Freeze spell & Japanese"|June 17, 2013]]
+|Added the fifth Seeking Air Mine available at Town Hall 10.
+|-
+![[Version History/2013#Version 5.6.4 - 6th November 2013 "Trap Upgrades"|November 6, 2013]]
+|
+*Decreased trigger radius to 4 tiles. {{Res|Radius}}
+*Seeking Air Mines now cost Gold instead of Dark Elixir. {{Res|Gold}}
+*Seeking Air Mines can be re-armed instead of despawning upon activation.
+|-
+![[Version History/2015#Version 7.1.1 - 24th February 2015 "Clans Are Leveling Up!"|February 24, 2015]]
+|Seeking Air Mines can no longer be triggered by Healers.
+|-
+!August 25, 2016
+|Seeking Air Mines can be triggered by Healers again.
+|-
+![[Version History/2018#Version 10.322.4 (?) - 11th June 2018 "Town Hall 12"|June 11, 2018]]
+|Added the sixth Seeking Air Mine available at Town Hall 12.
+|-
+![[Version History/2019#Version 11.??? - 2nd April 2019|April 2, 2019]]
+|Removed re-arm costs for the Seeking Air Mine entirely (as with all traps and reloadable defenses), instead automatically re-arming after logging into the game. {{Res|Gold}}
+|-
+![[Version History/2019#Version 13.0.1 - 9th December 2019|December 9, 2019]]
+|
+*Added the level 4 Seeking Air Mine.
+*Added the seventh Seeking Air Mine available at Town Hall 13.
+|-
+![[Version History/2020#Version 13.? - 30th March 2020|March 30, 2020]]
+|Reduced upgrade costs at levels 2 and 3:
+*Level 2: 2,000,000 -> 1,500,000 {{Res|Gold}}
+*Level 3: 4,000,000 -> 3,000,000 {{Res|Gold}}
+|-
+![[Version History/2021#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+|
+*Added the eighth Seeking Air Mine available at Town Hall 14.
+*Reduced upgrade costs at levels 2 and 3:
+**Level 2: 1,500,000 -> 1,000,000 {{Res|Gold}}
+**Level 3: 3,000,000 -> 2,500,000 {{Res|Gold}}
+|-
+![[Version History/2021#Balance Changes - 12th August 2021|August 12, 2021]]
+|Increased speed from 2.5 tiles/s to 3.5 tiles/s.
+|-
+![[Version History/2022#May 2022 Clan Capital Update - Version 14.x - 2nd May 2022|May 2, 2022]]
+|Increased damage at level 4 from 2,400 to 2,500. {{Res|Damage}}
+|-
+![[Version History/2022#Version 15.0.1 - 10th October 2022|October 10, 2022]]
+|
+*Reduced upgrade costs at levels 3 and 4:
+**Level 3: 2,500,000 -> 2,100,000 {{Res|Gold}}
+**Level 4: 6,000,000 -> 4,500,000 {{Res|Gold}}
+*Reduced upgrade time at level 4 from 7d to 5d 6h. {{Res|Time}}
+|-
+![[Version History/2023#Version v15.352.5 - June 12, 2023 Summer update|June 12, 2023]]
+|
+*Added the level 5 Seeking Air Mine. [[File:Seeking Air Mine5.png|50px|link=]]
+*Reduced upgrade cost at level 4 from 4,500,000 to 3,600,000. {{Res|Gold}}
+*Reduced upgrade time at level 4 from 5d 6h to 4d 6h. {{Res|Time}}
+|-
+![[Version History/2023#TH16 Update - December 12, 2023 Full Patch Notes|December 12, 2023]]
+|
+*Reduced upgrade costs at levels 2 to 4:
+**Level 2: 1,000,000 -> 900,000 {{Res|Gold}}
+**Level 3: 2,100,000 -> 1,600,000 {{Res|Gold}}
+**Level 4: 3,600,000 -> 3,100,000 {{Res|Gold}}
+*Reduced upgrade times at levels 2 to 4:
+**Level 2: 1d -> 12h {{Res|Time}}
+**Level 3: 3d -> 1d {{Res|Time}}
+**Level 4: 4d 6h -> 3d {{Res|Time}}
+|-
+![[Version History/2024#February 2024 Update - Patch Notes|February 27, 2024]]
+|Added the level 6 Seeking Air Mine.
+|-
+![[Version History/2024#June Update: Full Patch Notes - Jun 18, 2024|June 18, 2024]]
+|
+*Reduced upgrade cost at level 5 from 10,000,000 to 8,000,000. {{Res|Gold}}
+*Reduced upgrade time at level 5 from 10d to 6d 12h. {{Res|Time}}
+|-
+![[Version History/2024#THE TOWN HALL 17 UPDATE IS HERE! - Nov 25, 2024|November 25, 2024]]
+|
+*Added the level 7 Seeking Air Mine. [[File:Seeking Air Mine7.png|50px|link=]]
+*Added the ninth Seeking Air Mine available at Town Hall 17.
+*Reduced build costs at levels 1, 5, and 6:
+**Level 1: 15,000 -> 12,000 {{Res|Gold}}
+**Level 5: 8,000,000 -> 6,000,000 {{Res|Gold}}
+**Level 6: 14,000,000 -> 10,500,000 {{Res|Gold}}
+*Reduced upgrade times at levels 5 and 6:
+**Level 5: 6d 12h -> 5d {{Res|Time}}
+**Level 6: 12d 12h -> 9d 6h {{Res|Time}}
+|-
+![[Version History/2025#Welcome to Clash Anytime Update! - Mar 24, 2025|March 24, 2025]]
+|
+*Trigger housing space increased from 4 to 5.
+*Reduced build costs at levels 2 to 6:
+**Level 2: 900,000 -> 600,000 {{Res|Gold}}
+**Level 3: 1,600,000 -> 1,200,000 {{Res|Gold}}
+**Level 4: 3,100,000 -> 2,500,000 {{Res|Gold}}
+**Level 5: 6,000,000 -> 5,000,000 {{Res|Gold}}
+**Level 6: 10,500,000 -> 6,500,000 {{Res|Gold}}
+*Reduced upgrade times at levels 4 to 6:
+**Level 4: 3d -> 2d {{Res|Time}}
+**Level 5: 5d -> 4d {{Res|Time}}
+**Level 6: 9d 6h -> 5d {{Res|Time}}
+|-
+![[Version History/2025#Get Ready for Ranked Update! - Oct 6, 2025|October 6, 2025]]
+|Reduced upgrade times at levels 4 to 6:
+*Level 4: 2d -> 1d 12h {{Res|Time}}
+*Level 5: 4d -> 3d {{Res|Time}}
+*Level 6: 5d -> 4d 12h{{Res|Time}}
+|-
+![[Version History/2025#TOWN HALL 18 Crash Lands! - Update - Nov 17, 2025|November 17, 2025]]
+|
+*Reduced upgrade cost at level 7 from 14,000,000 to 12,000,000. {{Res|Gold}}
+*Reduced upgrade time at level 7 from 10d to 5d 12h. {{Res|Time}}
+|-
+!February 23, 2026
+|Added the level 8 Seeking Air Mine.
+|}
+
+==Audio==
+{|style="text-align: center; width: 100%;" class="wikitable" border="0" cellpadding="1" cellspacing="1"
+!Sound Effect!!Captions!!Description
+|-
+|[[File:Trap activate.ogg]]
+|Trap triggered
+|When an air unit triggers the Seeking Air Mine
+|-
+|[[File:AirBomb activate.ogg]]
+|Seeking Air Mine seeks
+|Plays when the Seeking Air Mine follows its target
+|-
+|[[File:CannonCart impact.ogg]]
+|Seeking Air Mine explodes
+|When the Seeking Air Mine hits an aerial unit
+|-
+|[[File:Rearm Trap.ogg]]
+|Trap re-armed
+|Plays when the Seeking Air Mine is re-armed (became unused since the April 2, 2019 update)
+|}
+
+==Gallery==
+===Short Animations===
+<div class="flexbox-display normal-text">
+<div>[[File:Seeking Air Mine InAction.gif|230px|link=]]</div>
+</div>
+
+===Images===
+<gallery>
+File:SeekingMineChinese.png|Seeking Air Mine in the Chinese version (note that this version has the skulls removed)
+</gallery>
+
+==Trivia==
+*The Seeking Air Mine appears to come out of its compartment and then hits an air troop, causing a small, red vertical flash.
+*The Seeking Air Mine is heavier than an [[Air Bomb]], as it needs three balloons to carry it, which is most likely that the spiky metal ball has more weight than a wooden barrel.
+*The Seeking Air Mine shares its initials with the Surface-to-Air Missile. Both are powerful, grounded explosives that devastate singular aerial units but are ineffective when enemies come in larger numbers, and are not used against weak aerial threats.
+*After hitting an aerial unit, the bomb the balloons hold disappears, leaving deflated black balloons instead of an exploded one when triggered and viewed after a battle or when upgrading the trap. The same applies to the Air Bomb, but the colors are red.
+*The Seeking Air Mine's description is a reference to the musical "It's a Bird, It's a Plane, It's Superman".
+
+===Comparisons===
+*The Seeking Air Mine is the only trap that can knock out the [[Grand Warden]] set to air mode in one hit, provided that the Seeking Air Mine is max-leveled and the Grand Warden is not equipped with Equipment that increases his max health.
+*The Seeking Air Mine has the highest damage out of all the traps.
+*The Seeking Air Mine, the Spring Trap, and the [[Skeleton Trap]] are the only traps that do not do splash damage.
+
+{{BuildingsMenuHV}}
+
+[[ru:Мина воздушного поиска]]
+[[de:Suchende Luftmine]]
+[[es:Mina de Rastreo Aérea]]
+[[fr:Mine chercheuse]]
+[[nl:Luchtmijnzoeker]]
+[[pl:Seeking Air Mine]]
+[[zh:搜空地雷]]
+[[Category:Traps]]
+[[Category:Home Village]]

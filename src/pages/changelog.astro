@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { DATA_SNAPSHOT_DATE, MAX_TH } from '@data/game';
+
+const title = 'Changelog | CoCPlanner';
+const description = 'Every change to CoCPlanner: data rechecks, new calculators, fixes and page updates.';
+---
+<BaseLayout title={title} description={description} canonical="/changelog/" activeNav="">
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Changelog' }]} />
+
+  <div class="page-hero">
+    <h1>Changelog</h1>
+    <p class="value-line">Real, dated changes only. No cosmetic date bumps.</p>
+  </div>
+
+  <section class="section card">
+    <h2><Icon name="sparkles" size={20} /> 2026-10-11: launch</h2>
+    <ul>
+      <li>First public release of CoCPlanner on coccalc.top with four calculators: upgrade cost, upgrade time planner, time to max and wall costs.</li>
+      <li>Data snapshot of the Clash of Clans Wiki ({DATA_SNAPSHOT_DATE}) covering TH1 through TH{MAX_TH}: all home village buildings and traps, walls, heroes, pets, and full laboratory research tables for troops and spells.</li>
+      <li>Published the <a href="/cost-to-max/">cost to max tables</a> for every Town Hall level and the <a href="/guides/upgrade-priority/">upgrade priority guide</a>.</li>
+      <li>Math covered by unit tests (builder scheduling, segment totals, known upgrade paths) in the public repository.</li>
+    </ul>
+
+    <h2><Icon name="list" size={20} /> Backlog</h2>
+    <ul class="small">
+      <li>Builder Base calculators (most requested).</li>
+      <li>Per-building priority lists inside the time planner.</li>
+      <li>Loot-rate aware finish dates (farming income model).</li>
+    </ul>
+  </section>
+</BaseLayout>

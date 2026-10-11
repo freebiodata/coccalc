@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { TOOLS, FOOTER_LINKS } from '@data/meta';
+
+const title = 'Sitemap | CoCPlanner';
+const description = 'Every page on CoCPlanner: calculators, cost tables, guides and site pages.';
+---
+<BaseLayout title={title} description={description} canonical="/sitemap/" activeNav="">
+  <Breadcrumbs items={[{ name: 'Home', href: '/' }, { name: 'Sitemap' }]} />
+
+  <div class="page-hero">
+    <h1>Sitemap</h1>
+    <p class="value-line">Every page on CoCPlanner, one screen.</p>
+  </div>
+
+  <section class="section card">
+    <h2><Icon name="calculator" size={20} /> Calculators</h2>
+    <ul>
+      <li><a href="/">Home</a></li>
+      {TOOLS.map((t) => (
+        <li><a href={t.slug}>{t.name}</a></li>
+      ))}
+    </ul>
+    <h2><Icon name="book-open" size={20} /> Data and guides</h2>
+    <ul>
+      <li><a href="/cost-to-max/">Cost to max each town hall level</a></li>
+      <li><a href="/guides/upgrade-priority/">What to upgrade first in Clash of Clans</a></li>
+      <li><a href="/methodology/">Data and methods</a></li>
+    </ul>
+    <h2><Icon name="map" size={20} /> Site</h2>
+    <ul>
+      {FOOTER_LINKS.map((l) => (
+        <li><a href={l.href}>{l.label}</a></li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

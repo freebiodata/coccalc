@@ -1,0 +1,577 @@
+__NOEDITSECTION__
+
+{{Protection}}
+{{For|the Builder Base version|Gold Mine/Builder Base}}
+[[File:Gold Mine17.png|200px|center|link=]]
+
+<center>
+
+'''''"The Gold Mine produces [[Resources#Gold|gold]]. Upgrade it to boost its production and gold storage capacity."'''''
+</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Gold Mine1.png|100px|link=]]<div>Level 1</div></div>
+<div>[[File:Gold Mine2.png|100px|link=]]<div>Level 2</div></div>
+<div>[[File:Gold Mine3.png|100px|link=]]<div>Level 3</div></div>
+<div>[[File:Gold Mine4.png|100px|link=]]<div>Level 4</div></div>
+<div>[[File:Gold Mine5.png|100px|link=]]<div>Level 5</div></div>
+<div>[[File:Gold Mine6.png|100px|link=]]<div>Level 6</div></div>
+<div>[[File:Gold Mine7.png|100px|link=]]<div>Level 7</div></div>
+<div>[[File:Gold Mine8.png|100px|link=]]<div>Level 8</div></div>
+<div>[[File:Gold Mine9.png|100px|link=]]<div>Level 9</div></div>
+<div>[[File:Gold Mine10.png|100px|link=]]<div>Level 10</div></div>
+<div>[[File:Gold Mine11.png|100px|link=]]<div>Level 11</div></div>
+<div>[[File:Gold Mine12.png|100px|link=]]<div>Level 12</div></div>
+<div>[[File:Gold Mine13.png|100px|link=]]<div>Level 13</div></div>
+<div>[[File:Gold Mine14.png|100px|link=]]<div>Level 14</div></div>
+<div>[[File:Gold Mine15.png|100px|link=]]<div>Level 15</div></div>
+<div>[[File:Gold Mine16.png|100px|link=]]<div>Level 16</div></div>
+<div>[[File:Gold Mine17.png|100px|link=]]<div>Level 17</div></div>
+</div>
+
+==Summary==
+*The Gold Mine collects [[Resources#gold|Gold]] from an unlimited underground reserve and stores it until collected by the player and placed into a {{H|Gold Storage}}. When the mine is full, production will be stopped until it is collected (or [[raids|raided]] by an enemy player).
+*The production rate and storage capacity depend on the level of the Gold Mine. One can estimate the amount of [[resources]] in the mine by looking at the small cart at the right side of the mine.
+*The Gold Mine takes up a 3x3 space.
+*When you choose to upgrade a Gold Mine, it will automatically collect any uncollected Gold. Note that if your Gold Storages are full at that time, the uncollected Gold will be lost. During the upgrade, the mine temporarily stops producing Gold.
+*Tapping on a gold mine when the gold icon is up collects all gold from all the Gold Mines in your base.
+*Once the Gold Mine has been upgraded to level 5, you can temporarily boost its production with [[Gems]] or a {{MagicItem|Resource Potion}}. Spending Gems will double the Mine's production for one day, while using a Resource Potion will double all Home Village resource collectors' production rate for one day. When you click to boost the Gold Mine, a clock appears for a few seconds.
+**Level 1 to 4 Gold Mines cannot be boosted with Gems, but can still be boosted using a Resource Potion. However, you can only use the potion if you have a collector that can be boosted with Gems (either a level 5 or higher Gold Mine or Elixir Collector, or any level of [[Dark Elixir Drill]]).
+**If you upgrade the Gold Mine while a boost is active, the boost will end prematurely, even if the upgrade is later cancelled (or completes) at a time where the boost would have been active.
+
+==Strategies==
+===Offensive Strategies===
+*Pay careful attention to the location of Elixir Collectors when planning your attack, as Gold Mines are usually only marginally protected and can be quite lucrative, especially at high levels. Many times a single [[Archer]] can be placed in such a way that it can destroy a Gold Mine while standing clear of any {{H|Defensive Buildings|defenses}}}, unless if it is stalled forever by a Battle Builder repairing the collector when it is in the healing range of a weaponized Builder's Hut. Alternatively, if you are at Town Hall 11 or higher, a single [[Sneaky Goblin]] can often destroy an Gold Mine without getting detected.
+*If you see a round number of Gold in a [[Raids|raid]], it is most likely going to be in the Gold Mines rather than in the {{H|Gold Storage}}s (example 90,000). Although round numbers can occur in Gold Storages, they happen much more often when Gold Storages have been completely emptied by previous raids, and the resultant [[Shields|shield]] has allowed the Gold Mines to fill up completely.
+*Make sure you target carefully, as Gold Mines tend to lure your [[troops]] away from what you intend to attack, ex. a {{H|Cannon}} or the [[Dark Elixir Storage]].
+
+===Defensive Strategies===
+*It's a good idea to put your Gold Mines outside of your {{H|Walls}}, so they can act as a distraction to [[Troops|units]] with no preferred target such as [[Barbarian]]s and [[Archer]]s.
+*Attackers can steal up to 50% of the uncollected Gold in your mine. Having too many uncollected [[resources]] will make you a more attractive target.
+*If a Gold Mine is destroyed in an attack while it is being upgraded, no Gold will be lost, as the mine is empty during this time.
+*When you are farming for resources, it is a good idea to put all or some of your Gold Mines and {{H|Elixir Collector}}s in your Walls, so people can't steal uncollected resources as easily.
+**It is better to place higher level collectors inside of Walls, as they will produce more Gold and are more valuable than the other Gold Mines.
+**There is no need to protect them in your war base, as people cannot take your loot anyway.
+
+==Upgrade Differences==
+The Gold Mine undergoes significant visual changes at levels 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 and 17.
+
+*When initially constructed, the Gold Mine consists of a somewhat dilapidated wooden structure covering a set of narrow rails diving deep within the earth, with the side having diagonal wood pieces, and the top having some crooked ones horizontally across, not covering the entrance of the mine properly. There is a tiny stone rubble pile on the edge of the structure. A very faint glow emits from the mine. A rail cart with blue wheels filled with gold periodically arrives and dumps its contents into a small wooden repository by tilting to the left, then it re-enters the mine. This process repeats until the Gold Mine is being upgraded or is full.
+**At level 2, the Gold Mine appears to be fully repaired, with more wood pieces placed haphazardly over the top vertically, and held in place by two set of ropes reinforcing it. The rubble pile grows slightly. The light from the mine becomes more noticeable.
+**At level 3, a third set of ropes is added and the wood pieces on top is arranged properly. The rubble pile grows to a noticeable size. 
+**At level 4, a fourth set of ropes is added. The rubble pile outside the mine grows even more. The light from the mine glows slightly brighter once again.
+**At level 5, the wood pieces have been replaced with ones that have a uniform cut. The ropes are replaced with a blue-gray steel bar being riveted down with small bronze rivets. A stone foundation replaces the rubble pile in front of the mine, still having some jagged edges. The light emanating from the mine grows significantly more brighter and a steel reinforcement is added at the back.
+**At level 6, another set of ropes is added to the back while the steel bar is moved up a bit.
+**At level 7, the steel bar grows in width and the rivets are removed, and yet another set of ropes is added to the back. The foundation also increases in height in stages and is fully smooth now. The steel reinforcement in the mine grows taller and the wooden structure of the mine is replaced with metal.
+**At level 8, another wide steel bar is added replacing the ropes, and both bars are riveted on the side. The furthest wood piece of the top is flipped up to make place and support a small pulley system on the top right part of the mine, complete with a track being held in place by the metal bars for the cable. The cable can be seen inside the mine. Two small stone protrusions appear on each side of the mine.
+**At level 9, the back steel bar has a new rivet, an unused axle is added on the back bar across the whole top with a wood piece holding it up. The pulley wheel itself grows larger, the metal structure holding its axle gets wider placed and shifted the third wood piece on top in between it and the wheel. The two protrusions are taller and their base is reinforced.
+**At level 10, the wood piece ceiling and steel bars are made taller, covering the pulley system entirely, with two more steel bars riveted on top, perpendicular to the other two. The pulley system now rest on the metal structure of the mine, a bigger gear is added to axle with the wheel and a smaller is placed on the unused axle of the back. The corners gain spiked metal plates, and the light shines even brighter. The protrusions are replaced with screws holding the reinforcement in place. 
+**At level 11, the steel bars on the top are replaced by a riveted steel panel with an opening, with a large gear is added to the top of the mine and its axle place across the plate. The gear itself has a section in the back with a track, pulling two cables; a second pulley wheel is added next to the original one, each pulling one cable. The spiked metal plates at each corner connect to each other with a few more spikes at the sides.
+**At level 12, the rivets on the steel bar have moved up and get bigger as the mine is made slightly taller, metal plates have been added under the steel bar. The metal panel turns into a black metal, with handlebars added on each end of the axle. All gears turn golden, the top gear is flipped, consisting of a bigger and wider one at the back and a new gear that is smaller in the front, with two cables between them. The bottom gear gets bigger and wider as well, with an extra one in front which is smaller, and a three pulley wheel is added next to the two, also pulling its own cable. The corner plates no longer connect to the side and is made with black metal. The light becomes significantly brighter.
+**At level 13, the rivets on the metal bars turn golden, and the one on top are removed but the handlebar gains a small amount of gold at the connection. The corner plates of the mine is replaced with a two-staged black metal plates, while the side plates become smaller and also made of black metal, all the spikes are removed.
+**At level 14, the the front metal bar is replaced with black metal and the back becomes much darker, with most of the rivets removed besides one from the front bar. The top metal panel is removed and the top axle now host a long spiral gear with a small gold gear with a black rivet in front and black gear in the back. A track also exist in the front pulling a belt, while the back has two larger wheels with ropes, both connecting to the lower set of pulleys. The lower gears are replaced with one large, protruding gear in the middle, the belt track in front, and three pulley wheels in the back, with the final one leading into the mine. The corner plates are replaced with grey gradient stone.
+**At level 15, the axles each has a new pulley in the front being connected with a belt, placed beyond the iron bar thus embedded it into the pulley system. The front gear of the top axle is completely gold, and the bottom one gain a slightly bigger golden gear with a black metal core and gold rivet. The corner plates are replaced with purplish-grey metal with a groove in the middle and gold reinforcement on the front of the mine and the side plate gain a shorter golden plate.
+**At level 16, the main protruding gear is split into two, the front gear of the top axle has a black metal core and a smaller rivet, the bottom one is thicker, and a gold gear is added at the end of each axle. The belt is more grey and less shiny and the cable is made of hemp. The corner plates are now made of grey metal for the top half and gold at the bottom with two spikes each.
+**At level 17, the two protruding gears on the left and one on the right are encased in thick metal plating.
+
+==Statistics==
+<div class="stats-background">
+<center>
+{{Modifiers|type=CollectorHV}}
+{{NumberAvailable||TH1=1||TH2=2||TH3=3||TH4=4||TH5=5||TH6=6||TH9=7}}
+{{BuildingSize|3x3}}
+
+{|class="wikitable building-statistics-table" border="0" cellpadding="1" cellspacing="1" id="goldmine-table-1" style="text-align: center; width: 100%; margin: 0px auto;"
+!data-type="level"|Level<br />{{Res|Level}}
+!data-type="capacity"|[[Resources#Gold|Capacity]]<br />{{Res|Gold}}
+!data-type="production"|Production Rate<br />{{Res|Gold}}
+!data-type="hitpoints"|Hitpoints<br />{{Res|Hitpoint}}
+!data-type="boost cost"|[[Resources#Gems|Boost Cost]]<br />{{Res|Gem}}
+!data-type="time to fill"|Time to Fill
+!data-type="upgrade cost"|[[Resources#Elixir|Build Cost]]<br />{{Res|RES = Elixir}}
+!data-type="upgrade time"|Build Time<br />{{Res|Time}}
+!data-type="experience gained"|[[Experience]] Gained<br />{{Res|RES = XP}}
+!data-type="catch-up point"|Catch-Up Point*
+!data-type="required town hall"|[[Town Hall]] Level Required<br />{{Res|Town Hall}}
+|-
+|1
+|class="GoldPass LootCapacity"|1,000
+|class="GoldPass ProductionRate"|200/hr
+|75
+|N/A
+|class="GoldPass FillTime" style="white-space: nowrap;"|5h
+|class="GoldPass bCost"|150
+|class="GoldPass bTime" style="white-space: nowrap;"|5s
+|class="GoldPass EXP"|2
+|style="white-space: nowrap;"|N/A
+|1
+|-
+|2
+|class="GoldPass LootCapacity"|2,000
+|class="GoldPass ProductionRate"|400/hr
+|150
+|N/A
+|class="GoldPass FillTime" style="white-space: nowrap;"|5h
+|class="GoldPass bCost"|300
+|class="GoldPass bTime" style="white-space: nowrap;"|15s
+|class="GoldPass EXP"|3
+|class="GoldPass catchUp" style="white-space: nowrap;"|15s
+|1
+|-
+|3
+|class="GoldPass LootCapacity"|3,000
+|class="GoldPass ProductionRate"|600/hr
+|300
+|N/A
+|class="GoldPass FillTime" style="white-space: nowrap;"|5h
+|class="GoldPass bCost"|700
+|class="GoldPass bTime" style="white-space: nowrap;"|1m
+|class="GoldPass EXP"|7
+|class="GoldPass catchUp" style="white-space: nowrap;"|2m
+|class="change-highlight"|2
+|-
+|4
+|class="GoldPass LootCapacity"|5,000
+|class="GoldPass ProductionRate"|800/hr
+|400
+|N/A
+|class="GoldPass FillTime" style="white-space: nowrap;"|6h 15m
+|class="GoldPass bCost"|1,400
+|class="GoldPass bTime" style="white-space: nowrap;"|2m
+|class="GoldPass EXP"|10
+|class="GoldPass catchUp" style="white-space: nowrap;"|6m
+|2
+|-
+|5
+|class="GoldPass LootCapacity"|10,000
+|class="GoldPass ProductionRate"|1,000/hr
+|500
+|4
+|class="GoldPass FillTime" style="white-space: nowrap;"|10h
+|class="GoldPass bCost"|3,000
+|class="GoldPass bTime" style="white-space: nowrap;"|5m
+|class="GoldPass EXP"|17
+|class="GoldPass catchUp" style="white-space: nowrap;"|20m
+|class="change-highlight"|3
+|-
+|6
+|class="GoldPass LootCapacity"|20,000
+|class="GoldPass ProductionRate"|1,300/hr
+|550
+|5
+|class="GoldPass FillTime" style="white-space: nowrap;"|15h 23m 5s
+|class="GoldPass bCost"|7,000
+|class="GoldPass bTime" style="white-space: nowrap;"|15m
+|class="GoldPass EXP"|30
+|class="GoldPass catchUp" style="white-space: nowrap;"|50m
+|3
+|-
+|7
+|class="GoldPass LootCapacity"|30,000
+|class="GoldPass ProductionRate"|1,600/hr
+|600
+|6
+|class="GoldPass FillTime" style="white-space: nowrap;"|18h 45m
+|class="GoldPass bCost"|14,000
+|class="GoldPass bTime" style="white-space: nowrap;"|30m
+|class="GoldPass EXP"|42
+|class="GoldPass catchUp" style="white-space: nowrap;"|2h 10m
+|class="change-highlight"|4
+|-
+|8
+|class="GoldPass LootCapacity"|50,000
+|class="GoldPass ProductionRate"|1,900/hr
+|660
+|7
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 2h 18m 57s
+|class="GoldPass bCost"|28,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1h
+|class="GoldPass EXP"|60
+|class="GoldPass catchUp" style="white-space: nowrap;"|5h 20m
+|4
+|-
+|9
+|class="GoldPass LootCapacity"|75,000
+|class="GoldPass ProductionRate"|2,200/hr
+|720
+|8
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 10h 5m 27s
+|class="GoldPass bCost"|56,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1h 30m
+|class="GoldPass EXP"|73
+|class="GoldPass catchUp" style="white-space: nowrap;"|9h 30m
+|class="change-highlight"|5
+|-
+|10
+|class="GoldPass LootCapacity"|100,000
+|class="GoldPass ProductionRate"|2,800/hr
+|780
+|9
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 11h 42m 52s
+|class="GoldPass bCost"|75,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2h
+|class="GoldPass EXP"|84
+|class="GoldPass catchUp" style="white-space: nowrap;"|7h 20m
+|5
+|-
+|11
+|class="GoldPass LootCapacity"|150,000
+|class="GoldPass ProductionRate"|3,500/hr
+|860
+|10
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 18h 51m 26s
+|class="GoldPass bCost"|85,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3h
+|class="GoldPass EXP"|103
+|class="GoldPass catchUp" style="white-space: nowrap;"|12h
+|class="change-highlight"|7
+|-
+|12
+|class="GoldPass LootCapacity"|200,000
+|class="GoldPass ProductionRate"|4,200/hr
+|960
+|10
+|class="GoldPass FillTime" style="white-space: nowrap;"|1d 23h 37m 9s
+|class="GoldPass bCost"|170,000
+|class="GoldPass bTime" style="white-space: nowrap;"|4h
+|class="GoldPass EXP"|120
+|class="GoldPass catchUp" style="white-space: nowrap;"|20h
+|8
+|-
+|13
+|class="GoldPass LootCapacity"|250,000
+|class="GoldPass ProductionRate"|4,900/hr
+|1,080
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 3h 1m 14s
+|class="GoldPass bCost"|400,000
+|class="GoldPass bTime" style="white-space: nowrap;"|5h
+|class="GoldPass EXP"|134
+|class="GoldPass catchUp" style="white-space: nowrap;"|1d 6h
+|10
+|-
+|14
+|class="GoldPass LootCapacity"|300,000
+|class="GoldPass ProductionRate"|5,600/hr
+|1,180
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 5h 34m 18s
+|class="GoldPass bCost"|800,000
+|class="GoldPass bTime" style="white-space: nowrap;"|6h
+|class="GoldPass EXP"|146
+|class="GoldPass catchUp" style="white-space: nowrap;"|1d 18h
+|11
+|-
+|15
+|class="GoldPass LootCapacity"|350,000
+|class="GoldPass ProductionRate"|6,300/hr
+|1,280
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|1,200,000
+|class="GoldPass bTime" style="white-space: nowrap;"|10h
+|class="GoldPass EXP"|189
+|class="GoldPass catchUp" style="white-space: nowrap;"|3d 8h
+|12
+|-
+|16
+|class="GoldPass LootCapacity"|385,000
+|class="GoldPass ProductionRate"|7,000/hr
+|1,350
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|1d
+|class="GoldPass EXP"|293
+|class="GoldPass catchUp" style="white-space: nowrap;"|9d
+|14
+|-
+|17
+|class="GoldPass LootCapacity"|420,000
+|class="GoldPass ProductionRate"|7,560/hr
+|1,400
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2d
+|class="GoldPass EXP"|415
+|class="GoldPass catchUp" style="white-space: nowrap;"|25d
+|16
+|}
+
+===[[Supercharge]]s===
+These additional levels can be attained at Town Hall 18 once the maximum level of the building has been attained. These Supercharges will be removed when a new level is added.
+{{Supercharge}}
+{|class="wikitable building-statistics-table" border="0" cellpadding="1" cellspacing="1" id="elixircollector-table-1" style="text-align: center; width: 100%; margin: 0px auto;"
+!data-type="level"|Charge Level<br />{{Res|Supercharge}}
+!data-type="capacity"|[[Resources#Gold|Capacity]]<br />{{Res|Gold}}
+!data-type="production"|Production Rate<br />{{Res|Gold}}
+!data-type="hitpoints"|Hitpoints<br />{{Res|Hitpoint}}
+!data-type="boost cost"|[[Resources#Gems|Boost Cost]]<br />{{Res|Gem}}
+!data-type="time to fill"|Time to Fill<br />{{Res|Time}}
+!data-type="upgrade cost"|[[Resources#Elixir|Build Cost]]<br />{{Res|RES = Elixir}}
+!data-type="upgrade time"|Build Time<br />{{Res|Time}}
+!data-type="experience gained"|[[Experience]] Gained<br />{{Res|RES = XP}}
+!data-type="catch-up point"|Catch-Up Point*
+!data-type="required town hall"|[[Town Hall]] Level Required<br />{{Res|Town Hall}}
+|-
+|1
+|class="GoldPass LootCapacity change-highlight"|436,500
+|class="GoldPass ProductionRate change-highlight"|7,857/hr
+|1,400
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|1,700,000
+|class="GoldPass bTime" style="white-space: nowrap;"|2d
+|class="GoldPass EXP"|415
+|class="GoldPass catchUp" style="white-space: nowrap;"|50d 21h 49m 6s
+|18
+|-
+|2
+|class="GoldPass LootCapacity change-highlight"|453,000
+|class="GoldPass ProductionRate change-highlight"|8,154/hr
+|1,400
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|1,500,000
+|class="GoldPass bTime" style="white-space: nowrap;"|3d
+|class="GoldPass EXP"|509
+|class="GoldPass catchUp" style="white-space: nowrap;"|79d 8h 43m 39s
+|18
+|-
+|3
+|class="GoldPass LootCapacity"|453,000
+|class="GoldPass ProductionRate"|8,154/hr
+|class="change-highlight"|1,450
+|11
+|class="GoldPass FillTime" style="white-space: nowrap;"|2d 7h 33m 20s
+|class="GoldPass bCost"|1,300,000
+|class="GoldPass bTime" style="white-space: nowrap;"|4d
+|class="GoldPass EXP"|587
+|style="white-space: nowrap;"|N/A
+|18
+|}
+</center>
+<p style="margin-left: 16px; text-indent: -9px;">&#42; The ''Catch-Up Point'' is the time at which the newly upgraded Gold Mine has equaled the total production of the mine ''had it not been upgraded'' - this does not consider recovering the cost of the [[Resources#Elixir|Elixir]] required to perform the upgrade. Or, in easier to understand terms, the catch-up point is the amount of time it would take to get the resources it ''would'' have collected if it was not being upgraded.</p>
+'''Caveat:''' The ''Catch-Up Point'' calculation assumes that the player collects all resources from the Gold Mine without allowing it to reach its storage capacity, as resource production ceases at that point. This is more of a concern at lower levels where the capacity is limited and ''Time to Fill'' is relatively short. If the player is unable to regularly collect and achieve the full potential of the collector, the ''Catch-Up Point'' is actually shorter and performing the upgrade becomes more advantageous.
+</div>
+{{IconDescriptions|ProductionBuilding=Yes|Resource=Gold|Upgradable=Yes|UnitName = Gold Mine|Supercharge=Yes}}
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description 
+|-
+!August 2, 2012!!Game Release
+|Introduction of the Gold Mine, with 10 levels and 5 of them to build.{{Clr}}[[File:Gold Mine1.png|60px|link=]][[File:Gold Mine2.png|60px|link=]][[File:Gold Mine3.png|60px|link=]][[File:Gold Mine4.png|60px|link=]][[File:Gold Mine5.png|60px|link=]][[File:Gold Mine6.png|60px|link=]][[File:Gold Mine7.png|60px|link=]][[File:Gold Mine8.png|60px|link=]][[File:Gold Mine9.png|60px|link=]][[File:Gold Mine10.png|60px|link=]]
+|-
+!August 10, 2012!!Update
+|Added the sixth Gold Mine available at [[Town Hall]] level 6.
+|-
+!October 27, 2012!!Update
+|Added the level 11 Gold Mine.[[File:Gold Mine11.png|60px|link=]]
+|-
+!November 19, 2012!!Update
+|Gold Mines can now be boosted at level 5 using [[Gems]].
+|-
+!April 17, 2013!!Update
+|Reduced upgrade times at levels 5 to 11:
+*Level 5: 4h -> 2h {{Res|Time}}
+*Level 6: 12h -> 6h {{Res|Time}}
+*Level 7: 1d -> 12h {{Res|Time}}
+*Level 8: 2d -> 1d {{Res|Time}}
+*Level 9: 3d -> 2d {{Res|Time}}
+*Level 10: 4d -> 3d {{Res|Time}}
+*Level 11: 5d -> 4d {{Res|Time}}
+|-
+!June 24, 2013!!Maintenance Break
+|Added the seventh Gold Mine available at [[Town Hall]] level 10.
+|-
+![https://forum.supercell.com/showthread.php/124920-Maintenance-9-8-2013-%281st-Anniversary-boost-ends-improved-Boost-Giant-Bomb%29 August 9, 2013]
+!Maintenance Break
+|
+*Reduced the boost cost at levels 5 to 11:
+**Level 5: 10 -> 4 {{Res|Gem}}
+**Level 6: 12 -> 5 {{Res|Gem}}
+**Level 7: 14 -> 6 {{Res|Gem}}
+**Level 8: 16 -> 7 {{Res|Gem}}
+**Level 9: 17 -> 8 {{Res|Gem}}
+**Level 10: 19 -> 9 {{Res|Gem}}
+**Level 11: 20 -> 11 {{Res|Gem}}
+*Increased boost duration.
+|-
+!October 22, 2014!!Update
+|Slightly reduced boost cost for level 11 Gold Mine from 11 to 10. {{Res|Gem}}
+|-
+!December 11, 2014!!Update
+|
+*Added the level 12 Gold Mine.[[File:Gold Mine12.png|60px|link=]]
+*Decreased hitpoints at levels 2 to 6:
+**Level 2: 450 -> 440 {{Res|Hitpoint}}
+**Level 3: 500 -> 480 {{Res|Hitpoint}}
+**Level 4: 550 -> 520 {{Res|Hitpoint}}
+**Level 5: 590 -> 560 {{Res|Hitpoint}}
+**Level 6: 610 -> 600 {{Res|Hitpoint}}
+*Increased hitpoints at levels 7 to 11:
+**Level 7: 630 -> 640 {{Res|Hitpoint}}
+**Level 8: 660 -> 680 {{Res|Hitpoint}}
+**Level 9: 680 -> 720 {{Res|Hitpoint}}
+**Level 10: 710 -> 760 {{Res|Hitpoint}}
+**Level 11: 750 -> 800 {{Res|Hitpoint}}
+|-
+!April 30, 2015!!Update
+|Reduced upgrade times at levels 1 and 2:
+*Level 1: 1m -> 10s {{Res|Time}}
+*Level 2: 5m -> 1m {{Res|Time}}
+|-
+![https://cocpolska.wordpress.com/2015/06/30/july-2015-update/ July 1, 2015]!!Update
+|Increased hitpoints at levels 10 to 12: 
+*Level 10: 760 -> 780 {{Res|Hitpoint}}
+*Level 11: 800 -> 860 {{Res|Hitpoint}}
+*Level 12: 840 -> 960 {{Res|Hitpoint}}
+|-
+!May 22, 2017!!Update
+|
+*Moved the seventh Gold Mine to Town Hall 9.
+*Gold can now be collected from all Gold Mines at once by tapping on just one (rather than needing to individually tap all of them).
+|-
+!June 26, 2018!!Balance Changes
+|
+*Reduced upgrade times at levels 5 to 12:
+**Level 5: 2h -> 1h {{Res|Time}}
+**Level 6: 6h -> 4h {{Res|Time}}
+**Level 7: 12h -> 8h {{Res|Time}}
+**Level 8: 1d -> 16h {{Res|Time}}
+**Level 9: 2d -> 1d 12h {{Res|Time}}
+**Level 10: 3d -> 2d {{Res|Time}}
+**Level 11: 4d -> 2d 12h {{Res|Time}}
+**Level 12: 5d -> 3d {{Res|Time}}
+|-
+!June 29, 2018!!Balance Changes
+|Increased production at levels 10 to 12:
+*Level 10: 2500/hr -> 2800/hr {{Res|Gold}}
+*Level 11: 3000/hr -> 3500/hr {{Res|Gold}}
+*Level 12: 3500/hr -> 4200/hr {{Res|Gold}}
+|-
+!October 23, 2018!!Update
+|Added the level 13 Gold Mine.[[File:Gold Mine13.png|60px|link=]]
+|-
+!April 2, 2019!!Update
+|Reduced upgrade times at levels 7 to 13: 
+*Level 7: 8h -> 6h {{Res|Time}}
+*Level 8: 16h -> 8h {{Res|Time}}
+*Level 9: 1d 12h -> 10h {{Res|Time}}
+*Level 10: 2d -> 12h {{Res|Time}}
+*Level 11: 2d 12h -> 16h {{Res|Time}}
+*Level 12: 3d -> 1d {{Res|Time}}
+*Level 13: 6d -> 3d {{Res|Time}}
+|-
+!March 30, 2020!!Update
+|Added the level 14 Gold Mine.[[File:Gold Mine14.png|60px|link=]]
+|-
+!April 12, 2021!!Update
+|
+*Doubled Storage Capacity at levels 1 to 4 so they do not cap out after 3 hours.
+*Reduced upgrade times at levels 3 to 6, 12 to 14:
+**Level 3: 15m -> 4m {{Res|Time}}
+**Level 4: 1h -> 10m {{Res|Time}}
+**Level 5: 1h -> 40m {{Res|Time}}
+**Level 6: 4h -> 3h {{Res|Time}}
+**Level 12: 1d -> 20h {{Res|Time}}
+**Level 13: 3d -> 1d 16h {{Res|Time}}
+**Level 14: 5d -> 3d 8h {{Res|Time}}
+*Reduced upgrade costs at levels 10 to 14:
+**Level 10: 84,000 -> 75,000 {{Res|Elixir}}
+**Level 11: 168,000 -> 100,000 {{Res|Elixir}}
+**Level 12: 336,000 -> 200,000 {{Res|Elixir}}
+**Level 13: 504,000 -> 400,000 {{Res|Elixir}}
+**Level 14: 840,000 -> 800,000 {{Res|Elixir}}
+|-
+!December 9, 2021!!Update
+|Added the level 15 Gold Mine. [[File:Gold Mine15.png|60px|link=]]
+|-
+!December 12, 2023!!Town Hall Update
+|Reduced upgrade times at levels 8, and 10 to 15:
+*Level 8: 8h -> 6h {{Res|Time}}
+*Level 10: 12h -> 10h {{Res|Time}}
+*Level 11: 16h -> 12h {{Res|Time}}
+*Level 12: 20h -> 16h {{Res|Time}}
+*Level 13: 1d 16h -> 20h {{Res|Time}} 
+*Level 14: 3d 8h -> 1d 16h {{Res|Time}}
+*Level 15: 6d -> 2d 18h {{Res|Time}}
+|-
+![https://supercell.com/en/games/clashofclans/blog/release-notes/february-2024-update-patch-notes/ February 27, 2024]!!Update
+|Added the level 16 Gold Mine. [[File:Gold Mine16.png|60px|link=]]
+|-
+!September 9, 2024!!Update
+|Added 3 Supercharge levels for the Gold Mine. {{Res|Supercharge}}
+|-
+!September ?, 2024!!Maintenance break
+|Changed the statistics for the first two Supercharge levels.
+*Charge 1: {{Res|Supercharge}}{{Res|Uncharged}}{{Res|Uncharged}}
+**Capacity: 415,000 -> 401,500 {{Res|Gold}}
+**Production Rate: 7,000/h -> 7,300/h {{Res|RES|Gold}}
+*Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Uncharged}}
+**Capacity: 415,000-> 418,000 {{Res|Gold}}
+**Production Rate: 7,500/h -> 7,600/h {{Res|Gold}}
+|-
+!November 8, 2024!!Event
+|The 2024 Hammer Jam event temporarily increased its capacity and production rate by 3x for all levels, including its Supercharge levels until November 25.
+|-
+!February 10, 2025!!Update
+|Reduced upgrade times at levels 2 to 10:
+*Level 2: 1m -> 30s {{Res|Time}}
+*Level 3: 4m -> 2m {{Res|Time}}
+*Level 4: 10m -> 5m {{Res|Time}}
+*Level 5: 40m -> 20m {{Res|Time}}
+*Level 6: 2h -> 1h {{Res|Time}}
+*Level 7: 4h -> 2h {{Res|Time}}
+*Level 8: 6h -> 3h {{Res|Time}}
+*Level 9: 8h -> 4h {{Res|Time}}
+*Level 10: 10h -> 6h {{Res|Time}}
+|-
+!November 17, 2025!!Town Hall 18 Update
+|
+*Added the level 17 Gold Mine. [[File:Gold Mine17.png|60px|link=]]
+*Removed the Supercharges at level 16 and replaced them at level 17: {{Res|Supercharge}}
+**Charge 1: {{Res|Supercharge}}{{Res|Uncharged}}{{Res|Uncharged}}
+***Capacity: 401,500 -> 436,500 {{Res|Gold}}
+***Production Rate: 7,300/hr -> 7,857/hr {{Res|Gold}}
+***Cost: 350,000 -> 1,700,000 {{Res|Elixir}}
+***Time: 1d -> 2d {{Res|Time}}
+**Charge 2: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Uncharged}}
+***Capacity: 418,000 -> 453,000 {{Res|Gold}}
+***Production Rate: 7,600/hr -> 8,154/hr {{Res|Gold}}
+***Cost: 300,000 -> 1,500,000 {{Res|Elixir}}
+***Time: 2d -> 3d {{Res|Time}}
+**Charge 3: {{Res|Supercharge}}{{Res|Supercharge}}{{Res|Supercharge}}
+***Hitpoints: 1,400 -> 1,450 {{Res|Hitpoint}}
+***Cost: 700,000 -> 1,300,000 {{Res|Elixir}}
+***Time: 3d -> 4d {{Res|Time}}
+|}
+[[File:GoldMineAnimationTest.gif|alt=|thumb|Animation]]
+
+==Trivia==
+===General===
+*The upgrade costs of the Gold Mine and the {{H|Elixir Collector}} match at every level, but prior to the June 2021 update, there existed a discrepancy between the level 5 upgrade prices (3,000 [[Resources#Elixir|Elixir]] for the Gold Mine, 3,500 [[Resources#Gold|Gold]] for the Elixir Collector), which was resolved by reducing the Elixir Collector's upgrade cost.
+*Although directly selecting a Gold Mine with a Gold bubble above it automatically collects any resources it has stored, there is a way to check how much Gold has been stored without collecting it. This can be done by moving any other building to an invalid spot on your map (e.g., off the edge of your map, or fully or partially occupied by an obstacle, decoration or another building) and releasing it while its surrounding square has turned red. Then select the desired Gold Mine and choose the "Info" option to display the amount of Gold gathered by the mine to that point.
+**Alternatively, you can also do this by going into Edit Mode and tap on a Gold Mine, and it will view how much Gold is stored inside, while also doing the same for the selected Mines.
+
+===Comparisons===
+*The Gold Mine is one of the 4 buildings that a player starts with at the beginning of the tutorial, the others being the [[Town Hall]], [[Builder's Hut]], and {{H|Army Camp}}.
+*The Gold Mine's sound (when you collect gold from it) has the same sound with '''Fortune Tree, Golden Poet, and Golden Hog.'''
+*The Gold Mine and the Elixir Collector are the cheapest Supercharge upgrades, in which case the Mine costs a total of 4.5 million Elixir.
+
+==Gallery==
+<gallery>
+Gold Mine level5 info.png
+Gold Mine level5 info2.png
+Gold Mine level5 info3.png
+</gallery>
+
+{{BuildingsMenuHV}}
+<noinclude>
+[[Category:Buildings]]
+[[Category:Resources]]
+[[Category:Home Village]]
+</noinclude>
+[[ru:Золотая шахта/Родная деревня]]

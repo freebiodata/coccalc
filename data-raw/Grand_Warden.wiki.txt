@@ -1,0 +1,1220 @@
+__NOEDITSECTION__
+{{Protection}}
+{{ClashRoyaleLink|Grand Warden/Merge Tactics}}
+{{For|the troop|Apprentice Warden}}
+[[File:Warden Badge.png|65px|center|link=]]
+[[File:Grand Warden info.png|250x250px|center|link=]]
+
+<center>'''''"This powerful master of magic supports [[Troops]] by blasting enemies with his Staff! The Grand Warden can even walk or fly over {{H|Walls}}! He'll make a majestic stand at his [[Hero Banner]] when defending."'''''</center>
+
+==Summary==
+*The Grand Warden is the fourth [[Heroes|Hero]] unlocked at [[Hero Hall]] level 5, which requires [[Town Hall]] 11. He is a single-target unit with low health and relatively low damage, but he makes up for it with his long range and supporting abilities.
+*As a supporting Hero, the Grand Warden will attack the building being attacked by the highest number/troop space troop and will continue to attack that building until it is destroyed.
+*In his default skin, he appears as a pale-skinned man with purple hair with a beard, mustache and eyebrows. He wears a long, light lavender-colored robe and cape with orchid-colored outlines, held by a purple belt with a Capital Gold badge from his waist, and wears pointed magenta sandals. He wields a staff with a light brown grip at the middle and a which appears to be the [[Life Gem]] on top located on his right hand and carries a book with a purple gem and has golden edges, handles and a gem-shaped centerpiece, representing the [[Eternal Tome]] on his left.
+*Uniquely for Heroes in the Home Village, he is upgraded with Elixir instead of [[Dark Elixir]].
+*He can be set to Air or Ground mode; he flies in Air Mode and walks in Ground Mode.
+**He can bypass {{H|Walls}} regardless of the mode he is set to; however, he will attack a {{H|Wall}} if the majority of your nearby housing space is doing so as well.
+*As a Hero, the Grand Warden can participate in both attack and defense, but will not be available to use if he is being upgraded.
+**Like other Heroes, he is not upgraded in the [[Laboratory]] but rather upgraded with a [[Builder]].
+*The Grand Warden will defend the village when assigned to a [[Hero Banner]]. The Grand Warden only defends his territory around his banner and will retreat if lured too far out. He does not need to be defeated for an attack to end in a 3-star.
+**When defending, he will always do so in ground mode.
+*As a Hero, the Grand Warden has an ability that can be used once per battle which allows him to recover some of his health, and the amount increases at every fifth level. The [[Hero Equipment]] that he wields may add additional effects to the ability or a unique passive effect, on top of various passive stats increase.
+**When unlocked, he starts with the Eternal Tome and Life Gem. 
+***The [[Eternal Tome]] lets the Grand Warden make himself and all attacking units in his radius invincible for several seconds. It does not have any passive stat increase.
+***The [[Life Gem]] passively increases the health and max health of other attacking units within his radius by a percentage of their max health up to a cap. It gives a passive increase to damage and max health.
+**Upgrading the [[Blacksmith]] to level 4 and 6 unlocks the Rage Gem and Healing Tome respectively.
+***The [[Rage Gem]] passively increases the damage or healing of other attacking units within his radius by a percentage. It gives a passive increase to damage and attack speed.
+***The [[Healing Tome]] lets the Grand Warden heal himself and all units within his radius over time. It gives a passive increase to max health.
+**Additionally, there are Epic rarity Hero Equipment which can be purchased with event medals during certain events or gems with the [[Trader]].
+***The [[Fireball]] has the Grand Warden throw a fireball at the nearest defense, dealing massive damage within a large radius. It gives a passive increase to his damage.
+***The [[Lavaloon Puppet]] summons one to two Lavaloons. It gives a passive increase to damage and max health.
+***The [[Heroic Torch]] lets the Grand Warden give all units within his radius damage resistance, increased movement speed, and the ability to walk through walls. It gives a passive increase to his damage, max health, and health recovery.
+*If the ability has not been used before the Grand Warden is about to be defeated, it will by default automatically activate. However, this feature can be toggled off in the settings (by turning off "Automatically use Hero Abilities on KO").
+**This ability can still activate even if the Warden would be one-shot by an attack (such as by a [[Seeking Air Mine]]); the Warden will activate his ability and survive with 1 hitpoint.
+
+==Mechanics==
+*The Grand Warden has two AI modes during an attack based on a hidden attribute called Warden Weight.<ref>https://youtube.com/watch?v=eMfNc5gwAKo</ref>
+**If the total Warden Weight is under 20, he remains in regular target mode, where he targets the nearest building to him, ignoring nearby friendly troops.
+**If the total Warden Weight reaches 20 or higher, he instantly switches to group target mode, where the Grand Warden locks onto whichever building is being targeted by the majority or heaviest concentration of nearby troops.
+{{Warden Weight}}
+
+==Strategies==
+===Offensive Strategies===
+*The five Home Village Heroes serve different roles in raids. The [[Barbarian King]] is the strength specialist, the [[Minion Prince]] is the air specialist, the [[Archer Queen]] is the speed specialist, the Grand Warden is the support specialist and the [[Royal Champion]] is the offense specialist.
+*Because of the Grand Warden's low health and low damage, he is more suited to support than leading an attack. Have tank units such as [[Giant]]s, [[Golem]]s or the [[Barbarian King]] to keep him safe from defenses. The Grand Warden can help them in return with his passive abilities.
+*Use the Grand Warden in Air Mode if you are using an air attack so he does not take damage from ground defenses (as they are not distracted by other troops) and Ground Mode when using a ground army as he will not be targeted by [[Air Defense]]s.
+**Only set him to Air Mode if you are using an air attack, as, without distraction [[troops]], he can easily be taken out or otherwise heavily damaged by Air Defenses and [[Seeking Air Mine]]s, as well as defending Clan Castle troops such as Headhunters.
+**If using the Air Mode Warden alone (as a niche to evade heavy ground defenses, for example), it is recommended to deploy [[Balloon]]s near the Warden to distract any Seeking Air Mines and make sure that none of the traps will hit the Warden. Relative level Seeking Air Mines will kill the Grand Warden, unless he is at least level 37 for [[Town Hall]] 12 when the Seeking Air Mine is at level 3, or level 49 for Town Hall 13 when the trap is level 4. However, be careful of level 5 or above Seeking Air Mines, as they will defeat him instantly at any level.
+***However, a level 7 Seeking Air Mine leaves the level 48 Grand Warden with the maxed out Life Gem and Healing Tome with only 10 hitpoints remaining.
+*Use the Eternal Tome ability near the core so your troops can get through the core, where the most damage usually is. Against a level 5 [[Town Hall/Giga Tesla|Giga Tesla]], [[Giga Inferno]], or the [[Giga Bomb]] at Town Hall 17, it may be useful to save the ability specifically for the explosion when the Town Hall is destroyed or when the trap is triggered, as these do severe damage to your army.
+**Alternatively, it can be better to use it early, such as if high damaging defenses are situated nearer the outside of a base, or when your main army is able to split up.
+*The Grand Warden goes where other troops go, so he does not need funneling. However, the other troops need to be funneled.
+*He will follow the troop with the highest housing space or the largest mass of troops, so bunching up troops with the Grand Warden is crucial to getting the most out of his abilities.
+**However, do not bunch them up too tightly, as his aura is large and the troops will take a lot of splash damage from other defenses if they are too bunched up.
+***This also risks them being targeted by the [[Eagle Artillery]].
+***However, this is temporarily nullified with the Eternal Tome ability.
+*When equipped, the Grand Warden's Life Gem is most effective on troops with moderate amounts of health, such as the [[Balloon]], [[Hog Rider]], or [[Miner]]. He will be able to grant a sizable health increase to these troops that is close to the maximum increase allowed by his ability (or if this increase ''is'' the maximum allowed, then the health increase is still significant on these troops). The Life Gem is significantly less effective on low-hitpoint troops such as [[Minion]]s and [[Archer]]s, as they only gain a tiny proportion of health from his Life Gem. It is also somewhat limiting to high-hitpoint troops such as the [[Golem]], as its health increase is well over the maximum allowed. Additionally, since they already have high hitpoints themselves, the extra hitpoints are usually not necessary.
+**When using high-hitpoint troops, it is best to use the [[Apprentice Warden]] instead of the Life Gem, since the Apprentice Warden does not have any health limit cap, which can increase bigger troops' health significantly, and the Life Gem will be replaced by either the Rage Gem, Healing Tome or Fireball to help support the attack.
+*The Grand Warden has the longest range of any troop in the Home Village or all Heroes in the game. He can outrange the [[Wizard Tower]], {{H|Bomb Tower}}, {{H|Archer Tower}} on Fast Attack mode, or the {{H|Hidden Tesla}}.
+**The [[Super Archer]] has a projectile range of 12, but her targeting range is only 6.
+**The Mortar Mode [[Cannon Cart]] in the Builder's Base has the longest range of any troop in the Builder Base, being 9 tiles.
+**The Flame Flinger has the longest range out of all units in the game, being 10 tiles.
+*If the Grand Warden is positioned correctly, he can defeat an enemy [[Barbarian King]] and even an [[Archer Queen]] without being attacked. In the case of an Archer Queen, it is substantially harder to pull off, as she has a larger attack radius, has a faster movement and attack speed, and can attack from far away unlike the King.
+*When upgraded to a high level, the Grand Warden can be used with [[Healer]]s or [[Druid]]s to perform a Warden Walk, which is similar to a Queen Walk in terms of utility. Compared to a Queen Walk, his longer range allows him to snipe buildings from a longer distance, meaning that the Warden Walk is generally safer, but his lower damage output means it will take longer to create an effective funnel or destroy the targeted buildings.
+**Druids, unlike Healers, are better to use than Healers due to being a ground unit, and you can bring at least 2 to support him. However, they last for a limited time.
+**If the Grand Warden has the Rage Gem, he will be able to destroy buildings faster, making Warden Walks faster. This also allows the Healers and/or Druids heal more often.
+**His AI (which makes him follow troops if they are close enough) can be exploited to help funnel him in a particular direction, which can be useful for the objectives of the Warden Walk. For example, deploying a few Balloons against a defense can coerce him to follow the Balloons in attacking that defense. You can also do this to convert a Warden Walk into a smash-style attack (which will be supported by the Warden and Healers) by simply deploying your main force in the path of the walk.
+**When set to Air Mode, if you see a Seeking Air Mine coming towards the Grand Warden, activate his Eternal Tome ability if you still have it. If you react quickly enough, he will be able to avoid all damage; failing to do so will mean severe damage, and in most cases automatically trigger the ability anyway (if the "Automatically use Hero Abilities on KO" setting is turned on), but the Warden will be reduced to 1 HP and be extremely vulnerable, leaving you at a disadvantage, especially if he does not have the Eternal Tome equipped.
+*The Grand Warden has many viable [[Pets|Pet]] choices that work well with him.
+**The [[Electro Owl]] is an excellent fit for Grand Warden, especially if using Air Mode. Not only does the Owl provide additional damage that nearly matches his own, the Owl is the only aerial Pet that can accompany the Warden without him being knocked out, thus behaving like an extra troop to protect him. In ground mode, the Owl's additional damage can greatly speed up Warden Walks, and unlike grounded Pets, does not risk pulling the Healers away from the Warden, and can tank for Seeking Air Mines.
+**The [[Poison Lizard]] is an alternative for damage at Town Hall 15, with its DPS being focused on a single target, as opposed to the Owl; it can also assist the Warden against enemy troops.
+**For additional support utility, [[Frosty]] can be paired with the Warden to slow defenses down. The Warden often being in the backline combines with Frosty's targeting AI to keep Frosty himself in the backlines, which enhances his sustainability as compared to pairing him with other Heroes.
+**The [[Unicorn]] can heal the Warden effectively, including during a Warden Walk, due to it being able to keep pace with the Warden easily. Although most often paired with the Archer Queen, the Unicorn's pairing with the Warden can be considered if the Queen should be unavailable or require a different Pet.
+**Pets like [[Diggy]] or [[Frosty]] can be used to stun or slow down defenses when the army targets them, increasing the chances of a successful attack, but only if the main army he follows targets the defenses, especially [[Root Rider]]s.
+**The [[Angry Jelly]] will make the Grand Warden attack defenses, but will be vulnerable to high-damaging defenses. Thus, it is only used when you will perform a Warden Charge, where you will destroy a part of the base using the Fireball with the help of Invisibility or Overgrowth Spells.
+*There are many good Hero Equipment options for the Grand Warden.
+**The Eternal Tome and Healing Tome (or Double Tome) for some guaranteed healing during the invincibility, best used on most strategies, such as Super Hog Riders and Root Rider Smash.
+**The Eternal Tome and Rage Gem allows lots of units to deal high damage against the core of the base, especially when using a Smash-style attack.
+**The Eternal Tome and Fireball for high destruction and invincibility; used for Super Archer Blimps.
+**The Rage Gem and Healing Tome can get high damage and healing at the same time, increasing sustainability and damage potential, but lacks the invincibility.
+**The Rage Gem and Fireball to go all in for damage, and is used for Warden Charges.
+
+===Defensive Strategies===
+*To defend against an enemy Grand Warden, make sure you set your {{H|Inferno Tower}}s to multi-target, as he is often behind other troops so that a few defenses can hit him. At higher levels, [[Scattershot]]s and [[Firespitter]]s can be particularly effective due to their knack for damaging units behind the primary target.
+*As a defending Hero, the Grand Warden has relatively poor stats compared to other defending Heroes. With the slowest attack speed of any Hero, he is also most vulnerable to swarms; he also cannot fly when defending unlike the [[Minion Prince]]. His redeeming factor is his range; like a defending [[Archer Queen]], he can engage enemy troops from behind {{H|Wall}}s, which can be problematic for ground attacks. He can also prevent attacking units from retargeting him, unless if they get closer to him.
+
+==Statistics==
+<center>
+<div class="stats-background">{{Modifiers|type=HeroHV}}
+{|class="wikitable hero-statistics-table" id="grandwarden-table-1" style="text-align: center; width: 100%;" border="0" cellpadding="1" cellspacing="1"
+!data-type="preferred target"|Preferred Target
+!data-type="attack type"|Attack Type
+!data-type="movement speed"|[[Troop Movement Speed|Movement Speed]]
+!data-type="attack speed"|Attack Speed
+!data-type="range"|Range
+!data-type="search radius"|Search Radius
+|-
+|Any
+|Ranged Single Target (Any target)
+|class="ModifierStat Speed Hero"|16
+|class="AttackSpeed"|1.8s
+|7
+|10
+|}
+
+{|class="wikitable hero-statistics-table floatheader row-highlight" id="grandwarden-table-2" style="text-align: center; width: 100%;" border="0" cellpadding="1" cellspacing="1"
+!data-type="level"|Level<br/>{{Res|Level}}
+!data-type="dps"|Damage per Second<br/>{{Res|Damage}}
+!data-type="dpa"|Damage per Hit<br/>{{Res|Damage}}
+!data-type="hitpoints"|Hitpoints<br/>{{Res|Hitpoint}}
+!data-type="health recovery"|Health Recovery {{Res|Hitpoint}}
+!data-type="training cost"|Upgrade Cost<br/>{{Res|Elixir}}
+!data-type="training time"|Upgrade Time<br/>{{Res|Time}}
+!data-type="required Hero Hall"|[[Hero Hall]] Level Required<br/>{{Res|Hero Hall}}
+|-
+|1
+|class="ModifierStat DPS Hero"|43
+|class="ModifierStat DPH Hero"|77.4
+|class="ModifierStat HP Hero"|850
+|class="ModifierStat HPRecovery"|90
+|class="GoldPass bCost"|1,000,000
+|N/A
+|5
+|-
+|2
+|class="ModifierStat DPS Hero"|44
+|class="ModifierStat DPH Hero"|79.2
+|class="ModifierStat HP Hero"|868
+|class="ModifierStat HPRecovery"|90
+|class="GoldPass bCost"|1,000,000
+|class="GoldPass bTime"|2h
+|5
+|-
+|3
+|class="ModifierStat DPS Hero"|46
+|class="ModifierStat DPH Hero"|82.8
+|class="ModifierStat HP Hero"|886
+|class="ModifierStat HPRecovery"|90
+|class="GoldPass bCost"|1,100,000
+|class="GoldPass bTime"|4h
+|5
+|-
+|4
+|class="ModifierStat DPS Hero"|48
+|class="ModifierStat DPH Hero"|86.4
+|class="ModifierStat HP Hero"|904
+|class="ModifierStat HPRecovery"|90
+|class="GoldPass bCost"|1,200,000
+|class="GoldPass bTime"|8h
+|5
+|-
+|5
+|class="ModifierStat DPS Hero"|49
+|class="ModifierStat DPH Hero"|88.2
+|class="ModifierStat HP Hero"|923
+|class="ModifierStat HPRecovery change-highlight"|97
+|class="GoldPass bCost"|1,400,000
+|class="GoldPass bTime"|10h
+|5
+|-
+|6
+|class="ModifierStat DPS Hero"|51
+|class="ModifierStat DPH Hero"|91.8
+|class="ModifierStat HP Hero"|942
+|class="ModifierStat HPRecovery"|97
+|class="GoldPass bCost"|1,500,000
+|class="GoldPass bTime"|12h
+|5
+|-
+|7
+|class="ModifierStat DPS Hero"|54
+|class="ModifierStat DPH Hero"|97.2
+|class="ModifierStat HP Hero"|961
+|class="ModifierStat HPRecovery"|97
+|class="GoldPass bCost"|1,700,000
+|class="GoldPass bTime"|14h
+|5
+|-
+|8
+|class="ModifierStat DPS Hero"|56
+|class="ModifierStat DPH Hero"|100.8
+|class="ModifierStat HP Hero"|982
+|class="ModifierStat HPRecovery"|97
+|class="GoldPass bCost"|1,800,000
+|class="GoldPass bTime"|16h
+|5
+|-
+|9
+|class="ModifierStat DPS Hero"|59
+|class="ModifierStat DPH Hero"|106.2
+|class="ModifierStat HP Hero"|1,003
+|class="ModifierStat HPRecovery"|97
+|class="GoldPass bCost"|2,000,000
+|class="GoldPass bTime"|18h
+|5
+|-
+|10
+|class="ModifierStat DPS Hero"|61
+|class="ModifierStat DPH Hero"|109.8
+|class="ModifierStat HP Hero"|1,025
+|class="ModifierStat HPRecovery change-highlight"|109
+|class="GoldPass bCost"|2,300,000
+|class="GoldPass bTime"|20h
+|5
+|-
+|11
+|class="ModifierStat DPS Hero"|64
+|class="ModifierStat DPH Hero"|115.2
+|class="ModifierStat HP Hero"|1,048
+|class="ModifierStat HPRecovery"|109
+|class="GoldPass bCost"|2,700,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|12
+|class="ModifierStat DPS Hero"|66
+|class="ModifierStat DPH Hero"|118.8
+|class="ModifierStat HP Hero"|1,072
+|class="ModifierStat HPRecovery"|109
+|class="GoldPass bCost"|3,000,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|13
+|class="ModifierStat DPS Hero"|70
+|class="ModifierStat DPH Hero"|126
+|class="ModifierStat HP Hero"|1,097
+|class="ModifierStat HPRecovery"|109
+|class="GoldPass bCost"|3,400,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|14
+|class="ModifierStat DPS Hero"|73
+|class="ModifierStat DPH Hero"|131.4
+|class="ModifierStat HP Hero"|1,122
+|class="ModifierStat HPRecovery"|109
+|class="GoldPass bCost"|3,700,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|15
+|class="ModifierStat DPS Hero"|77
+|class="ModifierStat DPH Hero"|138.6
+|class="ModifierStat HP Hero"|1,148
+|class="ModifierStat HPRecovery change-highlight"|122
+|class="GoldPass bCost"|4,100,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|16
+|class="ModifierStat DPS Hero"|80
+|class="ModifierStat DPH Hero"|144
+|class="ModifierStat HP Hero"|1,173
+|class="ModifierStat HPRecovery"|122
+|class="GoldPass bCost"|4,400,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|17
+|class="ModifierStat DPS Hero"|83
+|class="ModifierStat DPH Hero"|149.4
+|class="ModifierStat HP Hero"|1,199
+|class="ModifierStat HPRecovery"|122
+|class="GoldPass bCost"|4,800,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|18
+|class="ModifierStat DPS Hero"|87
+|class="ModifierStat DPH Hero"|156.6
+|class="ModifierStat HP Hero"|1,224
+|class="ModifierStat HPRecovery"|122
+|class="GoldPass bCost"|5,100,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|19
+|class="ModifierStat DPS Hero"|90
+|class="ModifierStat DPH Hero"|162
+|class="ModifierStat HP Hero"|1,250
+|class="ModifierStat HPRecovery"|122
+|class="GoldPass bCost"|5,500,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|20
+|class="ModifierStat DPS Hero"|94
+|class="ModifierStat DPH Hero"|169.2
+|class="ModifierStat HP Hero"|1,275
+|class="ModifierStat HPRecovery change-highlight"|135
+|class="GoldPass bCost"|6,000,000
+|class="GoldPass bTime"|1d
+|5
+|-
+|21
+|class="ModifierStat DPS Hero"|98
+|class="ModifierStat DPH Hero"|176.4
+|class="ModifierStat HP Hero"|1,301
+|class="ModifierStat HPRecovery"|135
+|class="GoldPass bCost"|6,100,000
+|class="GoldPass bTime"|1d
+|class="change-highlight"|6
+|-
+|22
+|class="ModifierStat DPS Hero"|102
+|class="ModifierStat DPH Hero"|183.6
+|class="ModifierStat HP Hero"|1,327
+|class="ModifierStat HPRecovery"|135
+|class="GoldPass bCost"|6,200,000
+|class="GoldPass bTime"|1d
+|6
+|-
+|23
+|class="ModifierStat DPS Hero"|106
+|class="ModifierStat DPH Hero"|190.8
+|class="ModifierStat HP Hero"|1,354
+|class="ModifierStat HPRecovery"|135
+|class="GoldPass bCost"|6,300,000
+|class="GoldPass bTime"|1d
+|6
+|-
+|24
+|class="ModifierStat DPS Hero"|111
+|class="ModifierStat DPH Hero"|199.8
+|class="ModifierStat HP Hero"|1,381
+|class="ModifierStat HPRecovery"|135
+|class="GoldPass bCost"|6,400,000
+|class="GoldPass bTime"|1d
+|6
+|-
+|25
+|class="ModifierStat DPS Hero"|116
+|class="ModifierStat DPH Hero"|208.8
+|class="ModifierStat HP Hero"|1,409
+|class="ModifierStat HPRecovery change-highlight"|149
+|class="GoldPass bCost"|6,500,000
+|class="GoldPass bTime"|1d
+|6
+|-
+|26
+|class="ModifierStat DPS Hero"|121
+|class="ModifierStat DPH Hero"|217.8
+|class="ModifierStat HP Hero"|1,438
+|class="ModifierStat HPRecovery"|149
+|class="GoldPass bCost"|6,600,000
+|class="GoldPass bTime"|1d 12h
+|6
+|-
+|27
+|class="ModifierStat DPS Hero"|126
+|class="ModifierStat DPH Hero"|226.8
+|class="ModifierStat HP Hero"|1,467
+|class="ModifierStat HPRecovery"|149
+|class="GoldPass bCost"|6,700,000
+|class="GoldPass bTime"|1d 12h
+|6
+|-
+|28
+|class="ModifierStat DPS Hero"|131
+|class="ModifierStat DPH Hero"|235.8
+|class="ModifierStat HP Hero"|1,497
+|class="ModifierStat HPRecovery"|149
+|class="GoldPass bCost"|6,800,000
+|class="GoldPass bTime"|1d 12h
+|6
+|-
+|29
+|class="ModifierStat DPS Hero"|137
+|class="ModifierStat DPH Hero"|246.6
+|class="ModifierStat HP Hero"|1,527
+|class="ModifierStat HPRecovery"|149
+|class="GoldPass bCost"|6,900,000
+|class="GoldPass bTime"|1d 12h
+|6
+|-
+|30
+|class="ModifierStat DPS Hero"|143
+|class="ModifierStat DPH Hero"|257.4
+|class="ModifierStat HP Hero"|1,558
+|class="ModifierStat HPRecovery change-highlight"|165
+|class="GoldPass bCost"|7,000,000
+|class="GoldPass bTime"|1d 12h
+|6
+|-
+|31
+|class="ModifierStat DPS Hero"|149
+|class="ModifierStat DPH Hero"|268.2
+|class="ModifierStat HP Hero"|1,590
+|class="ModifierStat HPRecovery"|165
+|class="GoldPass bCost"|7,100,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|32
+|class="ModifierStat DPS Hero"|155
+|class="ModifierStat DPH Hero"|279
+|class="ModifierStat HP Hero"|1,622
+|class="ModifierStat HPRecovery"|165
+|class="GoldPass bCost"|7,200,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|33
+|class="ModifierStat DPS Hero"|162
+|class="ModifierStat DPH Hero"|291.6
+|class="ModifierStat HP Hero"|1,655
+|class="ModifierStat HPRecovery"|165
+|class="GoldPass bCost"|7,300,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|34
+|class="ModifierStat DPS Hero"|168
+|class="ModifierStat DPH Hero"|302.4
+|class="ModifierStat HP Hero"|1,688
+|class="ModifierStat HPRecovery"|165
+|class="GoldPass bCost"|7,400,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|35
+|class="ModifierStat DPS Hero"|175
+|class="ModifierStat DPH Hero"|315
+|class="ModifierStat HP Hero"|1,722
+|class="ModifierStat HPRecovery change-highlight"|182
+|class="GoldPass bCost"|7,500,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|36
+|class="ModifierStat DPS Hero"|183
+|class="ModifierStat DPH Hero"|329.4
+|class="ModifierStat HP Hero"|1,757
+|class="ModifierStat HPRecovery"|182
+|class="GoldPass bCost"|7,600,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|37
+|class="ModifierStat DPS Hero"|190
+|class="ModifierStat DPH Hero"|342
+|class="ModifierStat HP Hero"|1,793
+|class="ModifierStat HPRecovery"|182
+|class="GoldPass bCost"|7,700,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|38
+|class="ModifierStat DPS Hero"|198
+|class="ModifierStat DPH Hero"|356.4
+|class="ModifierStat HP Hero"|1,829
+|class="ModifierStat HPRecovery"|182
+|class="GoldPass bCost"|7,800,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|39
+|class="ModifierStat DPS Hero"|207
+|class="ModifierStat DPH Hero"|372.6
+|class="ModifierStat HP Hero"|1,867
+|class="ModifierStat HPRecovery"|182
+|class="GoldPass bCost"|7,900,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|40
+|class="ModifierStat DPS Hero"|215
+|class="ModifierStat DPH Hero"|387
+|class="ModifierStat HP Hero"|1,904
+|class="ModifierStat HPRecovery change-highlight"|202
+|class="GoldPass bCost"|8,000,000
+|class="GoldPass bTime"|2d
+|6
+|-
+|41
+|class="ModifierStat DPS Hero"|221
+|class="ModifierStat DPH Hero"|397.8
+|class="ModifierStat HP Hero"|1,921
+|class="ModifierStat HPRecovery"|202
+|class="GoldPass bCost"|8,300,000
+|class="GoldPass bTime"|3d
+|class="change-highlight"|7
+|-
+|42
+|class="ModifierStat DPS Hero"|226
+|class="ModifierStat DPH Hero"|406.8
+|class="ModifierStat HP Hero"|1,938
+|class="ModifierStat HPRecovery"|202
+|class="GoldPass bCost"|8,600,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|43
+|class="ModifierStat DPS Hero"|230
+|class="ModifierStat DPH Hero"|414
+|class="ModifierStat HP Hero"|1,955
+|class="ModifierStat HPRecovery"|202
+|class="GoldPass bCost"|8,900,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|44
+|class="ModifierStat DPS Hero"|234
+|class="ModifierStat DPH Hero"|421.2
+|class="ModifierStat HP Hero"|1,972
+|class="ModifierStat HPRecovery"|202
+|class="GoldPass bCost"|9,200,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|45
+|class="ModifierStat DPS Hero"|237
+|class="ModifierStat DPH Hero"|426.6
+|class="ModifierStat HP Hero"|1,989
+|class="ModifierStat HPRecovery change-highlight"|211
+|class="GoldPass bCost"|9,500,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|46
+|class="ModifierStat DPS Hero"|241
+|class="ModifierStat DPH Hero"|433.8
+|class="ModifierStat HP Hero"|2,006
+|class="ModifierStat HPRecovery"|211
+|class="GoldPass bCost"|9,800,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|47
+|class="ModifierStat DPS Hero"|244
+|class="ModifierStat DPH Hero"|439.2
+|class="ModifierStat HP Hero"|2,023
+|class="ModifierStat HPRecovery"|211
+|class="GoldPass bCost"|10,100,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|48
+|class="ModifierStat DPS Hero"|247
+|class="ModifierStat DPH Hero"|444.6
+|class="ModifierStat HP Hero"|2,040
+|class="ModifierStat HPRecovery"|211
+|class="GoldPass bCost"|10,400,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|49
+|class="ModifierStat DPS Hero"|251
+|class="ModifierStat DPH Hero"|451.8
+|class="ModifierStat HP Hero"|2,057
+|class="ModifierStat HPRecovery"|211
+|class="GoldPass bCost"|10,700,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|50
+|class="ModifierStat DPS Hero"|254
+|class="ModifierStat DPH Hero"|457.2
+|class="ModifierStat HP Hero"|2,074
+|class="ModifierStat HPRecovery change-highlight"|220
+|class="GoldPass bCost"|11,000,000
+|class="GoldPass bTime"|3d
+|7
+|-
+|51
+|class="ModifierStat DPS Hero"|258
+|class="ModifierStat DPH Hero"|464.4
+|class="ModifierStat HP Hero"|2,091
+|class="ModifierStat HPRecovery"|220
+|class="GoldPass bCost"|11,400,000
+|class="GoldPass bTime"|4d
+|class="change-highlight"|8
+|-
+|52
+|class="ModifierStat DPS Hero"|261
+|class="ModifierStat DPH Hero"|469.8
+|class="ModifierStat HP Hero"|2,108
+|class="ModifierStat HPRecovery"|220
+|class="GoldPass bCost"|11,800,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|53
+|class="ModifierStat DPS Hero"|264
+|class="ModifierStat DPH Hero"|475.2
+|class="ModifierStat HP Hero"|2,125
+|class="ModifierStat HPRecovery"|220
+|class="GoldPass bCost"|12,200,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|54
+|class="ModifierStat DPS Hero"|268
+|class="ModifierStat DPH Hero"|482.4
+|class="ModifierStat HP Hero"|2,142
+|class="ModifierStat HPRecovery"|220
+|class="GoldPass bCost"|12,600,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|55
+|class="ModifierStat DPS Hero"|271
+|class="ModifierStat DPH Hero"|487.8
+|class="ModifierStat HP Hero"|2,159
+|class="ModifierStat HPRecovery change-highlight"|229
+|class="GoldPass bCost"|13,000,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|56
+|class="ModifierStat DPS Hero"|274
+|class="ModifierStat DPH Hero"|493.2
+|class="ModifierStat HP Hero"|2,176
+|class="ModifierStat HPRecovery"|229
+|class="GoldPass bCost"|13,400,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|57
+|class="ModifierStat DPS Hero"|276
+|class="ModifierStat DPH Hero"|496.8
+|class="ModifierStat HP Hero"|2,193
+|class="ModifierStat HPRecovery"|229
+|class="GoldPass bCost"|13,800,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|58
+|class="ModifierStat DPS Hero"|279
+|class="ModifierStat DPH Hero"|502.2
+|class="ModifierStat HP Hero"|2,210
+|class="ModifierStat HPRecovery"|229
+|class="GoldPass bCost"|14,200,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|59
+|class="ModifierStat DPS Hero"|281
+|class="ModifierStat DPH Hero"|505.8
+|class="ModifierStat HP Hero"|2,227
+|class="ModifierStat HPRecovery"|229
+|class="GoldPass bCost"|14,600,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|60
+|class="ModifierStat DPS Hero"|284
+|class="ModifierStat DPH Hero"|511.2
+|class="ModifierStat HP Hero"|2,244
+|class="ModifierStat HPRecovery change-highlight"|238
+|class="GoldPass bCost"|15,000,000
+|class="GoldPass bTime"|4d
+|8
+|-
+|61
+|class="ModifierStat DPS Hero"|286
+|class="ModifierStat DPH Hero"|514.8
+|class="ModifierStat HP Hero"|2,261
+|class="ModifierStat HPRecovery"|238
+|class="GoldPass bCost"|15,500,000
+|class="GoldPass bTime"|6d
+|class="change-highlight"|9
+|-
+|62
+|class="ModifierStat DPS Hero"|289
+|class="ModifierStat DPH Hero"|520.2
+|class="ModifierStat HP Hero"|2,278
+|class="ModifierStat HPRecovery"|238
+|class="GoldPass bCost"|16,000,000
+|class="GoldPass bTime"|6d
+|9
+|-
+|63
+|class="ModifierStat DPS Hero"|292
+|class="ModifierStat DPH Hero"|525.6
+|class="ModifierStat HP Hero"|2,295
+|class="ModifierStat HPRecovery"|238
+|class="GoldPass bCost"|16,500,000
+|class="GoldPass bTime"|6d
+|9
+|-
+|64
+|class="ModifierStat DPS Hero"|294
+|class="ModifierStat DPH Hero"|529.2
+|class="ModifierStat HP Hero"|2,312
+|class="ModifierStat HPRecovery"|238
+|class="GoldPass bCost"|17,000,000
+|class="GoldPass bTime"|6d
+|9
+|-
+|65
+|class="ModifierStat DPS Hero"|297
+|class="ModifierStat DPH Hero"|534.6
+|class="ModifierStat HP Hero"|2,329
+|class="ModifierStat HPRecovery change-highlight"|247
+|class="GoldPass bCost"|17,500,000
+|class="GoldPass bTime"|6d
+|9
+|-
+|66
+|class="ModifierStat DPS Hero"|299
+|class="ModifierStat DPH Hero"|538.2
+|class="ModifierStat HP Hero"|2,346
+|class="ModifierStat HPRecovery"|247
+|class="GoldPass bCost"|18,000,000
+|class="GoldPass bTime"|7d
+|class="change-highlight"|10
+|-
+|67
+|class="ModifierStat DPS Hero"|302
+|class="ModifierStat DPH Hero"|543.6
+|class="ModifierStat HP Hero"|2,363
+|class="ModifierStat HPRecovery"|247
+|class="GoldPass bCost"|18,500,000
+|class="GoldPass bTime"|7d
+|10
+|-
+|68
+|class="ModifierStat DPS Hero"|304
+|class="ModifierStat DPH Hero"|547.2
+|class="ModifierStat HP Hero"|2,380
+|class="ModifierStat HPRecovery"|247
+|class="GoldPass bCost"|19,000,000
+|class="GoldPass bTime"|7d
+|10
+|-
+|69
+|class="ModifierStat DPS Hero"|307
+|class="ModifierStat DPH Hero"|552.6
+|class="ModifierStat HP Hero"|2,397
+|class="ModifierStat HPRecovery"|247
+|class="GoldPass bCost"|19,500,000
+|class="GoldPass bTime"|7d
+|10
+|-
+|70
+|class="ModifierStat DPS Hero"|309
+|class="ModifierStat DPH Hero"|556.2
+|class="ModifierStat HP Hero"|2,414
+|class="ModifierStat HPRecovery change-highlight"|256
+|class="GoldPass bCost"|20,000,000
+|class="GoldPass bTime"|7d 12h
+|10
+|-
+|71
+|class="ModifierStat DPS Hero"|312
+|class="ModifierStat DPH Hero"|561.6
+|class="ModifierStat HP Hero"|2,431
+|class="ModifierStat HPRecovery"|256
+|class="GoldPass bCost"|20,500,000
+|class="GoldPass bTime"|8d
+|class="change-highlight"|11
+|-
+|72
+|class="ModifierStat DPS Hero"|315
+|class="ModifierStat DPH Hero"|567
+|class="ModifierStat HP Hero"|2,448
+|class="ModifierStat HPRecovery"|256
+|class="GoldPass bCost"|21,000,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|73
+|class="ModifierStat DPS Hero"|318
+|class="ModifierStat DPH Hero"|572.4
+|class="ModifierStat HP Hero"|2,465
+|class="ModifierStat HPRecovery"|256
+|class="GoldPass bCost"|21,500,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|74
+|class="ModifierStat DPS Hero"|321
+|class="ModifierStat DPH Hero"|577.8
+|class="ModifierStat HP Hero"|2,482
+|class="ModifierStat HPRecovery"|256
+|class="GoldPass bCost"|22,000,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|75
+|class="ModifierStat DPS Hero"|324
+|class="ModifierStat DPH Hero"|583.2
+|class="ModifierStat HP Hero"|2,499
+|class="ModifierStat HPRecovery change-highlight"|265
+|class="GoldPass bCost"|22,500,000
+|class="GoldPass bTime"|8d
+|11
+|-
+|76
+|class="ModifierStat DPS Hero"|327
+|class="ModifierStat DPH Hero"|588.6
+|class="ModifierStat HP Hero"|2,516
+|class="ModifierStat HPRecovery"|265
+|class="GoldPass bCost"|23,500,000
+|class="GoldPass bTime"|8d
+|class="change-highlight"|12
+|-
+|77
+|class="ModifierStat DPS Hero"|330
+|class="ModifierStat DPH Hero"|594
+|class="ModifierStat HP Hero"|2,533
+|class="ModifierStat HPRecovery"|265
+|class="GoldPass bCost"|24,500,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|78
+|class="ModifierStat DPS Hero"|333
+|class="ModifierStat DPH Hero"|599.4
+|class="ModifierStat HP Hero"|2,550
+|class="ModifierStat HPRecovery"|265
+|class="GoldPass bCost"|25,500,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|79
+|class="ModifierStat DPS Hero"|336
+|class="ModifierStat DPH Hero"|604.8
+|class="ModifierStat HP Hero"|2,567
+|class="ModifierStat HPRecovery"|265
+|class="GoldPass bCost"|26,500,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|80
+|class="ModifierStat DPS Hero"|339
+|class="ModifierStat DPH Hero"|610.2
+|class="ModifierStat HP Hero"|2,584
+|class="ModifierStat HPRecovery change-highlight"|275
+|class="GoldPass bCost"|27,500,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|81
+|class="ModifierStat DPS Hero"|342
+|class="ModifierStat DPH Hero"|615.6
+|class="ModifierStat HP Hero"|2,601
+|class="ModifierStat HPRecovery"|275
+|class="GoldPass bCost"|28,500,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|82
+|class="ModifierStat DPS Hero"|345
+|class="ModifierStat DPH Hero"|621
+|class="ModifierStat HP Hero"|2,618
+|class="ModifierStat HPRecovery"|275
+|class="GoldPass bCost"|29,000,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|83
+|class="ModifierStat DPS Hero"|348
+|class="ModifierStat DPH Hero"|626.4
+|class="ModifierStat HP Hero"|2,635
+|class="ModifierStat HPRecovery"|275
+|class="GoldPass bCost"|29,500,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|84
+|class="ModifierStat DPS Hero"|351
+|class="ModifierStat DPH Hero"|631.8
+|class="ModifierStat HP Hero"|2,652
+|class="ModifierStat HPRecovery"|275
+|class="GoldPass bCost"|30,000,000
+|class="GoldPass bTime"|8d
+|12
+|-
+|85
+|class="ModifierStat DPS Hero"|354
+|class="ModifierStat DPH Hero"|637.2
+|class="ModifierStat HP Hero"|2,669
+|class="ModifierStat HPRecovery change-highlight"|285
+|class="GoldPass bCost"|30,500,000
+|class="GoldPass bTime"|8d
+|12
+|}
+</div>
+</center>
+
+==Hero Equipment==
+*When attacking, the Grand Warden can use two of the below pieces of Hero Equipment, which change the abilities he has and grants additional stat bonuses.
+*The Grand Warden does not use any Hero Equipment when defending.
+*Select the equipment below to learn more about the abilities and stat bonuses that each piece gives.
+<div class="flexbox-display bold-text hovernav">
+<div style="width:150px">[[File:Eternal Tome.png|100px|link=Eternal Tome]]<div>[[Eternal Tome]]</div></div>
+<div style="width:150px">[[File:Life Gem.png|100px|link=Life Gem]]<div>[[Life Gem]]</div></div>
+<div style="width:150px">[[File:Rage Gem.png|100px|link=Rage Gem]]<div>[[Rage Gem]]</div></div>
+<div style="width:150px">[[File:Healing Tome.png|100px|link=Healing Tome]]<div>[[Healing Tome]]</div></div>
+<div style="width:150px">[[File:Fireball_Equipment.png|100px|link=Fireball]]<div>[[Fireball]]</div></div>
+<div style="width:150px">[[File:Lavaloon Puppet.png|100px|link=Lavaloon Puppet]]<div>[[Lavaloon Puppet]]</div></div>
+<div style="width:150px">[[File:Heroic Torch.png|100px|link=Heroic Torch]]<div>[[Heroic Torch]]</div></div>
+</div>
+
+==History==
+{|class="wikitable mw-collapsible" style="width:100%;"
+!Date!!Type!!Description
+|-
+!January 24, 2013
+!Concept
+|The Grand Warden was suggested by [https://web.archive.org/web/20210718031944/https://forum.supercell.com/showthread.php/13506-New-Heroes AbdulRauf on the forums].
+|-
+!October 25, 2015
+!Grand Reveal
+|
+*The Grand Warden was initially revealed as the new hero for Town Hall 11 at Clash-Con 2015. However, only a silhouette of him was shown.
+*In the sneak peeks showcasing him, his hitpoints at level 20 was 2,000; however it was changed to 1,500 in its release.
+*His beta aura color was orange, but was later changed to yellow when released.
+|-
+!December 10, 2015
+!Town Hall 11 Update
+|Added the Grand Warden, with 20 levels.
+|-
+!December 16, 2015
+!Maintenance Break
+|Fixed a bug that did not correctly save the Grand Warden's Ground or Air Mode.
+|-
+!December 19, 2015
+!Optional Update
+|Fixed a player profile bug where the Level 1 Grand Warden could be incorrectly shown as unlocked.
+|-
+!March 21, 2016
+!Update
+|Slightly reduced the Grand Warden's Life Aura and Eternal Tome range.
+|-
+!December 19, 2016
+!Update
+|Changed the Grand Warden's info image.
+|-
+!June 11, 2018
+!Town Hall 12 Update
+|Added levels 21 to 30 Grand Warden.
+|-
+!June 26, 2018
+!Balance Changes
+|Reduced Grand Warden's regeneration times at all levels. {{Res|Time}}
+|-
+!June 18, 2019
+!Update
+|
+*Added levels 31 to 40 Grand Warden.
+*Reduced regeneration time at all levels. {{Res|Time}}
+*Fixed the Grand Warden's AI for ground mode to no longer jumps into empty compartments for no reason.
+*Converted the Grand Warden from 2D to 3D.
+|-
+!October 16, 2019
+!Update
+|Improved the Grand Warden's AI to prevent him from easily abandoning a supported group.
+|-
+!December 9, 2019
+!Town Hall 13 Update
+|
+*Added levels 41 to 50 Grand Warden.
+*Added the KO option for Heroes.
+*The Grand Warden's laser starts closer to the staff than stomach.
+*Made it less likely for the Grand Warden to follow Lava Hounds.
+*Forced him to retarget if he is attacking a wall and his group has died.
+|-
+!December 19, 2019
+!Update
+|Fixed the Grand Warden's celebration animation clipping after changing mode.
+|-
+!March 30, 2020
+!Update
+|
+*New Hero Skin selection screen that is much easier to select which skin you want to apply to your Hero.
+*All Heroes will display in their selected skin under the Player Profile tab.
+*When acquiring a new skin, the UI to select the skin will automatically open.
+*Some selected skins will be able to be purchased outside of the Gold Pass.
+|-
+!May 20, 2020
+!Update
+|Made it less likely for the Grand Warden to follow Dragons and P.E.K.K.As.
+|-
+!June 22, 2020
+!Update
+|Improved the Grand Warden's AI to follow the group more effectively and be less prone to drifting away while in Air Mode, and added the sound effect when toggling Grand Warden to air or ground mode.
+|-
+!October 12, 2020
+!Update
+|
+*All Heroes now automatically heal after a raid.
+*Removed guard toggle.
+|-
+!October 26, 2020
+!Update
+|Fixed skin names not changing when changing Hero with the arrows (in the "Change Skin" menus).
+|-
+!December 7, 2020
+!Update
+|
+*A new Cosmetics tab has been added to the in-game shop which can be browsed and purchase any permanently available cosmetics such as Hero Skins when they become available for Gems.
+*A "View Skin" option has been added when visiting.
+*Skin animations are more elaborate when viewed in the wardrobe and simpler animations in other UI elements.
+*Fixed an issue with hitpoints rounding after the Grand Warden's aura ends. This issue would cause Heroes to lose their auto ability if they were left with 1 HP when the Warden's aura ended as it would round the HP down to 0.
+*Increased the brightness of the Grand Warden's Eternal Tome ability to make it more visible.
+|-
+!January 20, 2021
+!Update
+|Adjusted the Grand Warden's priority when following Battle Blimps and Log Launchers to reduce the chance of him following them in a deadly run towards the Town Hall.
+|-
+!April 12, 2021
+!Town Hall 14 Update
+|
+*Added levels 51 to 55 Grand Warden.
+*Boosts on Grand Warden or Buildings are no longer cancelled when an upgrade is started and will continue to run in the background.
+*Stopped the Grand Warden from attacking a Wall if nobody else in his group is attacking a Wall.
+*Prevented the Grand Warden from dying while activating his ability if he is damaged at the exact same moment.
+|-
+!April 29, 2021
+!Update
+|Made it less likely for the Grand Warden to follow Pets.
+|-
+!June 15, 2021
+!Update
+|Fixed the Grand Warden and other Heroes occasionally doing 360 turns during attacks.
+|-
+!December 9, 2021
+!Update
+|
+*Reduced upgrade costs at levels 1 to 40. {{Res|Elixir}}
+*Reduced upgrade times at levels 2 to 15. {{Res|Time}}
+|-
+!October 10, 2022
+!Town Hall 15 Update
+|Added levels 56 to 60 Grand Warden.
+|-
+!May 15, 2023
+!Update
+|Made the Grand Warden recalculate his group when being redeployed by a Recall Spell.
+|-
+!June 12, 2023
+!Update
+|Added levels 61 to 65 Grand Warden.
+|-
+!September 14, 2023
+!Maintenance Break
+|Made it less likely for the Grand Warden to follow [[Super Hog Rider/Super Rider|Super Rider]]
+|-
+!December 12, 2023
+!Town Hall 16 Update
+|
+*Added levels 66 to 70 Grand Warden.
+*Removed the Life Aura from the defensive Grand Warden.
+*Added health recovery for the Grand Warden.
+*Reduced upgrade costs at levels 2 to 64. {{Res|Elixir}}
+*Reduced upgrade times at levels 8 to 55. {{Res|Time}}
+**Levels 2 to 7 and 56 to 65 received cost reductions.
+*Added Hero Equipment for the Grand Warden, separating his abilities into the [[Life Gem]] and the [[Eternal Tome]]. The level of Life Gem and Eternal Tome given to players varied depending on the Grand Warden level they had at the time of the update.
+*Reduced damage per second and hitpoints at all levels because of Hero Boost from Equipment. {{Res|Damage}}{{Res|Hitpoint}}
+|-
+!November 25, 2024
+!Town Hall 17 Update
+|
+*Added levels 71 to 75 Grand Warden.
+*The Grand Warden is no longer unlocked by placing down his Altar, but is instead by upgrading the Hero Hall to level 5, or placing it down when it is at least level 5. His Altar is replaced by the Hero Banner obstacle.
+*The nature of how he defends also changes from being a building to being a defensive Hero. This changes some of his interactions against units that only target defense, such as the Royal Champion, who can no longer target him unless all other defenses are gone. However, she might start attacking him if he is targeting nearby friendly units within her range or if she herself is being targeted by him. Headhunters are now able to target him.
+*Changed his info description, which used to be "The Grand Warden is a powerful master of magic who supports your attacking troops with blasts from his magic staff. He can walk over walls or fly high with air troops, so he can help any attacking army. On defense he turns into a powerful tower."
+|-
+!March 27, 2025
+!Clash Anytime Update
+|Removed Regeneration Time. {{Res|Time}}
+|-
+!October 6, 2025
+!Update
+|
+*Reduced Hero Hall level requirement for levels 56 to 60 from level 9 to level 8. {{Res|Level}}
+*Made it less likely for the Grand Warden to follow Booger.
+*Reduced upgrade times at levels 10 and 26 to 70:
+**Level 10: 1d -> 20h {{Res|Time}}
+**Level 26-30: 2d -> 1d 12h {{Res|Time}}
+**Level 31-35: 2d 12h -> 2d {{Res|Time}}
+**Level 36-40: 3d -> 2d 6h {{Res|Time}}
+**Level 41-45: 4d -> 3d {{Res|Time}}
+**Level 46-50: 5d -> 4d {{Res|Time}}
+**Level 51-55: 6d -> 4d 12h {{Res|Time}}
+**Level 56-60: 7d -> 5d {{Res|Time}}
+**Level 61-65: 8d -> 6d {{Res|Time}}
+**Level 66-69: 8d -> 7d {{Res|Time}}
+**Level 70: 8d -> 7d 12h {{Res|Time}}
+|-
+!November 17, 2025
+!Town Hall 18 Update
+|Added levels 76 to 80 Grand Warden.
+|-
+!January 28, 2026
+!Maintenance Break
+|Made it less likely for the Grand Warden to follow [[Giant Giant]].
+|-
+!June 15, 2026
+!Hero Journey Update
+|Added levels 81 to 85 Grand Warden.
+*Reduced upgrade costs at levels 76 to 80. {{Res|Elixir}}
+|}
+
+==Hero Skins==
+===Skin Availability===
+{{Skin Availability|Grand Warden}}
+
+===Grand Warden Skins===
+{{Wardrobe-GW|Archer_Queen#Archer_Queen_Skins|Royal_Champion#Royal_Champion_Skins}}
+<div style="display:none;">''Alternatively, see [[Grand Warden/Skins]] for a gallery.''</div>
+
+===Grand Warden Skin Features===
+{{:Grand Warden/Skin Features}}
+
+===Notes===
+*A few of the Grand Warden's skins feature him holding different objects instead of a staff and book:
+**The Party Warden holds a large microphone and a jukebox.
+**The Primal Warden holds a skeleton hand and a stone tablet.
+**The Clockwork Warden holds an electric device with a tesla at the end, similar to a [[Hidden Tesla]].
+**The Gladiator Warden holds a staff with a lightning bolt symbol on top.
+**The Pirate Warden wields a large musket and has a parrot on his shoulder.
+**The Jungle Warden holds a staff with a skull on it and a [[Goblin]]-shaped doll in the other (possibly a [[wikipedia:Voodoo doll|voodoo doll]]). 
+**The Warden Master holds a branch or staff made from bamboo and a scroll.
+**The Jolly Warden holds a staff with mistletoe on top and a Christmas present.
+**The Warrior Warden holds a dragon staff which he also levitates on. In his other hand, he carries a wooden chest.
+**The Shadow Warden holds a staff that has a snake-like mouth with a floating eye inside of it. In his other hand, he carries a magic flying book.
+**The Summer Warden holds a horn and a life preserver.
+**The Champion Warden holds a glowing staff and a levitating purple ball.
+**The Magic Warden uses a bolt of electricity from his hand to attack and carries no staff.
+**The Painter Warden holds a hose filled with an [[Resource Buildings#Elixir|Elixir]]-like fluid in a tank attached to his back.
+**The Dark Ages Warden holds a flail-like weapon with a yellow glowing crystal and a scroll with rune-like symbols on it.
+**The Goblin Warden carries a slingshot and is equipped with bombs.
+**The Future Warden holds a staff made with levitating parts. A robot with a large eye follows him around.
+**The Ghost Warden uses a floating skeletal staff.
+**The Dragon Warden carries a shell with a pearl in it.
+**The Space Warden holds a flag and a floating, glowing ball.
+**The Egypt Warden holds a snake scepter and a golden [[wikipedia:Ankh|ankh]].
+**The Football Warden has several footballs that float around him.
+**The Wild West Warden holds a cane with his right hand, and a floating goat or cow's skull with rubies where the eye sockets are in the other.
+**The Clash Games Warden holds a large glowing torch (based on the [[wikipedia:Olympic flame|Olympic torch]]).
+**The Grand Dwarf skin holds a staff with a glowing blue flame and features a white {{H|Baby Dragon}} as a companion.
+**The Snake Warden holds a wooden staff and has a snake as his companion.
+**The Grand Judge holds a staff with an Elixir-colored crystal and has a flying ball-shaped owl as a companion.
+**The Jetpack Warden uses a rocket launcher and he is equipped with a jetpack.
+**The Darkness Warden holds a scythe with bone handle and golden urn.
+**The Grand Godfather holds a book and use handgun when attacks.
+**The Grand Doctor has a robotic body and only have mechanical arms. When attacks, he shoot blue beam from his body monitor.
+
+*Some unique features in the skin:
+**The Gladiator Warden skin looks to be based off of the Roman king of the gods and god of lightning, [[wikipedia:Jupiter (god)|Jupiter]].
+**The Pirate Warden skin is based of off the [[wikipedia:Barbary pirates|Barbary pirates]] according to a [https://forum.supercell.com/showthread.php/1927464-Halloween-Skin-%21?p=12683449&viewfull=1#post12683449 post] by Darian, the [[Supercell]] community manager.
+**If the Grand Warden is defeated while wearing the Pirate skin, there will be parrots spinning on his head instead of stars like other Heroes.
+**The Jungle Warden skin was added after the Epic Jungle Scenery was added that featured a Jungle Warden statue.
+**The Clash Games Warden skin reuses some of the Egypt Warden skin's sounds.
+**The Grand Warden is the last Hero to have a Winter-themed skin which is the Warden of the North skin.
+**The Warden of the North skin is the only Hero skin which its Hero name (Warden) is on the front but not on the back (like "Ice Queen").
+**Although the Party Warden appears in the 9th Clashiverary loading screen, he does not seem to appear in the 9th Clashiversary Scenery.
+**The Grand Warden's Jungle Warden skin appears to not have any hair, or even a face, whatsoever when viewed from behind.
+***His mask resembles the one used by the [[w:c:clashroyale:Dart Goblin|Dart Goblin]] in ''[[wikipedia:Clash Royale|Clash Royale]]''.
+<div class="toggle">
+{|class="active" style="text-align:center; margin:auto; width: 450px;"
+|colspan="2"|'''Ground Mode'''
+|-valign="bottom"
+|[[File:Grand Warden1.png|120px|link=]]
+|[[File:Grand Warden10.png|120px|link=]]
+|-
+|style="width: 33.3%;"|'''Level 1-9 (Old Sprite)'''
+|style="width: 33.3%;"|'''Level 10-30 (Old Sprite)'''
+|}
+{|class="hidden" style="text-align:center; margin:auto; width: 450px;"
+|colspan="2"|'''Air Mode'''
+|-valign="bottom"
+|[[File:Grand Warden1 Air.png|120px|link=]]
+|[[File:Grand Warden10 Air.png|120px|link=]]
+|-
+|style="width: 33.3%;"|'''Level 1-9 (Old Sprite)'''
+|style="width: 33.3%;"|'''Level 10-30 (Old Sprite)'''
+|}</div>
+
+==Trivia==
+===General===
+*Before he had a 3D skin, his book resembled a [[Magic Items|Book of Everything]].
+*The tip of Clockwork Warden's staff looks similar to a level 7 Laboratory and level 7 Hidden Tesla from the top.
+*Before Hero Skins were added, the Grand Warden had a different appearance as well as an upgrade difference. He had less facial hair, antlers and a different book cover.
+**Initially, he had purple facial hair. He wore white and purple robes along with a short cape. His eyes were of different color; one was white with a little pupil and the other was a normal one with a blue iris. There was a gold trim on his collar at the neck, and he wore a white crown-like decoration on his head. He also held a thick book and a long wooden staff with a magical crystal held on top.
+**At level 10, his white antler crown became golden.
+**Before the Grand Warden was converted into a 3D model, the Grand Warden's book and staff switched arms when he changed direction. When the Grand Warden fell in battle, he dropped his staff but held on to his book.
+*The Grand Warden of the versions before the update of June 2019 bore a great resemblance to the late television host, [[wikipedia:Li Yong (television host)|Li Yong]].
+**Because of this, he is commonly called "(Li) Yong King" among Chinese players.
+**In January 2016, shortly after the Town Hall 11 update, a show "Clash of Clans Players' Ceremony" was held in Beijing, China, with Li Yong as the main host due to this resemblance.[[File:Screenshot 20220329-131605~2.png|thumb|His book after the update]]
+*After the update on June 2019, his book cover has a gem instead of the Book of Everything cover.
+*[[File:Screenshot 20220329-131605.png|thumb|A more rendered view of the Warden]]
+*Despite the March 27, 2025 maintenance break that removed training times in the Home Village, the "regeneration time" statistic is still visible in Hero info screens, although it does not have an effect on gameplay.
+**The regeneration time starts at 20 minutes and increases by 2 minutes at every 5th level up to level 65, and by 1 minute at levels 70 and 75, to reach a maximum of 48 minutes.
+
+===Comparisons===
+*He is the only [[Army|unit]] in the game that can be changed to an air or ground unit.
+*Prior the Town Hall 16 update, the Grand Warden was the only Hero whose ability did not recover any hitpoints. Additionally, he was the only one to not automatically use his ability if he still had it when the battle ended.
+**He was also the only Hero who still had his ability, namely his Life Aura, on defense.
+*Prior to the Town Hall 17 update, he was the only unit in the entire game that can behave as both a troop (attacking) and a building (defending). Thus, the following interactions occurred on defense:
+**It was only possible to destroy his [[Grand Warden Altar|Altar]] with a single {{H|Lightning Spell}} only if he was not guarding (and thus his Altar will be empty.)
+**Consequently, he was the only Hero to be damaged by [[Earthquake Spell]]s and not by [[Poison Spell]]s when defending.
+**He was the only hero that could not be targeted by attacking Headhunters and defensive healing units from the Clan Castle since he was considered as a building.
+**He was the only Hero to not display his [[Hero Skins|Hero Skin]] whenever he was defending.
+**He was only Hero that could be repaired mid-battle, provided that at least one weaponized Builder's Hut's healing range reached the Grand Warden Altar.
+*The Grand Warden is one of the few units that can be healed by a [[Healer]] while attacking an {{H|Air Defense}} without the Air Defense being able to attack the Healer. The others units capable of doing this are the Archer Queen and the [[Super Archer]].
+*The Grand Warden is one of the five troops partly associated with [[Wizard]]s, including the {{H|Super Wizard}}, [[Ice Wizard]], [[Party Wizard]], and [[Electrofire Wizard]].
+*The Grand Warden is one of the 13 units to appear in a Scenery, the others being the [[Barbarian]], [[Goblin]], [[Balloon]], [[Hog Rider]], [[Barbarian King]], [[P.E.K.K.A]], [[Baby Dragon]], [[Skeleton]], [[Archer Queen]], [[Dragon Rider]], [[Cannon Cart]], and [[Party Wizard]]. In his case, he appears in the Pirate Scenery (as Clockwork Warden), and the Epic Jungle Scenery (as the Jungle Warden).
+*He is the only Hero that appears to be based on more than one unit, particularly the Healer and the Wizard, because of his use of magic and ability to heal friendly units.
+*The Grand Warden is one of the seven ground units that can bypass {{H|Walls}}, the other ones being the [[Miner]], [[Royal Champion]], [[Headhunter]], [[Hog Rider]], [[Super Hog Rider]], and [[Apprentice Warden]]. The Grand Warden may still attack them directly (some air units, such as the [[Balloon]], [[Dragon]], and the {{H|Baby Dragon}} are able to damage Walls indirectly through splash damage when attacking another target).
+*He is the second [[Heroes|Hero]] to be added in ''Clash Royale'', the first one being the [[Archer Queen]].
+
+==References==
+<references/>
+
+{{TroopsMenuHV}}
+
+[[ru:Хранитель]]
+[[de:Großer Wächter]]
+[[Category:Troops]]
+[[Category:Air Troops]]
+[[Category:Elixir Troops]]
+[[Category:Heroes]]
+[[Category:Special Abilities]]
+[[Category:Home Village]]
+[[Category:Ground Troops]]

@@ -1,0 +1,30 @@
+{
+  "name": "cocplanner",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CoCPlanner: free Clash of Clans upgrade cost and time calculators (coccalc.top)",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "audit": "node scripts/audit-seo.mjs && node scripts/audit-links.mjs",
+    "audit:full": "npm run build && npm run test && npm run audit"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.2.1",
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/lilita-one": "^5.1.0",
+    "astro": "^5.1.1"
+  },
+  "devDependencies": {
+    "happy-dom": "^15.11.7",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

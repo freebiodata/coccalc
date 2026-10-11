@@ -1,0 +1,134 @@
+{
+ "id": "gold-mine",
+ "name": "Gold Mine",
+ "category": "resource",
+ "resource": "elixir",
+ "resourceFromHeader": true,
+ "levels": [
+  {
+   "level": 1,
+   "cost": 150,
+   "time": "5s",
+   "th": 1
+  },
+  {
+   "level": 2,
+   "cost": 300,
+   "time": "15s",
+   "th": 1
+  },
+  {
+   "level": 3,
+   "cost": 700,
+   "time": "1m",
+   "th": 2
+  },
+  {
+   "level": 4,
+   "cost": 1400,
+   "time": "2m",
+   "th": 2
+  },
+  {
+   "level": 5,
+   "cost": 3000,
+   "time": "5m",
+   "th": 3
+  },
+  {
+   "level": 6,
+   "cost": 7000,
+   "time": "15m",
+   "th": 3
+  },
+  {
+   "level": 7,
+   "cost": 14000,
+   "time": "30m",
+   "th": 4
+  },
+  {
+   "level": 8,
+   "cost": 28000,
+   "time": "1h",
+   "th": 4
+  },
+  {
+   "level": 9,
+   "cost": 56000,
+   "time": "1h 30m",
+   "th": 5
+  },
+  {
+   "level": 10,
+   "cost": 75000,
+   "time": "2h",
+   "th": 5
+  },
+  {
+   "level": 11,
+   "cost": 85000,
+   "time": "3h",
+   "th": 7
+  },
+  {
+   "level": 12,
+   "cost": 170000,
+   "time": "4h",
+   "th": 8
+  },
+  {
+   "level": 13,
+   "cost": 400000,
+   "time": "5h",
+   "th": 10
+  },
+  {
+   "level": 14,
+   "cost": 800000,
+   "time": "6h",
+   "th": 11
+  },
+  {
+   "level": 15,
+   "cost": 1200000,
+   "time": "10h",
+   "th": 12
+  },
+  {
+   "level": 16,
+   "cost": 2000000,
+   "time": "1d",
+   "th": 14
+  },
+  {
+   "level": 17,
+   "cost": 8000000,
+   "time": "2d",
+   "th": 16
+  }
+ ],
+ "countsByTH": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  6,
+  6,
+  7,
+  7,
+  7,
+  7,
+  7,
+  7,
+  7,
+  7,
+  7,
+  7
+ ],
+ "source": "https://clashofclans.fandom.com/wiki/Gold_Mine/Home_Village",
+ "lastEdited": "2026-07-16T09:08:14Z",
+ "ok": true
+}

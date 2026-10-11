@@ -1,0 +1,12 @@
+{
+ "id": "phoenix",
+ "name": "Phoenix",
+ "category": "pet",
+ "resource": "dark",
+ "resourceFromHeader": false,
+ "levels": null,
+ "countsByTH": null,
+ "source": "https://clashofclans.fandom.com/wiki/Phoenix",
+ "lastEdited": "2026-08-25T11:37:43Z",
+ "ok": false
+}

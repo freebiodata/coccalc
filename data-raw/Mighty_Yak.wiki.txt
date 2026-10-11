@@ -1,0 +1,254 @@
+__NOEDITSECTION__
+{{Protection}}
+
+[[File:Mighty_Yak_info.png|center|250px|link=]]
+<center>'''''"Built like a [[Siege Machines|Siege Machine]], the Mighty Yak has a knack for knocking down [[Walls/Home Village|Walls]] it comes in contact with. It also flies into a rage if you knock out its companion."'''''</center>
+----
+<div class="flexbox-display bold-text">
+<div>[[File:Mighty Yak field.png|100px|link=]]<div>Level 1-15</div></div>
+</div>
+
+==Summary==
+*The Mighty Yak is the third [[Pets|Pet]] unlocked from the level 3 [[Pet House]]. It has very high health, and does extra damage (x20) to {{H|Walls}}, similar to the [[Wall Wrecker]].
+*Every time the Mighty Yak moves, once it is in contact with other [[buildings]] and it will ram into it and deal a first strike once it stops, then the second attack happens after 1.6 seconds then return to its normal attack rate of 2.1 seconds.
+*{{PreferredTarget|HeroRadius|Plural=Yes|Target Radius=7}}
+*When the Hero it is assigned to is knocked out, the Mighty Yak will temporarily be raged, doing extra damage and moving faster for 8 seconds. It does not enrage if its Hero is still available to fight but is removed from battle by a Recall Spell.
+**If the Hero was knocked out but later revived by a [[Revive Spell]], the Mighty Yak will not enrage if the Hero gets knocked out again.
+
+==Strategies==
+===Offensive Strategies===
+*The Mighty Yak pairs well with the [[Archer Queen]]. Because of its high hitpoints, the Mighty Yak is able to soak up hits for not only the Archer Queen, but also the [[Archer]]s spawned by the [[Archer Puppet]] ability. It will break apart {{H|Walls}} to make Queen Charges much easier to pull off.
+*The Mighty Yak also pairs well with the [[Barbarian King]]. This is because the Barbarian King is the only melee Hero in the game and needs Walls to be broken to enter the base, and the Yak can help break such Walls. Funneling the King is still recommended, however, as the Yak will generally not attack Walls unless both it and the King need to.
+*He can also be used in Hero Sui attacks, where not only the Mighty Yak will be raged and destroy its surroundings quickly, it being extremely tanky can help set up the later attack, with it being the main tank with maybe a [[Royal Champion]] or other tanks.
+
+===Defensive Strategies===
+*Place traps along your base that is the weakest to help take out the Mighty Yak. Generally, a Tornado Trap would do.
+*Due to its high hitpoints as compared to other pets, the Yak is generally difficult to stop, especially when paired with the Barbarian King (who can tank for it). High-damage defenses such as single-target [[Inferno Tower]]s, [[Ricochet Cannon]]s, and [[Monolith]]s work very well should the Yak move in front of the Hero and be vulnerable to attack.
+*Alternatively, one could try to limit the Yak's capability of opening compartments, by designing a base with many compartments to minimize the damage possible should a compartment be opened. Having "island" compartments (where a single building is isolated from other buildings in its own compartment) can also be viable against the Yak when it is paired with the Barbarian King or Archer Queen, since without funneling or opening the compartment directly with [[Wall Breaker]]s or otherwise, the Hero will likely move to the sides, taking their Yak along with him or her.
+==Statistics==
+<center><div class="stats-background">
+{{Modifiers|type=Pet|NAbility=true}}
+{|class="wikitable troop-statistics-table" border="0"cellpadding="1"cellspacing="1"id="minion-table-1"style="text-align:center;width:100%;"
+!Preferred Target {{Res|Target}}
+!Targets {{Res|Target}}
+!Attack Type {{Res|Damage Type}}
+!Attack Range {{Res|Range}}
+![[Troop Movement Speed|Movement Speed]] {{Res|Speed}}
+!Attack Speed {{Res|Attack Speed}}
+!Special Ability{{Res|Pet Ability}}
+!Rage Duration {{Res|Pet Ability}}
+!Rage Speed Increase {{Res|Pet Ability}}
+!Rage Damage Increase {{Res|Pet Ability}}
+![[Pet House]] Level Required {{Res|Pet House}}
+|-
+|Within 7 tiles of Hero
+|Ground
+|Single Target
+|1.2 tiles
+|class="ModifierStat Speed"|20
+|class="AttackSpeed"|Varies*
+|Wall Buster
+|8s
+|class="AbilitySpeed"|16
+|class="AbilityDI"|70%
+|3
+|}
+<nowiki>*</nowiki> When the Mighty Yak attacks a target, the initial attack speed is 0.5 seconds upon its first attack, when attacking a second time this increases to 1.6s, and every subsequent attack after that, its attack speed will be 2.1s, which is its default attack speed.
+{|class="wikitable troop-statistics-table floatheader row-highlight"border="0"cellpadding="1"cellspacing="1"id="minion-table-2"style="text-align:center;width:100%;"
+!Level<br/>{{Res|Level}}
+!Damage per Second<br/>{{Res|Damage}}
+!Damage per Hit<br/>{{Res|Damage}}
+!Damage vs. Walls<br/>{{Res|Damage}}
+!Hitpoints<br/>{{Res|Hitpoint}}
+![[Resources#Dark Elixir|Upgrade Cost]]<br/>{{Res|Dark Elixir}}
+!Upgrade Time<br/>{{Res|Time}}
+!Pet House Level Required<br/>{{Res|Pet House}}
+|-
+|1
+|class="ModifierStat DPS"|60
+|class="ModifierStat DPH"|126
+|class="ModifierStat DPH Secondary"|2,520
+|class="ModifierStat HP"|3,750
+|N/A
+|N/A
+|3
+|-
+|2
+|class="ModifierStat DPS"|64
+|class="ModifierStat DPH"|134.4
+|class="ModifierStat DPH Secondary"|2,688
+|class="ModifierStat HP"|4,000
+|class="GoldPass rCost"|40,000
+|class="GoldPass rTime"|1d
+|3
+|-
+|3
+|class="ModifierStat DPS"|68
+|class="ModifierStat DPH"|142.8
+|class="ModifierStat DPH Secondary"|2,856
+|class="ModifierStat HP"|4,250
+|class="GoldPass rCost"|50,000
+|class="GoldPass rTime"|1d 12h
+|3
+|-
+|4
+|class="ModifierStat DPS"|72
+|class="ModifierStat DPH"|151.2
+|class="ModifierStat DPH Secondary"|3,024
+|class="ModifierStat HP"|4,500
+|class="GoldPass rCost"|60,000
+|class="GoldPass rTime"|2d
+|3
+|-
+|5
+|class="ModifierStat DPS"|76
+|class="ModifierStat DPH"|159.6
+|class="ModifierStat DPH Secondary"|3,192
+|class="ModifierStat HP"|4,750
+|class="GoldPass rCost"|70,000
+|class="GoldPass rTime"|2d 12h
+|3
+|-
+|6
+|class="ModifierStat DPS"|80
+|class="ModifierStat DPH"|168
+|class="ModifierStat DPH Secondary"|3,360
+|class="ModifierStat HP"|4,950
+|class="GoldPass rCost"|80,000
+|class="GoldPass rTime"|3d
+|3
+|-
+|7
+|class="ModifierStat DPS"|84
+|class="ModifierStat DPH"|176.4
+|class="ModifierStat DPH Secondary"|3,528
+|class="ModifierStat HP"|5,100
+|class="GoldPass rCost"|90,000
+|class="GoldPass rTime"|3d 12h
+|3
+|-
+|8
+|class="ModifierStat DPS"|88
+|class="ModifierStat DPH"|184.8
+|class="ModifierStat DPH Secondary"|3,696
+|class="ModifierStat HP"|5,250
+|class="GoldPass rCost"|100,000
+|class="GoldPass rTime"|4d
+|3
+|-
+|9
+|class="ModifierStat DPS"|92
+|class="ModifierStat DPH"|193.2
+|class="ModifierStat DPH Secondary"|3,864
+|class="ModifierStat HP"|5,400
+|class="GoldPass rCost"|110,000
+|class="GoldPass rTime"|4d 12h
+|3
+|-
+|10
+|class="ModifierStat DPS"|96
+|class="ModifierStat DPH"|201.6
+|class="ModifierStat DPH Secondary"|4,032
+|class="ModifierStat HP"|5,550
+|class="GoldPass rCost"|120,000
+|class="GoldPass rTime"|5d
+|3
+|-
+|11
+|class="ModifierStat DPS"|100
+|class="ModifierStat DPH"|210
+|class="ModifierStat DPH Secondary"|4,200
+|class="ModifierStat HP"|5,700
+|class="GoldPass rCost"|130,000
+|class="GoldPass rTime"|5d 12h
+|7
+|-
+|12
+|class="ModifierStat DPS"|104
+|class="ModifierStat DPH"|218.4
+|class="ModifierStat DPH Secondary"|4,368
+|class="ModifierStat HP"|5,850
+|class="GoldPass rCost"|140,000
+|class="GoldPass rTime"|6d
+|7
+|-
+|13
+|class="ModifierStat DPS"|108
+|class="ModifierStat DPH"|226.8
+|class="ModifierStat DPH Secondary"|4,536
+|class="ModifierStat HP"|6,000
+|class="GoldPass rCost"|150,000
+|class="GoldPass rTime"|6d 12h
+|7
+|-
+|14
+|class="ModifierStat DPS"|112
+|class="ModifierStat DPH"|235.2
+|class="ModifierStat DPH Secondary"|4,704
+|class="ModifierStat HP"|6,150
+|class="GoldPass rCost"|160,000
+|class="GoldPass rTime"|7d
+|7
+|-
+|15
+|class="ModifierStat DPS"|116
+|class="ModifierStat DPH"|243.6
+|class="ModifierStat DPH Secondary"|4,872
+|class="ModifierStat HP"|6,300
+|class="GoldPass rCost"|170,000
+|class="GoldPass rTime"|7d 12h
+|7
+|}
+</div></center>
+
+==History==
+{|class="wikitable mw-collapsible"style="width:100%"
+!Date!!Type!!Description
+|-
+![https://www.youtube.com/watch?v=upPy_yN8KrE April 10, 2021]
+!Sneak Peek
+|Announced the Mighty Yak, with 10 levels. [[File:Mighty Yak field.png|56px|link=]]
+|-
+![[Version History#Version 14.0.1/14.0.2 - 12th April 2021|April 12, 2021]]
+!Town Hall 14 Update
+|Added the Mighty Yak.
+|-
+![[Version History#June 2021 Update - Version 14.93.2 - 15th June 2021|June 15, 2021]]
+!Update
+|
+*Force retarget for Mighty Yak if it is helping the [[Heroes|Hero]] to destroy a [[Walls|wall]] and the Hero is knocked out or targets something else.
+*Mighty Yak's level now shows boosted badge in battle end screen when Hero Potion is active.
+|-
+![https://clashofclans.fandom.com/wiki/Version_History/2021#September_2021_Update_-_Version_14.211.0_-_27th_September_2021 September 27, 2021]
+!Update
+|Mighty Yak now deals single target damage as opposed to area splash.
+|}
+
+==Gallery==
+<gallery>
+Avatar Mighty Yak.png|Mighty Yak's icon
+Mighty Yak info 2.png|Mighty Yak render
+File:Mighty Yak field.png|In-game sprite
+File:Pet-mighty-yak.jpg.webp|Mighty Yak and [[Archer Queen]] targeting a {{H|Cannon}}
+</gallery>
+
+==Trivia==
+*The Mighty Yak is the second Pet to based on a real life animal alongside the [[Electro Owl]], [[Frosty]], [[Diggy]], [[Poison Lizard]], [[Spirit Fox]], [[Angry Jelly]], and [[Sneezy]], and the first Pet to be based on a bovine and mammal.
+*In the description, it states that the Mighty Yak is built like a Siege Machine, which likely refers to a [[Wall Wrecker]] since they both deal extra damage to {{H|Walls}}. Indeed, it attacks similar to a Wall Wrecker, continuously slamming {{H|Defensive Buildings|defenses}} and walls with their heads.
+**The ram from a level 3-4 Wall Wrecker also feature ram horns, similar to what the Mighty Yak has.
+*The rage frenzy that triggers upon the Hero's defeat is identical to the rage effect used by the [[Super Barbarian]] or [[Raged Barbarian]].
+
+===Comparisons===
+*The Mighty Yak is the [[Pets|pet]] with the highest amount of hitpoints out of all the other pets.
+*The Mighty Yak is the only pet to be an ordinary animal unlike the others.
+*The Mighty Yak is the only pet that does not have a glowing aura.
+*The Mighty Yak, [[Dragon Rider]], [[Hog Glider]], and [[Battle Machine]] are the only units that do not appear in loading screens, excluding the [[Super Troops]] (with the exception of the [[Super Giant]] and [[Rocket Balloon]]).
+*The Mighty Yak is the only pet unable to bypass Walls, which is partly compensated by its ability to greatly damage them.
+
+{{TroopsMenuHV}}
+[[Category:Pets]]
+[[Category:Home Village]]
+[[de:Mächtiger Yak]]
+[[es:Yak]]
+[[Category:Troops]]
+[[Category:Ground Troops]]
