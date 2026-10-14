@@ -6,7 +6,8 @@
     "baseUrl": ".",
     "paths": {
       "@lib/*": ["src/lib/*"],
-      "@data/*": ["src/data/*"]
+      "@data/*": ["src/data/*"],
+      "@scripts/*": ["src/scripts/*"]
     }
   }
 }
